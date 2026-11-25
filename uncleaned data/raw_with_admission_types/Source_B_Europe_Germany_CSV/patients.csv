@@ -1,0 +1,1011 @@
+PatientNr,PatientName,date_of_birth,gender,life_status,health_insurance_number,telephone_number,address,emergency_contact_info,PflegeNr,ArztNr,date_of_death
+1,Dipl.-Ing. Marika Hiller,19.08.1976,M,Lebend,SYN-B-000001,TEST-B-00001,"1 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00001,31,11,k.A.
+2,Sami Patberg MBA.,06.11.1958,F,Lebend,SYN-B-000002,TEST-B-00002,"2 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00002,33,3,k.A.
+3,Wencke Ackermann B.A.,21.07.1997,M,Lebend,SYN-B-000003,TEST-B-00003,"3 Demo Road, Berlin, Germany",TEST-CONTACT-B-00003,26,44,k.A.
+4,Hans-Georg Roht,28.09.1962,M,Lebend,SYN-B-000004,TEST-B-00004,"4 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00004,13,43,k.A.
+5,Engin Textor,25.09.1961,M,Lebend,SYN-B-000005,TEST-B-00005,"5 Research Boulevard, Berlin, Germany",k.A.,27,48,k.A.
+6,Nelli Jopich-Otto,09.06.1976,F,Lebend,SYN-B-000006,TEST-B-00006,"6 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00006,20,22,k.A.
+7,Hendrik Hamann,27.05.1999,M,Lebend,SYN-B-000007,TEST-B-00007,"7 Test Street, Berlin, Germany",TEST-CONTACT-B-00007,18,11,k.A.
+8,Jurij Pruschke,07.02.1969,X,Lebend,SYN-B-000008,TEST-B-00008,"8 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00008,25,47,k.A.
+9,Berndt Zimmer,25.08.1952,F,Lebend,SYN-B-000009,TEST-B-00009,"9 Demo Road, Berlin, Germany",TEST-CONTACT-B-00009,24,33,k.A.
+10,Rose-Marie Kensy,19.10.1983,F,Lebend,SYN-B-000010,TEST-B-00010,"10 Example Avenue, Berlin, Germany",k.A.,18,7,k.A.
+11,Dr. Liesel Schwital,04.08.1939,F,Lebend,SYN-B-000011,TEST-B-00011,"11 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00011,8,29,k.A.
+12,Ing. Theodora Franke B.Eng.,25.03.1933,F,Lebend,SYN-B-000012,TEST-B-00012,"12 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00012,39,3,k.A.
+13,Hans-Werner Trommler-Löffler,08.03.1944,F,Lebend,SYN-B-000013,TEST-B-00013,"13 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00013,24,10,k.A.
+14,Konrad Hamann-Sölzer,30.05.1942,M,Verstorben,SYN-B-000014,TEST-B-00014,"14 Test Street, Berlin, Germany",TEST-CONTACT-B-00014,7,18,10.02.2026
+15,Hans Peter Hermann B.Eng.,24.06.1942,M,Verstorben,SYN-B-000015,TEST-B-00015,"15 Example Avenue, Berlin, Germany",k.A.,4,8,21.05.2026
+16,Frau Katy Seifert,05.08.1992,M,Verstorben,SYN-B-000016,TEST-B-00016,"16 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00016,39,11,10.05.2026
+17,Ing. Edgar Salz,22.09.2014,M,Lebend,SYN-B-000017,TEST-B-00017,"17 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00017,19,5,k.A.
+18,Meik Weinhage,21.09.2007,F,Lebend,SYN-B-000018,TEST-B-00018,"18 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00018,29,16,k.A.
+19,Dr. Edgar Drubin B.A.,18.11.1939,F,Lebend,SYN-B-000019,TEST-B-00019,"19 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00019,17,44,k.A.
+20,Siegried Döhn B.A.,22.10.1979,X,Lebend,SYN-B-000020,TEST-B-00020,"20 Research Boulevard, Berlin, Germany",k.A.,22,52,k.A.
+21,Prof. Christel Segebahn,27.12.1940,F,Lebend,SYN-B-000021,TEST-B-00021,"21 Research Boulevard, Berlin, Germany",k.A.,2,47,k.A.
+22,Marietta Knappe,22.10.1980,F,Lebend,SYN-B-000022,TEST-B-00022,"22 Test Street, Berlin, Germany",k.A.,26,9,k.A.
+23,Florence Ackermann,29.12.1957,X,Verstorben,SYN-B-000023,TEST-B-00023,"23 Sample Crescent, Berlin, Germany",k.A.,11,25,31.07.2026
+24,Dr. Sybilla Schuster B.Sc.,01.04.1935,X,Lebend,SYN-B-000024,TEST-B-00024,"24 Sample Crescent, Berlin, Germany",k.A.,32,7,k.A.
+25,Prof. Carmela Fritsch B.Sc.,15.08.1933,M,Lebend,SYN-B-000025,TEST-B-00025,"25 Test Street, Berlin, Germany",k.A.,30,34,k.A.
+26,Horst-Dieter Drewes,09.04.1936,X,Lebend,SYN-B-000026,TEST-B-00026,"26 Demo Road, Berlin, Germany",k.A.,44,25,k.A.
+27,Alban Köster,04.06.1936,F,Lebend,SYN-B-000027,TEST-B-00027,"27 Test Street, Berlin, Germany",k.A.,11,18,k.A.
+28,Herlinde Dörschner,06.06.1933,X,Lebend,SYN-B-000028,TEST-B-00028,"28 Fictional Lane, Berlin, Germany",k.A.,24,27,k.A.
+29,Dr. Sylvana Junitz B.Eng.,06.01.1935,X,Lebend,SYN-B-000029,TEST-B-00029,"29 Test Street, Berlin, Germany",k.A.,22,53,k.A.
+30,Sara Wilms,16.05.2013,F,Lebend,SYN-B-000030,TEST-B-00030,"30 Test Street, Berlin, Germany",k.A.,15,9,k.A.
+31,Meinolf Lübs,04.04.1965,M,Lebend,SYN-B-000031,TEST-B-00031,"31 Fictional Lane, Berlin, Germany",k.A.,22,33,k.A.
+32,Prof. Hans-Bernd Seip MBA.,24.10.2015,X,Lebend,SYN-B-000032,TEST-B-00032,"32 Demo Road, Berlin, Germany",k.A.,39,25,k.A.
+33,Aleksandr Schüler,27.08.1966,M,Lebend,SYN-B-000033,TEST-B-00033,"33 Example Avenue, Berlin, Germany",k.A.,42,6,k.A.
+34,Heinz-Dieter Binner,29.05.1996,M,Lebend,SYN-B-000034,TEST-B-00034,"34 Demo Road, Berlin, Germany",k.A.,6,9,k.A.
+35,Laszlo Freudenberger,30.12.1948,X,Lebend,SYN-B-000035,TEST-B-00035,"35 Test Street, Berlin, Germany",k.A.,23,39,k.A.
+36,Dragan Ruppersberger,20.07.1961,F,Lebend,SYN-B-000036,TEST-B-00036,"36 Sample Crescent, Berlin, Germany",k.A.,29,30,k.A.
+37,Prof. Annett Tschentscher,20.05.1946,X,Lebend,SYN-B-000037,TEST-B-00037,"37 Demo Road, Berlin, Germany",k.A.,8,46,k.A.
+38,Leonore Stahr,18.07.2013,M,Lebend,SYN-B-000038,TEST-B-00038,"38 Research Boulevard, Berlin, Germany",k.A.,8,23,k.A.
+39,Hans-Uwe Franke,10.08.1982,X,Lebend,SYN-B-000039,TEST-B-00039,"39 Research Boulevard, Berlin, Germany",k.A.,14,40,k.A.
+40,Ludwina Rörricht,09.08.1930,X,Lebend,SYN-B-000040,TEST-B-00040,"40 Example Avenue, Berlin, Germany",k.A.,26,55,k.A.
+41,   dR. jULIANA jUNGFER   ,17.12.2003,X,Lebend,SYN-B-000041,TEST-B-00041,"41 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00041,22,9,k.A.
+42,   hANNO kNAPPE   ,26.12.1936,F,Lebend,SYN-B-000042,TEST-B-00042,"42 Demo Road, Berlin, Germany",TEST-CONTACT-B-00042,8,16,k.A.
+43,   pROF. dOLORES jACOB b.sC.   ,18.05.1969,M,Lebend,SYN-B-000043,TEST-B-00043,"43 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00043,6,52,k.A.
+44,   tORALF eTZOLD   ,27.02.1956,M,Lebend,SYN-B-000044,TEST-B-00044,"44 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00044,9,51,k.A.
+45,   rOSALIA dRUB b.eNG.   ,13.03.1989,F,Lebend,SYN-B-000045,TEST-B-00045,"45 Sample Crescent, Berlin, Germany",k.A.,23,49,k.A.
+46,   aDALBERT rING-fLANTZ   ,17.02.1987,M,Lebend,SYN-B-000046,TEST-B-00046,"46 Demo Road, Berlin, Germany",TEST-CONTACT-B-00046,8,28,k.A.
+47,   mAIKE lINDNER-pLATH   ,19.04.1961,X,Lebend,SYN-B-000047,TEST-B-00047,"47 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00047,21,22,k.A.
+48,   hANS-gERD dÖRSCHNER   ,05.02.1956,M,Lebend,SYN-B-000048,TEST-B-00048,"48 Test Street, Berlin, Germany",TEST-CONTACT-B-00048,5,45,k.A.
+49,   fRANCA sCHWEITZER   ,07.11.1999,M,Lebend,SYN-B-000049,TEST-B-00049,"49 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00049,29,16,k.A.
+50,   dOMENICO vOGT   ,22.11.2001,F,Lebend,SYN-B-000050,TEST-B-00050,"50 Demo Road, Berlin, Germany",k.A.,41,23,k.A.
+51,   rALPH aCKERMANN-dRUB   ,13.01.1959,M,Lebend,SYN-B-000051,TEST-B-00051,"51 Test Street, Berlin, Germany",TEST-CONTACT-B-00051,16,48,k.A.
+52,   wENZEL tROMMLER   ,21.07.1937,M,Lebend,SYN-B-000052,TEST-B-00052,"52 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00052,32,9,k.A.
+53,   sASKIA bINNER b.a.   ,25.08.2002,X,Lebend,SYN-B-000053,TEST-B-00053,"53 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00053,37,26,k.A.
+54,   iNNA kLOTZ   ,01.05.1991,X,Lebend,SYN-B-000054,TEST-B-00054,"54 Test Street, Berlin, Germany",TEST-CONTACT-B-00054,44,39,k.A.
+55,   jERZY bOLNBACH   ,31.07.1954,X,Lebend,SYN-B-000055,TEST-B-00055,"55 Research Boulevard, Berlin, Germany",k.A.,18,6,k.A.
+56,   kARL hEINZ kREUSEL   ,16.04.1935,X,Lebend,SYN-B-000056,TEST-B-00056,"56 Test Street, Berlin, Germany",TEST-CONTACT-B-00056,40,50,k.A.
+57,   fATIH rEINHARDT   ,17.12.1980,M,Lebend,SYN-B-000057,TEST-B-00057,"57 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00057,25,10,k.A.
+58,   hANNES hORNIG   ,15.06.1985,M,Lebend,SYN-B-000058,TEST-B-00058,"58 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00058,9,2,k.A.
+59,   cLAUS jESSEL b.eNG.   ,04.03.1975,F,Lebend,SYN-B-000059,TEST-B-00059,"59 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00059,33,7,k.A.
+60,   aRIF rOSKOTH b.a.   ,05.05.1961,M,Lebend,SYN-B-000060,TEST-B-00060,"60 Fictional Lane, Berlin, Germany",k.A.,21,49,k.A.
+61,   hANS-dIETRICH mISICHER-bLOCH   ,07.06.1950,F,Lebend,SYN-B-000061,TEST-B-00061,"61 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00061,43,25,k.A.
+62,   kNUD mISICHER   ,04.04.2007,M,Lebend,SYN-B-000062,TEST-B-00062,"62 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00062,38,19,k.A.
+63,   aDOLF hOLSTEN   ,25.01.1930,F,Lebend,SYN-B-000063,TEST-B-00063,"63 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00063,18,51,k.A.
+64,   tANJA dREWES   ,04.05.1975,X,Lebend,SYN-B-000064,TEST-B-00064,"64 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00064,24,32,k.A.
+65,Annelie Lindau-Scholz,25.06.1963,M,Lebend,SYN-B-000065,TEST-B-00065,"65 Example Avenue, Berlin, Germany",k.A.,24,53,k.A.
+66,Sepp Eigenwillig,25.12.2014,M,Lebend,SYN-B-000066,TEST-B-00066,"66 Test Street, Berlin, Germany",TEST-CONTACT-B-00066,37,18,k.A.
+67,Hugo Fischer,17.02.1991,M,Lebend,SYN-B-000067,TEST-B-00067,"67 Test Street, Berlin, Germany",TEST-CONTACT-B-00067,15,18,k.A.
+68,Marie Ziegert,13.02.1983,M,Lebend,SYN-B-000068,TEST-B-00068,"68 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00068,33,47,k.A.
+69,Prof. Christian Schmidtke,30.08.2015,M,Lebend,SYN-B-000069,TEST-B-00069,"69 Test Street, Berlin, Germany",TEST-CONTACT-B-00069,22,9,k.A.
+70,Marko Schleich,11.11.1974,F,Lebend,SYN-B-000070,TEST-B-00070,"70 Demo Road, Berlin, Germany",k.A.,11,3,k.A.
+71,Ing. Kati Schüler,07.03.1971,X,Lebend,SYN-B-000071,TEST-B-00071,"71 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00071,30,31,k.A.
+72,Stanislaw Karz B.Eng.,09.01.1977,F,Lebend,SYN-B-000072,TEST-B-00072,"72 Test Street, Berlin, Germany",TEST-CONTACT-B-00072,20,20,k.A.
+73,Rolf Hiller MBA.,25.11.1998,X,Lebend,SYN-B-000073,TEST-B-00073,"73 Test Street, Berlin, Germany",TEST-CONTACT-B-00073,24,9,k.A.
+74,Gertraud Bloch B.A.,09.11.2000,M,Lebend,SYN-B-000074,TEST-B-00074,"74 Test Street, Berlin, Germany",TEST-CONTACT-B-00074,21,19,k.A.
+75,Aleksander Henck,12.09.1966,X,Lebend,SYN-B-000075,TEST-B-00075,"75 Demo Road, Berlin, Germany",k.A.,29,47,k.A.
+76,Utz Caspar MBA.,09.11.1990,X,Lebend,SYN-B-000076,TEST-B-00076,"76 Test Street, Berlin, Germany",TEST-CONTACT-B-00076,45,40,k.A.
+77,Alexandra Schlosser,18.07.1941,F,Lebend,SYN-B-000077,TEST-B-00077,"77 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00077,41,2,k.A.
+78,Amalie Weller,20.08.1964,M,Lebend,SYN-B-000078,TEST-B-00078,"78 Demo Road, Berlin, Germany",TEST-CONTACT-B-00078,17,31,k.A.
+79,Jörg-Peter Lindau,07.01.1996,F,Lebend,SYN-B-000079,TEST-B-00079,"79 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00079,10,17,k.A.
+80,Hannes Sager,05.08.1939,F,Lebend,SYN-B-000080,TEST-B-00080,"80 Demo Road, Berlin, Germany",k.A.,14,17,k.A.
+81,Mina Graf,03.01.1935,M,Lebend,SYN-B-000081,TEST-B-00081,"81 Test Street, Berlin, Germany",TEST-CONTACT-B-00081,23,44,k.A.
+82,Annett Dussen van,30.07.1955,X,Lebend,SYN-B-000082,TEST-B-00082,"82 Test Street, Berlin, Germany",TEST-CONTACT-B-00082,20,9,k.A.
+83,Ferdi Harloff,20.11.1951,X,Lebend,SYN-B-000083,TEST-B-00083,"83 Demo Road, Berlin, Germany",TEST-CONTACT-B-00083,26,37,k.A.
+84,Damian Stolze-Ehlert,30.03.1950,X,Lebend,SYN-B-000084,TEST-B-00084,"84 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00084,42,33,k.A.
+85,Hans-Otto Roht B.Eng.,24.07.1934,X,Lebend,SYN-B-000085,TEST-B-00085,"85 Test Street, Berlin, Germany",k.A.,25,26,k.A.
+86,Anita Linke-Junitz,25.11.1994,F,Lebend,SYN-B-000086,TEST-B-00086,"86 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00086,4,54,k.A.
+87,Milka Eigenwillig,29.03.1958,M,Verstorben,SYN-B-000087,TEST-B-00087,"87 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00087,29,30,19.08.2024
+88,Iwona Dippel,25.11.1965,F,Lebend,SYN-B-000088,TEST-B-00088,"88 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00088,42,8,k.A.
+89,Luitgard Gute,29.10.1933,X,Lebend,SYN-B-000089,TEST-B-00089,"89 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00089,19,48,k.A.
+90,Domenico Söding,18.05.1972,X,Lebend,SYN-B-000090,TEST-B-00090,"90 Sample Crescent, Berlin, Germany",k.A.,25,16,k.A.
+91,Prof. Berit Reichmann,09.10.1995,F,Lebend,SYN-B-000091,TEST-B-00091,"91 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00091,20,51,k.A.
+92,Dr. Angelo Rohleder,24.11.1999,M,Lebend,SYN-B-000092,TEST-B-00092,"92 Demo Road, Berlin, Germany",TEST-CONTACT-B-00092,14,15,k.A.
+93,Ruthild Stahr B.Sc.,29.08.2001,M,Lebend,SYN-B-000093,TEST-B-00093,"93 Demo Road, Berlin, Germany",TEST-CONTACT-B-00093,21,39,k.A.
+94,Angelo Bolander,02.08.1940,M,Lebend,SYN-B-000094,TEST-B-00094,"94 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00094,27,30,k.A.
+95,Sami Striebitz,14.03.1979,F,Lebend,SYN-B-000095,TEST-B-00095,"95 Sample Crescent, Berlin, Germany",k.A.,17,42,k.A.
+96,Holm Bien-Striebitz,09.08.1955,F,Lebend,SYN-B-000096,TEST-B-00096,"96 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00096,9,44,k.A.
+97,Vlado Hartung,03.07.1942,M,Lebend,SYN-B-000097,TEST-B-00097,"97 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00097,38,54,k.A.
+98,Walter Albers,27.06.2003,M,Lebend,SYN-B-000098,TEST-B-00098,"98 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00098,44,2,k.A.
+99,Alfredo Trubin,05.03.1933,X,Lebend,SYN-B-000099,TEST-B-00099,"99 Test Street, Berlin, Germany",TEST-CONTACT-B-00099,34,45,k.A.
+100,Ester Anders-Spieß,17.02.1932,M,Lebend,SYN-B-000100,TEST-B-00100,"100 Demo Road, Berlin, Germany",k.A.,28,42,k.A.
+101,Eckart Dowerg,18.05.1937,X,Lebend,SYN-B-000101,TEST-B-00101,"101 Demo Road, Berlin, Germany",TEST-CONTACT-B-00101,36,44,k.A.
+102,Dr. Marie-Louise Röhricht B.Sc.,25.09.2015,F,Lebend,SYN-B-000102,TEST-B-00102,"102 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00102,26,30,k.A.
+103,Claire Kruschwitz,30.03.2012,X,Lebend,SYN-B-000103,TEST-B-00103,"103 Demo Road, Berlin, Germany",TEST-CONTACT-B-00103,24,51,k.A.
+104,Woldemar Pergande-Gerlach,26.06.1935,X,Lebend,SYN-B-000104,TEST-B-00104,"104 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00104,16,21,k.A.
+105,Alwin Schinke-Graf,13.07.1988,M,Lebend,SYN-B-000105,TEST-B-00105,"105 Demo Road, Berlin, Germany",k.A.,12,38,k.A.
+106,Dipl.-Ing. Tamara Gröttner B.A.,11.01.1966,F,Lebend,SYN-B-000106,TEST-B-00106,"106 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00106,42,50,k.A.
+107,Frau Ellen Reuter,04.07.1969,M,Lebend,SYN-B-000107,TEST-B-00107,"107 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00107,41,29,k.A.
+108,Faruk Niemeier,03.11.1947,M,Lebend,SYN-B-000108,TEST-B-00108,"108 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00108,29,35,k.A.
+109,Sigmar Köster B.Eng.,08.10.1974,F,Lebend,SYN-B-000109,TEST-B-00109,"109 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00109,28,24,k.A.
+110,Prof. Milena Gumprich,01.02.2011,M,Lebend,SYN-B-000110,TEST-B-00110,"110 Test Street, Berlin, Germany",k.A.,22,34,k.A.
+111,Univ.Prof. Dietmar Berger,13.04.1970,F,Lebend,SYN-B-000111,TEST-B-00111,"111 Test Street, Berlin, Germany",TEST-CONTACT-B-00111,22,27,k.A.
+112,Prof. Janin Heinz,07.05.1999,X,Lebend,SYN-B-000112,TEST-B-00112,"112 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00112,1,45,k.A.
+113,Gordon Drewes,17.03.2015,X,Lebend,SYN-B-000113,TEST-B-00113,"113 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00113,41,36,k.A.
+114,Mijo Heuser,20.11.2014,M,Lebend,SYN-B-000114,TEST-B-00114,"114 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00114,39,19,k.A.
+115,Ing. Reinhold Kostolzin,30.09.1933,F,Lebend,SYN-B-000115,TEST-B-00115,"115 Demo Road, Berlin, Germany",k.A.,8,41,k.A.
+116,Irma Henschel,06.07.1947,F,Lebend,SYN-B-000116,TEST-B-00116,"116 Demo Road, Berlin, Germany",TEST-CONTACT-B-00116,6,28,k.A.
+117,Dipl.-Ing. Tomislav Mende,22.11.1964,X,Lebend,SYN-B-000117,TEST-B-00117,"117 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00117,4,18,k.A.
+118,Ing. Ernst-Dieter Ortmann,23.03.1985,M,Lebend,SYN-B-000118,TEST-B-00118,"118 Test Street, Berlin, Germany",TEST-CONTACT-B-00118,30,2,k.A.
+119,Ing. Sükrü Meister B.Sc.,10.09.1933,F,Lebend,SYN-B-000119,TEST-B-00119,"119 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00119,7,7,k.A.
+120,Ilka Wende,12.10.1992,F,Lebend,SYN-B-000120,TEST-B-00120,"120 Test Street, Berlin, Germany",k.A.,26,14,k.A.
+121,Eberhard Rust-Steckel,18.01.1930,X,Lebend,SYN-B-000121,TEST-B-00121,"121 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00121,15,43,k.A.
+122,Jolanta Blümel B.A.,04.01.1981,F,Lebend,SYN-B-000122,TEST-B-00122,"122 Demo Road, Berlin, Germany",TEST-CONTACT-B-00122,37,45,k.A.
+123,Dr. Hajo Henschel B.A.,22.11.1999,X,Lebend,SYN-B-000123,TEST-B-00123,"123 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00123,8,45,k.A.
+124,Kornelia Schuchhardt B.Sc.,16.05.2004,F,Lebend,SYN-B-000124,TEST-B-00124,"124 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00124,8,26,k.A.
+125,Jörg Wagner B.A.,02.04.2004,F,Lebend,SYN-B-000125,TEST-B-00125,"125 Sample Crescent, Berlin, Germany",k.A.,19,21,k.A.
+126,Miroslaw Hellwig,01.10.1978,F,Verstorben,SYN-B-000126,TEST-B-00126,"126 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00126,32,43,19.08.2026
+127,Dr. Steffen Cichorius B.Sc.,08.05.1938,X,Lebend,SYN-B-000127,TEST-B-00127,"127 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00127,13,46,k.A.
+128,Henryk Klemt-Hering,10.01.1985,F,Lebend,SYN-B-000128,TEST-B-00128,"128 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00128,4,43,k.A.
+129,Wolf-Dieter Wagner,04.11.1933,X,Lebend,SYN-B-000129,TEST-B-00129,"129 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00129,27,35,k.A.
+130,Dagobert Anders,15.02.1988,F,Lebend,SYN-B-000130,TEST-B-00130,"130 Demo Road, Berlin, Germany",k.A.,3,50,k.A.
+131,Johann Lübs,09.04.1958,F,Lebend,SYN-B-000131,TEST-B-00131,"131 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00131,30,47,k.A.
+132,Natali Stahr,22.06.1952,M,Lebend,SYN-B-000132,TEST-B-00132,"132 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00132,14,13,k.A.
+133,Adelheid Sorgatz,05.06.1977,F,Lebend,SYN-B-000133,TEST-B-00133,"133 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00133,5,1,k.A.
+134,Herr Heinz-Willi Radisch B.A.,01.08.2003,M,Lebend,SYN-B-000134,TEST-B-00134,"134 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00134,3,7,k.A.
+135,Gisa Scheibe,16.03.1937,X,Lebend,SYN-B-000135,TEST-B-00135,"135 Research Boulevard, Berlin, Germany",k.A.,24,2,k.A.
+136,Dipl.-Ing. Nada Heydrich,04.08.1964,F,Lebend,SYN-B-000136,TEST-B-00136,"136 Demo Road, Berlin, Germany",TEST-CONTACT-B-00136,39,53,k.A.
+137,Wenke Patberg,23.08.1991,F,Lebend,SYN-B-000137,TEST-B-00137,"137 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00137,40,20,k.A.
+138,Centa Hörle,06.01.1958,M,Lebend,SYN-B-000138,TEST-B-00138,"138 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00138,34,4,k.A.
+139,Ina Finke,30.09.1935,F,Lebend,SYN-B-000139,TEST-B-00139,"139 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00139,20,15,k.A.
+140,Caterina Hesse MBA.,12.02.1987,F,Lebend,SYN-B-000140,TEST-B-00140,"140 Fictional Lane, Berlin, Germany",k.A.,36,2,k.A.
+141,Slavko Striebitz,05.03.1979,F,Lebend,SYN-B-000141,TEST-B-00141,"141 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00141,31,5,k.A.
+142,Sibylla Ruppert,10.06.1935,M,Lebend,SYN-B-000142,TEST-B-00142,"142 Test Street, Berlin, Germany",TEST-CONTACT-B-00142,18,21,k.A.
+143,Mandy Boucsein-Adler,20.09.1944,F,Lebend,SYN-B-000143,TEST-B-00143,"143 Demo Road, Berlin, Germany",TEST-CONTACT-B-00143,7,4,k.A.
+144,Jeannette Jüttner-Mude,24.04.1932,X,Lebend,SYN-B-000144,TEST-B-00144,"144 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00144,17,11,k.A.
+145,Jeanette Köhler-Hörle,07.04.1930,X,Lebend,SYN-B-000145,TEST-B-00145,"145 Research Boulevard, Berlin, Germany",k.A.,16,24,k.A.
+146,Univ.Prof. Adriane Reuter,19.09.2003,X,Lebend,SYN-B-000146,TEST-B-00146,"146 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00146,45,50,k.A.
+147,Pavel Klingelhöfer,31.08.1987,X,Lebend,SYN-B-000147,TEST-B-00147,"147 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00147,2,39,k.A.
+148,Dipl.-Ing. Margaret Döring B.Sc.,03.09.2000,X,Lebend,SYN-B-000148,TEST-B-00148,"148 Demo Road, Berlin, Germany",TEST-CONTACT-B-00148,29,1,k.A.
+149,Prof. Margita Henk,16.06.1993,X,Lebend,SYN-B-000149,TEST-B-00149,"149 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00149,13,8,k.A.
+150,Univ.Prof. Siegbert Junk,19.11.1990,F,Lebend,SYN-B-000150,TEST-B-00150,"150 Example Avenue, Berlin, Germany",k.A.,31,43,k.A.
+151,Olga Mangold,01.05.1975,M,Lebend,SYN-B-000151,TEST-B-00151,"151 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00151,16,28,k.A.
+152,Dimitri Gieß,26.04.1946,M,Lebend,SYN-B-000152,TEST-B-00152,"152 Demo Road, Berlin, Germany",TEST-CONTACT-B-00152,8,33,k.A.
+153,Manfred Schäfer,15.01.1966,M,Lebend,SYN-B-000153,TEST-B-00153,"153 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00153,27,6,k.A.
+154,Siegrun Hande B.Eng.,27.01.1949,F,Lebend,SYN-B-000154,TEST-B-00154,"154 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00154,2,17,k.A.
+155,Natalia Mühle-Kraus,08.09.2000,M,Lebend,SYN-B-000155,TEST-B-00155,"155 Example Avenue, Berlin, Germany",k.A.,30,16,k.A.
+156,Joerg Gumprich-Drub,27.03.1963,X,Verstorben,SYN-B-000156,TEST-B-00156,"156 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00156,38,39,04.05.2026
+157,Canan Roskoth,16.04.1954,M,Lebend,SYN-B-000157,TEST-B-00157,"157 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00157,29,50,k.A.
+158,Ing. Gerd Barth B.Sc.,29.01.1960,F,Lebend,SYN-B-000158,TEST-B-00158,"158 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00158,26,19,k.A.
+159,Hans-Jörg Patberg,02.11.1938,M,Lebend,SYN-B-000159,TEST-B-00159,"159 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00159,20,49,k.A.
+160,Edelgard Johann,31.08.2010,M,Lebend,SYN-B-000160,TEST-B-00160,"160 Fictional Lane, Berlin, Germany",k.A.,2,39,k.A.
+161,Magrit Girschner,10.01.1930,X,Lebend,SYN-B-000161,TEST-B-00161,"161 Test Street, Berlin, Germany",TEST-CONTACT-B-00161,41,11,k.A.
+162,Salvatore Seifert-Bolzmann,03.06.1981,X,Lebend,SYN-B-000162,TEST-B-00162,"162 Test Street, Berlin, Germany",TEST-CONTACT-B-00162,35,3,k.A.
+163,Kunigunde Roht B.Eng.,15.07.1969,M,Lebend,SYN-B-000163,TEST-B-00163,"163 Demo Road, Berlin, Germany",TEST-CONTACT-B-00163,17,29,k.A.
+164,Christopher Beckmann,01.09.1965,X,Lebend,SYN-B-000164,TEST-B-00164,"164 Test Street, Berlin, Germany",TEST-CONTACT-B-00164,13,19,k.A.
+165,Univ.Prof. German Wagner B.Sc.,01.09.1955,F,Lebend,SYN-B-000165,TEST-B-00165,"165 Fictional Lane, Berlin, Germany",k.A.,42,48,k.A.
+166,Alena Budig,08.10.1990,F,Lebend,SYN-B-000166,TEST-B-00166,"166 Test Street, Berlin, Germany",TEST-CONTACT-B-00166,12,46,k.A.
+167,Edit Fechner B.Sc.,23.09.1999,X,Lebend,SYN-B-000167,TEST-B-00167,"167 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00167,26,53,k.A.
+168,Horst-Peter Wernecke,19.04.1994,X,Lebend,SYN-B-000168,TEST-B-00168,"168 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00168,32,4,k.A.
+169,Friedhelm Bohnbach-Wagenknecht,11.04.2009,M,Lebend,SYN-B-000169,TEST-B-00169,"169 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00169,39,30,k.A.
+170,Catherine Seifert,18.07.1944,M,Lebend,SYN-B-000170,TEST-B-00170,"170 Demo Road, Berlin, Germany",k.A.,31,23,k.A.
+171,Giesela Hermann,16.02.2000,F,Lebend,SYN-B-000171,TEST-B-00171,"171 Test Street, Berlin, Germany",TEST-CONTACT-B-00171,30,50,k.A.
+172,Amanda Rust,20.11.1948,F,Lebend,SYN-B-000172,TEST-B-00172,"172 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00172,2,30,k.A.
+173,Volker Dippel,27.08.1939,X,Lebend,SYN-B-000173,TEST-B-00173,"173 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00173,15,21,k.A.
+174,Vlado Hornig MBA.,05.07.1972,X,Lebend,SYN-B-000174,TEST-B-00174,"174 Test Street, Berlin, Germany",TEST-CONTACT-B-00174,17,25,k.A.
+175,Zeki Neureuther,05.05.1943,F,Lebend,SYN-B-000175,TEST-B-00175,"175 Demo Road, Berlin, Germany",k.A.,7,52,k.A.
+176,Natali Hartmann,26.11.1932,F,Lebend,SYN-B-000176,TEST-B-00176,"176 Demo Road, Berlin, Germany",TEST-CONTACT-B-00176,13,20,k.A.
+177,Prof. Balthasar Briemer,12.08.1948,M,Lebend,SYN-B-000177,TEST-B-00177,"177 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00177,9,49,k.A.
+178,Dipl.-Ing. Margret Oderwald,15.08.1978,X,Lebend,SYN-B-000178,TEST-B-00178,"178 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00178,36,15,k.A.
+179,Georgia Langern,21.07.1979,M,Lebend,SYN-B-000179,TEST-B-00179,"179 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00179,15,15,k.A.
+180,Anny Ullmann B.Eng.,22.01.2006,F,Lebend,SYN-B-000180,TEST-B-00180,"180 Test Street, Berlin, Germany",k.A.,13,23,k.A.
+181,Karl-Wilhelm Weihmann-Etzold,12.11.1946,X,Lebend,SYN-B-000181,TEST-B-00181,"181 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00181,23,47,k.A.
+182,Otfried Junck,13.12.1938,F,Lebend,SYN-B-000182,TEST-B-00182,"182 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00182,40,35,k.A.
+183,Hans Weller,18.01.1980,X,Verstorben,SYN-B-000183,TEST-B-00183,"183 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00183,38,4,08.08.2024
+184,Siegrid Röhricht,01.08.1937,X,Lebend,SYN-B-000184,TEST-B-00184,"184 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00184,42,47,k.A.
+185,Dr. Giuseppe Bolander B.Sc.,11.11.1946,M,Lebend,SYN-B-000185,TEST-B-00185,"185 Example Avenue, Berlin, Germany",k.A.,26,51,k.A.
+186,Hans Georg Mans,30.03.1988,X,Lebend,SYN-B-000186,TEST-B-00186,"186 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00186,2,18,k.A.
+187,Jo Wilmsen B.A.,03.09.1950,M,Lebend,SYN-B-000187,TEST-B-00187,"187 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00187,36,55,k.A.
+188,Woldemar Söding-Huhn,16.03.1933,F,Lebend,SYN-B-000188,TEST-B-00188,"188 Test Street, Berlin, Germany",TEST-CONTACT-B-00188,33,25,k.A.
+189,Prof. Valeria Bachmann B.A.,02.11.1958,M,Verstorben,SYN-B-000189,TEST-B-00189,"189 Demo Road, Berlin, Germany",TEST-CONTACT-B-00189,41,31,04.06.2024
+190,Alicja Benthin,21.06.1974,M,Lebend,SYN-B-000190,TEST-B-00190,"190 Example Avenue, Berlin, Germany",k.A.,44,3,k.A.
+191,Frau Mariola Haering,01.06.1987,F,Lebend,SYN-B-000191,TEST-B-00191,"191 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00191,32,2,k.A.
+192,Prof. Aurelia Adolph B.A.,16.05.1936,M,Lebend,SYN-B-000192,TEST-B-00192,"192 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00192,25,1,k.A.
+193,Olivia Jacobi Jäckel,31.07.1971,F,Lebend,SYN-B-000193,TEST-B-00193,"193 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00193,10,28,k.A.
+194,Dipl.-Ing. Hanny Kroker,30.10.1931,X,Lebend,SYN-B-000194,TEST-B-00194,"194 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00194,28,32,k.A.
+195,Michaela Jähn,25.10.1933,F,Lebend,SYN-B-000195,TEST-B-00195,"195 Research Boulevard, Berlin, Germany",k.A.,43,8,k.A.
+196,Herr Zbigniew Börner,29.07.2013,F,Lebend,SYN-B-000196,TEST-B-00196,"196 Demo Road, Berlin, Germany",TEST-CONTACT-B-00196,7,6,k.A.
+197,Petar Kusch,30.09.1968,X,Lebend,SYN-B-000197,TEST-B-00197,"197 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00197,8,55,k.A.
+198,Prof. Marita Nette,02.05.2006,M,Lebend,SYN-B-000198,TEST-B-00198,"198 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00198,43,43,k.A.
+199,Eckhard Beyer,26.03.2004,F,Lebend,SYN-B-000199,TEST-B-00199,"199 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00199,4,14,k.A.
+200,Irma Rädel,16.10.2009,M,Lebend,SYN-B-000200,TEST-B-00200,"200 Fictional Lane, Berlin, Germany",k.A.,43,37,k.A.
+201,Rita Faust B.Eng.,22.07.2004,M,Lebend,SYN-B-000201,TEST-B-00201,"201 Demo Road, Berlin, Germany",TEST-CONTACT-B-00201,39,43,k.A.
+202,Brita Lindau,02.09.1930,X,Lebend,SYN-B-000202,TEST-B-00202,"202 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00202,38,5,k.A.
+203,Stefano Nohlmans,08.05.1986,X,Lebend,SYN-B-000203,TEST-B-00203,"203 Demo Road, Berlin, Germany",TEST-CONTACT-B-00203,13,42,k.A.
+204,Thoralf Hauffer-Müller,28.02.2008,F,Lebend,SYN-B-000204,TEST-B-00204,"204 Test Street, Berlin, Germany",TEST-CONTACT-B-00204,16,14,k.A.
+205,Prof. Leonie Stumpf,02.12.1999,F,Lebend,SYN-B-000205,TEST-B-00205,"205 Research Boulevard, Berlin, Germany",k.A.,37,8,k.A.
+206,Ing. Harri Mende,15.03.1940,F,Lebend,SYN-B-000206,TEST-B-00206,"206 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00206,20,37,k.A.
+207,Giesela Gotthard B.Eng.,11.05.1947,M,Lebend,SYN-B-000207,TEST-B-00207,"207 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00207,45,21,k.A.
+208,Alban Junken,05.01.1997,F,Lebend,SYN-B-000208,TEST-B-00208,"208 Test Street, Berlin, Germany",TEST-CONTACT-B-00208,28,2,k.A.
+209,Prof. Vincenzo Kraus,26.06.1988,F,Lebend,SYN-B-000209,TEST-B-00209,"209 Test Street, Berlin, Germany",TEST-CONTACT-B-00209,28,13,k.A.
+210,Heimo Stoll B.A.,14.07.1978,X,Lebend,SYN-B-000210,TEST-B-00210,"210 Test Street, Berlin, Germany",k.A.,24,39,k.A.
+211,Dipl.-Ing. Jobst Geisler,13.06.1934,X,Lebend,SYN-B-000211,TEST-B-00211,"211 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00211,18,48,k.A.
+212,Amalie Briemer,11.09.1957,F,Lebend,SYN-B-000212,TEST-B-00212,"212 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00212,10,3,k.A.
+213,Saban Beer,19.06.1962,F,Lebend,SYN-B-000213,TEST-B-00213,"213 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00213,12,41,k.A.
+214,Zoltan Lehmann,01.02.1979,F,Verstorben,SYN-B-000214,TEST-B-00214,"214 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00214,1,42,07.03.2025
+215,Rosalie Etzler,17.11.1968,F,Lebend,SYN-B-000215,TEST-B-00215,"215 Demo Road, Berlin, Germany",k.A.,34,17,k.A.
+216,Herr Randolf Beyer,21.04.1947,F,Lebend,SYN-B-000216,TEST-B-00216,"216 Demo Road, Berlin, Germany",TEST-CONTACT-B-00216,5,48,k.A.
+217,Arthur Ruppert B.Eng.,05.12.1942,X,Lebend,SYN-B-000217,TEST-B-00217,"217 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00217,44,41,k.A.
+218,Prof. Romy Baum,21.04.1935,M,Lebend,SYN-B-000218,TEST-B-00218,"218 Demo Road, Berlin, Germany",TEST-CONTACT-B-00218,16,33,k.A.
+219,Theresia Huhn,23.05.1954,F,Lebend,SYN-B-000219,TEST-B-00219,"219 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00219,44,14,k.A.
+220,Hans-Dietrich Noack,06.02.2001,M,Lebend,SYN-B-000220,TEST-B-00220,"220 Fictional Lane, Berlin, Germany",k.A.,38,1,k.A.
+221,Prof. Karl-Ludwig Bender B.A.,08.05.1985,X,Lebend,SYN-B-000221,TEST-B-00221,"221 Demo Road, Berlin, Germany",TEST-CONTACT-B-00221,38,35,k.A.
+222,Kenneth Heinrich B.Sc.,11.11.1998,F,Lebend,SYN-B-000222,TEST-B-00222,"222 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00222,45,42,k.A.
+223,Roy Jacob,25.07.1959,X,Lebend,SYN-B-000223,TEST-B-00223,"223 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00223,12,26,k.A.
+224,Donata Stiffel-Köster,17.02.1959,M,Lebend,SYN-B-000224,TEST-B-00224,"224 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00224,9,1,k.A.
+225,Theobald Eimer-Lübs,11.10.1980,F,Lebend,SYN-B-000225,TEST-B-00225,"225 Sample Crescent, Berlin, Germany",k.A.,30,55,k.A.
+226,Kasimir Meyer,22.10.1980,M,Lebend,SYN-B-000226,TEST-B-00226,"226 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00226,24,17,k.A.
+227,Daniele Dowerg-Anders,27.05.1991,F,Lebend,SYN-B-000227,TEST-B-00227,"227 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00227,17,37,k.A.
+228,Prof. Margret Tröst B.Sc.,07.07.1982,F,Lebend,SYN-B-000228,TEST-B-00228,"228 Demo Road, Berlin, Germany",TEST-CONTACT-B-00228,5,12,k.A.
+229,Bozena Fröhlich,21.09.1978,X,Lebend,SYN-B-000229,TEST-B-00229,"229 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00229,17,5,k.A.
+230,Hans-Rudolf Steckel-Atzler,01.07.1988,M,Lebend,SYN-B-000230,TEST-B-00230,"230 Fictional Lane, Berlin, Germany",k.A.,6,51,k.A.
+231,Jacob Schottin,26.10.1956,F,Lebend,SYN-B-000231,TEST-B-00231,"231 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00231,23,3,k.A.
+232,Jakob Kambs B.A.,11.04.1941,X,Lebend,SYN-B-000232,TEST-B-00232,"232 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00232,17,53,k.A.
+233,Caterina Hörle,24.03.1937,F,Lebend,SYN-B-000233,TEST-B-00233,"233 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00233,13,23,k.A.
+234,Peggy Heß B.Sc.,06.02.1941,M,Lebend,SYN-B-000234,TEST-B-00234,"234 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00234,26,10,k.A.
+235,Tom Warmer,19.06.1957,X,Lebend,SYN-B-000235,TEST-B-00235,"235 Sample Crescent, Berlin, Germany",k.A.,11,46,k.A.
+236,Ladislaus Kallert,08.09.1984,F,Lebend,SYN-B-000236,TEST-B-00236,"236 Demo Road, Berlin, Germany",TEST-CONTACT-B-00236,24,23,k.A.
+237,Nadin Vollbrecht,17.10.1985,M,Lebend,SYN-B-000237,TEST-B-00237,"237 Test Street, Berlin, Germany",TEST-CONTACT-B-00237,10,27,k.A.
+238,Mario Stey,06.10.1956,X,Lebend,SYN-B-000238,TEST-B-00238,"238 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00238,18,43,k.A.
+239,Ivana Stumpf,02.11.1944,F,Lebend,SYN-B-000239,TEST-B-00239,"239 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00239,22,25,k.A.
+240,Marion Hahn,28.03.1974,X,Lebend,SYN-B-000240,TEST-B-00240,"240 Demo Road, Berlin, Germany",k.A.,18,47,k.A.
+241,Hanno Hering-Trupp,07.08.1966,X,Lebend,SYN-B-000241,TEST-B-00241,"241 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00241,21,20,k.A.
+242,Paulina Jäntsch B.Sc.,26.08.2003,M,Lebend,SYN-B-000242,TEST-B-00242,"242 Demo Road, Berlin, Germany",TEST-CONTACT-B-00242,15,45,k.A.
+243,Dr. Jochem Mielcarek,15.02.2004,F,Lebend,SYN-B-000243,TEST-B-00243,"243 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00243,5,5,k.A.
+244,Karlfried Lorch-Junck,21.11.2006,X,Lebend,SYN-B-000244,TEST-B-00244,"244 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00244,20,14,k.A.
+245,Axel Roht,17.12.1945,X,Lebend,SYN-B-000245,TEST-B-00245,"245 Sample Crescent, Berlin, Germany",k.A.,7,19,k.A.
+246,Frau Danica Junck,27.10.1967,X,Lebend,SYN-B-000246,TEST-B-00246,"246 Demo Road, Berlin, Germany",TEST-CONTACT-B-00246,43,29,k.A.
+247,Frau Gunhild Bauer B.A.,08.01.2004,M,Lebend,SYN-B-000247,TEST-B-00247,"247 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00247,9,53,k.A.
+248,Siegward Röhricht,27.07.1933,X,Verstorben,SYN-B-000248,TEST-B-00248,"248 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00248,36,42,11.11.2024
+249,Ing. Oswin Hahn B.Eng.,15.06.1973,X,Lebend,SYN-B-000249,TEST-B-00249,"249 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00249,3,37,k.A.
+250,Ing. Magrit Girschner B.Sc.,01.09.1987,M,Lebend,SYN-B-000250,TEST-B-00250,"250 Research Boulevard, Berlin, Germany",k.A.,1,15,k.A.
+251,Roswitha Adler,21.11.2012,F,Lebend,SYN-B-000251,TEST-B-00251,"251 Test Street, Berlin, Germany",TEST-CONTACT-B-00251,13,27,k.A.
+252,Arnd Hölzenbecher-Wende,17.10.1984,X,Verstorben,SYN-B-000252,TEST-B-00252,"252 Demo Road, Berlin, Germany",TEST-CONTACT-B-00252,30,33,07.02.2024
+253,Nurettin Scheel,26.03.2001,X,Lebend,SYN-B-000253,TEST-B-00253,"253 Test Street, Berlin, Germany",TEST-CONTACT-B-00253,35,33,k.A.
+254,Richard Heser,22.01.2002,F,Lebend,SYN-B-000254,TEST-B-00254,"254 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00254,38,48,k.A.
+255,Mike Schweitzer,04.01.2011,F,Lebend,SYN-B-000255,TEST-B-00255,"255 Test Street, Berlin, Germany",k.A.,37,25,k.A.
+256,Benno Gnatz B.Eng.,03.07.2005,F,Lebend,SYN-B-000256,TEST-B-00256,"256 Demo Road, Berlin, Germany",TEST-CONTACT-B-00256,6,43,k.A.
+257,Victor Hethur,30.08.1979,M,Lebend,SYN-B-000257,TEST-B-00257,"257 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00257,39,18,k.A.
+258,Sevim Heß,30.06.1977,M,Lebend,SYN-B-000258,TEST-B-00258,"258 Demo Road, Berlin, Germany",TEST-CONTACT-B-00258,39,52,k.A.
+259,Tina Kraushaar,05.09.1989,X,Lebend,SYN-B-000259,TEST-B-00259,"259 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00259,26,12,k.A.
+260,Halil Hänel,02.03.1980,X,Verstorben,SYN-B-000260,TEST-B-00260,"260 Demo Road, Berlin, Germany",k.A.,17,8,02.04.2025
+261,Herr Philipp Hesse B.A.,25.02.1937,M,Lebend,SYN-B-000261,TEST-B-00261,"261 Test Street, Berlin, Germany",TEST-CONTACT-B-00261,12,50,k.A.
+262,Hermine Gorlitz B.A.,11.09.2007,M,Lebend,SYN-B-000262,TEST-B-00262,"262 Demo Road, Berlin, Germany",TEST-CONTACT-B-00262,16,9,k.A.
+263,Annerose Schmidtke,15.02.1962,M,Lebend,SYN-B-000263,TEST-B-00263,"263 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00263,30,37,k.A.
+264,Prof. Alexej Stumpf,21.01.1952,X,Lebend,SYN-B-000264,TEST-B-00264,"264 Demo Road, Berlin, Germany",TEST-CONTACT-B-00264,22,1,k.A.
+265,Denny Patberg,19.02.1941,X,Lebend,SYN-B-000265,TEST-B-00265,"265 Demo Road, Berlin, Germany",k.A.,19,4,k.A.
+266,Frau Svetlana Sölzer,25.06.1977,M,Lebend,SYN-B-000266,TEST-B-00266,"266 Demo Road, Berlin, Germany",TEST-CONTACT-B-00266,6,33,k.A.
+267,Eberhard Ritter,21.04.1949,F,Lebend,SYN-B-000267,TEST-B-00267,"267 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00267,45,54,k.A.
+268,Erkan Schmidtke,04.06.1960,X,Lebend,SYN-B-000268,TEST-B-00268,"268 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00268,36,39,k.A.
+269,Eberhardt Jessel,18.04.1940,X,Lebend,SYN-B-000269,TEST-B-00269,"269 Test Street, Berlin, Germany",TEST-CONTACT-B-00269,26,38,k.A.
+270,Kornelia Scheibe,25.04.2008,X,Lebend,SYN-B-000270,TEST-B-00270,"270 Fictional Lane, Berlin, Germany",k.A.,23,17,k.A.
+271,Prof. Marija Gehringer,23.03.2000,M,Lebend,SYN-B-000271,TEST-B-00271,"271 Demo Road, Berlin, Germany",TEST-CONTACT-B-00271,30,16,k.A.
+272,Hans-Jörg Becker,25.06.1955,X,Lebend,SYN-B-000272,TEST-B-00272,"272 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00272,21,52,k.A.
+273,Ottomar Reichmann,18.10.1965,F,Lebend,SYN-B-000273,TEST-B-00273,"273 Demo Road, Berlin, Germany",TEST-CONTACT-B-00273,1,35,k.A.
+274,Jobst Schleich,16.02.1958,X,Lebend,SYN-B-000274,TEST-B-00274,"274 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00274,8,15,k.A.
+275,Univ.Prof. Manuela Häring,28.04.1986,M,Lebend,SYN-B-000275,TEST-B-00275,"275 Fictional Lane, Berlin, Germany",k.A.,4,48,k.A.
+276,Frau Brigitta Rust,08.04.1978,X,Lebend,SYN-B-000276,TEST-B-00276,"276 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00276,20,32,k.A.
+277,Ing. Karl-Georg Kruschwitz B.A.,06.04.1972,M,Lebend,SYN-B-000277,TEST-B-00277,"277 Test Street, Berlin, Germany",TEST-CONTACT-B-00277,43,48,k.A.
+278,Prof. Klaus-Jürgen Striebitz,16.03.1983,X,Verstorben,SYN-B-000278,TEST-B-00278,"278 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00278,20,46,25.01.2025
+279,Dipl.-Ing. Zeynep Rohleder,15.06.1963,M,Lebend,SYN-B-000279,TEST-B-00279,"279 Test Street, Berlin, Germany",TEST-CONTACT-B-00279,15,3,k.A.
+280,Katarina Kambs-Radisch,22.05.1954,M,Lebend,SYN-B-000280,TEST-B-00280,"280 Example Avenue, Berlin, Germany",k.A.,16,45,k.A.
+281,Arnd Weihmann-Herrmann,06.02.2013,X,Lebend,SYN-B-000281,TEST-B-00281,"281 Demo Road, Berlin, Germany",TEST-CONTACT-B-00281,22,29,k.A.
+282,Ing. Sonia Holsten B.Sc.,22.06.1985,F,Lebend,SYN-B-000282,TEST-B-00282,"282 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00282,34,2,k.A.
+283,Aribert Käster,11.08.1996,F,Lebend,SYN-B-000283,TEST-B-00283,"283 Test Street, Berlin, Germany",TEST-CONTACT-B-00283,14,24,k.A.
+284,Joanna Ullmann,11.08.1933,M,Lebend,SYN-B-000284,TEST-B-00284,"284 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00284,1,8,k.A.
+285,Trudel Kambs,05.03.1947,F,Lebend,SYN-B-000285,TEST-B-00285,"285 Test Street, Berlin, Germany",k.A.,39,50,k.A.
+286,Pawel Mude-Pruschke,06.08.2008,F,Lebend,SYN-B-000286,TEST-B-00286,"286 Demo Road, Berlin, Germany",TEST-CONTACT-B-00286,23,48,k.A.
+287,Hans-Günter Bolzmann,12.02.1945,X,Lebend,SYN-B-000287,TEST-B-00287,"287 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00287,40,35,k.A.
+288,Olav Oestrovsky,29.06.1944,M,Lebend,SYN-B-000288,TEST-B-00288,"288 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00288,12,26,k.A.
+289,Veit Plath,30.10.1974,X,Lebend,SYN-B-000289,TEST-B-00289,"289 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00289,42,18,k.A.
+290,Walfried Ziegert,19.09.1977,X,Lebend,SYN-B-000290,TEST-B-00290,"290 Fictional Lane, Berlin, Germany",k.A.,29,1,k.A.
+291,Univ.Prof. Elenore Butte B.Eng.,04.09.1959,M,Lebend,SYN-B-000291,TEST-B-00291,"291 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00291,40,16,k.A.
+292,Gesa Fechner,10.05.1975,F,Lebend,SYN-B-000292,TEST-B-00292,"292 Demo Road, Berlin, Germany",TEST-CONTACT-B-00292,28,51,k.A.
+293,John Dowerg-Häring,04.05.1979,M,Lebend,SYN-B-000293,TEST-B-00293,"293 Test Street, Berlin, Germany",TEST-CONTACT-B-00293,1,55,k.A.
+294,Elisabet Bohlander,28.09.1973,F,Lebend,SYN-B-000294,TEST-B-00294,"294 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00294,28,4,k.A.
+295,Regina Stiffel,30.06.1983,M,Lebend,SYN-B-000295,TEST-B-00295,"295 Research Boulevard, Berlin, Germany",k.A.,34,5,k.A.
+296,Nadeschda Ditschlerin MBA.,12.05.1990,M,Lebend,SYN-B-000296,TEST-B-00296,"296 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00296,39,16,k.A.
+297,Prof. Liesbeth Söding B.Sc.,08.10.2015,F,Lebend,SYN-B-000297,TEST-B-00297,"297 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00297,17,28,k.A.
+298,Halina Scholtz,10.03.1956,X,Verstorben,SYN-B-000298,TEST-B-00298,"298 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00298,12,51,27.06.2024
+299,Romuald Schmidt,16.05.1931,X,Lebend,SYN-B-000299,TEST-B-00299,"299 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00299,27,9,k.A.
+300,Hans-Wolfgang Koch II,17.12.1939,X,Lebend,SYN-B-000300,TEST-B-00300,"300 Fictional Lane, Berlin, Germany",k.A.,4,4,k.A.
+301,Theodoros Finke B.Eng.,26.02.1943,X,Lebend,SYN-B-000301,TEST-B-00301,"301 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00301,21,23,k.A.
+302,Dipl.-Ing. Ellinor Hertrampf,07.01.1991,F,Lebend,SYN-B-000302,TEST-B-00302,"302 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00302,3,28,k.A.
+303,Univ.Prof. Hartmuth Lachmann MBA.,05.04.1983,M,Lebend,SYN-B-000303,TEST-B-00303,"303 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00303,35,6,k.A.
+304,Dietlinde Linke,14.06.1973,M,Lebend,SYN-B-000304,TEST-B-00304,"304 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00304,25,55,k.A.
+305,Rotraut Loos,16.10.1934,X,Verstorben,SYN-B-000305,TEST-B-00305,"305 Research Boulevard, Berlin, Germany",k.A.,6,6,25.01.2024
+306,Herwig Kreusel B.Sc.,10.02.2000,M,Lebend,SYN-B-000306,TEST-B-00306,"306 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00306,25,15,k.A.
+307,Dipl.-Ing. Antonietta Mülichen B.Sc.,30.09.1959,F,Lebend,SYN-B-000307,TEST-B-00307,"307 Test Street, Berlin, Germany",TEST-CONTACT-B-00307,19,24,k.A.
+308,Univ.Prof. Maik Rosenow B.Eng.,26.05.1950,X,Lebend,SYN-B-000308,TEST-B-00308,"308 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00308,24,14,k.A.
+309,Adele Ullrich,20.11.1992,M,Lebend,SYN-B-000309,TEST-B-00309,"309 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00309,13,39,k.A.
+310,Christine Barth,01.02.1939,F,Lebend,SYN-B-000310,TEST-B-00310,"310 Fictional Lane, Berlin, Germany",k.A.,1,16,k.A.
+311,Ing. Hans-Wolfgang Mangold,09.03.1965,M,Verstorben,SYN-B-000311,TEST-B-00311,"311 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00311,9,6,03.02.2024
+312,Ali Faust,12.09.1944,F,Lebend,SYN-B-000312,TEST-B-00312,"312 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00312,14,17,k.A.
+313,Eugenie Weiß-Hartmann,18.06.2002,X,Lebend,SYN-B-000313,TEST-B-00313,"313 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00313,9,13,k.A.
+314,Rosmarie Reising,26.02.1950,X,Lebend,SYN-B-000314,TEST-B-00314,"314 Demo Road, Berlin, Germany",TEST-CONTACT-B-00314,41,54,k.A.
+315,Univ.Prof. Christiana Schmiedt B.Sc.,06.07.1968,M,Lebend,SYN-B-000315,TEST-B-00315,"315 Example Avenue, Berlin, Germany",k.A.,4,32,k.A.
+316,Hilma Rosemann,08.10.1990,X,Lebend,SYN-B-000316,TEST-B-00316,"316 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00316,30,37,k.A.
+317,Hartmuth Franke,20.08.1931,X,Lebend,SYN-B-000317,TEST-B-00317,"317 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00317,22,30,k.A.
+318,Marina Zirme,24.03.1941,F,Lebend,SYN-B-000318,TEST-B-00318,"318 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00318,6,19,k.A.
+319,Prof. Roy Hermighausen B.Eng.,03.04.2010,F,Lebend,SYN-B-000319,TEST-B-00319,"319 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00319,20,53,k.A.
+320,Engin Jungfer,05.11.1949,X,Lebend,SYN-B-000320,TEST-B-00320,"320 Fictional Lane, Berlin, Germany",k.A.,33,50,k.A.
+321,Univ.Prof. Reinhilde Weihmann,15.08.1973,F,Verstorben,SYN-B-000321,TEST-B-00321,"321 Test Street, Berlin, Germany",TEST-CONTACT-B-00321,36,21,19.12.2025
+322,Ralf-Peter Mielcarek,25.04.1952,X,Lebend,SYN-B-000322,TEST-B-00322,"322 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00322,19,28,k.A.
+323,Mirella Otto,13.12.1958,F,Lebend,SYN-B-000323,TEST-B-00323,"323 Demo Road, Berlin, Germany",TEST-CONTACT-B-00323,12,44,k.A.
+324,Antonie Stiffel,17.09.1945,F,Lebend,SYN-B-000324,TEST-B-00324,"324 Demo Road, Berlin, Germany",TEST-CONTACT-B-00324,44,14,k.A.
+325,Hans-Albert Süßebier,22.12.1985,X,Lebend,SYN-B-000325,TEST-B-00325,"325 Example Avenue, Berlin, Germany",k.A.,30,48,k.A.
+326,Thilo Pieper,08.09.1999,M,Lebend,SYN-B-000326,TEST-B-00326,"326 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00326,44,54,k.A.
+327,Heide-Marie Trapp,20.02.2009,F,Lebend,SYN-B-000327,TEST-B-00327,"327 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00327,32,28,k.A.
+328,Janus Pieper-Häring,20.08.2006,F,Lebend,SYN-B-000328,TEST-B-00328,"328 Test Street, Berlin, Germany",TEST-CONTACT-B-00328,38,2,k.A.
+329,Siegmund Peukert,19.02.1985,M,Verstorben,SYN-B-000329,TEST-B-00329,"329 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00329,5,37,09.08.2026
+330,Jan-Peter Wohlgemut,02.08.1956,X,Lebend,SYN-B-000330,TEST-B-00330,"330 Test Street, Berlin, Germany",k.A.,42,53,k.A.
+331,Anatolij Schmidtke,07.12.1936,M,Lebend,SYN-B-000331,TEST-B-00331,"331 Test Street, Berlin, Germany",TEST-CONTACT-B-00331,37,19,k.A.
+332,Regina Freudenberger,18.02.1965,M,Lebend,SYN-B-000332,TEST-B-00332,"332 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00332,29,48,k.A.
+333,Margaretha Stoll-Pruschke,18.07.1990,X,Lebend,SYN-B-000333,TEST-B-00333,"333 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00333,28,44,k.A.
+334,Dipl.-Ing. Madlen Salz MBA.,31.12.1976,M,Lebend,SYN-B-000334,TEST-B-00334,"334 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00334,35,54,k.A.
+335,Alla Warmer MBA.,18.11.2002,M,Lebend,SYN-B-000335,TEST-B-00335,"335 Sample Crescent, Berlin, Germany",k.A.,31,39,k.A.
+336,Frau Almuth Lindau,22.05.1998,X,Lebend,SYN-B-000336,TEST-B-00336,"336 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00336,34,21,k.A.
+337,Cäcilie Heinrich B.A.,21.07.1987,M,Lebend,SYN-B-000337,TEST-B-00337,"337 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00337,37,19,k.A.
+338,Kristian Gude-Beckmann,11.04.1994,X,Verstorben,SYN-B-000338,TEST-B-00338,"338 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00338,34,5,06.05.2024
+339,Astrid Patberg B.Eng.,31.08.2009,M,Lebend,SYN-B-000339,TEST-B-00339,"339 Demo Road, Berlin, Germany",TEST-CONTACT-B-00339,20,35,k.A.
+340,Herr Giovanni Mosemann,23.03.2013,F,Lebend,SYN-B-000340,TEST-B-00340,"340 Example Avenue, Berlin, Germany",k.A.,33,41,k.A.
+341,Bogdan Striebitz,10.01.1933,M,Lebend,SYN-B-000341,TEST-B-00341,"341 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00341,40,13,k.A.
+342,Delia Martin B.Sc.,30.06.1993,X,Lebend,SYN-B-000342,TEST-B-00342,"342 Demo Road, Berlin, Germany",TEST-CONTACT-B-00342,41,19,k.A.
+343,Liesbeth Adolph,24.01.2003,M,Lebend,SYN-B-000343,TEST-B-00343,"343 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00343,38,32,k.A.
+344,Manfred Röhrdanz-Gertz,02.10.1938,F,Lebend,SYN-B-000344,TEST-B-00344,"344 Test Street, Berlin, Germany",TEST-CONTACT-B-00344,1,2,k.A.
+345,Friedemann Adolph B.Eng.,16.11.2004,F,Lebend,SYN-B-000345,TEST-B-00345,"345 Sample Crescent, Berlin, Germany",k.A.,4,45,k.A.
+346,Dr. Olav Junken B.Eng.,07.04.1945,X,Lebend,SYN-B-000346,TEST-B-00346,"346 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00346,44,47,k.A.
+347,Herr Ahmed Hellwig B.A.,29.01.1935,F,Lebend,SYN-B-000347,TEST-B-00347,"347 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00347,1,10,k.A.
+348,Mikhail Ortmann-Spieß,10.01.1994,X,Lebend,SYN-B-000348,TEST-B-00348,"348 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00348,11,10,k.A.
+349,Ricardo Gumprich,05.08.1992,X,Lebend,SYN-B-000349,TEST-B-00349,"349 Demo Road, Berlin, Germany",TEST-CONTACT-B-00349,20,39,k.A.
+350,Dipl.-Ing. Paul Pölitz MBA.,26.09.1947,M,Lebend,SYN-B-000350,TEST-B-00350,"350 Research Boulevard, Berlin, Germany",k.A.,30,41,k.A.
+351,Rouven Knappe B.Eng.,17.06.1954,F,Lebend,SYN-B-000351,TEST-B-00351,"351 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00351,5,17,k.A.
+352,Frau Nadin Wilms,26.04.1935,X,Lebend,SYN-B-000352,TEST-B-00352,"352 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00352,24,26,k.A.
+353,Dr. Lorenz Meyer B.Eng.,15.06.1988,M,Lebend,SYN-B-000353,TEST-B-00353,"353 Test Street, Berlin, Germany",TEST-CONTACT-B-00353,19,28,k.A.
+354,Ing. Heinrich Herrmann B.Eng.,25.02.1984,F,Lebend,SYN-B-000354,TEST-B-00354,"354 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00354,13,34,k.A.
+355,Gerald Käster,16.10.1978,X,Lebend,SYN-B-000355,TEST-B-00355,"355 Sample Crescent, Berlin, Germany",k.A.,20,10,k.A.
+356,Herr Gernot Putz B.A.,09.08.1979,X,Lebend,SYN-B-000356,TEST-B-00356,"356 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00356,8,34,k.A.
+357,Jochen Gude B.A.,25.09.1934,X,Lebend,SYN-B-000357,TEST-B-00357,"357 Demo Road, Berlin, Germany",TEST-CONTACT-B-00357,23,35,k.A.
+358,Evelyn Ehlert,24.07.1936,F,Lebend,SYN-B-000358,TEST-B-00358,"358 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00358,24,20,k.A.
+359,Halina Metz,30.10.1989,M,Lebend,SYN-B-000359,TEST-B-00359,"359 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00359,28,51,k.A.
+360,Elfi Rudolph,24.11.1953,M,Lebend,SYN-B-000360,TEST-B-00360,"360 Demo Road, Berlin, Germany",k.A.,12,8,k.A.
+361,Ing. Karen Mude,26.03.1937,M,Lebend,SYN-B-000361,TEST-B-00361,"361 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00361,21,26,k.A.
+362,Frau Nadeshda Beckmann MBA.,02.04.1930,F,Lebend,SYN-B-000362,TEST-B-00362,"362 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00362,39,29,k.A.
+363,Götz Meister,08.06.2013,M,Lebend,SYN-B-000363,TEST-B-00363,"363 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00363,39,46,k.A.
+364,Univ.Prof. Gabriel Trommler MBA.,11.12.1970,X,Lebend,SYN-B-000364,TEST-B-00364,"364 Demo Road, Berlin, Germany",TEST-CONTACT-B-00364,20,39,k.A.
+365,Klaus-Ulrich Henk,11.03.1953,M,Lebend,SYN-B-000365,TEST-B-00365,"365 Example Avenue, Berlin, Germany",k.A.,5,45,k.A.
+366,Sabine Vogt,08.03.2000,F,Lebend,SYN-B-000366,TEST-B-00366,"366 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00366,14,45,k.A.
+367,Dr. Detlef Köster,19.02.1971,M,Lebend,SYN-B-000367,TEST-B-00367,"367 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00367,14,9,k.A.
+368,Herr Ehrhard Harloff,02.11.2011,F,Lebend,SYN-B-000368,TEST-B-00368,"368 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00368,16,38,k.A.
+369,Ignatz Dietz,18.12.1939,M,Lebend,SYN-B-000369,TEST-B-00369,"369 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00369,4,19,k.A.
+370,Dipl.-Ing. Aynur Löwer,05.11.1950,M,Lebend,SYN-B-000370,TEST-B-00370,"370 Research Boulevard, Berlin, Germany",k.A.,7,33,k.A.
+371,Dipl.-Ing. Sören Sölzer,22.12.1941,X,Lebend,SYN-B-000371,TEST-B-00371,"371 Test Street, Berlin, Germany",TEST-CONTACT-B-00371,2,33,k.A.
+372,Vadim Zimmer-Textor,27.02.1999,M,Lebend,SYN-B-000372,TEST-B-00372,"372 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00372,12,26,k.A.
+373,Arnd Pölitz,30.11.1996,M,Lebend,SYN-B-000373,TEST-B-00373,"373 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00373,37,36,k.A.
+374,Liliane Klapp,04.01.1988,M,Lebend,SYN-B-000374,TEST-B-00374,"374 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00374,25,23,k.A.
+375,Anatoli Henschel,24.07.1971,M,Lebend,SYN-B-000375,TEST-B-00375,"375 Fictional Lane, Berlin, Germany",k.A.,25,54,k.A.
+376,Francesco Schmidt,08.11.1938,M,Lebend,SYN-B-000376,TEST-B-00376,"376 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00376,10,6,k.A.
+377,Resi Beyer,14.09.2004,M,Lebend,SYN-B-000377,TEST-B-00377,"377 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00377,44,3,k.A.
+378,Hans Josef Ladeck-Gutknecht,03.12.1973,X,Lebend,SYN-B-000378,TEST-B-00378,"378 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00378,36,6,k.A.
+379,Wulf Jäntsch,08.10.2000,M,Lebend,SYN-B-000379,TEST-B-00379,"379 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00379,23,44,k.A.
+380,Dr. Geert Trub,03.07.1999,X,Lebend,SYN-B-000380,TEST-B-00380,"380 Test Street, Berlin, Germany",k.A.,13,16,k.A.
+381,Uta Heß,08.05.1998,X,Verstorben,SYN-B-000381,TEST-B-00381,"381 Test Street, Berlin, Germany",TEST-CONTACT-B-00381,43,54,25.12.2025
+382,Abdullah Lindau,29.10.2014,X,Verstorben,SYN-B-000382,TEST-B-00382,"382 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00382,20,18,07.09.2025
+383,Doreen Fröhlich,17.07.1934,X,Lebend,SYN-B-000383,TEST-B-00383,"383 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00383,6,26,k.A.
+384,Charlotte Stiffel,05.08.1950,X,Lebend,SYN-B-000384,TEST-B-00384,"384 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00384,26,41,k.A.
+385,Ing. Jerzy Löwer B.A.,16.10.2001,M,Lebend,SYN-B-000385,TEST-B-00385,"385 Research Boulevard, Berlin, Germany",k.A.,22,41,k.A.
+386,Univ.Prof. Freya Schmidtke,21.07.1933,X,Lebend,SYN-B-000386,TEST-B-00386,"386 Demo Road, Berlin, Germany",TEST-CONTACT-B-00386,5,17,k.A.
+387,Monika Herrmann,01.03.1963,M,Lebend,SYN-B-000387,TEST-B-00387,"387 Test Street, Berlin, Germany",TEST-CONTACT-B-00387,23,7,k.A.
+388,Laszlo Wagenknecht-Atzler,20.01.1939,F,Lebend,SYN-B-000388,TEST-B-00388,"388 Test Street, Berlin, Germany",TEST-CONTACT-B-00388,16,30,k.A.
+389,Gisbert Börner,09.10.2009,F,Lebend,SYN-B-000389,TEST-B-00389,"389 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00389,11,26,k.A.
+390,Friedhelm Misicher,25.05.1985,X,Verstorben,SYN-B-000390,TEST-B-00390,"390 Sample Crescent, Berlin, Germany",k.A.,43,52,18.11.2024
+391,Frau Adele Bolander B.Eng.,21.05.2006,F,Lebend,SYN-B-000391,TEST-B-00391,"391 Test Street, Berlin, Germany",TEST-CONTACT-B-00391,37,34,k.A.
+392,Lotti Preiß B.Sc.,02.02.2006,F,Lebend,SYN-B-000392,TEST-B-00392,"392 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00392,35,21,k.A.
+393,Prof. Frederik Ehlert B.Sc.,10.01.1966,X,Lebend,SYN-B-000393,TEST-B-00393,"393 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00393,19,30,k.A.
+394,Patrik Bolnbach,16.01.1992,X,Lebend,SYN-B-000394,TEST-B-00394,"394 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00394,2,24,k.A.
+395,Liesa Schulz,14.09.1936,M,Lebend,SYN-B-000395,TEST-B-00395,"395 Sample Crescent, Berlin, Germany",k.A.,43,14,k.A.
+396,Wanda Killer-Gutknecht,11.11.1952,X,Lebend,SYN-B-000396,TEST-B-00396,"396 Demo Road, Berlin, Germany",TEST-CONTACT-B-00396,36,26,k.A.
+397,Univ.Prof. Serpil Hermann,04.01.1934,X,Lebend,SYN-B-000397,TEST-B-00397,"397 Test Street, Berlin, Germany",TEST-CONTACT-B-00397,21,35,k.A.
+398,Nurettin Heinz,29.09.1988,F,Lebend,SYN-B-000398,TEST-B-00398,"398 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00398,14,54,k.A.
+399,Hansgeorg Scheibe,08.09.2002,X,Lebend,SYN-B-000399,TEST-B-00399,"399 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00399,6,30,k.A.
+400,Wilhelmine Fröhlich B.Sc.,05.01.2001,X,Lebend,SYN-B-000400,TEST-B-00400,"400 Research Boulevard, Berlin, Germany",k.A.,14,37,k.A.
+401,Ottfried Preiß,26.03.1950,F,Lebend,SYN-B-000401,TEST-B-00401,"401 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00401,19,11,k.A.
+402,Ing. Suzanne Kostolzin B.Eng.,30.08.1956,X,Lebend,SYN-B-000402,TEST-B-00402,"402 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00402,5,45,k.A.
+403,Isabella Speer,30.08.1992,M,Lebend,SYN-B-000403,TEST-B-00403,"403 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00403,12,45,k.A.
+404,Salih Dussen van,03.03.1982,X,Lebend,SYN-B-000404,TEST-B-00404,"404 Demo Road, Berlin, Germany",TEST-CONTACT-B-00404,9,10,k.A.
+405,Adriana Schlosser,17.08.2001,X,Lebend,SYN-B-000405,TEST-B-00405,"405 Fictional Lane, Berlin, Germany",k.A.,13,28,k.A.
+406,Reimund Stiffel,08.04.1965,M,Lebend,SYN-B-000406,TEST-B-00406,"406 Demo Road, Berlin, Germany",TEST-CONTACT-B-00406,3,55,k.A.
+407,Ing. Ahmed Peukert B.Sc.,16.01.1987,X,Lebend,SYN-B-000407,TEST-B-00407,"407 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00407,42,19,k.A.
+408,Dipl.-Ing. Louise Wiek,04.11.1960,X,Lebend,SYN-B-000408,TEST-B-00408,"408 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00408,22,10,k.A.
+409,Cäcilie Etzler,20.05.1932,F,Lebend,SYN-B-000409,TEST-B-00409,"409 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00409,31,15,k.A.
+410,Beatrice Mude-Rudolph,13.02.2002,F,Lebend,SYN-B-000410,TEST-B-00410,"410 Fictional Lane, Berlin, Germany",k.A.,25,32,k.A.
+411,Bettina Roht-Dörschner,09.09.1973,F,Lebend,SYN-B-000411,TEST-B-00411,"411 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00411,42,49,k.A.
+412,Karoline Ziegert,14.08.2004,F,Lebend,SYN-B-000412,TEST-B-00412,"412 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00412,35,43,k.A.
+413,Winfried Krause,17.11.1971,X,Lebend,SYN-B-000413,TEST-B-00413,"413 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00413,4,1,k.A.
+414,Viola Kobelt,25.07.1961,X,Lebend,SYN-B-000414,TEST-B-00414,"414 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00414,40,9,k.A.
+415,Myriam Junk-Koch,05.08.1969,F,Lebend,SYN-B-000415,TEST-B-00415,"415 Demo Road, Berlin, Germany",k.A.,1,44,k.A.
+416,Zenon Löffler-Seifert,15.08.1976,F,Lebend,SYN-B-000416,TEST-B-00416,"416 Test Street, Berlin, Germany",TEST-CONTACT-B-00416,15,51,k.A.
+417,Ing. Arnulf Girschner B.Eng.,10.11.1940,F,Lebend,SYN-B-000417,TEST-B-00417,"417 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00417,25,9,k.A.
+418,Bastian Röhrdanz MBA.,18.09.1930,M,Lebend,SYN-B-000418,TEST-B-00418,"418 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00418,2,29,k.A.
+419,Annette Lübs-Trapp,06.06.1989,X,Lebend,SYN-B-000419,TEST-B-00419,"419 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00419,11,20,k.A.
+420,Dipl.-Ing. Aurelia Rädel B.Eng.,19.02.2011,X,Lebend,SYN-B-000420,TEST-B-00420,"420 Sample Crescent, Berlin, Germany",k.A.,31,12,k.A.
+421,Moritz Kramer,10.04.1972,X,Lebend,SYN-B-000421,TEST-B-00421,"421 Test Street, Berlin, Germany",TEST-CONTACT-B-00421,13,15,k.A.
+422,Ing. Patricia Drewes,20.08.1955,F,Verstorben,SYN-B-000422,TEST-B-00422,"422 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00422,42,17,27.03.2024
+423,Damian Löwer-Pärtzelt,07.09.1963,M,Lebend,SYN-B-000423,TEST-B-00423,"423 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00423,39,2,k.A.
+424,Michelle Hering,30.04.2008,F,Lebend,SYN-B-000424,TEST-B-00424,"424 Demo Road, Berlin, Germany",TEST-CONTACT-B-00424,10,27,k.A.
+425,Heidemarie Baum B.Eng.,03.02.1967,F,Verstorben,SYN-B-000425,TEST-B-00425,"425 Test Street, Berlin, Germany",k.A.,30,51,10.10.2024
+426,Sylvio Kusch,22.06.1999,M,Lebend,SYN-B-000426,TEST-B-00426,"426 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00426,1,25,k.A.
+427,Undine Weihmann,21.11.2005,F,Lebend,SYN-B-000427,TEST-B-00427,"427 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00427,34,28,k.A.
+428,Sabrina Kostolzin-Adler,28.01.1996,X,Lebend,SYN-B-000428,TEST-B-00428,"428 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00428,18,4,k.A.
+429,Dr. Ricarda Salz B.Eng.,01.11.1931,F,Lebend,SYN-B-000429,TEST-B-00429,"429 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00429,18,6,k.A.
+430,Frau Rosa Haase B.Eng.,16.12.1958,M,Lebend,SYN-B-000430,TEST-B-00430,"430 Fictional Lane, Berlin, Germany",k.A.,39,5,k.A.
+431,Univ.Prof. Carsten Hiller,17.05.1933,X,Lebend,SYN-B-000431,TEST-B-00431,"431 Test Street, Berlin, Germany",TEST-CONTACT-B-00431,11,53,k.A.
+432,Regine Franke,17.07.1945,F,Lebend,SYN-B-000432,TEST-B-00432,"432 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00432,44,45,k.A.
+433,Prof. Uschi Wulff,06.10.1989,X,Lebend,SYN-B-000433,TEST-B-00433,"433 Demo Road, Berlin, Germany",TEST-CONTACT-B-00433,1,40,k.A.
+434,Abram Haase MBA.,06.06.1975,M,Lebend,SYN-B-000434,TEST-B-00434,"434 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00434,19,49,k.A.
+435,Ing. Karin Bloch,06.07.1968,X,Lebend,SYN-B-000435,TEST-B-00435,"435 Example Avenue, Berlin, Germany",k.A.,1,22,k.A.
+436,André Lachmann B.Sc.,19.07.2006,F,Lebend,SYN-B-000436,TEST-B-00436,"436 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00436,25,28,k.A.
+437,Natalia Paffrath,23.12.1963,M,Lebend,SYN-B-000437,TEST-B-00437,"437 Demo Road, Berlin, Germany",TEST-CONTACT-B-00437,34,22,k.A.
+438,Wolf-Dieter Döhn B.Sc.,12.10.1947,M,Lebend,SYN-B-000438,TEST-B-00438,"438 Test Street, Berlin, Germany",TEST-CONTACT-B-00438,22,17,k.A.
+439,Hendrik Textor,19.10.1978,X,Lebend,SYN-B-000439,TEST-B-00439,"439 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00439,31,2,k.A.
+440,Hanife Kostolzin,02.05.1975,M,Lebend,SYN-B-000440,TEST-B-00440,"440 Research Boulevard, Berlin, Germany",k.A.,17,17,k.A.
+441,Theodoros Geisler,14.05.1998,F,Lebend,SYN-B-000441,TEST-B-00441,"441 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00441,36,28,k.A.
+442,Ole Bärer,03.04.1967,F,Lebend,SYN-B-000442,TEST-B-00442,"442 Test Street, Berlin, Germany",TEST-CONTACT-B-00442,29,17,k.A.
+443,Dörthe Hermighausen,11.05.1990,F,Lebend,SYN-B-000443,TEST-B-00443,"443 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00443,9,12,k.A.
+444,Dipl.-Ing. Ellen Häring,13.06.1981,M,Lebend,SYN-B-000444,TEST-B-00444,"444 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00444,18,49,k.A.
+445,Roswita Schmidtke,18.12.1949,M,Verstorben,SYN-B-000445,TEST-B-00445,"445 Test Street, Berlin, Germany",k.A.,7,32,31.10.2024
+446,Arnulf Trapp,10.11.1979,F,Lebend,SYN-B-000446,TEST-B-00446,"446 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00446,14,48,k.A.
+447,Ing. Dimitri Etzler,30.09.1977,X,Lebend,SYN-B-000447,TEST-B-00447,"447 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00447,39,32,k.A.
+448,Axel Stumpf B.Eng.,23.12.1972,X,Lebend,SYN-B-000448,TEST-B-00448,"448 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00448,17,9,k.A.
+449,Univ.Prof. Aneta Segebahn,19.12.1982,F,Lebend,SYN-B-000449,TEST-B-00449,"449 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00449,38,30,k.A.
+450,Univ.Prof. Ariane Mitschke B.Eng.,08.04.1959,F,Lebend,SYN-B-000450,TEST-B-00450,"450 Research Boulevard, Berlin, Germany",k.A.,25,42,k.A.
+451,Klaus-Peter Conradi,16.01.2014,X,Lebend,SYN-B-000451,TEST-B-00451,"451 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00451,40,45,k.A.
+452,Prof. Alexandros Ruppersberger,30.01.1986,F,Lebend,SYN-B-000452,TEST-B-00452,"452 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00452,38,46,k.A.
+453,Prof. Nuray Flantz B.Eng.,02.02.2002,F,Lebend,SYN-B-000453,TEST-B-00453,"453 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00453,2,20,k.A.
+454,Patric Köhler,10.12.2011,F,Lebend,SYN-B-000454,TEST-B-00454,"454 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00454,37,37,k.A.
+455,Univ.Prof. Elwira Jäntsch,22.11.1943,M,Lebend,SYN-B-000455,TEST-B-00455,"455 Fictional Lane, Berlin, Germany",k.A.,8,12,k.A.
+456,Pawel Jacob MBA.,14.05.1989,F,Verstorben,SYN-B-000456,TEST-B-00456,"456 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00456,7,11,24.06.2024
+457,Antoinette Schönland-Wagner,14.12.1952,F,Lebend,SYN-B-000457,TEST-B-00457,"457 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00457,38,30,k.A.
+458,Elzbieta Eberhardt,20.06.1955,X,Lebend,SYN-B-000458,TEST-B-00458,"458 Test Street, Berlin, Germany",TEST-CONTACT-B-00458,26,46,k.A.
+459,Prof. Daria Nohlmans B.A.,24.09.1995,M,Lebend,SYN-B-000459,TEST-B-00459,"459 Demo Road, Berlin, Germany",TEST-CONTACT-B-00459,25,46,k.A.
+460,Viola Möchlichen,13.10.1990,X,Lebend,SYN-B-000460,TEST-B-00460,"460 Example Avenue, Berlin, Germany",k.A.,18,27,k.A.
+461,Prof. Claudio Caspar,31.05.1962,X,Lebend,SYN-B-000461,TEST-B-00461,"461 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00461,30,9,k.A.
+462,Folkert Eimer,08.04.1973,M,Verstorben,SYN-B-000462,TEST-B-00462,"462 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00462,26,16,05.01.2025
+463,Elsbeth Tintzmann MBA.,19.05.1939,F,Lebend,SYN-B-000463,TEST-B-00463,"463 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00463,24,30,k.A.
+464,Dr. Antonie Misicher,08.06.1999,M,Lebend,SYN-B-000464,TEST-B-00464,"464 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00464,28,18,k.A.
+465,Ing. Alena Patberg,18.08.1947,M,Lebend,SYN-B-000465,TEST-B-00465,"465 Sample Crescent, Berlin, Germany",k.A.,14,6,k.A.
+466,Frau Kathi Stroh B.A.,30.12.1949,M,Lebend,SYN-B-000466,TEST-B-00466,"466 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00466,29,4,k.A.
+467,Dr. Peter Caspar,05.01.1986,F,Lebend,SYN-B-000467,TEST-B-00467,"467 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00467,25,53,k.A.
+468,Dipl.-Ing. Irmtraud Hermann B.Eng.,01.01.1940,M,Verstorben,SYN-B-000468,TEST-B-00468,"468 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00468,6,48,04.10.2025
+469,Bastian Köhler,30.07.1965,F,Lebend,SYN-B-000469,TEST-B-00469,"469 Demo Road, Berlin, Germany",TEST-CONTACT-B-00469,3,32,k.A.
+470,Dipl.-Ing. Nancy Gunpf,22.08.1969,X,Lebend,SYN-B-000470,TEST-B-00470,"470 Test Street, Berlin, Germany",k.A.,30,50,k.A.
+471,Gerd Dippel,21.11.1970,X,Lebend,SYN-B-000471,TEST-B-00471,"471 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00471,31,38,k.A.
+472,Traute Gnatz B.Sc.,14.11.1969,X,Lebend,SYN-B-000472,TEST-B-00472,"472 Test Street, Berlin, Germany",TEST-CONTACT-B-00472,10,41,k.A.
+473,Jana Hertrampf MBA.,17.02.1974,X,Lebend,SYN-B-000473,TEST-B-00473,"473 Test Street, Berlin, Germany",TEST-CONTACT-B-00473,7,12,k.A.
+474,Dimitrios Trapp MBA.,18.01.2008,X,Lebend,SYN-B-000474,TEST-B-00474,"474 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00474,27,55,k.A.
+475,Bernward Ring B.Eng.,16.05.1934,F,Lebend,SYN-B-000475,TEST-B-00475,"475 Research Boulevard, Berlin, Germany",k.A.,30,32,k.A.
+476,Friedlinde Lange,04.08.1941,F,Lebend,SYN-B-000476,TEST-B-00476,"476 Test Street, Berlin, Germany",TEST-CONTACT-B-00476,20,29,k.A.
+477,Knud Gröttner B.Sc.,21.05.2007,F,Lebend,SYN-B-000477,TEST-B-00477,"477 Test Street, Berlin, Germany",TEST-CONTACT-B-00477,6,33,k.A.
+478,Dorina Wiek,16.08.1949,F,Lebend,SYN-B-000478,TEST-B-00478,"478 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00478,23,39,k.A.
+479,Guido Scheuermann B.A.,06.07.1971,M,Lebend,SYN-B-000479,TEST-B-00479,"479 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00479,5,20,k.A.
+480,Ing. Torsten Heydrich,21.03.1997,X,Lebend,SYN-B-000480,TEST-B-00480,"480 Fictional Lane, Berlin, Germany",k.A.,1,39,k.A.
+481,Faruk Geisel,04.10.1945,X,Lebend,SYN-B-000481,TEST-B-00481,"481 Test Street, Berlin, Germany",TEST-CONTACT-B-00481,41,25,k.A.
+482,Univ.Prof. Sonja Ernst B.Eng.,22.12.1939,X,Lebend,SYN-B-000482,TEST-B-00482,"482 Demo Road, Berlin, Germany",TEST-CONTACT-B-00482,37,40,k.A.
+483,Jenny Lorch,13.05.1974,X,Lebend,SYN-B-000483,TEST-B-00483,"483 Test Street, Berlin, Germany",TEST-CONTACT-B-00483,36,48,k.A.
+484,Frau Jaqueline Liebelt MBA.,09.05.1980,X,Lebend,SYN-B-000484,TEST-B-00484,"484 Demo Road, Berlin, Germany",TEST-CONTACT-B-00484,31,55,k.A.
+485,Frau Leonie Plath,30.12.2006,M,Lebend,SYN-B-000485,TEST-B-00485,"485 Demo Road, Berlin, Germany",k.A.,44,39,k.A.
+486,Siegrid Hartung,15.05.1935,X,Lebend,SYN-B-000486,TEST-B-00486,"486 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00486,44,41,k.A.
+487,Ralf Scheibe,08.02.1995,M,Lebend,SYN-B-000487,TEST-B-00487,"487 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00487,34,39,k.A.
+488,Frau Silvia Geisler B.Sc.,04.07.1997,M,Lebend,SYN-B-000488,TEST-B-00488,"488 Test Street, Berlin, Germany",TEST-CONTACT-B-00488,19,54,k.A.
+489,Harro Hethur,09.12.2013,M,Lebend,SYN-B-000489,TEST-B-00489,"489 Demo Road, Berlin, Germany",TEST-CONTACT-B-00489,22,30,k.A.
+490,Felix Lehmann,23.10.1985,F,Lebend,SYN-B-000490,TEST-B-00490,"490 Fictional Lane, Berlin, Germany",k.A.,31,17,k.A.
+491,Julian Birnbaum,09.12.2003,X,Lebend,SYN-B-000491,TEST-B-00491,"491 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00491,20,2,k.A.
+492,Walli Gutknecht-Fröhlich,10.05.1987,F,Lebend,SYN-B-000492,TEST-B-00492,"492 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00492,28,2,k.A.
+493,Prof. Karl-Heinz Junitz MBA.,03.07.1969,X,Lebend,SYN-B-000493,TEST-B-00493,"493 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00493,33,23,k.A.
+494,Heinrich Tlustek-Ring,14.08.1969,X,Lebend,SYN-B-000494,TEST-B-00494,"494 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00494,35,7,k.A.
+495,Hanne-Lore Köhler,19.05.1960,F,Lebend,SYN-B-000495,TEST-B-00495,"495 Sample Crescent, Berlin, Germany",k.A.,21,14,k.A.
+496,Laszlo Huhn-Nerger,02.10.1956,X,Lebend,SYN-B-000496,TEST-B-00496,"496 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00496,43,52,k.A.
+497,Herr Robby Gieß,08.03.1947,X,Lebend,SYN-B-000497,TEST-B-00497,"497 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00497,32,41,k.A.
+498,Rotraut Lehmann,25.03.2011,M,Lebend,SYN-B-000498,TEST-B-00498,"498 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00498,20,35,k.A.
+499,Klaus-Peter Loos-Rörricht,26.02.1931,F,Lebend,SYN-B-000499,TEST-B-00499,"499 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00499,35,30,k.A.
+500,Univ.Prof. Stavros Weimer,01.04.1985,M,Verstorben,SYN-B-000500,TEST-B-00500,"500 Fictional Lane, Berlin, Germany",k.A.,42,4,17.10.2025
+501,German Wernecke,01.09.1967,X,Lebend,SYN-B-000501,TEST-B-00501,"501 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00501,39,55,k.A.
+502,Berit Köster,27.08.1959,F,Lebend,SYN-B-000502,TEST-B-00502,"502 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00502,41,49,k.A.
+503,Gunter Steckel,15.08.1936,M,Lebend,SYN-B-000503,TEST-B-00503,"503 Demo Road, Berlin, Germany",TEST-CONTACT-B-00503,41,3,k.A.
+504,Georg Gute,08.03.1980,F,Lebend,SYN-B-000504,TEST-B-00504,"504 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00504,25,46,k.A.
+505,Simone Weinhold-Otto,12.04.1988,F,Lebend,SYN-B-000505,TEST-B-00505,"505 Test Street, Berlin, Germany",k.A.,31,50,k.A.
+506,Dino Killer,27.10.1991,F,Lebend,SYN-B-000506,TEST-B-00506,"506 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00506,10,20,k.A.
+507,Hans-Hinrich Hethur,17.08.1961,X,Lebend,SYN-B-000507,TEST-B-00507,"507 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00507,1,41,k.A.
+508,Volkmar Barkholz,11.07.2011,F,Lebend,SYN-B-000508,TEST-B-00508,"508 Demo Road, Berlin, Germany",TEST-CONTACT-B-00508,26,47,k.A.
+509,Prof. Aribert Koch B.Eng.,19.10.2008,F,Lebend,SYN-B-000509,TEST-B-00509,"509 Test Street, Berlin, Germany",TEST-CONTACT-B-00509,9,42,k.A.
+510,Tadeusz Schmidtke,26.07.1945,X,Lebend,SYN-B-000510,TEST-B-00510,"510 Fictional Lane, Berlin, Germany",k.A.,25,51,k.A.
+511,Helmuth Textor,08.02.1990,X,Lebend,SYN-B-000511,TEST-B-00511,"511 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00511,10,10,k.A.
+512,Ella Patberg,22.12.1939,M,Lebend,SYN-B-000512,TEST-B-00512,"512 Demo Road, Berlin, Germany",TEST-CONTACT-B-00512,16,14,k.A.
+513,Valentina Kusch,06.01.1968,M,Lebend,SYN-B-000513,TEST-B-00513,"513 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00513,2,48,k.A.
+514,Beata Fröhlich-Wernecke,16.12.1939,F,Lebend,SYN-B-000514,TEST-B-00514,"514 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00514,12,5,k.A.
+515,Katalin Peukert,07.08.1991,F,Lebend,SYN-B-000515,TEST-B-00515,"515 Fictional Lane, Berlin, Germany",k.A.,37,9,k.A.
+516,Birte Dussen van-Möchlichen,05.03.1941,X,Lebend,SYN-B-000516,TEST-B-00516,"516 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00516,44,15,k.A.
+517,Dipl.-Ing. Dörthe Anders,03.09.2005,F,Verstorben,SYN-B-000517,TEST-B-00517,"517 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00517,11,28,09.08.2026
+518,Michaela Huhn,12.09.1992,M,Lebend,SYN-B-000518,TEST-B-00518,"518 Test Street, Berlin, Germany",TEST-CONTACT-B-00518,16,20,k.A.
+519,Goran Henck,09.08.1958,M,Lebend,SYN-B-000519,TEST-B-00519,"519 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00519,20,35,k.A.
+520,Dr. Cemal Lachmann,21.12.2007,X,Lebend,SYN-B-000520,TEST-B-00520,"520 Sample Crescent, Berlin, Germany",k.A.,15,15,k.A.
+521,Simona Siering,18.05.2004,F,Lebend,SYN-B-000521,TEST-B-00521,"521 Demo Road, Berlin, Germany",TEST-CONTACT-B-00521,12,12,k.A.
+522,Dr. Hans Georg Aumann B.Sc.,12.06.1970,F,Lebend,SYN-B-000522,TEST-B-00522,"522 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00522,23,10,k.A.
+523,Valentin Krein,06.02.1994,F,Lebend,SYN-B-000523,TEST-B-00523,"523 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00523,35,34,k.A.
+524,Dr. Juliane Loos B.Sc.,09.03.1938,F,Lebend,SYN-B-000524,TEST-B-00524,"524 Demo Road, Berlin, Germany",TEST-CONTACT-B-00524,28,22,k.A.
+525,Anto Lange,15.06.1991,M,Lebend,SYN-B-000525,TEST-B-00525,"525 Sample Crescent, Berlin, Germany",k.A.,6,43,k.A.
+526,Susanne Kitzmann,29.07.1999,M,Lebend,SYN-B-000526,TEST-B-00526,"526 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00526,33,28,k.A.
+527,Eitel Geisler,24.07.2012,M,Lebend,SYN-B-000527,TEST-B-00527,"527 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00527,35,27,k.A.
+528,Bernadette Hethur,16.01.1945,M,Lebend,SYN-B-000528,TEST-B-00528,"528 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00528,5,36,k.A.
+529,Prof. Andrei Reuter,31.05.1954,M,Lebend,SYN-B-000529,TEST-B-00529,"529 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00529,37,37,k.A.
+530,Tatiana Karge,05.05.1974,M,Lebend,SYN-B-000530,TEST-B-00530,"530 Test Street, Berlin, Germany",k.A.,9,47,k.A.
+531,Svetlana Jockel,12.04.2006,X,Lebend,SYN-B-000531,TEST-B-00531,"531 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00531,2,29,k.A.
+532,Univ.Prof. Aline Hövel MBA.,23.09.1945,F,Lebend,SYN-B-000532,TEST-B-00532,"532 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00532,43,28,k.A.
+533,Stanislaw Wohlgemut,23.11.1976,F,Lebend,SYN-B-000533,TEST-B-00533,"533 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00533,4,28,k.A.
+534,Eckehard Lachmann B.A.,07.07.2013,X,Lebend,SYN-B-000534,TEST-B-00534,"534 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00534,45,47,k.A.
+535,Ortwin Säuberlich B.Sc.,20.06.1980,M,Lebend,SYN-B-000535,TEST-B-00535,"535 Example Avenue, Berlin, Germany",k.A.,12,1,k.A.
+536,Isidor Hofmann-Säuberlich,24.12.2011,F,Lebend,SYN-B-000536,TEST-B-00536,"536 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00536,27,48,k.A.
+537,Univ.Prof. Niels Holt,09.11.1988,M,Lebend,SYN-B-000537,TEST-B-00537,"537 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00537,34,53,k.A.
+538,Marion Mende,01.07.1958,M,Lebend,SYN-B-000538,TEST-B-00538,"538 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00538,9,42,k.A.
+539,Silvester Römer,20.11.2013,F,Lebend,SYN-B-000539,TEST-B-00539,"539 Test Street, Berlin, Germany",TEST-CONTACT-B-00539,3,4,k.A.
+540,Zenta Zahn,28.10.1996,F,Lebend,SYN-B-000540,TEST-B-00540,"540 Demo Road, Berlin, Germany",k.A.,10,43,k.A.
+541,Trudi Birnbaum-Scholl,19.09.1930,M,Lebend,SYN-B-000541,TEST-B-00541,"541 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00541,1,22,k.A.
+542,Alexandros Lachmann,31.01.2013,X,Lebend,SYN-B-000542,TEST-B-00542,"542 Test Street, Berlin, Germany",TEST-CONTACT-B-00542,45,53,k.A.
+543,Zita Jäntsch,30.05.1971,M,Lebend,SYN-B-000543,TEST-B-00543,"543 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00543,23,55,k.A.
+544,Cemal Rohleder,05.09.2014,X,Lebend,SYN-B-000544,TEST-B-00544,"544 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00544,18,19,k.A.
+545,Prof. Klaus-Ulrich Neureuther,10.04.2014,F,Lebend,SYN-B-000545,TEST-B-00545,"545 Test Street, Berlin, Germany",k.A.,11,32,k.A.
+546,Raphael Ruppersberger,30.08.1988,F,Lebend,SYN-B-000546,TEST-B-00546,"546 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00546,22,6,k.A.
+547,Alida Plath,07.01.1996,X,Lebend,SYN-B-000547,TEST-B-00547,"547 Demo Road, Berlin, Germany",TEST-CONTACT-B-00547,6,30,k.A.
+548,Erhardt Bauer B.Eng.,30.09.1961,X,Lebend,SYN-B-000548,TEST-B-00548,"548 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00548,31,51,k.A.
+549,Simone Köster,26.02.2004,F,Lebend,SYN-B-000549,TEST-B-00549,"549 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00549,2,8,k.A.
+550,Theo Christoph MBA.,27.05.1981,M,Lebend,SYN-B-000550,TEST-B-00550,"550 Sample Crescent, Berlin, Germany",k.A.,8,26,k.A.
+551,Osman Beyer,16.07.1966,F,Lebend,SYN-B-000551,TEST-B-00551,"551 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00551,29,49,k.A.
+552,Univ.Prof. Rena Schmiedt,14.10.1945,M,Lebend,SYN-B-000552,TEST-B-00552,"552 Demo Road, Berlin, Germany",TEST-CONTACT-B-00552,13,7,k.A.
+553,Felix Rust,17.09.1966,X,Lebend,SYN-B-000553,TEST-B-00553,"553 Test Street, Berlin, Germany",TEST-CONTACT-B-00553,23,27,k.A.
+554,Ilse Vogt,14.05.1950,X,Verstorben,SYN-B-000554,TEST-B-00554,"554 Demo Road, Berlin, Germany",TEST-CONTACT-B-00554,15,19,19.09.2026
+555,Felicitas Rosemann,01.08.1959,F,Lebend,SYN-B-000555,TEST-B-00555,"555 Research Boulevard, Berlin, Germany",k.A.,26,43,k.A.
+556,Franz-Xaver Börner,11.06.2001,X,Lebend,SYN-B-000556,TEST-B-00556,"556 Demo Road, Berlin, Germany",TEST-CONTACT-B-00556,39,46,k.A.
+557,Melitta Lange-Hartung,09.05.1997,F,Lebend,SYN-B-000557,TEST-B-00557,"557 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00557,18,41,k.A.
+558,Ing. Yasemin Scheuermann,08.07.1952,X,Lebend,SYN-B-000558,TEST-B-00558,"558 Test Street, Berlin, Germany",TEST-CONTACT-B-00558,1,42,k.A.
+559,Dr. Christopher Hübel,09.12.1939,F,Lebend,SYN-B-000559,TEST-B-00559,"559 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00559,12,16,k.A.
+560,Felicitas Etzold-Pieper,08.06.1987,M,Lebend,SYN-B-000560,TEST-B-00560,"560 Sample Crescent, Berlin, Germany",k.A.,23,37,k.A.
+561,Sören Drewes,30.10.2014,F,Lebend,SYN-B-000561,TEST-B-00561,"561 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00561,24,39,k.A.
+562,Erhard Rust MBA.,08.01.1992,M,Lebend,SYN-B-000562,TEST-B-00562,"562 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00562,44,30,k.A.
+563,Josefa Pölitz,22.12.1997,M,Lebend,SYN-B-000563,TEST-B-00563,"563 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00563,30,50,k.A.
+564,Vittorio Caspar,05.10.1990,F,Lebend,SYN-B-000564,TEST-B-00564,"564 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00564,31,17,k.A.
+565,Dipl.-Ing. Claire Heinrich B.Sc.,21.11.2004,X,Lebend,SYN-B-000565,TEST-B-00565,"565 Research Boulevard, Berlin, Germany",k.A.,23,34,k.A.
+566,Gernot Gnatz,06.10.1988,M,Lebend,SYN-B-000566,TEST-B-00566,"566 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00566,33,27,k.A.
+567,Frau Annelene Hesse B.Sc.,09.12.1961,M,Lebend,SYN-B-000567,TEST-B-00567,"567 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00567,33,27,k.A.
+568,Nada Hamann,26.06.1999,F,Lebend,SYN-B-000568,TEST-B-00568,"568 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00568,40,31,k.A.
+569,Ing. Czeslaw Mosemann,06.08.1978,X,Lebend,SYN-B-000569,TEST-B-00569,"569 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00569,36,48,k.A.
+570,Ing. Frank-Michael Döhn B.Sc.,30.10.1993,F,Lebend,SYN-B-000570,TEST-B-00570,"570 Test Street, Berlin, Germany",k.A.,36,49,k.A.
+571,Dipl.-Ing. Katarzyna Bloch MBA.,24.02.2013,F,Lebend,SYN-B-000571,TEST-B-00571,"571 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00571,20,36,k.A.
+572,Salvatore Bien,27.02.1944,M,Lebend,SYN-B-000572,TEST-B-00572,"572 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00572,34,20,k.A.
+573,Janos Kruschwitz B.A.,20.06.1955,F,Lebend,SYN-B-000573,TEST-B-00573,"573 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00573,44,19,k.A.
+574,Tomislav Drewes,05.06.1991,M,Lebend,SYN-B-000574,TEST-B-00574,"574 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00574,31,26,k.A.
+575,Claus-Dieter Bärer,20.07.1930,M,Lebend,SYN-B-000575,TEST-B-00575,"575 Sample Crescent, Berlin, Germany",k.A.,1,17,k.A.
+576,Ing. Karlheinz Bolzmann,20.09.1934,X,Lebend,SYN-B-000576,TEST-B-00576,"576 Test Street, Berlin, Germany",TEST-CONTACT-B-00576,22,50,k.A.
+577,Karl-Heinrich Seifert,18.01.1946,M,Lebend,SYN-B-000577,TEST-B-00577,"577 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00577,11,33,k.A.
+578,Hans-Walter Mude B.Eng.,11.07.1938,F,Lebend,SYN-B-000578,TEST-B-00578,"578 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00578,38,32,k.A.
+579,Anthony Gröttner B.Sc.,06.10.1992,X,Lebend,SYN-B-000579,TEST-B-00579,"579 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00579,34,16,k.A.
+580,Prof. Rouven Beyer B.Sc.,07.11.1967,M,Lebend,SYN-B-000580,TEST-B-00580,"580 Research Boulevard, Berlin, Germany",k.A.,29,7,k.A.
+581,Ruthild Austermühle,17.09.1963,M,Lebend,SYN-B-000581,TEST-B-00581,"581 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00581,15,45,k.A.
+582,Dipl.-Ing. Britt Gnatz MBA.,01.10.1945,M,Lebend,SYN-B-000582,TEST-B-00582,"582 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00582,42,39,k.A.
+583,Arnd Junck,05.09.1982,M,Lebend,SYN-B-000583,TEST-B-00583,"583 Demo Road, Berlin, Germany",TEST-CONTACT-B-00583,2,13,k.A.
+584,Klaus-Jürgen Scheuermann,18.11.1962,M,Lebend,SYN-B-000584,TEST-B-00584,"584 Demo Road, Berlin, Germany",TEST-CONTACT-B-00584,27,19,k.A.
+585,Herr Edgar Hermann B.Eng.,25.05.1956,M,Lebend,SYN-B-000585,TEST-B-00585,"585 Fictional Lane, Berlin, Germany",k.A.,6,48,k.A.
+586,Claus-Dieter Mende MBA.,22.09.1935,F,Lebend,SYN-B-000586,TEST-B-00586,"586 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00586,27,3,k.A.
+587,Herr Janos Biggen B.A.,14.05.1964,F,Lebend,SYN-B-000587,TEST-B-00587,"587 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00587,15,29,k.A.
+588,Abram Riehl-Trub,30.04.1940,X,Lebend,SYN-B-000588,TEST-B-00588,"588 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00588,45,25,k.A.
+589,Dipl.-Ing. Lilija Lindner B.A.,02.09.1956,M,Lebend,SYN-B-000589,TEST-B-00589,"589 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00589,1,54,k.A.
+590,Ing. Charlotte Wilms,26.02.1996,F,Lebend,SYN-B-000590,TEST-B-00590,"590 Test Street, Berlin, Germany",k.A.,31,24,k.A.
+591,Krzysztof Hiller,13.02.1933,X,Lebend,SYN-B-000591,TEST-B-00591,"591 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00591,13,5,k.A.
+592,Hans-Heinrich Mielcarek B.Sc.,30.05.1970,F,Lebend,SYN-B-000592,TEST-B-00592,"592 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00592,29,34,k.A.
+593,Dipl.-Ing. Mikhail Wilms B.A.,18.01.1936,X,Lebend,SYN-B-000593,TEST-B-00593,"593 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00593,22,46,k.A.
+594,Miguel Tlustek-Ditschlerin,30.01.1958,F,Lebend,SYN-B-000594,TEST-B-00594,"594 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00594,26,15,k.A.
+595,Ludwina Ortmann,21.11.1942,M,Lebend,SYN-B-000595,TEST-B-00595,"595 Demo Road, Berlin, Germany",k.A.,25,51,k.A.
+596,Dipl.-Ing. Ann-Kathrin Wieloch B.A.,12.09.1932,F,Lebend,SYN-B-000596,TEST-B-00596,"596 Demo Road, Berlin, Germany",TEST-CONTACT-B-00596,4,39,k.A.
+597,Prof. Andrej Stroh B.Sc.,13.10.1976,M,Verstorben,SYN-B-000597,TEST-B-00597,"597 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00597,4,1,26.04.2026
+598,Annaliese Hering,20.07.1987,X,Lebend,SYN-B-000598,TEST-B-00598,"598 Test Street, Berlin, Germany",TEST-CONTACT-B-00598,35,8,k.A.
+599,Urban Bohnbach,27.02.1986,F,Verstorben,SYN-B-000599,TEST-B-00599,"599 Demo Road, Berlin, Germany",TEST-CONTACT-B-00599,2,30,04.02.2024
+600,Dipl.-Ing. Oscar Fliegner,18.07.1966,F,Lebend,SYN-B-000600,TEST-B-00600,"600 Test Street, Berlin, Germany",k.A.,27,33,k.A.
+601,Svea Ditschlerin,09.02.1965,X,Lebend,SYN-B-000601,TEST-B-00601,"601 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00601,15,40,k.A.
+602,Dipl.-Ing. Jacek Scheibe,23.08.1970,M,Lebend,SYN-B-000602,TEST-B-00602,"602 Demo Road, Berlin, Germany",TEST-CONTACT-B-00602,25,51,k.A.
+603,Carmelo Gehringer-Karge,31.05.1953,F,Lebend,SYN-B-000603,TEST-B-00603,"603 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00603,38,51,k.A.
+604,Stefano Oestrovsky,04.12.1996,X,Lebend,SYN-B-000604,TEST-B-00604,"604 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00604,21,28,k.A.
+605,Diane Berger,08.06.1941,M,Lebend,SYN-B-000605,TEST-B-00605,"605 Sample Crescent, Berlin, Germany",k.A.,8,29,k.A.
+606,Süleyman Budig,17.11.1993,M,Lebend,SYN-B-000606,TEST-B-00606,"606 Test Street, Berlin, Germany",TEST-CONTACT-B-00606,10,48,k.A.
+607,Ulrike Schuster,10.01.1998,F,Lebend,SYN-B-000607,TEST-B-00607,"607 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00607,7,8,k.A.
+608,Cecilia Pohl-Freudenberger,23.10.1942,X,Verstorben,SYN-B-000608,TEST-B-00608,"608 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00608,36,25,02.07.2024
+609,Hakan Kaul,28.12.1935,M,Lebend,SYN-B-000609,TEST-B-00609,"609 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00609,19,38,k.A.
+610,Henny Schuster,12.03.1949,F,Lebend,SYN-B-000610,TEST-B-00610,"610 Research Boulevard, Berlin, Germany",k.A.,35,20,k.A.
+611,Hans-Hinrich Steinberg,07.04.2006,X,Lebend,SYN-B-000611,TEST-B-00611,"611 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00611,21,51,k.A.
+612,Christine Scheibe-Rosemann,05.08.1938,X,Lebend,SYN-B-000612,TEST-B-00612,"612 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00612,21,7,k.A.
+613,Leonid Steinberg,19.08.1972,X,Lebend,SYN-B-000613,TEST-B-00613,"613 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00613,42,12,k.A.
+614,Arnfried Weiß-Karge,23.08.1960,F,Lebend,SYN-B-000614,TEST-B-00614,"614 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00614,42,13,k.A.
+615,Ing. Renato Winkler B.A.,13.10.1984,F,Lebend,SYN-B-000615,TEST-B-00615,"615 Fictional Lane, Berlin, Germany",k.A.,25,33,k.A.
+616,Jana Trupp,16.02.1936,F,Lebend,SYN-B-000616,TEST-B-00616,"616 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00616,44,49,k.A.
+617,Dr. Eleonore Geisler B.Eng.,10.06.1933,X,Lebend,SYN-B-000617,TEST-B-00617,"617 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00617,6,29,k.A.
+618,Dr. Hans-Rainer Trüb MBA.,18.10.1973,X,Lebend,SYN-B-000618,TEST-B-00618,"618 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00618,27,29,k.A.
+619,Univ.Prof. Vinko Scheel B.Sc.,22.10.1996,F,Lebend,SYN-B-000619,TEST-B-00619,"619 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00619,11,23,k.A.
+620,Viola Kraushaar,21.07.1970,F,Lebend,SYN-B-000620,TEST-B-00620,"620 Fictional Lane, Berlin, Germany",k.A.,38,51,k.A.
+621,Jost Winkler,14.07.1951,X,Lebend,SYN-B-000621,TEST-B-00621,"621 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00621,43,9,k.A.
+622,Karoline Hermighausen,05.02.2007,F,Lebend,SYN-B-000622,TEST-B-00622,"622 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00622,10,49,k.A.
+623,Giuseppe Karz-Losekann,29.06.1985,M,Lebend,SYN-B-000623,TEST-B-00623,"623 Demo Road, Berlin, Germany",TEST-CONTACT-B-00623,36,26,k.A.
+624,Marc Hande,10.02.1980,M,Lebend,SYN-B-000624,TEST-B-00624,"624 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00624,28,15,k.A.
+625,Heinz Kühnert-Jopich,14.12.1993,X,Lebend,SYN-B-000625,TEST-B-00625,"625 Research Boulevard, Berlin, Germany",k.A.,19,36,k.A.
+626,Dirk Löffler-Jopich,04.06.2008,X,Lebend,SYN-B-000626,TEST-B-00626,"626 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00626,9,29,k.A.
+627,Prof. Conny Wirth MBA.,08.12.1957,F,Lebend,SYN-B-000627,TEST-B-00627,"627 Demo Road, Berlin, Germany",TEST-CONTACT-B-00627,26,54,k.A.
+628,Prof. Marija Kitzmann,06.06.1970,F,Lebend,SYN-B-000628,TEST-B-00628,"628 Demo Road, Berlin, Germany",TEST-CONTACT-B-00628,8,2,k.A.
+629,Hans-Günter Rädel,14.07.1953,X,Lebend,SYN-B-000629,TEST-B-00629,"629 Demo Road, Berlin, Germany",TEST-CONTACT-B-00629,45,51,k.A.
+630,Ronald Lübs,22.06.1963,X,Lebend,SYN-B-000630,TEST-B-00630,"630 Sample Crescent, Berlin, Germany",k.A.,7,34,k.A.
+631,Prof. Orhan Gehringer,11.05.1937,M,Lebend,SYN-B-000631,TEST-B-00631,"631 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00631,9,41,k.A.
+632,Rochus Renner,30.09.1982,F,Lebend,SYN-B-000632,TEST-B-00632,"632 Test Street, Berlin, Germany",TEST-CONTACT-B-00632,32,40,k.A.
+633,Zenon Seifert,20.06.2004,F,Lebend,SYN-B-000633,TEST-B-00633,"633 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00633,26,6,k.A.
+634,Gordana Hentschel-Löchel,11.12.1938,X,Lebend,SYN-B-000634,TEST-B-00634,"634 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00634,36,2,k.A.
+635,Greta Hörle,07.04.2004,M,Lebend,SYN-B-000635,TEST-B-00635,"635 Demo Road, Berlin, Germany",k.A.,8,4,k.A.
+636,Dr. Natascha Pölitz,15.11.1969,X,Lebend,SYN-B-000636,TEST-B-00636,"636 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00636,2,35,k.A.
+637,Henriette Ditschlerin,05.12.2004,M,Lebend,SYN-B-000637,TEST-B-00637,"637 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00637,7,48,k.A.
+638,Gesche Blümel B.Sc.,21.01.1944,X,Lebend,SYN-B-000638,TEST-B-00638,"638 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00638,7,40,k.A.
+639,Antoinette Eigenwillig,04.04.1958,M,Lebend,SYN-B-000639,TEST-B-00639,"639 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00639,27,36,k.A.
+640,Univ.Prof. Katja Dobes MBA.,11.01.1982,F,Lebend,SYN-B-000640,TEST-B-00640,"640 Fictional Lane, Berlin, Germany",k.A.,18,24,k.A.
+641,Prof. Rose Wende B.Eng.,13.03.1953,X,Lebend,SYN-B-000641,TEST-B-00641,"641 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00641,5,29,k.A.
+642,Marko Spieß B.Eng.,05.09.1962,X,Lebend,SYN-B-000642,TEST-B-00642,"642 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00642,19,38,k.A.
+643,Mato Thanel,07.08.1981,M,Lebend,SYN-B-000643,TEST-B-00643,"643 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00643,20,10,k.A.
+644,Patricia Junk,24.07.1942,F,Lebend,SYN-B-000644,TEST-B-00644,"644 Demo Road, Berlin, Germany",TEST-CONTACT-B-00644,28,15,k.A.
+645,Folkert Briemer,01.09.1990,F,Lebend,SYN-B-000645,TEST-B-00645,"645 Research Boulevard, Berlin, Germany",k.A.,11,54,k.A.
+646,Klaus-Jürgen Gehringer B.Sc.,15.12.1958,F,Verstorben,SYN-B-000646,TEST-B-00646,"646 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00646,14,3,16.03.2025
+647,Angela Müller,21.04.1945,X,Lebend,SYN-B-000647,TEST-B-00647,"647 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00647,23,1,k.A.
+648,Hartmut Bonbach,06.05.1937,M,Lebend,SYN-B-000648,TEST-B-00648,"648 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00648,15,8,k.A.
+649,Prof. Heimo Trommler,07.06.2014,F,Lebend,SYN-B-000649,TEST-B-00649,"649 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00649,35,15,k.A.
+650,Suse Löwer,24.04.1971,M,Lebend,SYN-B-000650,TEST-B-00650,"650 Demo Road, Berlin, Germany",k.A.,36,26,k.A.
+651,Hanne Gumprich-Bender,25.12.1943,X,Lebend,SYN-B-000651,TEST-B-00651,"651 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00651,32,23,k.A.
+652,Rolf-Peter Löwer,30.07.1954,M,Verstorben,SYN-B-000652,TEST-B-00652,"652 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00652,13,17,01.08.2024
+653,Tomasz Pergande,02.08.1988,M,Lebend,SYN-B-000653,TEST-B-00653,"653 Demo Road, Berlin, Germany",TEST-CONTACT-B-00653,23,7,k.A.
+654,Kurt Dietz B.Eng.,28.01.1966,M,Lebend,SYN-B-000654,TEST-B-00654,"654 Test Street, Berlin, Germany",TEST-CONTACT-B-00654,23,11,k.A.
+655,Prof. Marlis Textor,07.02.1940,F,Lebend,SYN-B-000655,TEST-B-00655,"655 Example Avenue, Berlin, Germany",k.A.,10,47,k.A.
+656,Prof. Hans-Eberhard Steckel,18.06.1976,M,Lebend,SYN-B-000656,TEST-B-00656,"656 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00656,36,19,k.A.
+657,Kasimir Reuter MBA.,25.10.1939,M,Lebend,SYN-B-000657,TEST-B-00657,"657 Demo Road, Berlin, Germany",TEST-CONTACT-B-00657,16,17,k.A.
+658,Bela Reinhardt,02.02.1957,M,Lebend,SYN-B-000658,TEST-B-00658,"658 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00658,29,27,k.A.
+659,Frau Canan Meyer,27.09.1940,M,Lebend,SYN-B-000659,TEST-B-00659,"659 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00659,19,26,k.A.
+660,Marko Schleich-Bender,26.12.1961,M,Lebend,SYN-B-000660,TEST-B-00660,"660 Test Street, Berlin, Germany",k.A.,42,7,k.A.
+661,Ilija Hethur,25.11.1944,X,Lebend,SYN-B-000661,TEST-B-00661,"661 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00661,38,1,k.A.
+662,Petros Söding,22.09.2005,M,Lebend,SYN-B-000662,TEST-B-00662,"662 Demo Road, Berlin, Germany",TEST-CONTACT-B-00662,2,24,k.A.
+663,Edwin Klingelhöfer B.A.,18.10.2004,F,Lebend,SYN-B-000663,TEST-B-00663,"663 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00663,45,31,k.A.
+664,Alida Hering-Stadelmann,10.10.2008,M,Lebend,SYN-B-000664,TEST-B-00664,"664 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00664,35,5,k.A.
+665,Krista Scholtz B.Sc.,04.08.2012,X,Verstorben,SYN-B-000665,TEST-B-00665,"665 Test Street, Berlin, Germany",k.A.,28,42,22.11.2025
+666,Wieslaw Schüler,16.08.1977,F,Lebend,SYN-B-000666,TEST-B-00666,"666 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00666,44,37,k.A.
+667,Dr. Monja Girschner MBA.,17.07.1985,F,Lebend,SYN-B-000667,TEST-B-00667,"667 Demo Road, Berlin, Germany",TEST-CONTACT-B-00667,7,32,k.A.
+668,Prof. Senol Lübs,20.06.1979,M,Lebend,SYN-B-000668,TEST-B-00668,"668 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00668,34,34,k.A.
+669,Jennifer Säuberlich-Rogge,22.05.1955,F,Lebend,SYN-B-000669,TEST-B-00669,"669 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00669,29,48,k.A.
+670,Leonard Schuchhardt-Biggen,31.05.2005,X,Lebend,SYN-B-000670,TEST-B-00670,"670 Test Street, Berlin, Germany",k.A.,36,31,k.A.
+671,Lars Wiek-Schüler,30.09.2002,F,Verstorben,SYN-B-000671,TEST-B-00671,"671 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00671,17,6,14.10.2024
+672,Sieglinde Freudenberger-Barth,28.09.1978,M,Lebend,SYN-B-000672,TEST-B-00672,"672 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00672,43,55,k.A.
+673,Concetta Atzler-Riehl,02.10.1988,M,Lebend,SYN-B-000673,TEST-B-00673,"673 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00673,22,5,k.A.
+674,Dipl.-Ing. Ellen Stiffel,08.11.2008,F,Lebend,SYN-B-000674,TEST-B-00674,"674 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00674,32,25,k.A.
+675,Wilfriede Koch II,01.09.1940,X,Lebend,SYN-B-000675,TEST-B-00675,"675 Demo Road, Berlin, Germany",k.A.,3,10,k.A.
+676,Ing. Kemal Misicher MBA.,29.10.1956,X,Lebend,SYN-B-000676,TEST-B-00676,"676 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00676,41,23,k.A.
+677,Hans-Peter Heinz B.Sc.,30.03.2011,M,Lebend,SYN-B-000677,TEST-B-00677,"677 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00677,44,7,k.A.
+678,Willibald Weinhage,19.06.1991,X,Lebend,SYN-B-000678,TEST-B-00678,"678 Demo Road, Berlin, Germany",TEST-CONTACT-B-00678,21,17,k.A.
+679,Friedl Siering,26.01.1934,X,Verstorben,SYN-B-000679,TEST-B-00679,"679 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00679,24,18,18.07.2024
+680,Carmela Stiffel,05.04.1974,M,Lebend,SYN-B-000680,TEST-B-00680,"680 Demo Road, Berlin, Germany",k.A.,32,52,k.A.
+681,Hilma Schleich,28.12.1956,X,Lebend,SYN-B-000681,TEST-B-00681,"681 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00681,14,34,k.A.
+682,Mohammad Gröttner,23.08.1980,X,Lebend,SYN-B-000682,TEST-B-00682,"682 Demo Road, Berlin, Germany",TEST-CONTACT-B-00682,32,29,k.A.
+683,Valeri Fliegner,19.04.1962,F,Lebend,SYN-B-000683,TEST-B-00683,"683 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00683,20,30,k.A.
+684,Ottmar Wulff,08.08.1970,F,Lebend,SYN-B-000684,TEST-B-00684,"684 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00684,17,41,k.A.
+685,Eleonora Stroh-Drub,13.04.1935,X,Lebend,SYN-B-000685,TEST-B-00685,"685 Fictional Lane, Berlin, Germany",k.A.,28,43,k.A.
+686,Mato Lange MBA.,18.04.1942,X,Lebend,SYN-B-000686,TEST-B-00686,"686 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00686,29,19,k.A.
+687,Hansjürgen Albers,13.05.2009,M,Lebend,SYN-B-000687,TEST-B-00687,"687 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00687,41,7,k.A.
+688,Dan Wiek,19.02.1953,F,Lebend,SYN-B-000688,TEST-B-00688,"688 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00688,8,30,k.A.
+689,Herbert Ernst-Harloff,23.11.1993,X,Lebend,SYN-B-000689,TEST-B-00689,"689 Demo Road, Berlin, Germany",TEST-CONTACT-B-00689,27,23,k.A.
+690,Natalija Gierschner,26.04.1986,M,Lebend,SYN-B-000690,TEST-B-00690,"690 Sample Crescent, Berlin, Germany",k.A.,27,33,k.A.
+691,Benita Müller,16.11.1934,M,Lebend,SYN-B-000691,TEST-B-00691,"691 Test Street, Berlin, Germany",TEST-CONTACT-B-00691,12,33,k.A.
+692,Marian Eckbauer-Gerlach,27.05.1941,M,Lebend,SYN-B-000692,TEST-B-00692,"692 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00692,41,13,k.A.
+693,Univ.Prof. Hedda Christoph,30.10.1961,F,Verstorben,SYN-B-000693,TEST-B-00693,"693 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00693,16,35,12.05.2026
+694,Anne-Kathrin Krause,26.09.1956,F,Lebend,SYN-B-000694,TEST-B-00694,"694 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00694,14,6,k.A.
+695,Frau Geraldine Rust B.A.,03.10.1946,F,Lebend,SYN-B-000695,TEST-B-00695,"695 Demo Road, Berlin, Germany",k.A.,5,42,k.A.
+696,Patrick Hänel,30.11.2004,X,Lebend,SYN-B-000696,TEST-B-00696,"696 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00696,21,23,k.A.
+697,Tony Baum,24.07.1970,F,Lebend,SYN-B-000697,TEST-B-00697,"697 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00697,25,42,k.A.
+698,Dipl.-Ing. Anthony Schleich B.Sc.,10.05.1995,X,Lebend,SYN-B-000698,TEST-B-00698,"698 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00698,22,33,k.A.
+699,Magarete Boucsein-Rosemann,02.09.1941,F,Lebend,SYN-B-000699,TEST-B-00699,"699 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00699,23,53,k.A.
+700,Peer Killer,27.05.1944,F,Lebend,SYN-B-000700,TEST-B-00700,"700 Sample Crescent, Berlin, Germany",k.A.,21,32,k.A.
+701,Hasso Zänker,14.09.1931,F,Lebend,SYN-B-000701,TEST-B-00701,"701 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00701,12,55,k.A.
+702,Ing. Georgine Hande B.A.,06.06.1956,M,Lebend,SYN-B-000702,TEST-B-00702,"702 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00702,15,15,k.A.
+703,Sonia Kaul,24.02.1939,M,Lebend,SYN-B-000703,TEST-B-00703,"703 Demo Road, Berlin, Germany",TEST-CONTACT-B-00703,17,17,k.A.
+704,Dr. Johannes Wagenknecht MBA.,16.11.1979,X,Lebend,SYN-B-000704,TEST-B-00704,"704 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00704,15,43,k.A.
+705,Alessandro Bonbach,09.06.1932,M,Lebend,SYN-B-000705,TEST-B-00705,"705 Research Boulevard, Berlin, Germany",k.A.,2,24,k.A.
+706,Univ.Prof. Lotte Nohlmans B.Eng.,17.03.1999,F,Lebend,SYN-B-000706,TEST-B-00706,"706 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00706,30,28,k.A.
+707,Cora Briemer-Bolnbach,04.05.1936,X,Lebend,SYN-B-000707,TEST-B-00707,"707 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00707,44,29,k.A.
+708,Anne-Marie Kraus-Mentzel,24.10.1948,F,Lebend,SYN-B-000708,TEST-B-00708,"708 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00708,18,40,k.A.
+709,Edeltraut Mude,14.10.1998,F,Lebend,SYN-B-000709,TEST-B-00709,"709 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00709,20,39,k.A.
+710,Valentin Hiller,21.04.1936,F,Lebend,SYN-B-000710,TEST-B-00710,"710 Demo Road, Berlin, Germany",k.A.,19,50,k.A.
+711,Alexej Hertrampf MBA.,26.08.1973,F,Lebend,SYN-B-000711,TEST-B-00711,"711 Test Street, Berlin, Germany",TEST-CONTACT-B-00711,37,36,k.A.
+712,Janin Kraus,16.12.1973,F,Lebend,SYN-B-000712,TEST-B-00712,"712 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00712,23,22,k.A.
+713,Georgine Rudolph,14.05.1978,X,Lebend,SYN-B-000713,TEST-B-00713,"713 Test Street, Berlin, Germany",TEST-CONTACT-B-00713,24,2,k.A.
+714,Resi Ebert B.A.,09.07.1938,F,Lebend,SYN-B-000714,TEST-B-00714,"714 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00714,11,16,k.A.
+715,Ing. Filiz Preiß B.A.,30.09.1973,X,Verstorben,SYN-B-000715,TEST-B-00715,"715 Example Avenue, Berlin, Germany",k.A.,4,7,17.03.2026
+716,Raimund Mies B.Eng.,08.03.1982,M,Lebend,SYN-B-000716,TEST-B-00716,"716 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00716,32,6,k.A.
+717,Martin Ortmann-Hövel,30.09.1975,X,Lebend,SYN-B-000717,TEST-B-00717,"717 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00717,44,1,k.A.
+718,Gislinde Roht-Pergande,28.02.1978,M,Lebend,SYN-B-000718,TEST-B-00718,"718 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00718,17,1,k.A.
+719,Rolf Siering,05.05.1976,F,Lebend,SYN-B-000719,TEST-B-00719,"719 Test Street, Berlin, Germany",TEST-CONTACT-B-00719,5,32,k.A.
+720,Ildiko Mies-Dussen van,17.08.1966,F,Lebend,SYN-B-000720,TEST-B-00720,"720 Research Boulevard, Berlin, Germany",k.A.,5,2,k.A.
+721,Brian Misicher,25.12.1992,F,Verstorben,SYN-B-000721,TEST-B-00721,"721 Test Street, Berlin, Germany",TEST-CONTACT-B-00721,33,19,12.10.2026
+722,Leyla Meyer,19.09.1938,F,Lebend,SYN-B-000722,TEST-B-00722,"722 Test Street, Berlin, Germany",TEST-CONTACT-B-00722,9,14,k.A.
+723,Franco Hamann,22.05.2002,M,Lebend,SYN-B-000723,TEST-B-00723,"723 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00723,1,35,k.A.
+724,Roswita Albers,14.11.1993,X,Lebend,SYN-B-000724,TEST-B-00724,"724 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00724,28,48,k.A.
+725,Sara Wähner-Roht,19.11.2006,M,Lebend,SYN-B-000725,TEST-B-00725,"725 Test Street, Berlin, Germany",k.A.,19,27,k.A.
+726,Hans-Christian Striebitz,26.08.1984,X,Lebend,SYN-B-000726,TEST-B-00726,"726 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00726,27,50,k.A.
+727,Jana Kohl B.Sc.,12.06.1945,F,Lebend,SYN-B-000727,TEST-B-00727,"727 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00727,45,32,k.A.
+728,Univ.Prof. Klaus-Peter Hermighausen,16.03.1999,X,Lebend,SYN-B-000728,TEST-B-00728,"728 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00728,21,32,k.A.
+729,Gernot Hänel,19.03.1979,X,Lebend,SYN-B-000729,TEST-B-00729,"729 Demo Road, Berlin, Germany",TEST-CONTACT-B-00729,4,48,k.A.
+730,Hans-Walter Weller,11.07.1932,M,Lebend,SYN-B-000730,TEST-B-00730,"730 Fictional Lane, Berlin, Germany",k.A.,20,39,k.A.
+731,Gönül Gertz,01.01.1979,X,Lebend,SYN-B-000731,TEST-B-00731,"731 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00731,33,10,k.A.
+732,Petros Freudenberger,02.06.2012,M,Verstorben,SYN-B-000732,TEST-B-00732,"732 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00732,15,4,11.05.2025
+733,Karl-Josef Textor,25.04.1992,F,Lebend,SYN-B-000733,TEST-B-00733,"733 Demo Road, Berlin, Germany",TEST-CONTACT-B-00733,20,55,k.A.
+734,Ing. Georgine Fliegner,29.07.2003,X,Lebend,SYN-B-000734,TEST-B-00734,"734 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00734,24,15,k.A.
+735,Annelie Tröst,25.09.1967,F,Lebend,SYN-B-000735,TEST-B-00735,"735 Research Boulevard, Berlin, Germany",k.A.,12,48,k.A.
+736,Prof. Ron Söding MBA.,20.07.1984,M,Lebend,SYN-B-000736,TEST-B-00736,"736 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00736,11,29,k.A.
+737,Herwig Ziegert-Lübs,16.03.1947,X,Verstorben,SYN-B-000737,TEST-B-00737,"737 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00737,43,30,09.07.2024
+738,Magda Koch,20.09.1944,M,Lebend,SYN-B-000738,TEST-B-00738,"738 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00738,5,44,k.A.
+739,Jurij Johann B.Eng.,16.01.1974,F,Lebend,SYN-B-000739,TEST-B-00739,"739 Demo Road, Berlin, Germany",TEST-CONTACT-B-00739,37,39,k.A.
+740,Liesel Heidrich,03.11.1995,X,Lebend,SYN-B-000740,TEST-B-00740,"740 Fictional Lane, Berlin, Germany",k.A.,33,7,k.A.
+741,Prof. Nelly Roht,29.10.2015,X,Lebend,SYN-B-000741,TEST-B-00741,"741 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00741,15,29,k.A.
+742,Othmar Barkholz,30.11.1936,F,Lebend,SYN-B-000742,TEST-B-00742,"742 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00742,35,24,k.A.
+743,Ing. Karen Schottin,03.12.1979,X,Lebend,SYN-B-000743,TEST-B-00743,"743 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00743,7,21,k.A.
+744,Dietlinde Käster B.Sc.,13.03.1970,M,Lebend,SYN-B-000744,TEST-B-00744,"744 Demo Road, Berlin, Germany",TEST-CONTACT-B-00744,45,51,k.A.
+745,Christof Birnbaum,25.08.1954,F,Lebend,SYN-B-000745,TEST-B-00745,"745 Test Street, Berlin, Germany",k.A.,12,5,k.A.
+746,Nuran Albers,26.02.2014,X,Lebend,SYN-B-000746,TEST-B-00746,"746 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00746,27,12,k.A.
+747,Fatma Gumprich,30.01.1937,X,Lebend,SYN-B-000747,TEST-B-00747,"747 Test Street, Berlin, Germany",TEST-CONTACT-B-00747,21,53,k.A.
+748,Priska Werner B.Eng.,07.12.1966,X,Lebend,SYN-B-000748,TEST-B-00748,"748 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00748,10,52,k.A.
+749,Marten Heser B.Eng.,19.02.1999,X,Lebend,SYN-B-000749,TEST-B-00749,"749 Demo Road, Berlin, Germany",TEST-CONTACT-B-00749,25,51,k.A.
+750,Stavros Pölitz B.A.,02.12.1983,F,Lebend,SYN-B-000750,TEST-B-00750,"750 Sample Crescent, Berlin, Germany",k.A.,43,33,k.A.
+751,Nuray Baum-Dörschner,07.04.1985,F,Lebend,SYN-B-000751,TEST-B-00751,"751 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00751,13,47,k.A.
+752,Marlies Gorlitz,26.11.2010,F,Lebend,SYN-B-000752,TEST-B-00752,"752 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00752,21,28,k.A.
+753,Dr. Pavel Baum,09.10.1995,M,Verstorben,SYN-B-000753,TEST-B-00753,"753 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00753,7,13,15.09.2026
+754,Frau Ingetraut Fischer,07.10.1961,M,Lebend,SYN-B-000754,TEST-B-00754,"754 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00754,43,23,k.A.
+755,Gerard Dietz B.A.,20.02.1994,M,Lebend,SYN-B-000755,TEST-B-00755,"755 Research Boulevard, Berlin, Germany",k.A.,35,47,k.A.
+756,Herr Goran Benthin,24.02.1959,M,Lebend,SYN-B-000756,TEST-B-00756,"756 Demo Road, Berlin, Germany",TEST-CONTACT-B-00756,41,46,k.A.
+757,Reinhardt Becker,31.10.2014,F,Lebend,SYN-B-000757,TEST-B-00757,"757 Test Street, Berlin, Germany",TEST-CONTACT-B-00757,38,7,k.A.
+758,Isidor Davids,11.10.1959,X,Verstorben,SYN-B-000758,TEST-B-00758,"758 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00758,12,22,10.04.2025
+759,Mijo Anders,15.08.2012,F,Lebend,SYN-B-000759,TEST-B-00759,"759 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00759,6,33,k.A.
+760,Bozena Börner B.Sc.,27.05.1948,F,Lebend,SYN-B-000760,TEST-B-00760,"760 Demo Road, Berlin, Germany",k.A.,9,32,k.A.
+761,Vladimir Huhn,14.07.1977,X,Lebend,SYN-B-000761,TEST-B-00761,"761 Demo Road, Berlin, Germany",TEST-CONTACT-B-00761,5,32,k.A.
+762,Heidelore Scheibe,10.02.1933,F,Lebend,SYN-B-000762,TEST-B-00762,"762 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00762,41,31,k.A.
+763,Frau Gina Trub B.A.,30.03.1949,X,Lebend,SYN-B-000763,TEST-B-00763,"763 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00763,14,35,k.A.
+764,Justine Seip-Henk,06.04.1981,M,Verstorben,SYN-B-000764,TEST-B-00764,"764 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00764,13,42,12.11.2024
+765,Lothar Kühnert MBA.,31.10.1995,M,Lebend,SYN-B-000765,TEST-B-00765,"765 Demo Road, Berlin, Germany",k.A.,35,12,k.A.
+766,Univ.Prof. Hans-Jörg Seip MBA.,03.06.1953,M,Lebend,SYN-B-000766,TEST-B-00766,"766 Demo Road, Berlin, Germany",TEST-CONTACT-B-00766,16,30,k.A.
+767,Evangelos Fröhlich B.Sc.,27.02.1994,F,Lebend,SYN-B-000767,TEST-B-00767,"767 Test Street, Berlin, Germany",TEST-CONTACT-B-00767,44,33,k.A.
+768,Heide-Marie Naser-Noack,23.07.1981,M,Lebend,SYN-B-000768,TEST-B-00768,"768 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00768,33,22,k.A.
+769,Mira Kreusel,10.12.1976,M,Lebend,SYN-B-000769,TEST-B-00769,"769 Demo Road, Berlin, Germany",TEST-CONTACT-B-00769,42,5,k.A.
+770,Valeska Pergande B.Eng.,27.02.1994,M,Lebend,SYN-B-000770,TEST-B-00770,"770 Fictional Lane, Berlin, Germany",k.A.,32,34,k.A.
+771,Peggy Etzold,19.02.2002,X,Lebend,SYN-B-000771,TEST-B-00771,"771 Test Street, Berlin, Germany",TEST-CONTACT-B-00771,38,45,k.A.
+772,Pia Wulff,23.04.1942,F,Lebend,SYN-B-000772,TEST-B-00772,"772 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00772,9,19,k.A.
+773,Bärbel Roskoth,29.12.1931,M,Lebend,SYN-B-000773,TEST-B-00773,"773 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00773,5,52,k.A.
+774,Burghard Reising,23.08.1952,M,Lebend,SYN-B-000774,TEST-B-00774,"774 Test Street, Berlin, Germany",TEST-CONTACT-B-00774,37,54,k.A.
+775,Hassan Gutknecht-Naser,25.10.1962,M,Lebend,SYN-B-000775,TEST-B-00775,"775 Fictional Lane, Berlin, Germany",k.A.,13,3,k.A.
+776,Guenther Preiß B.A.,05.08.1954,M,Lebend,SYN-B-000776,TEST-B-00776,"776 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00776,28,25,k.A.
+777,Immo Dehmel,27.06.1984,M,Lebend,SYN-B-000777,TEST-B-00777,"777 Demo Road, Berlin, Germany",TEST-CONTACT-B-00777,20,22,k.A.
+778,H.-Dieter Plath B.Sc.,20.07.1959,F,Lebend,SYN-B-000778,TEST-B-00778,"778 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00778,10,51,k.A.
+779,Petar Grein Groth B.A.,26.05.1934,X,Lebend,SYN-B-000779,TEST-B-00779,"779 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00779,21,23,k.A.
+780,Waltraud Stey,22.02.2012,F,Lebend,SYN-B-000780,TEST-B-00780,"780 Test Street, Berlin, Germany",k.A.,17,32,k.A.
+781,Friedo Schottin,31.05.1969,F,Lebend,SYN-B-000781,TEST-B-00781,"781 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00781,11,28,k.A.
+782,Eberhard Schäfer,28.09.1961,X,Lebend,SYN-B-000782,TEST-B-00782,"782 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00782,38,51,k.A.
+783,Samira Buchholz,20.03.1965,F,Lebend,SYN-B-000783,TEST-B-00783,"783 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00783,19,36,k.A.
+784,Theobald Jacob B.A.,19.10.2012,F,Lebend,SYN-B-000784,TEST-B-00784,"784 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00784,29,18,k.A.
+785,Dipl.-Ing. Katerina Koch II B.A.,05.01.1987,F,Lebend,SYN-B-000785,TEST-B-00785,"785 Test Street, Berlin, Germany",k.A.,31,3,k.A.
+786,Gülay Müller,18.01.1947,F,Lebend,SYN-B-000786,TEST-B-00786,"786 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00786,25,38,k.A.
+787,Ludwina Scholl,18.12.1972,X,Lebend,SYN-B-000787,TEST-B-00787,"787 Demo Road, Berlin, Germany",TEST-CONTACT-B-00787,29,24,k.A.
+788,Dr. Peter Barkholz,14.11.2011,X,Lebend,SYN-B-000788,TEST-B-00788,"788 Test Street, Berlin, Germany",TEST-CONTACT-B-00788,36,14,k.A.
+789,Otfried Zorbach MBA.,12.12.2014,F,Lebend,SYN-B-000789,TEST-B-00789,"789 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00789,37,11,k.A.
+790,Alla Textor B.A.,06.02.1980,M,Lebend,SYN-B-000790,TEST-B-00790,"790 Test Street, Berlin, Germany",k.A.,12,35,k.A.
+791,Miroslawa Losekann-Schomber,11.08.1946,F,Verstorben,SYN-B-000791,TEST-B-00791,"791 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00791,34,28,22.02.2025
+792,Herma Schleich,24.04.1940,X,Lebend,SYN-B-000792,TEST-B-00792,"792 Demo Road, Berlin, Germany",TEST-CONTACT-B-00792,8,48,k.A.
+793,Jann Rogge,29.03.1953,F,Lebend,SYN-B-000793,TEST-B-00793,"793 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00793,40,42,k.A.
+794,Aloys Rose-Bien,13.10.1981,X,Lebend,SYN-B-000794,TEST-B-00794,"794 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00794,22,42,k.A.
+795,Cathrin Geißler-Rädel,04.12.1988,M,Lebend,SYN-B-000795,TEST-B-00795,"795 Example Avenue, Berlin, Germany",k.A.,36,20,k.A.
+796,Trude Neuschäfer,05.04.1974,F,Lebend,SYN-B-000796,TEST-B-00796,"796 Test Street, Berlin, Germany",TEST-CONTACT-B-00796,30,33,k.A.
+797,Brit Eberhardt-Hein,15.10.1937,M,Lebend,SYN-B-000797,TEST-B-00797,"797 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00797,37,26,k.A.
+798,Frau Vanessa Rudolph,14.03.1951,M,Lebend,SYN-B-000798,TEST-B-00798,"798 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00798,15,38,k.A.
+799,Hans-Adolf Naser,31.08.1997,M,Lebend,SYN-B-000799,TEST-B-00799,"799 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00799,3,20,k.A.
+800,Francesco Bender,24.08.1998,M,Lebend,SYN-B-000800,TEST-B-00800,"800 Research Boulevard, Berlin, Germany",k.A.,19,55,k.A.
+801,Anett Mende B.A.,03.07.2013,X,Lebend,SYN-B-000801,TEST-B-00801,"801 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00801,41,12,k.A.
+802,Carl Dietz,23.04.1963,F,Lebend,SYN-B-000802,TEST-B-00802,"802 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00802,41,51,k.A.
+803,Gunhild Hörle,03.01.2004,M,Lebend,SYN-B-000803,TEST-B-00803,"803 Test Street, Berlin, Germany",TEST-CONTACT-B-00803,24,55,k.A.
+804,Heinrich Gutknecht,02.07.1975,F,Lebend,SYN-B-000804,TEST-B-00804,"804 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00804,6,52,k.A.
+805,Grit Henschel-Rust,26.05.1946,F,Lebend,SYN-B-000805,TEST-B-00805,"805 Research Boulevard, Berlin, Germany",k.A.,36,46,k.A.
+806,Nuri Meyer,18.12.1941,M,Lebend,SYN-B-000806,TEST-B-00806,"806 Test Street, Berlin, Germany",TEST-CONTACT-B-00806,7,26,k.A.
+807,Verena Birnbaum,27.05.1987,X,Lebend,SYN-B-000807,TEST-B-00807,"807 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00807,24,27,k.A.
+808,Aloys Kühnert,02.08.2002,F,Lebend,SYN-B-000808,TEST-B-00808,"808 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00808,4,25,k.A.
+809,Slavko Matthäi,22.09.1959,F,Lebend,SYN-B-000809,TEST-B-00809,"809 Demo Road, Berlin, Germany",TEST-CONTACT-B-00809,31,16,k.A.
+810,Dipl.-Ing. Irma Bohlander B.A.,17.09.1980,F,Lebend,SYN-B-000810,TEST-B-00810,"810 Fictional Lane, Berlin, Germany",k.A.,13,43,k.A.
+811,Gilda Henk,27.09.1943,X,Lebend,SYN-B-000811,TEST-B-00811,"811 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00811,31,38,k.A.
+812,Minna Ruppert,23.11.1979,X,Lebend,SYN-B-000812,TEST-B-00812,"812 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00812,23,49,k.A.
+813,Ilka Weinhold-Beyer,28.03.1948,M,Lebend,SYN-B-000813,TEST-B-00813,"813 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00813,41,3,k.A.
+814,Anna-Luise Gorlitz,15.10.2015,X,Lebend,SYN-B-000814,TEST-B-00814,"814 Test Street, Berlin, Germany",TEST-CONTACT-B-00814,9,28,k.A.
+815,Ella Grein Groth B.Eng.,24.11.1936,X,Lebend,SYN-B-000815,TEST-B-00815,"815 Fictional Lane, Berlin, Germany",k.A.,9,25,k.A.
+816,Prof. Judith Rogge B.Sc.,17.10.1996,X,Verstorben,SYN-B-000816,TEST-B-00816,"816 Demo Road, Berlin, Germany",TEST-CONTACT-B-00816,44,7,29.01.2024
+817,Ernst-Dieter Winkler,01.10.1934,X,Lebend,SYN-B-000817,TEST-B-00817,"817 Test Street, Berlin, Germany",TEST-CONTACT-B-00817,2,35,k.A.
+818,Pius Geisel,27.04.1973,X,Verstorben,SYN-B-000818,TEST-B-00818,"818 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00818,8,51,29.09.2024
+819,Dipl.-Ing. Eduard Pohl B.Eng.,12.03.1978,F,Lebend,SYN-B-000819,TEST-B-00819,"819 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00819,23,19,k.A.
+820,Jolanthe Mülichen,05.12.1935,M,Lebend,SYN-B-000820,TEST-B-00820,"820 Research Boulevard, Berlin, Germany",k.A.,29,22,k.A.
+821,Hakan Köster-Langern,29.06.1989,F,Lebend,SYN-B-000821,TEST-B-00821,"821 Test Street, Berlin, Germany",TEST-CONTACT-B-00821,8,44,k.A.
+822,Ana Weller,29.05.1953,F,Lebend,SYN-B-000822,TEST-B-00822,"822 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00822,37,35,k.A.
+823,Michelle Heß,05.10.2004,F,Lebend,SYN-B-000823,TEST-B-00823,"823 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00823,17,3,k.A.
+824,Jana Köhler B.Eng.,03.11.1957,X,Lebend,SYN-B-000824,TEST-B-00824,"824 Demo Road, Berlin, Germany",TEST-CONTACT-B-00824,4,11,k.A.
+825,German Röhricht,08.04.1996,F,Lebend,SYN-B-000825,TEST-B-00825,"825 Test Street, Berlin, Germany",k.A.,19,47,k.A.
+826,Ramon Freudenberger,06.03.1935,M,Lebend,SYN-B-000826,TEST-B-00826,"826 Demo Road, Berlin, Germany",TEST-CONTACT-B-00826,35,18,k.A.
+827,Dipl.-Ing. Karlheinz Ullrich B.Eng.,31.08.2012,X,Lebend,SYN-B-000827,TEST-B-00827,"827 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00827,36,1,k.A.
+828,Petra Ebert,03.05.1967,X,Lebend,SYN-B-000828,TEST-B-00828,"828 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00828,40,36,k.A.
+829,Elise Fliegner-Hauffer,21.11.1987,F,Lebend,SYN-B-000829,TEST-B-00829,"829 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00829,23,52,k.A.
+830,Tatiana Gunpf-Köster,07.10.1953,F,Lebend,SYN-B-000830,TEST-B-00830,"830 Sample Crescent, Berlin, Germany",k.A.,33,28,k.A.
+831,Rüdiger Müller MBA.,13.06.1973,M,Lebend,SYN-B-000831,TEST-B-00831,"831 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00831,33,46,k.A.
+832,Univ.Prof. Carla Haase B.Sc.,25.05.1990,F,Lebend,SYN-B-000832,TEST-B-00832,"832 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00832,29,10,k.A.
+833,Eugen Gute,16.03.2000,M,Lebend,SYN-B-000833,TEST-B-00833,"833 Test Street, Berlin, Germany",TEST-CONTACT-B-00833,2,22,k.A.
+834,Eric Jockel,15.04.1952,F,Lebend,SYN-B-000834,TEST-B-00834,"834 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00834,27,17,k.A.
+835,Frau Cordula Hänel B.Eng.,01.12.2007,M,Lebend,SYN-B-000835,TEST-B-00835,"835 Research Boulevard, Berlin, Germany",k.A.,40,17,k.A.
+836,Hanny Albers,22.03.1984,F,Lebend,SYN-B-000836,TEST-B-00836,"836 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00836,13,54,k.A.
+837,Thekla Seifert,07.04.2004,F,Lebend,SYN-B-000837,TEST-B-00837,"837 Test Street, Berlin, Germany",TEST-CONTACT-B-00837,41,4,k.A.
+838,Hans-Wilhelm Trapp,29.07.1977,X,Lebend,SYN-B-000838,TEST-B-00838,"838 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00838,21,5,k.A.
+839,Stanislaus Ortmann,30.08.1968,M,Lebend,SYN-B-000839,TEST-B-00839,"839 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00839,7,18,k.A.
+840,Katalin Barkholz,19.02.2014,M,Lebend,SYN-B-000840,TEST-B-00840,"840 Fictional Lane, Berlin, Germany",k.A.,41,26,k.A.
+841,Fredi Jäkel-Stiebitz,02.03.1943,F,Lebend,SYN-B-000841,TEST-B-00841,"841 Test Street, Berlin, Germany",TEST-CONTACT-B-00841,31,48,k.A.
+842,Prof. Albrecht Dussen van,26.08.1969,X,Lebend,SYN-B-000842,TEST-B-00842,"842 Test Street, Berlin, Germany",TEST-CONTACT-B-00842,38,39,k.A.
+843,Jan Eberth,14.05.2015,M,Lebend,SYN-B-000843,TEST-B-00843,"843 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00843,43,24,k.A.
+844,Eric Mälzer,03.04.1965,X,Verstorben,SYN-B-000844,TEST-B-00844,"844 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00844,12,26,11.07.2024
+845,Gotthard Hein,05.11.1968,X,Lebend,SYN-B-000845,TEST-B-00845,"845 Test Street, Berlin, Germany",k.A.,9,14,k.A.
+846,Prof. Veit Kusch,30.04.1938,M,Lebend,SYN-B-000846,TEST-B-00846,"846 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00846,38,18,k.A.
+847,Mariechen Röhrdanz MBA.,25.12.1945,F,Lebend,SYN-B-000847,TEST-B-00847,"847 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00847,36,25,k.A.
+848,Ing. Jaroslav Stiebitz B.Sc.,08.04.1994,X,Lebend,SYN-B-000848,TEST-B-00848,"848 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00848,2,8,k.A.
+849,Dr. Beate Kambs MBA.,17.03.1932,X,Lebend,SYN-B-000849,TEST-B-00849,"849 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00849,16,31,k.A.
+850,Roberto Kraus-Juncken,01.06.1974,F,Lebend,SYN-B-000850,TEST-B-00850,"850 Test Street, Berlin, Germany",k.A.,35,51,k.A.
+851,Frau Tina Kroker,18.04.1963,X,Lebend,SYN-B-000851,TEST-B-00851,"851 Test Street, Berlin, Germany",TEST-CONTACT-B-00851,9,3,k.A.
+852,Dr. Carmelo Gute B.Eng.,10.08.2005,M,Verstorben,SYN-B-000852,TEST-B-00852,"852 Demo Road, Berlin, Germany",TEST-CONTACT-B-00852,7,11,19.03.2024
+853,Robby Mielcarek B.Sc.,16.06.2009,F,Lebend,SYN-B-000853,TEST-B-00853,"853 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00853,21,9,k.A.
+854,Hartmuth Schinke,13.05.1934,M,Lebend,SYN-B-000854,TEST-B-00854,"854 Demo Road, Berlin, Germany",TEST-CONTACT-B-00854,40,25,k.A.
+855,Klaudia Adolph,09.10.1957,M,Lebend,SYN-B-000855,TEST-B-00855,"855 Fictional Lane, Berlin, Germany",k.A.,2,37,k.A.
+856,Waldtraut Ziegert B.Sc.,07.05.1930,X,Lebend,SYN-B-000856,TEST-B-00856,"856 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00856,2,22,k.A.
+857,Jann Weinhold,22.09.1988,F,Lebend,SYN-B-000857,TEST-B-00857,"857 Test Street, Berlin, Germany",TEST-CONTACT-B-00857,37,36,k.A.
+858,Tim Huhn,13.10.1985,F,Lebend,SYN-B-000858,TEST-B-00858,"858 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00858,45,25,k.A.
+859,Cathrin Jopich-Stolze,28.04.1944,X,Lebend,SYN-B-000859,TEST-B-00859,"859 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00859,42,4,k.A.
+860,Heinz Dieter Budig,10.09.1949,F,Lebend,SYN-B-000860,TEST-B-00860,"860 Sample Crescent, Berlin, Germany",k.A.,41,6,k.A.
+861,Univ.Prof. Stefania Wieloch MBA.,10.05.1960,M,Lebend,SYN-B-000861,TEST-B-00861,"861 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00861,3,11,k.A.
+862,Britta Hettner,29.11.1995,M,Lebend,SYN-B-000862,TEST-B-00862,"862 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00862,23,47,k.A.
+863,Patric Möchlichen,29.07.1972,M,Lebend,SYN-B-000863,TEST-B-00863,"863 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00863,21,49,k.A.
+864,Jennifer Ditschlerin,17.09.1974,X,Lebend,SYN-B-000864,TEST-B-00864,"864 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00864,17,15,k.A.
+865,Miodrag Hentschel,12.05.2006,F,Lebend,SYN-B-000865,TEST-B-00865,"865 Example Avenue, Berlin, Germany",k.A.,9,47,k.A.
+866,Lorenzo Schmidtke B.Sc.,06.05.2013,M,Lebend,SYN-B-000866,TEST-B-00866,"866 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00866,11,22,k.A.
+867,Mirella Austermühle,24.03.1986,M,Lebend,SYN-B-000867,TEST-B-00867,"867 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00867,42,5,k.A.
+868,Katherina Schönland-Henschel,11.04.1985,F,Lebend,SYN-B-000868,TEST-B-00868,"868 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00868,31,52,k.A.
+869,Ing. Hasan Dörr,19.03.1948,M,Lebend,SYN-B-000869,TEST-B-00869,"869 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00869,27,38,k.A.
+870,Dipl.-Ing. Anastasia Naser,25.07.1942,X,Lebend,SYN-B-000870,TEST-B-00870,"870 Sample Crescent, Berlin, Germany",k.A.,37,40,k.A.
+871,Alicia Heydrich,25.03.1954,F,Lebend,SYN-B-000871,TEST-B-00871,"871 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00871,3,42,k.A.
+872,Hermann Albers,28.08.1996,F,Lebend,SYN-B-000872,TEST-B-00872,"872 Demo Road, Berlin, Germany",TEST-CONTACT-B-00872,27,44,k.A.
+873,Witold Roskoth MBA.,06.10.1994,F,Lebend,SYN-B-000873,TEST-B-00873,"873 Demo Road, Berlin, Germany",TEST-CONTACT-B-00873,10,12,k.A.
+874,Insa Pärtzelt,01.02.1933,F,Lebend,SYN-B-000874,TEST-B-00874,"874 Demo Road, Berlin, Germany",TEST-CONTACT-B-00874,39,40,k.A.
+875,Frau Hermine Cichorius B.Eng.,30.04.2006,M,Lebend,SYN-B-000875,TEST-B-00875,"875 Test Street, Berlin, Germany",k.A.,12,10,k.A.
+876,Hans D. Höfig,24.05.1998,X,Lebend,SYN-B-000876,TEST-B-00876,"876 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00876,7,20,k.A.
+877,Marc Wagner,29.06.1988,X,Verstorben,SYN-B-000877,TEST-B-00877,"877 Demo Road, Berlin, Germany",TEST-CONTACT-B-00877,45,53,09.11.2024
+878,Dr. Anatoli Radisch,22.10.2012,M,Lebend,SYN-B-000878,TEST-B-00878,"878 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00878,5,29,k.A.
+879,Bertram Drubin-Heinz,16.02.1963,F,Lebend,SYN-B-000879,TEST-B-00879,"879 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00879,3,43,k.A.
+880,Andre Scheuermann MBA.,12.04.1978,M,Lebend,SYN-B-000880,TEST-B-00880,"880 Research Boulevard, Berlin, Germany",k.A.,2,26,k.A.
+881,Jan-Peter Pärtzelt,04.12.2013,X,Lebend,SYN-B-000881,TEST-B-00881,"881 Test Street, Berlin, Germany",TEST-CONTACT-B-00881,28,17,k.A.
+882,Willibert Döhn-Schomber,18.01.1967,F,Lebend,SYN-B-000882,TEST-B-00882,"882 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00882,35,25,k.A.
+883,Helga Börner,07.06.1973,M,Lebend,SYN-B-000883,TEST-B-00883,"883 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00883,33,14,k.A.
+884,Abbas Neuschäfer,27.01.1980,F,Lebend,SYN-B-000884,TEST-B-00884,"884 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00884,17,44,k.A.
+885,Univ.Prof. Pavel Juncken B.A.,15.07.1971,X,Lebend,SYN-B-000885,TEST-B-00885,"885 Demo Road, Berlin, Germany",k.A.,29,32,k.A.
+886,Prof. Susann Wirth B.A.,27.01.2000,X,Verstorben,SYN-B-000886,TEST-B-00886,"886 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00886,10,19,20.01.2025
+887,Philomena Rogner,01.04.1939,X,Lebend,SYN-B-000887,TEST-B-00887,"887 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00887,29,21,k.A.
+888,Florentine Junk,09.07.1932,F,Lebend,SYN-B-000888,TEST-B-00888,"888 Test Street, Berlin, Germany",TEST-CONTACT-B-00888,42,3,k.A.
+889,Denise Käster,09.08.2009,X,Lebend,SYN-B-000889,TEST-B-00889,"889 Demo Road, Berlin, Germany",TEST-CONTACT-B-00889,27,12,k.A.
+890,Traudel Oderwald MBA.,20.01.1986,F,Lebend,SYN-B-000890,TEST-B-00890,"890 Demo Road, Berlin, Germany",k.A.,2,37,k.A.
+891,Fredy Schweitzer-Staude,03.05.2015,F,Verstorben,SYN-B-000891,TEST-B-00891,"891 Demo Road, Berlin, Germany",TEST-CONTACT-B-00891,21,34,14.07.2024
+892,Ortrun Bonbach,07.10.2009,M,Lebend,SYN-B-000892,TEST-B-00892,"892 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00892,3,21,k.A.
+893,Elisabeth Kranz,06.10.1994,X,Lebend,SYN-B-000893,TEST-B-00893,"893 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00893,33,1,k.A.
+894,Prof. Reinald Metz,27.12.1983,F,Lebend,SYN-B-000894,TEST-B-00894,"894 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00894,7,6,k.A.
+895,Univ.Prof. Saskia Paffrath B.A.,18.09.1980,X,Lebend,SYN-B-000895,TEST-B-00895,"895 Example Avenue, Berlin, Germany",k.A.,9,8,k.A.
+896,Prof. Ronny Mosemann,07.02.1948,M,Lebend,SYN-B-000896,TEST-B-00896,"896 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00896,34,42,k.A.
+897,Wilfried Dörr,21.10.2012,M,Lebend,SYN-B-000897,TEST-B-00897,"897 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00897,22,44,k.A.
+898,Witold Kraushaar,17.07.1959,F,Lebend,SYN-B-000898,TEST-B-00898,"898 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00898,42,39,k.A.
+899,Dr. Berndt Misicher MBA.,28.01.1950,F,Lebend,SYN-B-000899,TEST-B-00899,"899 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00899,24,53,k.A.
+900,Gretl Faust-Wagenknecht,06.04.1981,M,Lebend,SYN-B-000900,TEST-B-00900,"900 Research Boulevard, Berlin, Germany",k.A.,41,35,k.A.
+901,Florian Sorgatz MBA.,22.11.1983,M,Lebend,SYN-B-000901,TEST-B-00901,"901 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00901,8,49,k.A.
+902,Hans Georg Döring B.Eng.,25.10.1986,X,Lebend,SYN-B-000902,TEST-B-00902,"902 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00902,1,34,k.A.
+903,Gundel Heinz,16.07.1931,M,Lebend,SYN-B-000903,TEST-B-00903,"903 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00903,6,27,k.A.
+904,Alban Hölzenbecher,05.08.1949,M,Lebend,SYN-B-000904,TEST-B-00904,"904 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00904,28,9,k.A.
+905,Hans-Friedrich Koch B.A.,13.01.2014,X,Lebend,SYN-B-000905,TEST-B-00905,"905 Sample Crescent, Berlin, Germany",k.A.,32,24,k.A.
+906,Nikolas Hornig,17.10.2014,F,Lebend,SYN-B-000906,TEST-B-00906,"906 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00906,27,23,k.A.
+907,Helma Killer MBA.,11.04.1983,F,Lebend,SYN-B-000907,TEST-B-00907,"907 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00907,22,3,k.A.
+908,Dipl.-Ing. Jeanette Weller B.A.,02.11.1952,M,Lebend,SYN-B-000908,TEST-B-00908,"908 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00908,40,19,k.A.
+909,Judith Heydrich,17.09.1959,F,Lebend,SYN-B-000909,TEST-B-00909,"909 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00909,3,48,k.A.
+910,Tino Gunpf,23.04.2001,X,Lebend,SYN-B-000910,TEST-B-00910,"910 Test Street, Berlin, Germany",k.A.,36,39,k.A.
+911,Ing. Eveline Margraf B.A.,09.05.2012,X,Lebend,SYN-B-000911,TEST-B-00911,"911 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00911,21,40,k.A.
+912,Imke Schäfer,19.11.1951,M,Lebend,SYN-B-000912,TEST-B-00912,"912 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00912,19,28,k.A.
+913,Meryem Beier,23.02.1961,F,Lebend,SYN-B-000913,TEST-B-00913,"913 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00913,27,33,k.A.
+914,Deborah Putz,26.05.1979,F,Lebend,SYN-B-000914,TEST-B-00914,"914 Test Street, Berlin, Germany",TEST-CONTACT-B-00914,11,42,k.A.
+915,Luzia Seidel-Aumann,28.06.1976,X,Lebend,SYN-B-000915,TEST-B-00915,"915 Sample Crescent, Berlin, Germany",k.A.,19,30,k.A.
+916,Gretl Davids,18.06.1996,M,Lebend,SYN-B-000916,TEST-B-00916,"916 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00916,10,20,k.A.
+917,Prof. Raimund Mude,08.12.1967,X,Lebend,SYN-B-000917,TEST-B-00917,"917 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00917,4,38,k.A.
+918,Prof. Stjepan Kostolzin,17.06.1968,M,Lebend,SYN-B-000918,TEST-B-00918,"918 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00918,23,26,k.A.
+919,Natalia Seidel-Stumpf,26.05.1966,M,Lebend,SYN-B-000919,TEST-B-00919,"919 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00919,18,44,k.A.
+920,Herr Dominic Flantz B.A.,20.02.2008,M,Lebend,SYN-B-000920,TEST-B-00920,"920 Test Street, Berlin, Germany",k.A.,11,23,k.A.
+921,Hansjürgen Budig,27.08.1945,M,Lebend,SYN-B-000921,TEST-B-00921,"921 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00921,30,28,k.A.
+922,Gitta Biggen MBA.,03.11.1936,M,Lebend,SYN-B-000922,TEST-B-00922,"922 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00922,42,44,k.A.
+923,Joerg Wulff,15.08.1952,M,Lebend,SYN-B-000923,TEST-B-00923,"923 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00923,10,1,k.A.
+924,Paola Kohl,04.09.1962,F,Lebend,SYN-B-000924,TEST-B-00924,"924 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00924,41,26,k.A.
+925,Aneta Striebitz,07.10.1944,F,Lebend,SYN-B-000925,TEST-B-00925,"925 Example Avenue, Berlin, Germany",k.A.,28,53,k.A.
+926,Dörthe Kostolzin,01.09.1946,X,Lebend,SYN-B-000926,TEST-B-00926,"926 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00926,3,32,k.A.
+927,Karl-Werner Jäkel,17.06.1997,M,Lebend,SYN-B-000927,TEST-B-00927,"927 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00927,38,52,k.A.
+928,Christiana Geisel-Karge,14.02.1992,F,Lebend,SYN-B-000928,TEST-B-00928,"928 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00928,34,4,k.A.
+929,Felix Neureuther-Eberhardt,25.05.1973,F,Verstorben,SYN-B-000929,TEST-B-00929,"929 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00929,29,31,17.07.2026
+930,Univ.Prof. Hanni Mülichen,17.07.1952,X,Lebend,SYN-B-000930,TEST-B-00930,"930 Sample Crescent, Berlin, Germany",k.A.,4,45,k.A.
+931,Dr. Natalie Holzapfel B.A.,02.11.1981,X,Lebend,SYN-B-000931,TEST-B-00931,"931 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00931,45,42,k.A.
+932,Valerie Stiffel,03.05.1973,F,Lebend,SYN-B-000932,TEST-B-00932,"932 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00932,20,34,k.A.
+933,Paulo Söding B.Sc.,27.11.1946,X,Lebend,SYN-B-000933,TEST-B-00933,"933 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00933,10,12,k.A.
+934,Bruno Hamann,18.03.1981,M,Lebend,SYN-B-000934,TEST-B-00934,"934 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00934,10,51,k.A.
+935,Ing. Ruben Haase MBA.,22.12.1985,F,Lebend,SYN-B-000935,TEST-B-00935,"935 Demo Road, Berlin, Germany",k.A.,42,17,k.A.
+936,Alida Atzler,21.06.1966,M,Lebend,SYN-B-000936,TEST-B-00936,"936 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00936,36,38,k.A.
+937,Herr Eckhart Lübs MBA.,25.01.1948,M,Lebend,SYN-B-000937,TEST-B-00937,"937 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00937,35,21,k.A.
+938,Mandy Schulz MBA.,18.02.1984,M,Lebend,SYN-B-000938,TEST-B-00938,"938 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00938,8,46,k.A.
+939,Gustav Weimer,12.02.1976,M,Lebend,SYN-B-000939,TEST-B-00939,"939 Demo Road, Berlin, Germany",TEST-CONTACT-B-00939,32,34,k.A.
+940,Gerta Lübs,06.08.1994,F,Lebend,SYN-B-000940,TEST-B-00940,"940 Sample Crescent, Berlin, Germany",k.A.,28,13,k.A.
+941,Herr Leonhard Reichmann,13.01.1952,M,Lebend,SYN-B-000941,TEST-B-00941,"941 Test Street, Berlin, Germany",TEST-CONTACT-B-00941,38,7,k.A.
+942,Univ.Prof. Käte Fechner B.Sc.,15.11.1984,M,Lebend,SYN-B-000942,TEST-B-00942,"942 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00942,11,50,k.A.
+943,Hans-Bernd Jungfer,17.09.1972,X,Lebend,SYN-B-000943,TEST-B-00943,"943 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00943,4,34,k.A.
+944,Dogan Niemeier,01.10.1977,X,Lebend,SYN-B-000944,TEST-B-00944,"944 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00944,21,35,k.A.
+945,Raik Köster-Thies,17.03.1951,X,Verstorben,SYN-B-000945,TEST-B-00945,"945 Test Street, Berlin, Germany",k.A.,7,38,30.03.2025
+946,Edda Jungfer,29.08.1994,M,Verstorben,SYN-B-000946,TEST-B-00946,"946 Demo Road, Berlin, Germany",TEST-CONTACT-B-00946,26,32,19.05.2024
+947,Tilo Weinhage,14.10.2001,M,Lebend,SYN-B-000947,TEST-B-00947,"947 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00947,2,46,k.A.
+948,Monja Süßebier-Jäntsch,04.12.2011,X,Lebend,SYN-B-000948,TEST-B-00948,"948 Test Street, Berlin, Germany",TEST-CONTACT-B-00948,30,42,k.A.
+949,Erdogan Schüler B.A.,20.11.1970,X,Lebend,SYN-B-000949,TEST-B-00949,"949 Demo Road, Berlin, Germany",TEST-CONTACT-B-00949,13,36,k.A.
+950,Lisa Stoll,14.01.2015,X,Lebend,SYN-B-000950,TEST-B-00950,"950 Test Street, Berlin, Germany",k.A.,24,30,k.A.
+951,Frau Gülsen Kallert B.A.,28.10.1954,F,Lebend,SYN-B-000951,TEST-B-00951,"951 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00951,17,55,k.A.
+952,Ronny Loos B.Sc.,13.10.1991,M,Lebend,SYN-B-000952,TEST-B-00952,"952 Test Street, Berlin, Germany",TEST-CONTACT-B-00952,8,52,k.A.
+953,Karlfried Peukert,15.03.1996,X,Lebend,SYN-B-000953,TEST-B-00953,"953 Test Street, Berlin, Germany",TEST-CONTACT-B-00953,44,53,k.A.
+954,Annemarie Jacob-Süßebier,01.12.2002,X,Lebend,SYN-B-000954,TEST-B-00954,"954 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00954,38,29,k.A.
+955,Erhard Kensy-Ritter,05.02.1946,F,Lebend,SYN-B-000955,TEST-B-00955,"955 Sample Crescent, Berlin, Germany",k.A.,7,10,k.A.
+956,Marian Grein Groth-Henck,25.07.1956,X,Lebend,SYN-B-000956,TEST-B-00956,"956 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00956,32,42,k.A.
+957,Hellmuth Noack-Junck,28.08.2004,M,Lebend,SYN-B-000957,TEST-B-00957,"957 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00957,26,9,k.A.
+958,Volkmar Metz B.Sc.,14.12.1954,F,Lebend,SYN-B-000958,TEST-B-00958,"958 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00958,25,46,k.A.
+959,Philip Sontag,02.08.1936,M,Lebend,SYN-B-000959,TEST-B-00959,"959 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00959,29,23,k.A.
+960,Cornelius Kostolzin,10.06.1935,F,Lebend,SYN-B-000960,TEST-B-00960,"960 Sample Crescent, Berlin, Germany",k.A.,36,53,k.A.
+961,Wenzel Scholz,25.06.1988,X,Lebend,SYN-B-000961,TEST-B-00961,"961 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00961,29,13,k.A.
+962,Univ.Prof. Ilja Wende B.Eng.,05.12.1943,F,Lebend,SYN-B-000962,TEST-B-00962,"962 Demo Road, Berlin, Germany",TEST-CONTACT-B-00962,37,32,k.A.
+963,Selma Kramer,21.07.2009,M,Lebend,SYN-B-000963,TEST-B-00963,"963 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00963,35,39,k.A.
+964,Robert Graf,03.01.1947,X,Lebend,SYN-B-000964,TEST-B-00964,"964 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00964,45,4,k.A.
+965,Joachim Oderwald,02.12.1965,M,Lebend,SYN-B-000965,TEST-B-00965,"965 Demo Road, Berlin, Germany",k.A.,31,2,k.A.
+966,Hans Dieter Schmiedecke,19.04.1995,F,Lebend,SYN-B-000966,TEST-B-00966,"966 Demo Road, Berlin, Germany",TEST-CONTACT-B-00966,9,39,k.A.
+967,Prof. Kevin Holzapfel,29.08.1993,M,Lebend,SYN-B-000967,TEST-B-00967,"967 Demo Road, Berlin, Germany",TEST-CONTACT-B-00967,29,23,k.A.
+968,Dipl.-Ing. Jann Hande B.Eng.,09.07.1943,X,Lebend,SYN-B-000968,TEST-B-00968,"968 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00968,9,38,k.A.
+969,Käthi Plath,30.03.1971,X,Lebend,SYN-B-000969,TEST-B-00969,"969 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00969,2,31,k.A.
+970,Theobald Klapp,03.06.1999,X,Lebend,SYN-B-000970,TEST-B-00970,"970 Sample Crescent, Berlin, Germany",k.A.,5,5,k.A.
+971,Elfi Etzold,04.07.1947,M,Verstorben,SYN-B-000971,TEST-B-00971,"971 Test Street, Berlin, Germany",TEST-CONTACT-B-00971,7,17,13.03.2025
+972,Ing. Gernot Briemer B.Sc.,04.09.1935,X,Lebend,SYN-B-000972,TEST-B-00972,"972 Demo Road, Berlin, Germany",TEST-CONTACT-B-00972,28,26,k.A.
+973,Karl-Ludwig Berger B.A.,05.01.1965,X,Lebend,SYN-B-000973,TEST-B-00973,"973 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00973,15,1,k.A.
+974,Krystyna Anders B.A.,11.07.1930,F,Lebend,SYN-B-000974,TEST-B-00974,"974 Demo Road, Berlin, Germany",TEST-CONTACT-B-00974,40,42,k.A.
+975,Magda Schmidt B.Eng.,03.06.1930,X,Lebend,SYN-B-000975,TEST-B-00975,"975 Fictional Lane, Berlin, Germany",k.A.,31,10,k.A.
+976,Dipl.-Ing. Romana Weinhold B.A.,19.04.2009,M,Lebend,SYN-B-000976,TEST-B-00976,"976 Demo Road, Berlin, Germany",TEST-CONTACT-B-00976,19,15,k.A.
+977,Marliese Killer,02.04.2001,X,Lebend,SYN-B-000977,TEST-B-00977,"977 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00977,5,21,k.A.
+978,Thea Geisler,07.08.2015,X,Lebend,SYN-B-000978,TEST-B-00978,"978 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00978,5,29,k.A.
+979,Fridolin Scheibe,29.11.1993,F,Lebend,SYN-B-000979,TEST-B-00979,"979 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00979,6,46,k.A.
+980,Univ.Prof. Burkhard Schmidt B.Eng.,15.03.2007,X,Lebend,SYN-B-000980,TEST-B-00980,"980 Demo Road, Berlin, Germany",k.A.,5,42,k.A.
+981,Dipl.-Ing. Leif Vogt B.Sc.,26.06.1989,X,Lebend,SYN-B-000981,TEST-B-00981,"981 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00981,45,52,k.A.
+982,Imelda Mangold,05.05.1976,F,Lebend,SYN-B-000982,TEST-B-00982,"982 Demo Road, Berlin, Germany",TEST-CONTACT-B-00982,37,55,k.A.
+983,Filiz Lachmann,17.09.1998,X,Lebend,SYN-B-000983,TEST-B-00983,"983 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00983,18,29,k.A.
+984,Isabell Mende,29.09.2015,X,Lebend,SYN-B-000984,TEST-B-00984,"984 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00984,39,35,k.A.
+985,Dipl.-Ing. Lotte Gierschner,19.12.2013,X,Lebend,SYN-B-000985,TEST-B-00985,"985 Fictional Lane, Berlin, Germany",k.A.,44,29,k.A.
+986,Wenzel Holt,29.03.1954,F,Lebend,SYN-B-000986,TEST-B-00986,"986 Demo Road, Berlin, Germany",TEST-CONTACT-B-00986,5,35,k.A.
+987,Prof. Xaver Anders MBA.,19.10.1985,F,Lebend,SYN-B-000987,TEST-B-00987,"987 Test Street, Berlin, Germany",TEST-CONTACT-B-00987,2,32,k.A.
+988,Thaddäus Tschentscher,29.06.2013,M,Lebend,SYN-B-000988,TEST-B-00988,"988 Example Avenue, Berlin, Germany",TEST-CONTACT-B-00988,1,3,k.A.
+989,Evangelos Gröttner,31.08.2015,F,Lebend,SYN-B-000989,TEST-B-00989,"989 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00989,16,17,k.A.
+990,Lucia Jungfer,31.05.1966,M,Lebend,SYN-B-000990,TEST-B-00990,"990 Research Boulevard, Berlin, Germany",k.A.,27,54,k.A.
+991,Ing. Carina Ebert,10.11.2010,M,Lebend,SYN-B-000991,TEST-B-00991,"991 Test Street, Berlin, Germany",TEST-CONTACT-B-00991,6,30,k.A.
+992,Frau Sibylla Gutknecht,12.07.1976,F,Lebend,SYN-B-000992,TEST-B-00992,"992 Test Street, Berlin, Germany",TEST-CONTACT-B-00992,6,30,k.A.
+993,Marisa Stey B.Eng.,05.12.1974,M,Lebend,SYN-B-000993,TEST-B-00993,"993 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00993,8,12,k.A.
+994,Giesela Karge B.Eng.,15.08.1992,F,Lebend,SYN-B-000994,TEST-B-00994,"994 Research Boulevard, Berlin, Germany",TEST-CONTACT-B-00994,29,24,k.A.
+995,Eckart Kambs B.A.,17.09.1952,M,Lebend,SYN-B-000995,TEST-B-00995,"995 Test Street, Berlin, Germany",k.A.,41,53,k.A.
+996,Wieslaw Bachmann-Losekann,28.07.2009,M,Lebend,SYN-B-000996,TEST-B-00996,"996 Demo Road, Berlin, Germany",TEST-CONTACT-B-00996,23,2,k.A.
+997,Cäcilie Schenk,05.01.1964,M,Lebend,SYN-B-000997,TEST-B-00997,"997 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00997,18,46,k.A.
+998,Betty Ruppersberger,21.11.2011,X,Lebend,SYN-B-000998,TEST-B-00998,"998 Sample Crescent, Berlin, Germany",TEST-CONTACT-B-00998,21,17,k.A.
+999,Frau Marie-Louise Hölzenbecher MBA.,26.10.1977,M,Lebend,SYN-B-000999,TEST-B-00999,"999 Fictional Lane, Berlin, Germany",TEST-CONTACT-B-00999,8,35,k.A.
+1000,Eckhart Dobes,25.08.1942,F,Lebend,SYN-B-001000,TEST-B-01000,"1000 Example Avenue, Berlin, Germany",k.A.,2,34,k.A.
+1001,Synthetic Patient B 1001,01.01.1990,Other,Alive,SYN-B-001001,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1002,Synthetic Patient B 1002,01.01.1990,Other,Alive,SYN-B-001002,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1003,Synthetic Patient B 1003,01.01.1990,Other,Alive,SYN-B-001003,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1004,Synthetic Patient B 1004,01.01.1990,Other,Alive,SYN-B-001004,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1005,Synthetic Patient B 1005,01.01.1990,Other,Alive,SYN-B-001005,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1006,Synthetic Patient B 1006,01.01.1990,Other,Alive,SYN-B-001006,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1007,Synthetic Patient B 1007,01.01.1990,Other,Alive,SYN-B-001007,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1008,Synthetic Patient B 1008,01.01.1990,Other,Alive,SYN-B-001008,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1009,Synthetic Patient B 1009,01.01.1990,Other,Alive,SYN-B-001009,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.
+1010,Synthetic Patient B 1010,01.01.1990,Other,Alive,SYN-B-001010,k.A.,k.A.,k.A.,k.A.,k.A.,k.A.

@@ -1,0 +1,5 @@
+source_id,hospital_name,country,continent,file_format
+A,Synthetic Hospital A,Canada,North America,TXT
+B,Synthetic Hospital B,Germany,Europe,CSV
+C,Synthetic Hospital C,Japan,Asia,XML
+D,Synthetic Hospital D,South Africa,Africa,JSON

@@ -1,0 +1,15 @@
+﻿unit_id,unit_name,unit_type,ward,capacity_beds
+1,Osaka ED 1,ED,W01,20
+2,Osaka General Ward 1,General Ward,W02,30
+3,Osaka ICU 1,ICU,W03,30
+4,Osaka Surgical Ward 1,Surgical Ward,W04,20
+5,Osaka Recovery 1,Recovery,W05,24
+6,Osaka ED 2,ED,W06,24
+7,Osaka General Ward 2,General Ward,W07,16
+8,Osaka MICU 2,MICU,W08,20
+9,Osaka Surgical Ward 2,Surgical Ward,W09,30
+10,Osaka Recovery 2,Recovery,W10,20
+11,Osaka ED 3,ED,W11,24
+12,Osaka General Ward 3,General Ward,W12,12
+13,C SICU,SICU,W13,24
+14,C CCU,CCU,W14,24

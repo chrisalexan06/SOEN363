@@ -1,0 +1,445 @@
+discharge_record_id,FallNr,PatientNr,ArztNr,discharge_date,discharge_time,discharge_destination,patient_condition,primary_icd9_code,secondary_icd9_code,prescribed_medication,follow_up_appointment,follow_up_instructions,responsible_physician
+1,3,3,45,25.01.2025,20.00,Outpatient follow-up,Stable,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+2,6,6,16,11.06.2025,20.00,Outpatient follow-up,Recovered,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Selma Lehmann
+3,9,9,21,03.05.2025,20.00,Another facility,Improving,724.2,401.9,k.A.,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+4,12,12,55,28.08.2024,20.00,Another facility,Transferred,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Tom Pieper
+5,15,15,27,06.03.2024,20.00,Home,Recovered,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+6,18,18,38,01.04.2025,20.00,Outpatient follow-up,Improving,493.90,276.51,Acetaminophen,k.A.,Contact local clinic for follow-up,Constantin Finke
+7,21,21,15,24.03.2025,20.00,Home,Improving,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+8,24,24,50,16.04.2024,20.00,Outpatient follow-up,Requires monitoring,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+9,27,27,43,04.12.2024,20.00,Another facility,Requires monitoring,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+10,30,30,12,11.05.2024,20.00,Another facility,Improving,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+11,33,33,41,12.11.2024,20.00,Another facility,Stable,724.2,401.9,k.A.,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+12,36,36,27,23.09.2024,20.00,Another facility,Stable,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+13,39,39,38,27.05.2024,20.00,Home,Stable,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Constantin Finke
+14,42,42,18,19.04.2025,20.00,Home,Stable,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Friedo Holt
+15,45,45,27,21.06.2025,20.00,Another facility,Requires monitoring,414.01,780.60,k.A.,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+16,48,48,45,20.07.2024,20.00,Another facility,Requires monitoring,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+17,51,51,10,17.11.2024,20.00,Home,Requires monitoring,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+18,54,54,49,06.11.2024,20.00,Outpatient follow-up,Recovered,995.91,496,k.A.,k.A.,Contact local clinic for follow-up,Hulda Nerger B.A.
+19,57,57,41,25.05.2025,20.00,Another facility,Improving,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+20,60,60,38,26.04.2025,20.00,Another facility,Recovered,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Constantin Finke
+21,63,63,44,02.04.2025,20.00,Another facility,Stable,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Prof. Juliane Gunpf MBA.
+22,66,66,48,21.05.2024,20.00,Another facility,Stable,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Gert Atzler-Rose
+23,69,69,41,01.11.2024,20.00,Outpatient follow-up,Stable,414.01,780.60,k.A.,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+24,72,72,40,13.02.2024,20.00,Another facility,Transferred,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Ramona Bloch
+25,75,75,21,22.03.2025,20.00,Home,Stable,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+26,78,78,5,05.07.2024,20.00,Home,Requires monitoring,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+27,81,81,21,10.04.2024,20.00,Another facility,Requires monitoring,724.2,401.9,k.A.,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+28,84,84,20,18.10.2024,20.00,Home,Improving,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Regina Wähner-Lorch
+29,87,87,29,19.08.2024,20.00,Mortuary,Deceased,780.2,584.9,k.A.,k.A.,k.A.,Ing. Dennis Thanel
+30,90,90,49,08.09.2024,20.00,Another facility,Recovered,493.90,276.51,Acetaminophen,k.A.,Contact local clinic for follow-up,Hulda Nerger B.A.
+31,93,93,37,10.06.2025,20.00,Outpatient follow-up,Stable,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+32,96,96,13,23.10.2024,20.00,Another facility,Stable,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Univ.Prof. Rigo Gotthard
+33,99,99,54,19.03.2025,20.00,Outpatient follow-up,Improving,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+34,102,102,27,25.10.2024,20.00,Another facility,Recovered,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+35,105,105,45,13.04.2024,20.00,Outpatient follow-up,Stable,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+36,108,108,43,18.06.2024,20.00,Home,Transferred,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+37,111,111,16,11.03.2025,20.00,Another facility,Transferred,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Selma Lehmann
+38,114,114,31,18.02.2025,20.00,Home,Improving,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Ute Bolander
+39,117,117,30,05.08.2024,20.00,Outpatient follow-up,Stable,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Myriam Karz
+40,120,120,20,16.03.2025,20.00,Home,Recovered,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Regina Wähner-Lorch
+41,123,123,6,16.07.2024,20.00,Home,Requires monitoring,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+42,126,126,5,24.05.2025,20.00,Home,Requires monitoring,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+43,129,129,8,19.05.2024,20.00,Home,Improving,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Ing. Mark Mans
+44,132,132,31,09.12.2024,20.00,Home,Improving,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Ute Bolander
+45,135,135,4,07.07.2024,20.00,Home,Transferred,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Ing. Hans Jürgen Geisel B.Eng.
+46,138,138,52,14.04.2025,20.00,Outpatient follow-up,Recovered,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Prof. Tilman Pechel MBA.
+47,141,141,38,14.03.2024,20.00,Home,Improving,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Constantin Finke
+48,144,144,46,07.08.2024,20.00,Outpatient follow-up,Recovered,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Joerg Schottin-Wagner
+49,147,147,51,18.04.2025,20.00,Outpatient follow-up,Stable,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Adriane Christoph B.Sc.
+50,150,150,12,10.09.2024,20.00,Another facility,Improving,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+51,153,153,31,17.05.2025,20.00,Home,Requires monitoring,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Ute Bolander
+52,156,156,32,02.03.2025,20.00,Home,Stable,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Christel Faust B.Eng.
+53,159,159,44,15.08.2024,20.00,Another facility,Improving,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Prof. Juliane Gunpf MBA.
+54,162,162,34,29.04.2024,20.00,Outpatient follow-up,Requires monitoring,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Bernt Schüler
+55,165,165,34,06.01.2025,20.00,Another facility,Stable,414.01,780.60,k.A.,k.A.,Contact local clinic for follow-up,Bernt Schüler
+56,168,168,10,31.10.2024,20.00,Home,Transferred,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+57,171,171,34,08.04.2024,20.00,Outpatient follow-up,Recovered,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Bernt Schüler
+58,174,174,44,06.04.2024,20.00,Outpatient follow-up,Improving,995.91,496,k.A.,k.A.,Contact local clinic for follow-up,Prof. Juliane Gunpf MBA.
+59,177,177,23,03.06.2025,20.00,Another facility,Improving,724.2,401.9,k.A.,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+60,180,180,2,20.09.2024,20.00,Outpatient follow-up,Improving,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Ivonne Scholtz
+61,183,183,14,08.08.2024,20.00,Mortuary,Deceased,780.2,584.9,k.A.,k.A.,k.A.,Janin Linke
+62,186,186,28,11.08.2024,20.00,Home,Stable,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+63,189,189,4,04.06.2024,20.00,Mortuary,Deceased,414.01,780.60,k.A.,k.A.,k.A.,Ing. Hans Jürgen Geisel B.Eng.
+64,192,192,23,18.01.2025,20.00,Outpatient follow-up,Transferred,038.9,285.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+65,195,195,50,23.04.2024,20.00,Another facility,Recovered,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+66,198,198,21,02.02.2024,20.00,Outpatient follow-up,Stable,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+67,201,201,6,05.02.2025,20.00,Home,Requires monitoring,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+68,204,204,54,19.01.2024,20.00,Another facility,Stable,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+69,207,207,10,11.03.2025,20.00,Another facility,Requires monitoring,780.2,584.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+70,210,210,12,17.10.2024,20.00,Outpatient follow-up,Stable,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+71,213,213,31,03.08.2024,20.00,Home,Improving,414.01,780.60,k.A.,k.A.,Contact local clinic for follow-up,Ute Bolander
+72,216,216,17,11.02.2024,20.00,Home,Transferred,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+73,219,219,15,29.02.2024,20.00,Another facility,Requires monitoring,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+74,222,222,17,25.06.2025,20.00,Outpatient follow-up,Stable,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+75,225,225,36,21.01.2025,20.00,Outpatient follow-up,Stable,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Holger Koch
+76,228,228,24,06.03.2025,20.00,Outpatient follow-up,Recovered,427.31,272.4,None documented,k.A.,Contact local clinic for follow-up,Dr. Rolf-Dieter Seifert MBA.
+77,231,231,52,22.10.2024,20.00,Another facility,Stable,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Prof. Tilman Pechel MBA.
+78,234,234,36,19.03.2024,20.00,Home,Transferred,493.90,276.51,Acetaminophen,k.A.,Contact local clinic for follow-up,Holger Koch
+79,237,237,3,28.06.2025,20.00,Outpatient follow-up,Recovered,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Hans D. Rose-Schmidtke
+80,240,240,17,06.09.2024,20.00,Home,Improving,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+81,243,243,6,12.07.2024,20.00,Home,Requires monitoring,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+82,246,246,19,04.03.2024,20.00,Home,Transferred,995.91,496,k.A.,k.A.,Contact local clinic for follow-up,Carsten Walter
+83,249,249,40,29.05.2025,20.00,Home,Improving,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Ramona Bloch
+84,252,252,30,07.02.2024,20.00,Mortuary,Deceased,427.31,272.4,k.A.,k.A.,k.A.,Myriam Karz
+85,255,255,40,16.03.2024,20.00,Another facility,Stable,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Ramona Bloch
+86,258,258,26,19.11.2024,20.00,Another facility,Requires monitoring,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+87,261,261,17,08.04.2024,20.00,Outpatient follow-up,Requires monitoring,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+88,264,264,45,26.11.2024,20.00,Home,Improving,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+89,267,267,1,16.05.2024,20.00,Home,Stable,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Enno Mangold B.Sc.
+90,270,270,21,22.06.2025,20.00,Another facility,Stable,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+91,273,273,12,27.01.2025,20.00,Home,Improving,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+92,276,276,33,31.03.2024,20.00,Outpatient follow-up,Recovered,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+93,279,279,53,06.02.2025,20.00,Outpatient follow-up,Stable,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Bernward Renner
+94,282,282,38,30.04.2025,20.00,Outpatient follow-up,Improving,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Constantin Finke
+95,285,285,19,22.02.2025,20.00,Another facility,Improving,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Carsten Walter
+96,288,288,54,28.02.2025,20.00,Home,Transferred,038.9,285.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+97,291,291,15,20.01.2024,20.00,Another facility,Requires monitoring,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+98,294,294,6,25.11.2024,20.00,Home,Stable,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+99,297,297,40,28.05.2025,20.00,Home,Requires monitoring,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Ramona Bloch
+100,300,300,37,10.05.2024,20.00,Another facility,Requires monitoring,427.31,272.4,None documented,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+101,303,303,10,27.02.2025,20.00,Another facility,Stable,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+102,306,306,15,10.05.2024,20.00,Home,Transferred,493.90,276.51,Acetaminophen,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+103,309,309,30,11.03.2024,20.00,Home,Stable,414.01,780.60,k.A.,k.A.,Contact local clinic for follow-up,Myriam Karz
+104,312,312,15,26.01.2025,20.00,Another facility,Recovered,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+105,315,315,10,09.09.2024,20.00,Home,Recovered,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+106,318,318,19,24.02.2024,20.00,Another facility,Transferred,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Carsten Walter
+107,321,321,25,31.10.2024,20.00,Home,Requires monitoring,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Anett Hentschel
+108,324,324,26,12.03.2025,20.00,Another facility,Requires monitoring,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+109,327,327,54,29.08.2024,20.00,Home,Improving,780.2,584.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+110,330,330,46,28.11.2024,20.00,Outpatient follow-up,Transferred,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Joerg Schottin-Wagner
+111,333,333,5,27.03.2025,20.00,Another facility,Improving,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+112,336,336,53,31.05.2025,20.00,Home,Transferred,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Bernward Renner
+113,339,339,39,16.02.2024,20.00,Another facility,Improving,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Walli Rose-Röhrdanz
+114,342,342,11,04.04.2025,20.00,Home,Improving,995.91,496,k.A.,k.A.,Contact local clinic for follow-up,Fedor Mentzel
+115,345,345,43,27.03.2024,20.00,Outpatient follow-up,Transferred,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+116,348,348,23,06.02.2024,20.00,Another facility,Improving,427.31,272.4,None documented,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+117,351,351,10,13.04.2024,20.00,Home,Recovered,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+118,354,354,47,16.07.2024,20.00,Outpatient follow-up,Recovered,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Heidrun van der Dussen
+119,357,357,47,02.01.2024,20.00,Another facility,Requires monitoring,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Heidrun van der Dussen
+120,360,360,43,19.12.2024,20.00,Home,Stable,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+121,363,363,52,14.02.2024,20.00,Home,Improving,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Prof. Tilman Pechel MBA.
+122,366,366,33,25.07.2024,20.00,Outpatient follow-up,Stable,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+123,369,369,24,07.02.2025,20.00,Outpatient follow-up,Stable,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Dr. Rolf-Dieter Seifert MBA.
+124,372,372,47,09.10.2024,20.00,Another facility,Recovered,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Heidrun van der Dussen
+125,375,375,43,01.02.2024,20.00,Outpatient follow-up,Recovered,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+126,378,378,25,13.09.2024,20.00,Another facility,Transferred,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Anett Hentschel
+127,381,381,4,08.03.2025,20.00,Home,Requires monitoring,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Hans Jürgen Geisel B.Eng.
+128,384,384,8,21.03.2024,20.00,Another facility,Improving,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Ing. Mark Mans
+129,387,387,2,22.02.2024,20.00,Outpatient follow-up,Stable,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Ivonne Scholtz
+130,390,390,24,18.11.2024,20.00,Mortuary,Deceased,995.91,496,k.A.,k.A.,k.A.,Dr. Rolf-Dieter Seifert MBA.
+131,393,393,5,04.07.2025,20.00,Another facility,Requires monitoring,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+132,396,396,46,28.10.2024,20.00,Home,Stable,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Joerg Schottin-Wagner
+133,399,399,50,24.02.2024,20.00,Outpatient follow-up,Requires monitoring,780.2,584.9,None documented,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+134,402,402,9,06.02.2024,20.00,Another facility,Transferred,493.90,276.51,Acetaminophen,k.A.,Contact local clinic for follow-up,Katarzyna Jopich
+135,405,405,23,09.02.2025,20.00,Outpatient follow-up,Transferred,414.01,780.60,k.A.,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+136,408,408,15,24.02.2025,20.00,Home,Requires monitoring,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+137,411,411,41,04.02.2025,20.00,Another facility,Requires monitoring,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+138,414,414,7,13.02.2024,20.00,Outpatient follow-up,Stable,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Frau Brigitte Linke
+139,417,417,52,01.10.2024,20.00,Outpatient follow-up,Stable,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Prof. Tilman Pechel MBA.
+140,420,420,34,27.06.2024,20.00,Outpatient follow-up,Requires monitoring,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Bernt Schüler
+141,423,423,18,29.06.2025,20.00,Outpatient follow-up,Improving,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Friedo Holt
+142,426,426,9,12.04.2024,20.00,Home,Recovered,493.90,276.51,Acetaminophen,k.A.,Contact local clinic for follow-up,Katarzyna Jopich
+143,429,429,1,06.06.2024,20.00,Outpatient follow-up,Requires monitoring,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Enno Mangold B.Sc.
+144,432,432,9,13.09.2024,20.00,Outpatient follow-up,Recovered,038.9,285.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Katarzyna Jopich
+145,435,435,53,30.03.2025,20.00,Another facility,Stable,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Bernward Renner
+146,438,438,13,18.03.2025,20.00,Another facility,Transferred,995.91,496,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Rigo Gotthard
+147,441,441,20,29.06.2025,20.00,Another facility,Improving,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Regina Wähner-Lorch
+148,444,444,23,29.08.2024,20.00,Home,Transferred,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+149,447,447,26,30.01.2025,20.00,Home,Improving,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+150,450,450,53,16.05.2024,20.00,Another facility,Improving,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Bernward Renner
+151,453,453,38,05.12.2024,20.00,Outpatient follow-up,Requires monitoring,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Constantin Finke
+152,456,456,30,24.06.2024,20.00,Mortuary,Deceased,038.9,285.9,k.A.,k.A.,k.A.,Myriam Karz
+153,459,459,43,18.01.2025,20.00,Outpatient follow-up,Improving,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+154,462,462,6,05.01.2025,20.00,Mortuary,Deceased,995.91,496,k.A.,k.A.,k.A.,Danielle Matthäi
+155,465,465,40,04.02.2024,20.00,Another facility,Requires monitoring,724.2,401.9,k.A.,k.A.,Contact local clinic for follow-up,Ramona Bloch
+156,468,468,53,06.03.2025,20.00,Outpatient follow-up,Improving,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Bernward Renner
+157,471,471,46,26.06.2025,20.00,Home,Transferred,780.2,584.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Joerg Schottin-Wagner
+158,474,474,10,22.05.2025,20.00,Another facility,Improving,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+159,477,477,51,17.08.2024,20.00,Outpatient follow-up,Requires monitoring,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Adriane Christoph B.Sc.
+160,480,480,38,29.04.2025,20.00,Outpatient follow-up,Improving,038.9,285.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Constantin Finke
+161,483,483,10,19.12.2024,20.00,Home,Transferred,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+162,486,486,27,14.04.2025,20.00,Home,Requires monitoring,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+163,489,489,7,05.07.2025,20.00,Home,Transferred,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Frau Brigitte Linke
+164,492,492,26,03.06.2024,20.00,Outpatient follow-up,Stable,427.31,272.4,None documented,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+165,495,495,48,17.03.2025,20.00,Home,Requires monitoring,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Gert Atzler-Rose
+166,498,498,7,12.12.2024,20.00,Another facility,Stable,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Frau Brigitte Linke
+167,501,501,2,04.03.2024,20.00,Another facility,Improving,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Ivonne Scholtz
+168,504,504,1,04.03.2025,20.00,Home,Stable,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Enno Mangold B.Sc.
+169,507,507,30,06.10.2024,20.00,Outpatient follow-up,Requires monitoring,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Myriam Karz
+170,510,510,16,20.06.2025,20.00,Home,Stable,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Selma Lehmann
+171,513,513,28,19.02.2024,20.00,Outpatient follow-up,Stable,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+172,516,516,25,18.06.2024,20.00,Home,Recovered,427.31,272.4,None documented,k.A.,Contact local clinic for follow-up,Anett Hentschel
+173,519,519,34,10.03.2024,20.00,Another facility,Recovered,780.2,584.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Bernt Schüler
+174,522,522,38,30.06.2024,20.00,Another facility,Stable,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Constantin Finke
+175,525,525,50,22.06.2024,20.00,Another facility,Stable,414.01,780.60,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+176,528,528,43,29.04.2025,20.00,Home,Improving,038.9,285.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+177,531,531,50,07.12.2024,20.00,Home,Recovered,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+178,534,534,53,07.07.2024,20.00,Home,Requires monitoring,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Bernward Renner
+179,537,537,51,05.10.2024,20.00,Another facility,Recovered,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Adriane Christoph B.Sc.
+180,540,540,41,20.01.2024,20.00,Home,Stable,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+181,543,543,5,25.11.2024,20.00,Outpatient follow-up,Stable,780.2,584.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+182,546,546,22,09.01.2024,20.00,Another facility,Stable,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Ing. Helga Peukert B.Sc.
+183,549,549,4,08.06.2025,20.00,Home,Improving,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Hans Jürgen Geisel B.Eng.
+184,552,552,42,13.01.2025,20.00,Outpatient follow-up,Transferred,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Dr. Anna Blümel B.A.
+185,555,555,41,25.01.2025,20.00,Home,Transferred,530.81,786.50,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+186,558,558,22,19.04.2025,20.00,Outpatient follow-up,Improving,995.91,496,k.A.,k.A.,Contact local clinic for follow-up,Ing. Helga Peukert B.Sc.
+187,561,561,5,05.05.2024,20.00,Home,Recovered,724.2,401.9,None documented,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+188,564,564,11,13.04.2024,20.00,Another facility,Transferred,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Fedor Mentzel
+189,567,567,45,12.03.2024,20.00,Outpatient follow-up,Transferred,780.2,584.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+190,570,570,18,22.04.2024,20.00,Outpatient follow-up,Improving,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Friedo Holt
+191,573,573,22,22.07.2024,20.00,Another facility,Requires monitoring,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Ing. Helga Peukert B.Sc.
+192,576,576,21,29.03.2025,20.00,Outpatient follow-up,Stable,038.9,285.9,None documented,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+193,579,579,37,25.10.2024,20.00,Outpatient follow-up,Requires monitoring,530.81,786.50,None documented,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+194,582,582,47,07.06.2024,20.00,Home,Stable,995.91,496,Acetaminophen,k.A.,Contact local clinic for follow-up,Heidrun van der Dussen
+195,585,585,32,25.08.2024,20.00,Home,Stable,724.2,401.9,k.A.,k.A.,Contact local clinic for follow-up,Christel Faust B.Eng.
+196,588,588,13,13.05.2025,20.00,Another facility,Recovered,427.31,272.4,Acetaminophen,k.A.,Contact local clinic for follow-up,Univ.Prof. Rigo Gotthard
+197,591,591,41,12.05.2024,20.00,Another facility,Recovered,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+198,594,594,31,03.03.2024,20.00,Outpatient follow-up,Recovered,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Ute Bolander
+199,597,597,28,19.07.2024,20.00,Home,Transferred,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+200,600,600,6,08.09.2024,20.00,Home,Improving,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+201,603,603,33,22.03.2024,20.00,Outpatient follow-up,Transferred,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+202,606,606,48,16.01.2024,20.00,Outpatient follow-up,Transferred,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Gert Atzler-Rose
+203,609,609,24,06.04.2025,20.00,Another facility,Recovered,724.2,401.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Dr. Rolf-Dieter Seifert MBA.
+204,612,612,33,26.05.2025,20.00,Outpatient follow-up,Improving,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+205,615,615,2,14.07.2024,20.00,Another facility,Improving,780.2,584.9,k.A.,k.A.,Contact local clinic for follow-up,Ivonne Scholtz
+206,618,618,54,21.02.2025,20.00,Home,Improving,493.90,276.51,k.A.,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+207,621,621,8,02.11.2024,20.00,Outpatient follow-up,Transferred,414.01,780.60,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Mark Mans
+208,624,624,44,04.09.2024,20.00,Home,Recovered,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Prof. Juliane Gunpf MBA.
+209,627,627,23,07.02.2024,20.00,Home,Transferred,530.81,786.50,k.A.,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+210,630,630,28,21.01.2025,20.00,Outpatient follow-up,Transferred,995.91,496,None documented,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+211,633,633,45,07.02.2025,20.00,Home,Transferred,724.2,401.9,k.A.,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+212,636,636,30,25.06.2024,20.00,Home,Improving,427.31,272.4,k.A.,k.A.,Contact local clinic for follow-up,Myriam Karz
+213,639,639,16,21.03.2024,20.00,Outpatient follow-up,Requires monitoring,780.2,584.9,Acetaminophen,k.A.,Contact local clinic for follow-up,Selma Lehmann
+214,642,642,9,03.10.2024,20.00,Outpatient follow-up,Transferred,493.90,276.51,None documented,k.A.,Contact local clinic for follow-up,Katarzyna Jopich
+215,645,645,12,09.03.2025,20.00,Another facility,Requires monitoring,414.01,780.60,None documented,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+216,648,648,2,01.01.2025,20.00,Home,Requires monitoring,038.9,285.9,k.A.,k.A.,Contact local clinic for follow-up,Ivonne Scholtz
+217,651,651,47,15.05.2024,20.00,Home,Stable,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Heidrun van der Dussen
+218,654,654,42,08.02.2024,20.00,Outpatient follow-up,Stable,995.91,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dr. Anna Blümel B.A.
+219,657,657,2,29.03.2024,20.00,Home,Stable,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ivonne Scholtz
+220,660,660,54,17.02.2025,20.00,Home,Recovered,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+221,663,663,30,07.01.2025,20.00,Home,Requires monitoring,780.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Myriam Karz
+222,666,666,6,14.12.2024,20.00,Another facility,Improving,493.90,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+223,669,669,43,22.03.2024,20.00,Another facility,Stable,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+224,672,672,28,23.05.2024,20.00,Another facility,Improving,038.9,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+225,675,675,24,05.08.2024,20.00,Outpatient follow-up,Recovered,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dr. Rolf-Dieter Seifert MBA.
+226,678,678,29,23.01.2024,20.00,Home,Stable,995.91,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Dennis Thanel
+227,681,681,39,18.01.2025,20.00,Home,Transferred,724.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Walli Rose-Röhrdanz
+228,684,684,45,09.04.2025,20.00,Home,Recovered,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+229,687,687,36,05.09.2024,20.00,Home,Stable,780.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Holger Koch
+230,690,690,33,06.06.2024,20.00,Home,Recovered,493.90,k.A.,None documented,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+231,693,693,29,20.04.2025,20.00,Outpatient follow-up,Improving,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Dennis Thanel
+232,696,696,31,23.08.2024,20.00,Outpatient follow-up,Requires monitoring,038.9,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ute Bolander
+233,699,699,23,30.03.2024,20.00,Another facility,Requires monitoring,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+234,702,702,22,02.07.2025,20.00,Outpatient follow-up,Requires monitoring,995.91,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Helga Peukert B.Sc.
+235,705,705,19,03.03.2024,20.00,Home,Stable,724.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Carsten Walter
+236,708,708,42,03.04.2025,20.00,Another facility,Improving,427.31,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Dr. Anna Blümel B.A.
+237,711,711,41,15.06.2025,20.00,Outpatient follow-up,Stable,780.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+238,714,714,35,13.12.2024,20.00,Another facility,Transferred,493.90,k.A.,None documented,k.A.,Contact local clinic for follow-up,Univ.Prof. Udo Schulz
+239,717,717,41,18.08.2024,20.00,Another facility,Transferred,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+240,720,720,39,29.06.2024,20.00,Outpatient follow-up,Improving,038.9,k.A.,None documented,k.A.,Contact local clinic for follow-up,Walli Rose-Röhrdanz
+241,723,723,20,21.04.2024,20.00,Another facility,Requires monitoring,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Regina Wähner-Lorch
+242,726,726,6,09.01.2024,20.00,Another facility,Transferred,995.91,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+243,729,729,45,16.02.2024,20.00,Outpatient follow-up,Stable,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+244,732,732,34,11.05.2025,20.00,Mortuary,Deceased,427.31,k.A.,k.A.,k.A.,k.A.,Bernt Schüler
+245,735,735,26,09.07.2024,20.00,Home,Recovered,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+246,738,738,14,07.03.2024,20.00,Another facility,Improving,493.90,k.A.,None documented,k.A.,Contact local clinic for follow-up,Janin Linke
+247,741,741,40,28.08.2024,20.00,Home,Stable,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ramona Bloch
+248,744,744,15,14.02.2025,20.00,Home,Recovered,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+249,747,747,37,16.04.2025,20.00,Home,Stable,530.81,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+250,750,750,29,22.01.2025,20.00,Home,Recovered,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ing. Dennis Thanel
+251,753,753,26,28.12.2024,20.00,Another facility,Transferred,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+252,756,756,34,02.11.2024,20.00,Home,Transferred,427.31,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Bernt Schüler
+253,759,759,34,04.04.2024,20.00,Home,Requires monitoring,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Bernt Schüler
+254,762,762,54,25.05.2024,20.00,Another facility,Improving,493.90,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+255,765,765,37,09.05.2024,20.00,Another facility,Improving,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+256,768,768,33,03.05.2025,20.00,Outpatient follow-up,Improving,038.9,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+257,771,771,12,29.01.2024,20.00,Another facility,Requires monitoring,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+258,774,774,21,11.03.2024,20.00,Home,Improving,995.91,k.A.,None documented,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+259,777,777,39,24.02.2025,20.00,Outpatient follow-up,Requires monitoring,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Walli Rose-Röhrdanz
+260,780,780,55,26.09.2024,20.00,Home,Stable,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Tom Pieper
+261,783,783,26,26.04.2024,20.00,Another facility,Transferred,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+262,786,786,16,11.06.2024,20.00,Another facility,Requires monitoring,493.90,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Selma Lehmann
+263,789,789,24,08.07.2024,20.00,Home,Requires monitoring,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dr. Rolf-Dieter Seifert MBA.
+264,792,792,24,09.05.2025,20.00,Home,Transferred,038.9,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Dr. Rolf-Dieter Seifert MBA.
+265,795,795,53,27.02.2025,20.00,Home,Improving,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Bernward Renner
+266,798,798,13,15.03.2025,20.00,Home,Stable,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Rigo Gotthard
+267,801,801,9,04.05.2025,20.00,Home,Improving,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Katarzyna Jopich
+268,804,804,17,04.02.2024,20.00,Outpatient follow-up,Stable,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+269,807,807,33,20.10.2024,20.00,Another facility,Requires monitoring,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+270,810,810,19,14.06.2025,20.00,Outpatient follow-up,Recovered,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Carsten Walter
+271,813,813,14,23.04.2024,20.00,Another facility,Improving,414.01,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Janin Linke
+272,816,816,31,29.01.2024,20.00,Mortuary,Deceased,038.9,k.A.,k.A.,k.A.,k.A.,Ute Bolander
+273,819,819,18,12.03.2024,20.00,Outpatient follow-up,Improving,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Friedo Holt
+274,822,822,44,06.12.2024,20.00,Home,Requires monitoring,995.91,k.A.,None documented,k.A.,Contact local clinic for follow-up,Prof. Juliane Gunpf MBA.
+275,825,825,4,03.06.2024,20.00,Outpatient follow-up,Transferred,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Hans Jürgen Geisel B.Eng.
+276,828,828,11,27.02.2024,20.00,Home,Requires monitoring,427.31,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Fedor Mentzel
+277,831,831,43,16.01.2024,20.00,Another facility,Improving,780.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+278,834,834,34,19.06.2024,20.00,Another facility,Improving,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Bernt Schüler
+279,837,837,12,13.05.2024,20.00,Another facility,Recovered,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+280,840,840,38,21.07.2024,20.00,Outpatient follow-up,Requires monitoring,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Constantin Finke
+281,843,843,48,12.04.2024,20.00,Another facility,Stable,530.81,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Gert Atzler-Rose
+282,846,846,13,26.02.2024,20.00,Another facility,Stable,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Rigo Gotthard
+283,849,849,49,13.08.2024,20.00,Home,Transferred,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Hulda Nerger B.A.
+284,852,852,13,19.03.2024,20.00,Mortuary,Deceased,427.31,k.A.,k.A.,k.A.,k.A.,Univ.Prof. Rigo Gotthard
+285,855,855,35,10.03.2025,20.00,Another facility,Transferred,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Udo Schulz
+286,858,858,5,28.03.2025,20.00,Another facility,Requires monitoring,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+287,861,861,41,07.11.2024,20.00,Outpatient follow-up,Requires monitoring,414.01,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+288,864,864,30,25.04.2025,20.00,Another facility,Transferred,038.9,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Myriam Karz
+289,867,867,7,29.06.2024,20.00,Outpatient follow-up,Improving,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Frau Brigitte Linke
+290,870,870,37,26.10.2024,20.00,Home,Recovered,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+291,873,873,31,05.11.2024,20.00,Home,Requires monitoring,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ute Bolander
+292,876,876,6,14.03.2024,20.00,Another facility,Improving,427.31,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+293,879,879,46,05.01.2025,20.00,Outpatient follow-up,Recovered,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Joerg Schottin-Wagner
+294,882,882,21,03.05.2025,20.00,Outpatient follow-up,Improving,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Benita Stoll B.Eng.
+295,885,885,7,19.06.2024,20.00,Another facility,Transferred,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Frau Brigitte Linke
+296,888,888,1,17.04.2025,20.00,Another facility,Requires monitoring,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Enno Mangold B.Sc.
+297,891,891,19,14.07.2024,20.00,Mortuary,Deceased,530.81,k.A.,k.A.,k.A.,k.A.,Carsten Walter
+298,894,894,30,09.02.2024,20.00,Another facility,Transferred,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Myriam Karz
+299,897,897,52,22.05.2025,20.00,Outpatient follow-up,Stable,724.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Prof. Tilman Pechel MBA.
+300,900,900,37,05.04.2024,20.00,Home,Requires monitoring,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+301,903,903,31,07.03.2025,20.00,Home,Transferred,780.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ute Bolander
+302,906,906,25,12.02.2025,20.00,Home,Improving,493.90,k.A.,None documented,k.A.,Contact local clinic for follow-up,Anett Hentschel
+303,909,909,33,19.10.2024,20.00,Outpatient follow-up,Transferred,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+304,912,912,27,13.02.2025,20.00,Another facility,Recovered,038.9,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+305,915,915,50,05.12.2024,20.00,Another facility,Improving,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+306,918,918,42,14.12.2024,20.00,Outpatient follow-up,Requires monitoring,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Dr. Anna Blümel B.A.
+307,921,921,3,10.03.2024,20.00,Outpatient follow-up,Requires monitoring,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Hans D. Rose-Schmidtke
+308,924,924,50,28.05.2024,20.00,Home,Improving,427.31,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+309,927,927,39,23.08.2024,20.00,Home,Transferred,780.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Walli Rose-Röhrdanz
+310,930,930,29,22.05.2024,20.00,Outpatient follow-up,Improving,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Dennis Thanel
+311,933,933,3,13.11.2024,20.00,Another facility,Stable,414.01,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Hans D. Rose-Schmidtke
+312,936,936,1,13.12.2024,20.00,Home,Stable,038.9,k.A.,None documented,k.A.,Contact local clinic for follow-up,Enno Mangold B.Sc.
+313,939,939,16,10.06.2024,20.00,Outpatient follow-up,Requires monitoring,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Selma Lehmann
+314,942,942,38,13.05.2025,20.00,Outpatient follow-up,Improving,995.91,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Constantin Finke
+315,945,945,35,30.03.2025,20.00,Mortuary,Deceased,724.2,k.A.,k.A.,k.A.,k.A.,Univ.Prof. Udo Schulz
+316,948,948,17,10.03.2024,20.00,Another facility,Recovered,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+317,951,951,14,22.01.2024,20.00,Home,Stable,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Janin Linke
+318,954,954,6,19.03.2025,20.00,Another facility,Transferred,493.90,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Danielle Matthäi
+319,957,957,43,26.01.2024,20.00,Outpatient follow-up,Improving,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+320,960,960,14,17.12.2024,20.00,Another facility,Stable,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Janin Linke
+321,963,963,31,07.05.2024,20.00,Outpatient follow-up,Improving,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ute Bolander
+322,966,966,3,22.01.2024,20.00,Outpatient follow-up,Transferred,995.91,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Hans D. Rose-Schmidtke
+323,969,969,38,18.04.2025,20.00,Another facility,Transferred,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Constantin Finke
+324,972,972,26,04.01.2025,20.00,Outpatient follow-up,Transferred,427.31,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+325,975,975,42,03.08.2024,20.00,Another facility,Transferred,780.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dr. Anna Blümel B.A.
+326,978,978,26,11.11.2024,20.00,Outpatient follow-up,Stable,493.90,k.A.,None documented,k.A.,Contact local clinic for follow-up,Kristiane Jacob-Rust
+327,981,981,42,05.05.2024,20.00,Another facility,Stable,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Dr. Anna Blümel B.A.
+328,984,984,48,16.04.2025,20.00,Another facility,Transferred,038.9,k.A.,None documented,k.A.,Contact local clinic for follow-up,Gert Atzler-Rose
+329,987,987,24,28.02.2025,20.00,Home,Requires monitoring,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dr. Rolf-Dieter Seifert MBA.
+330,990,990,45,19.02.2024,20.00,Home,Requires monitoring,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+331,993,993,40,22.06.2024,20.00,Another facility,Requires monitoring,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ramona Bloch
+332,996,996,14,23.05.2024,20.00,Outpatient follow-up,Recovered,427.31,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Janin Linke
+333,999,999,28,15.09.2024,20.00,Home,Recovered,780.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+334,1002,709,45,31.12.2025,20.00,Outpatient follow-up,Recovered,493.90,k.A.,None documented,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+335,1005,786,28,29.09.2026,20.00,Another facility,Recovered,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+336,1008,165,55,22.11.2025,20.00,Outpatient follow-up,Requires monitoring,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Tom Pieper
+337,1011,128,13,19.08.2026,20.00,Home,Transferred,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Rigo Gotthard
+338,1014,444,50,02.09.2025,20.00,Outpatient follow-up,Transferred,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+339,1017,145,15,20.08.2025,20.00,Another facility,Transferred,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+340,1020,172,14,06.12.2025,20.00,Another facility,Requires monitoring,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Janin Linke
+341,1023,250,5,10.03.2026,20.00,Outpatient follow-up,Improving,780.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Marina Bolander B.Eng.
+342,1026,634,41,12.09.2026,20.00,Home,Requires monitoring,493.90,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ing. Dunja Weinhage
+343,1029,386,28,06.04.2026,20.00,Another facility,Requires monitoring,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+344,1032,697,27,15.02.2026,20.00,Home,Transferred,038.9,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+345,1035,517,20,07.04.2026,20.00,Another facility,Recovered,530.81,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Regina Wähner-Lorch
+346,1038,932,20,02.08.2026,20.00,Outpatient follow-up,Recovered,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Regina Wähner-Lorch
+347,1041,16,49,10.05.2026,20.00,Mortuary,Deceased,724.2,k.A.,k.A.,k.A.,k.A.,Hulda Nerger B.A.
+348,1044,253,43,21.08.2026,20.00,Another facility,Stable,427.31,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+349,1047,562,38,18.06.2026,20.00,Outpatient follow-up,Transferred,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Constantin Finke
+350,1050,229,12,20.12.2025,20.00,Another facility,Requires monitoring,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Jonas Fiebig
+351,1053,873,29,03.09.2025,20.00,Another facility,Requires monitoring,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Dennis Thanel
+352,1056,658,11,20.05.2026,20.00,Another facility,Requires monitoring,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Fedor Mentzel
+353,1059,916,39,17.10.2025,20.00,Home,Improving,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Walli Rose-Röhrdanz
+354,1062,560,49,22.10.2025,20.00,Another facility,Transferred,995.91,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Hulda Nerger B.A.
+355,1065,901,15,21.09.2025,20.00,Home,Requires monitoring,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+356,1068,15,32,21.05.2026,20.00,Mortuary,Deceased,427.31,k.A.,k.A.,k.A.,k.A.,Christel Faust B.Eng.
+357,1071,639,36,13.10.2026,20.00,Another facility,Requires monitoring,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Holger Koch
+358,1074,341,23,15.05.2026,20.00,Outpatient follow-up,Requires monitoring,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+359,1077,36,49,22.07.2026,20.00,Outpatient follow-up,Requires monitoring,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Hulda Nerger B.A.
+360,1080,52,11,24.09.2025,20.00,Home,Requires monitoring,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Fedor Mentzel
+361,1083,704,2,26.05.2026,20.00,Home,Stable,530.81,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ivonne Scholtz
+362,1086,999,3,08.10.2025,20.00,Outpatient follow-up,Requires monitoring,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Hans D. Rose-Schmidtke
+363,1089,860,43,19.10.2025,20.00,Another facility,Improving,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Victoria Kambs-Barth
+364,1092,620,30,19.06.2026,20.00,Outpatient follow-up,Requires monitoring,427.31,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Myriam Karz
+365,1095,920,37,29.09.2026,20.00,Home,Improving,780.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+366,1098,962,33,25.08.2025,20.00,Another facility,Stable,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Julian Bonbach B.Sc.
+367,1101,704,32,30.10.2025,20.00,Home,Requires monitoring,414.01,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Christel Faust B.Eng.
+368,1104,31,4,06.12.2025,20.00,Home,Transferred,038.9,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Hans Jürgen Geisel B.Eng.
+369,1107,583,37,08.05.2026,20.00,Another facility,Stable,530.81,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Christina Speer MBA.
+370,1110,226,35,09.10.2026,20.00,Another facility,Transferred,995.91,k.A.,None documented,k.A.,Contact local clinic for follow-up,Univ.Prof. Udo Schulz
+371,1113,553,17,09.01.2026,20.00,Another facility,Recovered,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+372,1116,368,45,23.08.2026,20.00,Outpatient follow-up,Transferred,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Alex Römer-Pergande
+373,1119,409,17,06.12.2025,20.00,Home,Recovered,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+374,1122,191,25,09.05.2026,20.00,Outpatient follow-up,Improving,493.90,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Anett Hentschel
+375,1125,125,15,12.12.2025,20.00,Home,Stable,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+376,1128,431,30,19.12.2025,20.00,Home,Stable,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Myriam Karz
+377,1131,923,25,25.12.2025,20.00,Home,Recovered,530.81,k.A.,None documented,k.A.,Contact local clinic for follow-up,Anett Hentschel
+378,1134,55,55,16.06.2026,20.00,Home,Stable,995.91,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Tom Pieper
+379,1137,947,50,23.10.2025,20.00,Outpatient follow-up,Transferred,724.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+380,1140,885,28,18.01.2026,20.00,Another facility,Requires monitoring,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+381,1143,669,20,21.02.2026,20.00,Home,Improving,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Regina Wähner-Lorch
+382,1146,665,14,22.11.2025,20.00,Mortuary,Deceased,493.90,k.A.,k.A.,k.A.,k.A.,Janin Linke
+383,1149,345,27,22.11.2025,20.00,Outpatient follow-up,Improving,414.01,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ekrem Meyer
+384,1152,584,50,04.12.2025,20.00,Outpatient follow-up,Recovered,038.9,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Univ.Prof. Nuri Lübs B.A.
+385,1155,655,55,11.08.2026,20.00,Home,Requires monitoring,530.81,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Tom Pieper
+386,1158,485,8,15.01.2026,20.00,Another facility,Recovered,995.91,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Ing. Mark Mans
+387,1161,799,54,04.11.2025,20.00,Home,Requires monitoring,724.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+388,1164,227,32,24.09.2026,20.00,Home,Transferred,427.31,k.A.,None documented,k.A.,Contact local clinic for follow-up,Christel Faust B.Eng.
+389,1167,480,46,17.04.2026,20.00,Outpatient follow-up,Stable,780.2,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Joerg Schottin-Wagner
+390,1170,91,31,01.10.2026,20.00,Another facility,Transferred,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ute Bolander
+391,1173,567,28,19.10.2025,20.00,Another facility,Recovered,414.01,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Ing. Steve Hermighausen B.Eng.
+392,1176,856,42,05.02.2026,20.00,Outpatient follow-up,Transferred,038.9,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Dr. Anna Blümel B.A.
+393,1179,858,17,11.05.2026,20.00,Outpatient follow-up,Stable,530.81,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Dariusz Röhrdanz
+394,1182,126,52,19.08.2026,20.00,Mortuary,Deceased,995.91,k.A.,k.A.,k.A.,k.A.,Prof. Tilman Pechel MBA.
+395,1185,211,10,02.11.2025,20.00,Another facility,Stable,724.2,k.A.,None documented,k.A.,Contact local clinic for follow-up,Herr Sven Hahn B.A.
+396,1188,725,15,29.08.2026,20.00,Another facility,Transferred,427.31,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+397,1191,615,23,06.03.2026,20.00,Another facility,Requires monitoring,780.2,k.A.,k.A.,k.A.,Contact local clinic for follow-up,Vera Röhrdanz
+398,1194,479,54,20.07.2026,20.00,Home,Requires monitoring,493.90,k.A.,Acetaminophen,k.A.,Contact local clinic for follow-up,Berta Adolph-Conradi
+399,1197,208,38,05.10.2025,20.00,Home,Requires monitoring,414.01,k.A.,None documented,k.A.,Contact local clinic for follow-up,Constantin Finke
+400,1200,149,15,26.05.2026,20.00,Home,Transferred,038.9,k.A.,None documented,k.A.,Contact local clinic for follow-up,Dipl.-Ing. Gundi Zänker B.Sc.
+11317,1317,14,43,10.02.2026,20.00.00,Mortuary,Deceased,414.01,k.A.,k.A.,k.A.,k.A.,Victoria Kambs-Barth
+11046,1046,23,14,31.07.2026,20.00.00,Mortuary,Deceased,401.9,k.A.,k.A.,k.A.,k.A.,Janin Linke
+11310,1310,156,8,04.05.2026,20.00.00,Mortuary,Deceased,401.9,k.A.,k.A.,k.A.,k.A.,Ing. Mark Mans
+10214,214,214,23,07.03.2025,20.00.00,Mortuary,Deceased,789.00,530.81,k.A.,k.A.,k.A.,Vera Röhrdanz
+10248,248,248,39,11.11.2024,20.00.00,Mortuary,Deceased,786.50,560.9,k.A.,k.A.,k.A.,Walli Rose-Röhrdanz
+10260,260,260,4,02.04.2025,20.00.00,Mortuary,Deceased,584.9,599.0,k.A.,k.A.,k.A.,Ing. Hans Jürgen Geisel B.Eng.
+10278,278,278,35,25.01.2025,20.00.00,Mortuary,Deceased,401.9,410.90,k.A.,k.A.,k.A.,Univ.Prof. Udo Schulz
+10298,298,298,40,27.06.2024,20.00.00,Mortuary,Deceased,780.79,780.2,k.A.,k.A.,k.A.,Ramona Bloch
+10305,305,305,29,25.01.2024,20.00.00,Mortuary,Deceased,272.4,789.00,k.A.,k.A.,k.A.,Ing. Dennis Thanel
+10311,311,311,27,03.02.2024,20.00.00,Mortuary,Deceased,276.51,486,k.A.,k.A.,k.A.,Ekrem Meyer
+11193,1193,321,2,19.12.2025,20.00.00,Mortuary,Deceased,272.4,k.A.,k.A.,k.A.,k.A.,Ivonne Scholtz
+11335,1335,329,9,09.08.2026,20.00.00,Mortuary,Deceased,780.2,k.A.,k.A.,k.A.,k.A.,Katarzyna Jopich
+10338,338,338,2,06.05.2024,20.00.00,Mortuary,Deceased,780.60,250.00,k.A.,k.A.,k.A.,Ivonne Scholtz
+11003,1003,381,28,25.12.2025,20.00.00,Mortuary,Deceased,410.90,k.A.,k.A.,k.A.,k.A.,Ing. Steve Hermighausen B.Eng.
+11007,1007,382,40,07.09.2025,20.00.00,Mortuary,Deceased,276.51,k.A.,k.A.,k.A.,k.A.,Ramona Bloch
+10422,422,422,53,27.03.2024,20.00.00,Mortuary,Deceased,401.9,410.90,k.A.,k.A.,k.A.,Bernward Renner
+10425,425,425,25,10.10.2024,20.00.00,Mortuary,Deceased,272.4,789.00,k.A.,k.A.,k.A.,Anett Hentschel
+10445,445,445,27,31.10.2024,20.00.00,Mortuary,Deceased,560.9,493.90,k.A.,k.A.,k.A.,Ekrem Meyer
+11344,1344,468,53,04.10.2025,20.00.00,Mortuary,Deceased,038.9,k.A.,k.A.,k.A.,k.A.,Bernward Renner
+11117,1117,500,5,17.10.2025,20.00.00,Mortuary,Deceased,560.9,k.A.,k.A.,k.A.,k.A.,Marina Bolander B.Eng.
+11048,1048,517,39,09.08.2026,20.00.00,Mortuary,Deceased,784.0,k.A.,k.A.,k.A.,k.A.,Walli Rose-Röhrdanz
+11087,1087,554,34,19.09.2026,20.00.00,Mortuary,Deceased,250.00,k.A.,k.A.,k.A.,k.A.,Bernt Schüler
+11245,1245,597,16,26.04.2026,20.00.00,Mortuary,Deceased,414.01,k.A.,k.A.,k.A.,k.A.,Selma Lehmann
+10599,599,599,9,04.02.2024,20.00.00,Mortuary,Deceased,276.51,486,k.A.,k.A.,k.A.,Katarzyna Jopich
+10608,608,608,48,02.07.2024,20.00.00,Mortuary,Deceased,786.50,560.9,k.A.,k.A.,k.A.,Gert Atzler-Rose
+10646,646,646,15,16.03.2025,20.00.00,Mortuary,Deceased,789.00,530.81,k.A.,k.A.,k.A.,Dipl.-Ing. Gundi Zänker B.Sc.
+10652,652,652,30,01.08.2024,20.00.00,Mortuary,Deceased,486,k.A.,k.A.,k.A.,k.A.,Myriam Karz
+10671,671,671,12,14.10.2024,20.00.00,Mortuary,Deceased,276.51,k.A.,k.A.,k.A.,k.A.,Jonas Fiebig
+10679,679,679,3,18.07.2024,20.00.00,Mortuary,Deceased,250.00,k.A.,k.A.,k.A.,k.A.,Hans D. Rose-Schmidtke
+11166,1166,693,41,12.05.2026,20.00.00,Mortuary,Deceased,401.9,k.A.,k.A.,k.A.,k.A.,Ing. Dunja Weinhage
+11340,1340,715,13,17.03.2026,20.00.00,Mortuary,Deceased,584.9,k.A.,k.A.,k.A.,k.A.,Univ.Prof. Rigo Gotthard
+11332,1332,721,36,12.10.2026,20.00.00,Mortuary,Deceased,427.31,k.A.,k.A.,k.A.,k.A.,Holger Koch
+10737,737,737,23,09.07.2024,20.00.00,Mortuary,Deceased,272.4,k.A.,k.A.,k.A.,k.A.,Vera Röhrdanz
+11150,1150,753,49,15.09.2026,20.00.00,Mortuary,Deceased,789.00,k.A.,k.A.,k.A.,k.A.,Hulda Nerger B.A.
+10758,758,758,48,10.04.2025,20.00.00,Mortuary,Deceased,401.9,k.A.,k.A.,k.A.,k.A.,Gert Atzler-Rose
+10764,764,764,11,12.11.2024,20.00.00,Mortuary,Deceased,584.9,k.A.,k.A.,k.A.,k.A.,Fedor Mentzel
+10791,791,791,34,22.02.2025,20.00.00,Mortuary,Deceased,276.51,k.A.,k.A.,k.A.,k.A.,Bernt Schüler
+10818,818,818,47,29.09.2024,20.00.00,Mortuary,Deceased,780.60,k.A.,k.A.,k.A.,k.A.,Heidrun Van Der Dussen
+10844,844,844,40,11.07.2024,20.00.00,Mortuary,Deceased,486,k.A.,k.A.,k.A.,k.A.,Ramona Bloch
+10877,877,877,53,09.11.2024,20.00.00,Mortuary,Deceased,560.9,k.A.,k.A.,k.A.,k.A.,Bernward Renner
+10886,886,886,8,20.01.2025,20.00.00,Mortuary,Deceased,789.00,k.A.,k.A.,k.A.,k.A.,Ing. Mark Mans
+11088,1088,929,30,17.07.2026,20.00.00,Mortuary,Deceased,786.50,k.A.,k.A.,k.A.,k.A.,Myriam Karz
+10946,946,946,16,19.05.2024,20.00.00,Mortuary,Deceased,780.79,k.A.,k.A.,k.A.,k.A.,Selma Lehmann
+10971,971,971,9,13.03.2025,20.00.00,Mortuary,Deceased,496,k.A.,k.A.,k.A.,k.A.,Katarzyna Jopich

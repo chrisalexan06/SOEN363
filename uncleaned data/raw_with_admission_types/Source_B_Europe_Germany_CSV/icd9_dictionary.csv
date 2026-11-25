@@ -1,0 +1,25 @@
+ICD9,diagnosis_title,description,disease_category
+038.9,Unspecified septicemia,Unspecified septicemia,Infectious and parasitic diseases
+250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled","Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",Endocrine and metabolic
+401.9,Unspecified essential hypertension,Unspecified essential hypertension,Circulatory
+414.01,Coronary atherosclerosis of native coronary artery,Coronary atherosclerosis of native coronary artery,Circulatory
+486,"Pneumonia, organism unspecified","Pneumonia, organism unspecified",Respiratory
+496,"Chronic airway obstruction, not elsewhere classified","Chronic airway obstruction, not elsewhere classified",Respiratory
+493.90,"Asthma, unspecified type, unspecified","Asthma, unspecified type, unspecified",Respiratory
+599.0,"Urinary tract infection, site not specified","Urinary tract infection, site not specified",Genitourinary
+786.50,"Chest pain, unspecified","Chest pain, unspecified",Symptoms and signs
+780.2,Syncope and collapse,Syncope and collapse,Symptoms and signs
+789.00,"Abdominal pain, unspecified site","Abdominal pain, unspecified site",Symptoms and signs
+285.9,"Anemia, unspecified","Anemia, unspecified",Blood diseases
+427.31,Atrial fibrillation,Atrial fibrillation,Circulatory
+410.90,"Acute myocardial infarction of unspecified site, episode of care unspecified","Acute myocardial infarction of unspecified site, episode of care unspecified",Circulatory
+780.60,"Fever, unspecified","Fever, unspecified",Symptoms and signs
+724.2,Lumbago,Lumbago,Musculoskeletal
+784.0,Headache,Headache,Symptoms and signs
+276.51,Dehydration,Dehydration,Endocrine and metabolic
+995.91,Sepsis,Sepsis,Injury and poisoning
+560.9,Unspecified intestinal obstruction,Unspecified intestinal obstruction,Digestive
+584.9,"Acute kidney failure, unspecified","Acute kidney failure, unspecified",Genitourinary
+530.81,Esophageal reflux,Esophageal reflux,Digestive
+780.79,Other malaise and fatigue,Other malaise and fatigue,Symptoms and signs
+272.4,Other and unspecified hyperlipidemia,Other and unspecified hyperlipidemia,Endocrine and metabolic

@@ -1,0 +1,401 @@
+﻿discharge_summary_id,discharge_record_id,admission_id,physician_id,admission_reason,examination_results,icd9_code_diagnoses,treatments_provided,unit_transfers,recommendations
+1,1,3,23,Abdominal pain,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+2,2,6,46,Urinary symptoms,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+3,3,9,9,Abdominal pain,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+4,4,12,22,Dizziness,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+5,5,15,28,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+6,6,18,23,Shortness of breath,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+7,7,21,51,Routine postoperative follow-up,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+8,8,24,5,Dizziness,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+9,9,27,53,Injury assessment,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+10,10,30,34,Chest discomfort,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+11,11,33,55,Fever and fatigue,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+12,12,36,53,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+13,13,39,38,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+14,14,42,32,Injury assessment,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+15,15,45,46,Routine postoperative follow-up,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+16,16,48,55,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+17,17,51,7,Chest discomfort,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+18,18,54,39,Chest discomfort,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+19,19,57,47,Abdominal pain,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+20,20,60,36,Urinary symptoms,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+21,21,63,44,Fever and fatigue,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+22,22,66,32,Urinary symptoms,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+23,23,69,39,Abnormal laboratory values,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+24,24,72,18,Abdominal pain,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+25,25,75,12,Abnormal laboratory values,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+26,26,78,2,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+27,27,81,50,Severe headache,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+28,28,84,26,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+29,29,87,3,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+30,30,90,46,Routine postoperative follow-up,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+31,31,93,26,Fever and fatigue,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+32,32,96,25,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+33,33,99,13,Urinary symptoms,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+34,34,102,2,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+35,35,105,12,Chest discomfort,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+36,36,108,39,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+37,37,111,12,Urinary symptoms,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+38,38,114,54,Fever and fatigue,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+39,39,117,20,Abdominal pain,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+40,40,120,52,Severe headache,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+41,41,123,6,Urinary symptoms,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+42,42,126,20,Urinary symptoms,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+43,43,129,46,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+44,44,132,30,Urinary symptoms,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+45,45,135,13,Severe headache,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+46,46,138,36,Fever and fatigue,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+47,47,141,51,Abdominal pain,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+48,48,144,31,Shortness of breath,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+49,49,147,1,Chest discomfort,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+50,50,150,3,Fever and fatigue,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+51,51,153,48,Injury assessment,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+52,52,156,37,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+53,53,159,30,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+54,54,162,6,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+55,55,165,17,Injury assessment,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+56,56,168,31,Severe headache,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+57,57,171,3,Abnormal laboratory values,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+58,58,174,1,Abnormal laboratory values,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+59,59,177,5,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+60,60,180,52,Injury assessment,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+61,61,183,16,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+62,62,186,8,Shortness of breath,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+63,63,189,34,Urinary symptoms,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+64,64,192,49,Abdominal pain,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+65,65,195,17,Abnormal laboratory values,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+66,66,198,15,Urinary symptoms,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+67,67,201,38,Severe headache,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+68,68,204,38,Urinary symptoms,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+69,69,207,49,Abdominal pain,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+70,70,210,39,Fever and fatigue,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+71,71,213,44,Urinary symptoms,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+72,72,216,49,Shortness of breath,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+73,73,219,55,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+74,74,222,21,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+75,75,225,43,Injury assessment,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+76,76,228,16,Severe headache,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+77,77,231,32,Urinary symptoms,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+78,78,234,6,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+79,79,237,50,Injury assessment,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+80,80,240,49,Routine postoperative follow-up,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+81,81,243,11,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+82,82,246,51,Urinary symptoms,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+83,83,249,9,Urinary symptoms,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+84,84,252,18,Fever and fatigue,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+85,85,255,49,Dizziness,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+86,86,258,47,Abnormal laboratory values,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+87,87,261,34,Chest discomfort,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+88,88,264,22,Injury assessment,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+89,89,267,21,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+90,90,270,17,Abdominal pain,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+91,91,273,47,Injury assessment,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+92,92,276,31,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+93,93,279,21,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+94,94,282,50,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+95,95,285,4,Routine postoperative follow-up,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+96,96,288,55,Severe headache,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+97,97,291,25,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+98,98,294,28,Fever and fatigue,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+99,99,297,9,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+100,100,300,22,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+101,101,303,46,Urinary symptoms,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+102,102,306,11,Shortness of breath,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+103,103,309,9,Urinary symptoms,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+104,104,312,28,Fever and fatigue,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+105,105,315,31,Fever and fatigue,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+106,106,318,32,Severe headache,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+107,107,321,50,Severe headache,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+108,108,324,42,Abnormal laboratory values,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+109,109,327,1,Fever and fatigue,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+110,110,330,44,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+111,111,333,23,Fever and fatigue,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+112,112,336,52,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+113,113,339,21,Abnormal laboratory values,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+114,114,342,55,Injury assessment,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+115,115,345,13,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+116,116,348,53,Chest discomfort,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+117,117,351,41,Urinary symptoms,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+118,118,354,54,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+119,119,357,16,Routine postoperative follow-up,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+120,120,360,40,Severe headache,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+121,121,363,38,Chest discomfort,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+122,122,366,14,Fever and fatigue,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+123,123,369,4,Urinary symptoms,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+124,124,372,29,Severe headache,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+125,125,375,25,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+126,126,378,46,Chest discomfort,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+127,127,381,33,Fever and fatigue,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+128,128,384,14,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+129,129,387,26,Urinary symptoms,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+130,130,390,22,Routine postoperative follow-up,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+131,131,393,55,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+132,132,396,45,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+133,133,399,23,Chest discomfort,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+134,134,402,9,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+135,135,405,49,Shortness of breath,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+136,136,408,30,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+137,137,411,35,Dizziness,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+138,138,414,38,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+139,139,417,45,Chest discomfort,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+140,140,420,27,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+141,141,423,42,Abnormal laboratory values,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+142,142,426,3,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+143,143,429,55,Fever and fatigue,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+144,144,432,7,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+145,145,435,39,Abdominal pain,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+146,146,438,29,Routine postoperative follow-up,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+147,147,441,44,Dizziness,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+148,148,444,18,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+149,149,447,45,Routine postoperative follow-up,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+150,150,450,49,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+151,151,453,44,Abnormal laboratory values,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+152,152,456,37,Abdominal pain,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+153,153,459,34,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+154,154,462,43,Abnormal laboratory values,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+155,155,465,4,Severe headache,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+156,156,468,54,Chest discomfort,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+157,157,471,9,Dizziness,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+158,158,474,22,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+159,159,477,45,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+160,160,480,17,Shortness of breath,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+161,161,483,19,Routine postoperative follow-up,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+162,162,486,22,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+163,163,489,53,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+164,164,492,4,Fever and fatigue,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+165,165,495,52,Severe headache,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+166,166,498,8,Chest discomfort,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+167,167,501,6,Abnormal laboratory values,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+168,168,504,44,Shortness of breath,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+169,169,507,17,Abdominal pain,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+170,170,510,16,Chest discomfort,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+171,171,513,5,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+172,172,516,46,Abnormal laboratory values,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+173,173,519,30,Severe headache,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+174,174,522,18,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+175,175,525,17,Routine postoperative follow-up,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+176,176,528,28,Fever and fatigue,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+177,177,531,24,Abdominal pain,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+178,178,534,41,Routine postoperative follow-up,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+179,179,537,16,Dizziness,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+180,180,540,4,Dizziness,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+181,181,543,32,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+182,182,546,54,Injury assessment,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+183,183,549,39,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+184,184,552,49,Shortness of breath,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+185,185,555,18,Chest discomfort,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+186,186,558,5,Abdominal pain,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+187,187,561,12,Severe headache,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+188,188,564,47,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+189,189,567,12,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+190,190,570,50,Chest discomfort,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+191,191,573,37,Urinary symptoms,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+192,192,576,35,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+193,193,579,40,Abdominal pain,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+194,194,582,30,Routine postoperative follow-up,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+195,195,585,31,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+196,196,588,9,Dizziness,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+197,197,591,4,Urinary symptoms,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+198,198,594,35,Chest discomfort,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+199,199,597,50,Abnormal laboratory values,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+200,200,600,25,Shortness of breath,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+201,201,603,8,Urinary symptoms,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+202,202,606,9,Fever and fatigue,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+203,203,609,18,Severe headache,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+204,204,612,6,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+205,205,615,49,Dizziness,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+206,206,618,3,Fever and fatigue,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+207,207,621,18,Routine postoperative follow-up,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+208,208,624,12,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+209,209,627,36,Fever and fatigue,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+210,210,630,31,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+211,211,633,28,Shortness of breath,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+212,212,636,49,Abnormal laboratory values,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+213,213,639,33,Chest discomfort,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+214,214,642,46,Shortness of breath,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+215,215,645,28,Abdominal pain,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+216,216,648,25,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+217,217,651,34,Routine postoperative follow-up,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+218,218,654,11,Injury assessment,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+219,219,657,10,Urinary symptoms,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+220,220,660,29,Dizziness,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+221,221,663,44,Abdominal pain,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+222,222,666,26,Routine postoperative follow-up,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+223,223,669,48,Urinary symptoms,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+224,224,672,25,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+225,225,675,29,Abdominal pain,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+226,226,678,51,Chest discomfort,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+227,227,681,54,Shortness of breath,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+228,228,684,1,Routine postoperative follow-up,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+229,229,687,46,Dizziness,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+230,230,690,28,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+231,231,693,3,Fever and fatigue,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+232,232,696,49,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+233,233,699,26,Abdominal pain,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+234,234,702,36,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+235,235,705,4,Abdominal pain,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+236,236,708,5,Urinary symptoms,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+237,237,711,36,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+238,238,714,53,Chest discomfort,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+239,239,717,30,Injury assessment,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+240,240,720,34,Routine postoperative follow-up,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+241,241,723,45,Routine postoperative follow-up,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+242,242,726,23,Injury assessment,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+243,243,729,25,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+244,244,732,43,Chest discomfort,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+245,245,735,49,Chest discomfort,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+246,246,738,36,Urinary symptoms,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+247,247,741,22,Fever and fatigue,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+248,248,744,18,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+249,249,747,48,Routine postoperative follow-up,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+250,250,750,55,Chest discomfort,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+251,251,753,27,Abdominal pain,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+252,252,756,16,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+253,253,759,11,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+254,254,762,13,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+255,255,765,37,Shortness of breath,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+256,256,768,30,Urinary symptoms,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+257,257,771,13,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+258,258,774,7,Severe headache,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+259,259,777,9,Severe headache,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+260,260,780,16,Severe headache,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+261,261,783,29,Urinary symptoms,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+262,262,786,21,Routine postoperative follow-up,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+263,263,789,49,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+264,264,792,28,Urinary symptoms,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+265,265,795,2,Urinary symptoms,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+266,266,798,1,Urinary symptoms,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+267,267,801,42,Fever and fatigue,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+268,268,804,17,Chest discomfort,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+269,269,807,28,Dizziness,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+270,270,810,43,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+271,271,813,43,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+272,272,816,30,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+273,273,819,12,Dizziness,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+274,274,822,53,Abnormal laboratory values,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+275,275,825,31,Shortness of breath,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+276,276,828,7,Fever and fatigue,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+277,277,831,55,Urinary symptoms,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+278,278,834,31,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+279,279,837,6,Chest discomfort,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+280,280,840,47,Injury assessment,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+281,281,843,4,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+282,282,846,7,Injury assessment,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+283,283,849,11,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+284,284,852,38,Abnormal laboratory values,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+285,285,855,46,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+286,286,858,17,Chest discomfort,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+287,287,861,40,Urinary symptoms,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+288,288,864,24,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+289,289,867,20,Fever and fatigue,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+290,290,870,7,Shortness of breath,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+291,291,873,17,Dizziness,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+292,292,876,32,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+293,293,879,34,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+294,294,882,51,Shortness of breath,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+295,295,885,40,Dizziness,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+296,296,888,26,Severe headache,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+297,297,891,2,Fever and fatigue,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+298,298,894,45,Fever and fatigue,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+299,299,897,54,Chest discomfort,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+300,300,900,11,Fever and fatigue,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+301,301,903,51,Chest discomfort,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+302,302,906,4,Severe headache,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+303,303,909,41,Urinary symptoms,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+304,304,912,40,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+305,305,915,4,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+306,306,918,1,Injury assessment,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+307,307,921,40,Dizziness,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+308,308,924,28,Injury assessment,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+309,309,927,6,Dizziness,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+310,310,930,9,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+311,311,933,23,Injury assessment,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+312,312,936,2,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+313,313,939,6,Routine postoperative follow-up,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+314,314,942,15,Injury assessment,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+315,315,945,4,Shortness of breath,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+316,316,948,46,Injury assessment,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+317,317,951,55,Chest discomfort,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+318,318,954,39,Fever and fatigue,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+319,319,957,7,Abnormal laboratory values,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+320,320,960,15,Chest discomfort,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+321,321,963,15,Routine postoperative follow-up,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+322,322,966,17,Dizziness,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+323,323,969,52,Urinary symptoms,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+324,324,972,34,Fever and fatigue,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+325,325,975,3,Chest discomfort,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+326,326,978,23,Severe headache,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+327,327,981,8,Injury assessment,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+328,328,984,18,Abnormal laboratory values,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+329,329,987,5,Severe headache,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+330,330,990,43,Abnormal laboratory values,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+331,331,993,16,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+332,332,996,49,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+333,333,999,44,Dizziness,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+334,334,1002,47,Abnormal laboratory values,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+335,335,1005,8,Abnormal laboratory values,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+336,336,1008,32,Dizziness,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+337,337,1011,33,Abnormal laboratory values,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+338,338,1014,30,Dizziness,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+339,339,1017,36,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+340,340,1020,38,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+341,341,1023,44,Shortness of breath,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+342,342,1026,36,Urinary symptoms,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+343,343,1029,15,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+344,344,1032,30,Urinary symptoms,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+345,345,1035,5,Severe headache,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+346,346,1038,10,Urinary symptoms,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+347,347,1041,2,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+348,348,1044,40,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+349,349,1047,3,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+350,350,1050,54,Abdominal pain,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+351,351,1053,28,Injury assessment,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+352,352,1056,9,Dizziness,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+353,353,1059,18,Routine postoperative follow-up,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+354,354,1062,36,Abdominal pain,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+355,355,1065,21,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+356,356,1068,55,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+357,357,1071,38,Injury assessment,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+358,358,1074,14,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+359,359,1077,38,Dizziness,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+360,360,1080,26,Injury assessment,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+361,361,1083,26,Fever and fatigue,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+362,362,1086,16,Routine postoperative follow-up,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+363,363,1089,4,Abdominal pain,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+364,364,1092,21,Shortness of breath,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+365,365,1095,45,Abnormal laboratory values,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+366,366,1098,24,Fever and fatigue,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+367,367,1101,13,Shortness of breath,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+368,368,1104,47,Severe headache,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+369,369,1107,41,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+370,370,1110,49,Routine postoperative follow-up,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+371,371,1113,31,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+372,372,1116,22,Abdominal pain,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+373,373,1119,23,Chest discomfort,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+374,374,1122,44,Injury assessment,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+375,375,1125,44,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+376,376,1128,47,Severe headache,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+377,377,1131,35,Fever and fatigue,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+378,378,1134,20,Severe headache,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+379,379,1137,41,Routine postoperative follow-up,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+380,380,1140,27,Urinary symptoms,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+381,381,1143,22,Abnormal laboratory values,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+382,382,1146,19,Dizziness,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+383,383,1149,44,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+384,384,1152,4,Urinary symptoms,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+385,385,1155,30,Dizziness,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+386,386,1158,25,Urinary symptoms,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+387,387,1161,41,Abnormal laboratory values,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+388,388,1164,31,Abnormal laboratory values,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+389,389,1167,16,Routine postoperative follow-up,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,No outpatient follow-up; patient deceased.
+390,390,1170,42,Fever and fatigue,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+391,391,1173,16,Severe headache,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+392,392,1176,24,Shortness of breath,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+393,393,1179,39,Shortness of breath,See patient chart,530.81,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+394,394,1182,31,Severe headache,See patient chart,995.91,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+395,395,1185,9,Dizziness,See patient chart,724.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+396,396,1188,16,Injury assessment,See patient chart,427.31,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+397,397,1191,25,Abdominal pain,See patient chart,780.2,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+398,398,1194,49,Chest discomfort,See patient chart,493.90,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+399,399,1197,17,Abdominal pain,See patient chart,414.01,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated
+400,400,1200,37,Urinary symptoms,See patient chart,038.9,Clinical observation and appropriate treatment,See unit stay history,Outpatient follow-up as clinically indicated

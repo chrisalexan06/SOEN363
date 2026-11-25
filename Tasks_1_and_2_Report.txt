@@ -1,0 +1,200 @@
+﻿REQUIRED DATA SOURCES AND PREPARATION
+
+Four synthetic datasets represent independent hospital systems on four distinct continents:
+
+- Source A: North River Teaching Hospital, Montreal, Canada, North America; TXT format; 9,438 raw records.
+- Source B: Berlin Central Clinical Centre, Berlin, Germany, Europe; CSV format; 9,438 raw records.
+- Source C: Osaka Metropolitan Medical Centre, Osaka, Japan, Asia; XML format; 9,438 raw records.
+- Source D: Cape Meridian Hospital, Cape Town, South Africa, Africa; JSON format; 9,438 raw records.
+
+All hospitals and personal records are fictional. Each source is within the required range of 5,000-10,000 records, and the combined 37,752 records are within the required total of 20,000-40,000. Each source contains related patients, admissions and diagnoses, together with assessments, healthcare professionals, units, unit stays, orders, examinations, radiology reports, procedures, clinical notes, discharge information and ICD-9 dictionary entries.
+
+AI assistance supported synthetic-source preparation, Python implementation and report drafting. The supplied generation prompt requested four hospital datasets satisfying the assignment's source formats, geographic coverage, size limits, hospital content and controlled data-quality problems, using the supplied hospital ER structure. The accompanying Python generation script uses synthetic values, Faker and fixed random seeds. The raw files were subsequently inspected using the Task 1 script, and cleaning decisions were applied through the Task 2 script. AI output was checked against the actual files and processing results rather than treated as automatically correct. Original raw files remain unchanged.
+
+The original source snapshot remains unchanged under uncleaned data/raw. A revised synthetic snapshot is prepared under uncleaned data/raw_with_admission_types by prepare_admission_types.py. This version adds one explicit admission-type attribute to each admission without changing the other record values or the number of records. Tasks 1 and 2 read this revised snapshot and do not modify it during processing.
+
+Admission types are generated synthetic attributes, not clinical facts recovered from admission status, symptoms or other existing values. A fixed seed based on the source and local admission identifier makes their generation reproducible. The simulated Emergency probabilities are 70% for A, 50% for B, 60% for C and 40% for D. These are dataset-design choices, not estimates of national hospital statistics. Run prepare_admission_types.py before the two Task scripts; it reproduces the revised sources from the preserved original snapshot.
+
+Each source uses its own type field and vocabulary:
+
+- Source A: admission_type contains Emergency or Elective.
+- Source B: Aufnahmeart contains Notfall or Geplant.
+- Source C: admissionType contains 緊急 or 予定.
+- Source D: ADM_TYPE contains EMERGENCY or ELECTIVE.
+
+CONTROLLED DATA-QUALITY PROBLEMS
+
+The generation documentation records the following deliberately injected issue occurrences. Percentages are approximate shares of the 37,752 raw records:
+
+- Exact duplicate copies: 96 occurrences, approximately 0.25%.
+- Missing required values: 48 occurrences, approximately 0.13%.
+- Additional missing optional values: 104 occurrences, approximately 0.28%.
+- Inconsistent capitalization or surrounding whitespace: 160 occurrences, approximately 0.42%.
+- Invalid calendar-date strings: 24 occurrences, approximately 0.06%.
+- Ambiguous date strings: 24 occurrences, approximately 0.06%.
+- Invalid numeric readings: 56 occurrences, approximately 0.15%.
+- Broken references: 48 occurrences, approximately 0.13%.
+- Chronologically inconsistent procedure dates: 48 occurrences, approximately 0.13%.
+
+These are injected-issue occurrences recorded in injected_quality_issues.csv, not the complete set of missing cells or all problems subsequently detected. Optional information was also absent naturally in other generated records. Task 2 detected another 24 diagnostic examinations outside their admission periods, in addition to the deliberately injected chronology cases.
+
+Local identifiers intentionally overlap between the independent sources. For example, patient 1 in Source A and patient 1 in Source B represent separate source entities. These overlaps are documented source characteristics, not evidence that the patients should be merged. Matching and duplicate decisions in Tasks 1 and 2 remain scoped to the source.
+
+ICD-9 DICTIONARY VERIFICATION
+
+The 24 unique ICD-9-CM diagnosis codes and their titles were independently compared with the CMS Version 32 full diagnosis-title file, CMS32_DESC_LONG_DX.txt. The file was obtained from the official CMS Version 32 archive, effective October 1, 2014. Decimal points were removed only from temporary lookup keys to match the CMS file's code notation; the project retains codes as strings with their original leading zeros and decimal points.
+
+All 24 codes were present in the reference, and all 24 diagnosis titles matched exactly. The project description fields repeat those titles and were also checked. The four source dictionaries contain the same 24 code/title/description pairs. This is external dictionary verification, distinct from the Task 2 check that diagnosis references exist in the supplied dictionary. The codes are historical ICD-9-CM reference entries used for this synthetic assignment, not a statement about current coding practices in the four countries.
+
+Reference: Centers for Medicare & Medicaid Services, ICD-9-CM Diagnosis and Procedure Codes: Abbreviated and Full Code Titles, Version 32.
+https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles
+
+TASK 1: INSPECT AND LOAD THE DATA USING PYTHON
+
+Task 1 loads and inspects the four hospital datasets in the revised synthetic source snapshot using Python. Each source is stored separately in a dictionary, with each entity represented as a list of record dictionaries. Original field names and values are preserved during loading and profiling. No cleaning, standardization, or deduplication is performed at this stage.
+The source formats and record layouts are as follows:
+Source A — TXT: Files use UTF-8 encoding and the pipe character (|) as the delimiter. Each file represents one entity type. The first logical record contains field names, and subsequent records contain values in the same order as the header.
+Source B — CSV: Files use UTF-8 encoding and commas as delimiters. Each file represents one entity type, with field names in the first record. The CSV parser handles quoted values containing commas or line breaks.
+Source C — XML: The document has a hospital_dataset root containing entity groups. Each group contains record elements, whose child elements represent individual fields. Root attributes contain metadata and are not counted as entity records.
+Source D — JSON: The top-level hospital object contains metadata. The entities object maps entity names to arrays of record objects. Each record object is extracted as one entity instance; metadata and container objects are not counted as records.
+The sources contain formatting differences that must be considered during inspection. Source A uses dates in YYYY-MM-DD format, Source B uses DD.MM.YYYY, Source C uses YYYY/MM/DD, and Source D uses DD/MM/YYYY. Field naming also differs: the patient identifier appears as patient_id, PatientNr, patientNumber, and PAT_ID, respectively.
+The initial profile reports record counts and exact duplicate counts for each source and entity. An exact duplicate is a complete record identical to another record within the same source and entity. Duplicate counts represent repeated copies beyond the first occurrence. The script also reports field names, inferred data types, missing-value counts, and representative nonmissing values. Type inference examines nonmissing values, while identifier-like fields are labelled as identifiers or codes to indicate that string storage is appropriate.
+For profiling purposes, missing values include nulls, empty or whitespace-only strings, and the case-insensitive markers NULL, N/A, NAN, NA, k.A., 未記録, and -. The source-specific missing markers are recognized consistently across fields. The literal text "None" in allergy and medication fields is preserved because it can express a documented absence rather than unavailable information. These rules follow the documented source conventions and are applied without changing the original values during Task 1.
+Invalid-value checks identify examples such as impossible dates, invalid times, and numeric measurements outside the script’s documented screening ranges. Leading and trailing whitespace is also flagged. These checks identify potential quality problems without modifying the original records. The numeric ranges are profiling assumptions rather than clinical diagnostic thresholds.
+Malformed or unreadable input is recorded in ingestion_errors.jsonl, including the source, file, location, reason, and original record when available. Records with incorrect field counts or unsupported structures are logged rather than silently discarded. If broken quoting prevents reliable identification of subsequent records, processing of that file stops and the incomplete read is reported. Unreadable XML or JSON documents are logged as file-level failures. Consequently, partial loading counts must be interpreted alongside the error log.
+The profiling results are saved in entity_profile.csv, field_profile.csv, and quality_issues.csv. Together with the ingestion log, these outputs provide evidence for the initial inspection and a basis for the subsequent cleaning task.
+The initial inspection successfully loaded all four sources. Each source contains 18 entity types and 9,438 records, giving a combined total of 37,752 raw records. Headers, metadata, and XML/JSON container objects were excluded from record counts. Duplicate records remain included in these initial counts.
+The record counts below apply to each source individually, because all four sources contain the same number of records for each entity:
+Patients: 1,000.
+Admissions: 1,350.
+Assessments: 1,350.
+Unit stays: 1,450.
+Diagnoses: 2,008.
+Clinical notes: 488.
+Diagnostic orders: 160.
+Diagnostic examinations: 160.
+Radiology examinations: 190.
+Radiology reports: 140.
+Surgical procedures: 188.
+Discharge records: 400.
+Discharge summaries: 400.
+Hospital units: 12.
+Nurses: 45.
+Physicians: 55.
+Radiologists: 18.
+ICD-9 dictionary entries: 24.
+Field names and inferred data types were examined separately for each source. Representative results include:
+Patient identifier: patient_id in A, PatientNr in B, patientNumber in C, and PAT_ID in D. These were identified as identifiers suitable for string storage.
+Patient name: full_name in A, PatientName in B, fullName in C, and FULL_NAME in D. These were classified as text or mixed values.
+Date of birth: date_of_birth in A and B, dateOfBirth in C, and DATE_OF_BIRTH in D. These were inferred as dates.
+Admission time: admission_time in A and B, admissionTime in C, and ADMISSION_TIME in D. These were inferred as times, including Source B’s dot-separated notation.
+Heart rate: heart_rate in A and B, heartRate in C, and HEART_RATE in D. These were inferred as integers.
+Body temperature: body_temperature in A and B, bodyTemp in C, and TEMP_READING in D. These were inferred as decimals.
+Clinical-note date: note_date in A and B, noteDate in C, and NOTE_DATE in D. These received the label “text or mixed values” because the columns contain invalid date strings alongside valid dates.
+Admission type: admission_type in A, Aufnahmeart in B, admissionType in C, and ADM_TYPE in D. These fields are classified as text or mixed values by the general text inference rule. All 1,350 admissions in each source contain a type, with zero missing admission-type values.
+These classifications describe the observed data without converting the original values. The complete field-level results are recorded in field_profile.csv.
+Missing values were found in 13 entity-field combinations in each source. The following counts are presented in Source A, Source B, Source C, Source D order. Common field names are used here to compare equivalent fields; the generated profiles preserve the original source names.
+Patients — emergency contact information: 216, 216, 216, 216.
+Admissions — previous-record follow-up information: 1,000, 1,000, 1,000, 1,000.
+Assessments — known allergies: 253, 268, 231, 260.
+Assessments — current medication: 452, 454, 427, 436.
+Clinical notes — physician identifier: 6, 6, 6, 6.
+Clinical notes — diagnostic examination text: 160, 179, 159, 155.
+Diagnoses — ICD-9 code: 6, 6, 6, 6.
+Diagnostic examinations — radiology technician: 57, 50, 50, 59.
+Diagnostic examinations — image link: 54, 54, 54, 54.
+Discharge records — secondary ICD-9 code: 184, 184, 184, 184.
+Discharge records — prescribed medication: 118, 140, 134, 125.
+Discharge records — follow-up appointment: 400, 400, 400, 400.
+Unit stays — transfer reason: 1,350, 1,350, 1,350, 1,350.
+The total numbers of missing field values were 4,256 in A, 4,307 in B, 4,217 in C, and 4,251 in D. These totals count missing cells, not distinct records. A single record can contain several missing values. All other profiled entity-field combinations had zero missing values under the documented missing-marker rules.
+Exact-duplicate detection identified 24 extra copies in each source: eight in diagnoses, eight in clinical notes, and eight in surgical procedures. No exact duplicates were detected in the other entities. Across all four sources, there were 96 duplicate copies beyond their first occurrences. These records were counted during Task 1 and left unchanged for the subsequent cleaning stage.
+The sources also contain meaningful formatting differences. Dates use YYYY-MM-DD in A, DD.MM.YYYY in B, YYYY/MM/DD in C, and DD/MM/YYYY in D. Source B uses times such as 08.00, whereas the other sources use notation such as 08:00. Missing-value markers include NA, k.A., 未記録, and NULL. Temperature readings are expressed in Celsius in A, B, and C, and Fahrenheit in D.
+The configured quality checks generated 264 field-level flags across the four sources:
+160 whitespace flags: 40 per source. For example, Source A contains the name " bETHANY aGUIRRE " and the diagnosis label " secondary ".
+56 invalid-temperature flags: 14 per source. Examples include 999 C in A, B, and C, and -200 F in D.
+48 invalid-date flags: 12 per source. Examples include the impossible date 2026-02-30 and the ambiguous value 03/04/25, which does not follow any source’s documented four-digit-year format.
+These flags identify problems detected by the implemented checks; they are not a claim that every possible data-quality issue has been identified. All flagged values remain unchanged during Task 1.
+Finally, all input files were read successfully. Every entity was marked as completely read, no malformed records were rejected, and ingestion_errors.jsonl was empty. This confirms successful ingestion, while the profiles demonstrate that readable records can still contain missing, duplicated, or invalid values.
+
+TASK 2: CLEAN AND STANDARDIZE THE DATA
+
+Task 2 implements a reproducible Python process to clean and standardize the four hospital datasets. The script reads the revised synthetic sources using the Task 1 loaders, maps source-specific field names to common names, and applies documented cleaning rules. Accepted records remain separated by source. The original files are not modified, and global identifier generation and SQL import are reserved for later tasks.
+Missing values
+The cleaning process distinguishes required information from optional information. Required fields include primary keys, essential relationships, and entity-specific information needed to interpret a record. For example, diagnoses require an admission, patient, physician, ICD-9 code, diagnosis date and time, and diagnosis type. Clinical notes require an authoring physician and a valid note date and time.
+Optional information, such as emergency contact details, secondary discharge diagnoses, and prescribed medication summaries, may remain null. Assigned nurse and physician fields are optional in patient records, although these relationships are required for admissions under the project’s cleaning policy.
+Documented missing markers—including NA, k.A., 未記録, and NULL—are converted to null. The literal text "None" in allergy and medication fields is preserved because it can express a documented absence. Missing required information causes quarantine rather than the invention of replacement clinical facts. Admission type is also required: a missing or unrecognized source type is quarantined rather than inferred from admission status.
+Duplicates
+Duplicate detection is performed within each source and entity. Exact repeated records are removed after retaining their first occurrence. Records sharing the same local primary key and identical standardized contents are also treated as duplicate copies. Conflicting records under the same key are quarantined for review.
+Patient records with different identifiers but the same insurance number and birth date are treated as possible duplicate entities requiring review. Patients are not merged solely because they share a name. Identical local identifiers from different hospitals are kept separate.
+The current run removed 96 exact duplicate copies: 24 from each source. Each source contained eight extra diagnosis records, eight extra clinical notes, and eight extra surgical-procedure records.
+Text standardization
+Leading and trailing whitespace is removed, and repeated whitespace is collapsed. Synthetic personal-name fields use a title-case display convention outside the Japanese source. Other clinical free text retains its capitalization.
+Categorical values are standardized through explicit mappings rather than unrestricted capitalization changes. Original values remain available in the unchanged source files and in quarantined records.
+Dates, timestamps, and time zones
+Dates are parsed using each source’s documented format and converted to YYYY-MM-DD. Times are standardized to HH:MM:SS. Related dates and times are combined into ISO local timestamps, such as 2025-05-21T08:00:00.
+Source B’s dot-separated times are recognized explicitly. Impossible dates, ambiguous layouts, and incomplete date/time pairs are not guessed or automatically repaired. Records containing unresolved date or time problems are quarantined.
+None of the sources supplies an explicit time zone. Consequently, the script preserves local wall times without assigning an assumed UTC offset. Chronological comparisons are performed within the same source, and cross-source timestamp comparisons are not treated as reliable.
+Numeric values and units
+Numeric fields are converted to appropriate integer or decimal types. Fields requiring whole numbers, such as triage priority and procedure duration, reject fractional values.
+Broad screening ranges are documented in the cleaning rules. These include temperature between 25 and 45 degrees Celsius, oxygen saturation between 0 and 100, pain level between 0 and 10, and triage priority between 1 and 5. These are project screening assumptions rather than clinical diagnostic thresholds.
+Source D’s Fahrenheit temperatures are converted to Celsius using:
+Celsius = (Fahrenheit − 32) × 5/9
+Converted temperatures are rounded to one decimal place. Invalid optional measurements are replaced with null while retaining the assessment. The run cleared 56 invalid temperature readings, comprising 14 from each source. Missing or invalid required numeric information causes quarantine.
+Diagnostic values labelled reference-unit retain that unit because the sources do not provide enough information to infer a physical conversion.
+Clinical categories
+Explicit mappings standardize source-specific labels. Examples include:
+Haupt and 主 → Primary.
+Neben and 副 → Secondary.
+Notaufnahme, 救急, and EMERGENCY → ED.
+Normal, 通常, and LOW → Routine.
+Hoch, 緊急, and HIGH → Urgent.
+All sources use integer triage priorities from 1 to 5, so these values retain the same scale. Admission types are standardized separately from admission status through these explicit mappings:
+
+- Emergency, Notfall, 緊急 and EMERGENCY map to Emergency.
+- Elective, Geplant, 予定 and ELECTIVE map to Elective.
+
+Admission status continues to describe whether an admission is Open or Closed; it is not used as a substitute for type. The cleaner requires an explicit supplied type and never generates a replacement for a missing type. Unknown category labels require review.
+
+The accepted admissions contain the following standardized types:
+
+- Source A: 923 Emergency and 427 Elective admissions, totaling 1,350.
+- Source B: 691 Emergency and 659 Elective admissions, totaling 1,350.
+- Source C: 821 Emergency and 529 Elective admissions, totaling 1,350.
+- Source D: 539 Emergency and 811 Elective admissions, totaling 1,350.
+
+Overall, the 5,400 admissions comprise 2,974 Emergency and 2,426 Elective admissions. These are preprocessing results from the cleaned records, not SQL query results.
+Relationships
+Supplied foreign-key references are checked against accepted parent records within the same source. Checks cover patients, admissions, professionals, hospital units, orders, examinations, discharge records, and ICD-9 entries.
+Additional checks confirm that patient identifiers agree with their admissions, examinations reference orders belonging to the same admission, discharge summaries agree with their discharge records, and unit-stay information matches the referenced hospital unit.
+Validation repeats after quarantining records. This prevents a child record from remaining accepted when its required parent has been removed.
+Chronology
+The script checks that discharge follows admission, unit exit follows entry, examinations do not precede their orders, and radiology reports do not precede their examinations. Linked hospital events must occur within their admission periods. Procedure duration is also checked so that the calculated finish does not extend beyond discharge.
+Contradictory timestamps are quarantined rather than moved to an invented date or time.
+Representative before-and-after examples from the processed data include:
+Source B admission date: "21.05.2025" → "2025-05-21".
+Source B admission time: "08.00" → "08:00:00".
+Source B unit type: "Notaufnahme" → "ED".
+Source B diagnosis type: "Haupt" → "Primary".
+Source B admission type: "Notfall" → "Emergency" and "Geplant" → "Elective".
+Source C admission type: "緊急" → "Emergency" and "予定" → "Elective".
+Source D admission type: "EMERGENCY" → "Emergency" and "ELECTIVE" → "Elective".
+Source A patient name: " bETHANY aGUIRRE " → "Bethany Aguirre".
+Source B emergency contact information: "k.A." → null.
+Source D assessment 15 temperature: 98.6 F → 37.0 C.
+Source A invalid temperature: 999 C → null, with the assessment retained.
+The cleaning results were:
+Source A: 9,438 input records; 9,358 accepted; 56 quarantined; 24 duplicate copies removed.
+Source B: 9,438 input records; 9,361 accepted; 53 quarantined; 24 duplicate copies removed.
+Source C: 9,438 input records; 9,360 accepted; 54 quarantined; 24 duplicate copies removed.
+Source D: 9,438 input records; 9,361 accepted; 53 quarantined; 24 duplicate copies removed.
+Overall, the results reconcile as:
+37,752 input records = 37,440 accepted records + 216 quarantined records + 96 duplicate copies removed.
+The 216 quarantined records comprised:
+48 diagnoses: 24 missing required ICD-9 codes and 24 containing invalid patient references.
+96 clinical notes: 24 missing authoring physicians, 48 containing invalid or ambiguous dates, and 24 referencing nonexistent admissions.
+48 surgical procedures: procedure timestamps outside their admission periods.
+24 diagnostic examinations: examination timestamps outside their admission periods.
+A quarantined record may have multiple related explanations; these should not be counted as separate rejected records.
+Accepted data is saved under task2_output/cleaned, grouped by source and entity. Unresolved records, including original values and reasons, are stored in quarantine.jsonl. Representative transformations appear in before_after_examples.csv, record reconciliation appears in cleaning_summary.csv, and the implemented policies are documented in cleaning_rules_and_results.json.
+The accepted records passed the implemented required-field, reference, and chronology checks. These results demonstrate the Task 2 cleaning process; compatibility with the final SQL schema must still be verified during integration and database import.

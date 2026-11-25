@@ -1,0 +1,265 @@
+﻿source,entity,location,field,value,reason
+A,assessments,ending at line 2,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 3,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 4,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 5,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 6,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 7,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 8,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 9,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 10,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 11,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 12,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 13,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 14,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,assessments,ending at line 15,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+A,clinical_notes,ending at line 22,note_date,2026-02-30,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 23,note_date,2026-02-30,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 24,note_date,2026-02-30,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 25,note_date,2026-02-30,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 26,note_date,2026-02-30,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 27,note_date,2026-02-30,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 28,note_date,03/04/25,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 29,note_date,03/04/25,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 30,note_date,03/04/25,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 31,note_date,03/04/25,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 32,note_date,03/04/25,Invalid date; expected %Y-%m-%d
+A,clinical_notes,ending at line 33,note_date,03/04/25,Invalid date; expected %Y-%m-%d
+A,diagnoses,ending at line 1402,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1403,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1404,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1405,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1406,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1407,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1408,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1409,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1410,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1411,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1412,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1413,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1414,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1415,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1416,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,diagnoses,ending at line 1417,diagnosis_type,  secondary  ,; Leading/trailing whitespace
+A,patients,ending at line 42,full_name,   bETHANY aGUIRRE   ,; Leading/trailing whitespace
+A,patients,ending at line 43,full_name,   kAREN hICKS   ,; Leading/trailing whitespace
+A,patients,ending at line 44,full_name,   cONNOR oBRIEN   ,; Leading/trailing whitespace
+A,patients,ending at line 45,full_name,   cRYSTAL rOBBINS   ,; Leading/trailing whitespace
+A,patients,ending at line 46,full_name,   jEFFREY cOLEMAN   ,; Leading/trailing whitespace
+A,patients,ending at line 47,full_name,   sONYA sANDERS   ,; Leading/trailing whitespace
+A,patients,ending at line 48,full_name,   tIMOTHY sIMMONS   ,; Leading/trailing whitespace
+A,patients,ending at line 49,full_name,   dANIEL lAMBERT   ,; Leading/trailing whitespace
+A,patients,ending at line 50,full_name,   aNGIE cOX   ,; Leading/trailing whitespace
+A,patients,ending at line 51,full_name,   tANYA dUNCAN   ,; Leading/trailing whitespace
+A,patients,ending at line 52,full_name,   sHELLY bROWN   ,; Leading/trailing whitespace
+A,patients,ending at line 53,full_name,   cASSANDRA cONNER   ,; Leading/trailing whitespace
+A,patients,ending at line 54,full_name,   cHRISTOPHER mURPHY   ,; Leading/trailing whitespace
+A,patients,ending at line 55,full_name,   kRISTEN rOBERTS   ,; Leading/trailing whitespace
+A,patients,ending at line 56,full_name,   jONATHAN jOHNSON   ,; Leading/trailing whitespace
+A,patients,ending at line 57,full_name,   bRANDON mARTINEZ   ,; Leading/trailing whitespace
+A,patients,ending at line 58,full_name,   aNDREW lEE   ,; Leading/trailing whitespace
+A,patients,ending at line 59,full_name,   bRANDON bUTLER   ,; Leading/trailing whitespace
+A,patients,ending at line 60,full_name,   rEBECCA bROWN   ,; Leading/trailing whitespace
+A,patients,ending at line 61,full_name,   mELISSA wALTERS   ,; Leading/trailing whitespace
+A,patients,ending at line 62,full_name,   rOBERT jOHNSON md   ,; Leading/trailing whitespace
+A,patients,ending at line 63,full_name,   cHRIS bREWER   ,; Leading/trailing whitespace
+A,patients,ending at line 64,full_name,   bELINDA pRICE   ,; Leading/trailing whitespace
+A,patients,ending at line 65,full_name,   sHANNON gARZA   ,; Leading/trailing whitespace
+B,assessments,ending at line 2,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 3,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 4,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 5,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 6,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 7,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 8,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 9,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 10,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 11,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 12,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 13,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 14,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,assessments,ending at line 15,body_temperature,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+B,clinical_notes,ending at line 22,note_date,2026-02-30,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 23,note_date,2026-02-30,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 24,note_date,2026-02-30,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 25,note_date,2026-02-30,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 26,note_date,2026-02-30,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 27,note_date,2026-02-30,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 28,note_date,03/04/25,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 29,note_date,03/04/25,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 30,note_date,03/04/25,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 31,note_date,03/04/25,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 32,note_date,03/04/25,Invalid date; expected %d.%m.%Y
+B,clinical_notes,ending at line 33,note_date,03/04/25,Invalid date; expected %d.%m.%Y
+B,diagnoses,ending at line 1402,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1403,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1404,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1405,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1406,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1407,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1408,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1409,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1410,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1411,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1412,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1413,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1414,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1415,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1416,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,diagnoses,ending at line 1417,diagnosis_type,  neben  ,; Leading/trailing whitespace
+B,patients,ending at line 42,PatientName,   dR. jULIANA jUNGFER   ,; Leading/trailing whitespace
+B,patients,ending at line 43,PatientName,   hANNO kNAPPE   ,; Leading/trailing whitespace
+B,patients,ending at line 44,PatientName,   pROF. dOLORES jACOB b.sC.   ,; Leading/trailing whitespace
+B,patients,ending at line 45,PatientName,   tORALF eTZOLD   ,; Leading/trailing whitespace
+B,patients,ending at line 46,PatientName,   rOSALIA dRUB b.eNG.   ,; Leading/trailing whitespace
+B,patients,ending at line 47,PatientName,   aDALBERT rING-fLANTZ   ,; Leading/trailing whitespace
+B,patients,ending at line 48,PatientName,   mAIKE lINDNER-pLATH   ,; Leading/trailing whitespace
+B,patients,ending at line 49,PatientName,   hANS-gERD dÖRSCHNER   ,; Leading/trailing whitespace
+B,patients,ending at line 50,PatientName,   fRANCA sCHWEITZER   ,; Leading/trailing whitespace
+B,patients,ending at line 51,PatientName,   dOMENICO vOGT   ,; Leading/trailing whitespace
+B,patients,ending at line 52,PatientName,   rALPH aCKERMANN-dRUB   ,; Leading/trailing whitespace
+B,patients,ending at line 53,PatientName,   wENZEL tROMMLER   ,; Leading/trailing whitespace
+B,patients,ending at line 54,PatientName,   sASKIA bINNER b.a.   ,; Leading/trailing whitespace
+B,patients,ending at line 55,PatientName,   iNNA kLOTZ   ,; Leading/trailing whitespace
+B,patients,ending at line 56,PatientName,   jERZY bOLNBACH   ,; Leading/trailing whitespace
+B,patients,ending at line 57,PatientName,   kARL hEINZ kREUSEL   ,; Leading/trailing whitespace
+B,patients,ending at line 58,PatientName,   fATIH rEINHARDT   ,; Leading/trailing whitespace
+B,patients,ending at line 59,PatientName,   hANNES hORNIG   ,; Leading/trailing whitespace
+B,patients,ending at line 60,PatientName,   cLAUS jESSEL b.eNG.   ,; Leading/trailing whitespace
+B,patients,ending at line 61,PatientName,   aRIF rOSKOTH b.a.   ,; Leading/trailing whitespace
+B,patients,ending at line 62,PatientName,   hANS-dIETRICH mISICHER-bLOCH   ,; Leading/trailing whitespace
+B,patients,ending at line 63,PatientName,   kNUD mISICHER   ,; Leading/trailing whitespace
+B,patients,ending at line 64,PatientName,   aDOLF hOLSTEN   ,; Leading/trailing whitespace
+B,patients,ending at line 65,PatientName,   tANJA dREWES   ,; Leading/trailing whitespace
+C,patients,patients[40],fullName,   鈴木 真綾   ,; Leading/trailing whitespace
+C,patients,patients[41],fullName,   坂本 直人   ,; Leading/trailing whitespace
+C,patients,patients[42],fullName,   井上 千代   ,; Leading/trailing whitespace
+C,patients,patients[43],fullName,   山口 美加子   ,; Leading/trailing whitespace
+C,patients,patients[44],fullName,   遠藤 美加子   ,; Leading/trailing whitespace
+C,patients,patients[45],fullName,   佐々木 明美   ,; Leading/trailing whitespace
+C,patients,patients[46],fullName,   岡田 七夏   ,; Leading/trailing whitespace
+C,patients,patients[47],fullName,   山崎 太郎   ,; Leading/trailing whitespace
+C,patients,patients[48],fullName,   橋本 桃子   ,; Leading/trailing whitespace
+C,patients,patients[49],fullName,   高橋 陽子   ,; Leading/trailing whitespace
+C,patients,patients[50],fullName,   石井 翼   ,; Leading/trailing whitespace
+C,patients,patients[51],fullName,   鈴木 修平   ,; Leading/trailing whitespace
+C,patients,patients[52],fullName,   山崎 英樹   ,; Leading/trailing whitespace
+C,patients,patients[53],fullName,   山下 七夏   ,; Leading/trailing whitespace
+C,patients,patients[54],fullName,   藤田 淳   ,; Leading/trailing whitespace
+C,patients,patients[55],fullName,   橋本 真綾   ,; Leading/trailing whitespace
+C,patients,patients[56],fullName,   橋本 結衣   ,; Leading/trailing whitespace
+C,patients,patients[57],fullName,   林 さゆり   ,; Leading/trailing whitespace
+C,patients,patients[58],fullName,   森 治   ,; Leading/trailing whitespace
+C,patients,patients[59],fullName,   坂本 健一   ,; Leading/trailing whitespace
+C,patients,patients[60],fullName,   三浦 晃   ,; Leading/trailing whitespace
+C,patients,patients[61],fullName,   中島 桃子   ,; Leading/trailing whitespace
+C,patients,patients[62],fullName,   吉田 明美   ,; Leading/trailing whitespace
+C,patients,patients[63],fullName,   松本 あすか   ,; Leading/trailing whitespace
+C,assessments,assessments[0],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[1],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[2],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[3],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[4],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[5],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[6],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[7],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[8],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[9],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[10],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[11],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[12],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,assessments,assessments[13],bodyTemp,999,Invalid temperature (screening: 25-45 C or 77-113 F)
+C,diagnoses,diagnoses[1400],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1401],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1402],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1403],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1404],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1405],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1406],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1407],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1408],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1409],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1410],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1411],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1412],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1413],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1414],diagnosisType,  副  ,; Leading/trailing whitespace
+C,diagnoses,diagnoses[1415],diagnosisType,  副  ,; Leading/trailing whitespace
+C,clinical_notes,clinical_notes[20],noteDate,2026-02-30,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[21],noteDate,2026-02-30,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[22],noteDate,2026-02-30,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[23],noteDate,2026-02-30,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[24],noteDate,2026-02-30,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[25],noteDate,2026-02-30,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[26],noteDate,03/04/25,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[27],noteDate,03/04/25,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[28],noteDate,03/04/25,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[29],noteDate,03/04/25,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[30],noteDate,03/04/25,Invalid date; expected %Y/%m/%d
+C,clinical_notes,clinical_notes[31],noteDate,03/04/25,Invalid date; expected %Y/%m/%d
+D,patients,patients[40],FULL_NAME,   sIPHO bOTHA   ,; Leading/trailing whitespace
+D,patients,patients[41],FULL_NAME,   tHABO kHUMALO   ,; Leading/trailing whitespace
+D,patients,patients[42],FULL_NAME,   mANDLA nAIDOO   ,; Leading/trailing whitespace
+D,patients,patients[43],FULL_NAME,   sIBONGILE mTHEMBU   ,; Leading/trailing whitespace
+D,patients,patients[44],FULL_NAME,   lINDIWE nKOSI   ,; Leading/trailing whitespace
+D,patients,patients[45],FULL_NAME,   lERATO bOTHA   ,; Leading/trailing whitespace
+D,patients,patients[46],FULL_NAME,   kABELO mTHEMBU   ,; Leading/trailing whitespace
+D,patients,patients[47],FULL_NAME,   lINDIWE nDLOVU   ,; Leading/trailing whitespace
+D,patients,patients[48],FULL_NAME,   tHABO nAIDOO   ,; Leading/trailing whitespace
+D,patients,patients[49],FULL_NAME,   lERATO pILLAY   ,; Leading/trailing whitespace
+D,patients,patients[50],FULL_NAME,   lINDIWE kHUMALO   ,; Leading/trailing whitespace
+D,patients,patients[51],FULL_NAME,   sIBONGILE mTHEMBU   ,; Leading/trailing whitespace
+D,patients,patients[52],FULL_NAME,   zANELE pILLAY   ,; Leading/trailing whitespace
+D,patients,patients[53],FULL_NAME,   kABELO dLAMINI   ,; Leading/trailing whitespace
+D,patients,patients[54],FULL_NAME,   kABELO nAIDOO   ,; Leading/trailing whitespace
+D,patients,patients[55],FULL_NAME,   nALEDI nDLOVU   ,; Leading/trailing whitespace
+D,patients,patients[56],FULL_NAME,   kABELO mTHEMBU   ,; Leading/trailing whitespace
+D,patients,patients[57],FULL_NAME,   nOMSA nDLOVU   ,; Leading/trailing whitespace
+D,patients,patients[58],FULL_NAME,   sIBONGILE dLAMINI   ,; Leading/trailing whitespace
+D,patients,patients[59],FULL_NAME,   sIBONGILE mTHEMBU   ,; Leading/trailing whitespace
+D,patients,patients[60],FULL_NAME,   nOMSA kHUMALO   ,; Leading/trailing whitespace
+D,patients,patients[61],FULL_NAME,   lERATO VAN DER mERWE   ,; Leading/trailing whitespace
+D,patients,patients[62],FULL_NAME,   zANELE bOTHA   ,; Leading/trailing whitespace
+D,patients,patients[63],FULL_NAME,   kABELO mOKOENA   ,; Leading/trailing whitespace
+D,assessments,assessments[0],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[1],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[2],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[3],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[4],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[5],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[6],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[7],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[8],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[9],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[10],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[11],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[12],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,assessments,assessments[13],TEMP_READING,-200,Invalid temperature (screening: 25-45 C or 77-113 F)
+D,diagnoses,diagnoses[1400],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1401],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1402],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1403],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1404],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1405],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1406],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1407],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1408],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1409],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1410],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1411],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1412],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1413],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1414],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,diagnoses,diagnoses[1415],DIAGNOSIS_TYPE,  secondary  ,; Leading/trailing whitespace
+D,clinical_notes,clinical_notes[20],NOTE_DATE,2026-02-30,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[21],NOTE_DATE,2026-02-30,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[22],NOTE_DATE,2026-02-30,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[23],NOTE_DATE,2026-02-30,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[24],NOTE_DATE,2026-02-30,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[25],NOTE_DATE,2026-02-30,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[26],NOTE_DATE,03/04/25,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[27],NOTE_DATE,03/04/25,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[28],NOTE_DATE,03/04/25,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[29],NOTE_DATE,03/04/25,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[30],NOTE_DATE,03/04/25,Invalid date; expected %d/%m/%Y
+D,clinical_notes,clinical_notes[31],NOTE_DATE,03/04/25,Invalid date; expected %d/%m/%Y

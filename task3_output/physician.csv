@@ -1,0 +1,221 @@
+physician_id,physician_name,source_id,original_id
+1,Terry Small,A,1
+2,Andrea Johnson,A,2
+3,Amy Harris,A,3
+4,Annette Wagner,A,4
+5,Sarah Mason,A,5
+6,Jacqueline Flores,A,6
+7,Diana Oconnell,A,7
+8,Brenda Ellis,A,8
+9,Francis Martin,A,9
+10,Dr. Kevin Contreras,A,10
+11,Jane King,A,11
+12,Jeffery Carter,A,12
+13,Nathan Holmes,A,13
+14,Chelsea Luna,A,14
+15,Mrs. Susan Sullivan Dds,A,15
+16,Hannah Green,A,16
+17,Tyler Martinez,A,17
+18,Amy Graham,A,18
+19,Cory Galloway,A,19
+20,Stephanie Benitez,A,20
+21,Sandra Harvey,A,21
+22,Christopher Moreno,A,22
+23,Stacy Freeman,A,23
+24,Cameron Smith,A,24
+25,Patricia Johnson,A,25
+26,Angela Faulkner,A,26
+27,Patrick Hernandez,A,27
+28,Jennifer Johnson,A,28
+29,Christine Anderson,A,29
+30,Barbara Johnson,A,30
+31,Brittany Gonzalez,A,31
+32,William Owens,A,32
+33,Jackie Lee,A,33
+34,Michelle Campbell,A,34
+35,Amy Jackson,A,35
+36,James Davis,A,36
+37,Kelly Vance,A,37
+38,Andrew Jenkins,A,38
+39,Robert Adams,A,39
+40,Angela Parks,A,40
+41,Joyce Nelson,A,41
+42,Joseph Watkins,A,42
+43,Jennifer Carter,A,43
+44,Sandy Jackson,A,44
+45,Taylor Williams,A,45
+46,Daisy Mccarthy,A,46
+47,Patrick Ross,A,47
+48,Aaron Berg,A,48
+49,Anthony Walker,A,49
+50,Curtis Martin,A,50
+51,Joshua Brown,A,51
+52,Maria Mcintosh,A,52
+53,Valerie Young,A,53
+54,Jason Jones,A,54
+55,Benjamin Carr,A,55
+56,Enno Mangold B.Sc.,B,1
+57,Ivonne Scholtz,B,2
+58,Hans D. Rose-Schmidtke,B,3
+59,Ing. Hans Jürgen Geisel B.Eng.,B,4
+60,Marina Bolander B.Eng.,B,5
+61,Danielle Matthäi,B,6
+62,Frau Brigitte Linke,B,7
+63,Ing. Mark Mans,B,8
+64,Katarzyna Jopich,B,9
+65,Herr Sven Hahn B.A.,B,10
+66,Fedor Mentzel,B,11
+67,Jonas Fiebig,B,12
+68,Univ.Prof. Rigo Gotthard,B,13
+69,Janin Linke,B,14
+70,Dipl.-Ing. Gundi Zänker B.Sc.,B,15
+71,Selma Lehmann,B,16
+72,Dariusz Röhrdanz,B,17
+73,Friedo Holt,B,18
+74,Carsten Walter,B,19
+75,Regina Wähner-Lorch,B,20
+76,Benita Stoll B.Eng.,B,21
+77,Ing. Helga Peukert B.Sc.,B,22
+78,Vera Röhrdanz,B,23
+79,Dr. Rolf-Dieter Seifert Mba.,B,24
+80,Anett Hentschel,B,25
+81,Kristiane Jacob-Rust,B,26
+82,Ekrem Meyer,B,27
+83,Ing. Steve Hermighausen B.Eng.,B,28
+84,Ing. Dennis Thanel,B,29
+85,Myriam Karz,B,30
+86,Ute Bolander,B,31
+87,Christel Faust B.Eng.,B,32
+88,Julian Bonbach B.Sc.,B,33
+89,Bernt Schüler,B,34
+90,Univ.Prof. Udo Schulz,B,35
+91,Holger Koch,B,36
+92,Christina Speer Mba.,B,37
+93,Constantin Finke,B,38
+94,Walli Rose-Röhrdanz,B,39
+95,Ramona Bloch,B,40
+96,Ing. Dunja Weinhage,B,41
+97,Dr. Anna Blümel B.A.,B,42
+98,Victoria Kambs-Barth,B,43
+99,Prof. Juliane Gunpf Mba.,B,44
+100,Alex Römer-Pergande,B,45
+101,Joerg Schottin-Wagner,B,46
+102,Heidrun Van Der Dussen,B,47
+103,Gert Atzler-Rose,B,48
+104,Hulda Nerger B.A.,B,49
+105,Univ.Prof. Nuri Lübs B.A.,B,50
+106,Adriane Christoph B.Sc.,B,51
+107,Prof. Tilman Pechel Mba.,B,52
+108,Bernward Renner,B,53
+109,Berta Adolph-Conradi,B,54
+110,Tom Pieper,B,55
+111,吉田 零,C,1
+112,中川 涼平,C,2
+113,松本 京助,C,3
+114,鈴木 英樹,C,4
+115,伊藤 陽子,C,5
+116,中村 桃子,C,6
+117,佐藤 あすか,C,7
+118,中島 裕美子,C,8
+119,橋本 加奈,C,9
+120,松本 くみ子,C,10
+121,坂本 零,C,11
+122,山崎 結衣,C,12
+123,藤田 花子,C,13
+124,佐々木 さゆり,C,14
+125,伊藤 さゆり,C,15
+126,石川 美加子,C,16
+127,山田 淳,C,17
+128,小川 和也,C,18
+129,林 聡太郎,C,19
+130,吉田 真綾,C,20
+131,井上 幹,C,21
+132,加藤 知実,C,22
+133,渡辺 直子,C,23
+134,林 淳,C,24
+135,岡田 英樹,C,25
+136,佐藤 洋介,C,26
+137,高橋 陽一,C,27
+138,小川 拓真,C,28
+139,佐藤 浩,C,29
+140,渡辺 里佳,C,30
+141,林 千代,C,31
+142,山口 知実,C,32
+143,池田 零,C,33
+144,山口 知実,C,34
+145,佐藤 幹,C,35
+146,岡本 さゆり,C,36
+147,林 太郎,C,37
+148,小川 陽子,C,38
+149,高橋 美加子,C,39
+150,田中 千代,C,40
+151,青木 健一,C,41
+152,加藤 亮介,C,42
+153,鈴木 幹,C,43
+154,岡本 和也,C,44
+155,藤田 明美,C,45
+156,佐藤 裕樹,C,46
+157,山崎 翼,C,47
+158,後藤 涼平,C,48
+159,山口 晃,C,49
+160,山本 裕太,C,50
+161,中村 香織,C,51
+162,太田 美加子,C,52
+163,伊藤 直子,C,53
+164,長谷川 健一,C,54
+165,田中 治,C,55
+166,Zanele Naidoo,D,1
+167,Mandla Van Der Merwe,D,2
+168,Lindiwe Ndlovu,D,3
+169,Mandla Van Der Merwe,D,4
+170,Lerato Van Der Merwe,D,5
+171,Bongani Pillay,D,6
+172,Lerato Nkosi,D,7
+173,Bongani Mokoena,D,8
+174,Sipho Ndlovu,D,9
+175,Lerato Botha,D,10
+176,Amina Dlamini,D,11
+177,Thabo Mthembu,D,12
+178,Kabelo Pillay,D,13
+179,Mandla Botha,D,14
+180,Sibongile Ndlovu,D,15
+181,Mandla Botha,D,16
+182,Bongani Pillay,D,17
+183,Nomsa Van Der Merwe,D,18
+184,Nomsa Pillay,D,19
+185,Amina Ndlovu,D,20
+186,Naledi Van Der Merwe,D,21
+187,Thabo Naidoo,D,22
+188,Lerato Ndlovu,D,23
+189,Lerato Van Der Merwe,D,24
+190,Lindiwe Mthembu,D,25
+191,Mandla Nkosi,D,26
+192,Lerato Van Der Merwe,D,27
+193,Amina Botha,D,28
+194,Sipho Pillay,D,29
+195,Mandla Mokoena,D,30
+196,Lindiwe Khumalo,D,31
+197,Kabelo Van Der Merwe,D,32
+198,Thabo Nkosi,D,33
+199,Amina Ndlovu,D,34
+200,Mandla Khumalo,D,35
+201,Thabo Mokoena,D,36
+202,Thabo Van Der Merwe,D,37
+203,Naledi Mokoena,D,38
+204,Thabo Nkosi,D,39
+205,Zanele Khumalo,D,40
+206,Kabelo Van Der Merwe,D,41
+207,Sibongile Ndlovu,D,42
+208,Bongani Pillay,D,43
+209,Lindiwe Botha,D,44
+210,Thabo Naidoo,D,45
+211,Mandla Dlamini,D,46
+212,Thabo Botha,D,47
+213,Thabo Khumalo,D,48
+214,Naledi Mokoena,D,49
+215,Zanele Van Der Merwe,D,50
+216,Naledi Van Der Merwe,D,51
+217,Lerato Ndlovu,D,52
+218,Zanele Mokoena,D,53
+219,Nomsa Ndlovu,D,54
+220,Zanele Van Der Merwe,D,55

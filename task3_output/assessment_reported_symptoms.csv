@@ -1,0 +1,5401 @@
+assessment_id,reported_symptom,patient_id
+1,Abdominal pain,1
+2,Dizziness,2
+3,Abnormal laboratory values,3
+4,Urinary symptoms,4
+5,Injury assessment,5
+6,Urinary symptoms,6
+7,Dizziness,7
+8,Urinary symptoms,8
+9,Abnormal laboratory values,9
+10,Injury assessment,10
+11,Injury assessment,11
+12,Shortness of breath,12
+13,Routine postoperative follow-up,13
+14,Shortness of breath,14
+15,Severe headache,15
+16,Dizziness,16
+17,Fever and fatigue,17
+18,Injury assessment,18
+19,Urinary symptoms,19
+20,Severe headache,20
+21,Severe headache,21
+22,Abnormal laboratory values,22
+23,Severe headache,23
+24,Severe headache,24
+25,Shortness of breath,25
+26,Shortness of breath,26
+27,Routine postoperative follow-up,27
+28,Abnormal laboratory values,28
+29,Routine postoperative follow-up,29
+30,Shortness of breath,30
+31,Abdominal pain,31
+32,Injury assessment,32
+33,Abdominal pain,33
+34,Chest discomfort,34
+35,Fever and fatigue,35
+36,Injury assessment,36
+37,Dizziness,37
+38,Abnormal laboratory values,38
+39,Abdominal pain,39
+40,Chest discomfort,40
+41,Dizziness,41
+42,Dizziness,42
+43,Urinary symptoms,43
+44,Shortness of breath,44
+45,Injury assessment,45
+46,Chest discomfort,46
+47,Fever and fatigue,47
+48,Routine postoperative follow-up,48
+49,Abdominal pain,49
+50,Fever and fatigue,50
+51,Urinary symptoms,51
+52,Injury assessment,52
+53,Fever and fatigue,53
+54,Fever and fatigue,54
+55,Dizziness,55
+56,Injury assessment,56
+57,Severe headache,57
+58,Abdominal pain,58
+59,Chest discomfort,59
+60,Chest discomfort,60
+61,Shortness of breath,61
+62,Shortness of breath,62
+63,Severe headache,63
+64,Routine postoperative follow-up,64
+65,Urinary symptoms,65
+66,Abdominal pain,66
+67,Fever and fatigue,67
+68,Fever and fatigue,68
+69,Injury assessment,69
+70,Severe headache,70
+71,Abdominal pain,71
+72,Severe headache,72
+73,Abnormal laboratory values,73
+74,Chest discomfort,74
+75,Urinary symptoms,75
+76,Routine postoperative follow-up,76
+77,Fever and fatigue,77
+78,Fever and fatigue,78
+79,Shortness of breath,79
+80,Chest discomfort,80
+81,Abnormal laboratory values,81
+82,Routine postoperative follow-up,82
+83,Urinary symptoms,83
+84,Dizziness,84
+85,Abdominal pain,85
+86,Abdominal pain,86
+87,Severe headache,87
+88,Dizziness,88
+89,Fever and fatigue,89
+90,Severe headache,90
+91,Severe headache,91
+92,Routine postoperative follow-up,92
+93,Chest discomfort,93
+94,Abnormal laboratory values,94
+95,Severe headache,95
+96,Urinary symptoms,96
+97,Urinary symptoms,97
+98,Urinary symptoms,98
+99,Dizziness,99
+100,Routine postoperative follow-up,100
+101,Urinary symptoms,101
+102,Severe headache,102
+103,Severe headache,103
+104,Injury assessment,104
+105,Routine postoperative follow-up,105
+106,Fever and fatigue,106
+107,Fever and fatigue,107
+108,Abdominal pain,108
+109,Abdominal pain,109
+110,Urinary symptoms,110
+111,Shortness of breath,111
+112,Chest discomfort,112
+113,Routine postoperative follow-up,113
+114,Shortness of breath,114
+115,Routine postoperative follow-up,115
+116,Severe headache,116
+117,Shortness of breath,117
+118,Severe headache,118
+119,Urinary symptoms,119
+120,Shortness of breath,120
+121,Fever and fatigue,121
+122,Abdominal pain,122
+123,Chest discomfort,123
+124,Chest discomfort,124
+125,Fever and fatigue,125
+126,Chest discomfort,126
+127,Dizziness,127
+128,Routine postoperative follow-up,128
+129,Abnormal laboratory values,129
+130,Shortness of breath,130
+131,Urinary symptoms,131
+132,Urinary symptoms,132
+133,Injury assessment,133
+134,Injury assessment,134
+135,Routine postoperative follow-up,135
+136,Fever and fatigue,136
+137,Severe headache,137
+138,Chest discomfort,138
+139,Injury assessment,139
+140,Fever and fatigue,140
+141,Abdominal pain,141
+142,Urinary symptoms,142
+143,Chest discomfort,143
+144,Routine postoperative follow-up,144
+145,Abdominal pain,145
+146,Severe headache,146
+147,Chest discomfort,147
+148,Chest discomfort,148
+149,Abdominal pain,149
+150,Fever and fatigue,150
+151,Chest discomfort,151
+152,Abdominal pain,152
+153,Abnormal laboratory values,153
+154,Urinary symptoms,154
+155,Dizziness,155
+156,Routine postoperative follow-up,156
+157,Urinary symptoms,157
+158,Abnormal laboratory values,158
+159,Chest discomfort,159
+160,Shortness of breath,160
+161,Abnormal laboratory values,161
+162,Dizziness,162
+163,Abnormal laboratory values,163
+164,Urinary symptoms,164
+165,Fever and fatigue,165
+166,Routine postoperative follow-up,166
+167,Chest discomfort,167
+168,Dizziness,168
+169,Abdominal pain,169
+170,Urinary symptoms,170
+171,Severe headache,171
+172,Chest discomfort,172
+173,Abnormal laboratory values,173
+174,Abnormal laboratory values,174
+175,Chest discomfort,175
+176,Chest discomfort,176
+177,Abnormal laboratory values,177
+178,Routine postoperative follow-up,178
+179,Chest discomfort,179
+180,Abdominal pain,180
+181,Abnormal laboratory values,181
+182,Urinary symptoms,182
+183,Severe headache,183
+184,Shortness of breath,184
+185,Urinary symptoms,185
+186,Severe headache,186
+187,Shortness of breath,187
+188,Chest discomfort,188
+189,Abdominal pain,189
+190,Chest discomfort,190
+191,Routine postoperative follow-up,191
+192,Fever and fatigue,192
+193,Urinary symptoms,193
+194,Chest discomfort,194
+195,Fever and fatigue,195
+196,Abnormal laboratory values,196
+197,Dizziness,197
+198,Severe headache,198
+199,Routine postoperative follow-up,199
+200,Abnormal laboratory values,200
+201,Abnormal laboratory values,201
+202,Abdominal pain,202
+203,Severe headache,203
+204,Urinary symptoms,204
+205,Dizziness,205
+206,Routine postoperative follow-up,206
+207,Injury assessment,207
+208,Severe headache,208
+209,Severe headache,209
+210,Routine postoperative follow-up,210
+211,Dizziness,211
+212,Chest discomfort,212
+213,Fever and fatigue,213
+214,Fever and fatigue,214
+215,Severe headache,215
+216,Dizziness,216
+217,Chest discomfort,217
+218,Abdominal pain,218
+219,Urinary symptoms,219
+220,Shortness of breath,220
+221,Injury assessment,221
+222,Severe headache,222
+223,Urinary symptoms,223
+224,Severe headache,224
+225,Chest discomfort,225
+226,Severe headache,226
+227,Shortness of breath,227
+228,Abdominal pain,228
+229,Routine postoperative follow-up,229
+230,Injury assessment,230
+231,Shortness of breath,231
+232,Abnormal laboratory values,232
+233,Shortness of breath,233
+234,Dizziness,234
+235,Injury assessment,235
+236,Fever and fatigue,236
+237,Shortness of breath,237
+238,Dizziness,238
+239,Dizziness,239
+240,Routine postoperative follow-up,240
+241,Routine postoperative follow-up,241
+242,Routine postoperative follow-up,242
+243,Injury assessment,243
+244,Routine postoperative follow-up,244
+245,Severe headache,245
+246,Urinary symptoms,246
+247,Shortness of breath,247
+248,Fever and fatigue,248
+249,Dizziness,249
+250,Severe headache,250
+251,Abnormal laboratory values,251
+252,Abnormal laboratory values,252
+253,Severe headache,253
+254,Injury assessment,254
+255,Abnormal laboratory values,255
+256,Chest discomfort,256
+257,Routine postoperative follow-up,257
+258,Routine postoperative follow-up,258
+259,Routine postoperative follow-up,259
+260,Shortness of breath,260
+261,Abdominal pain,261
+262,Injury assessment,262
+263,Urinary symptoms,263
+264,Chest discomfort,264
+265,Injury assessment,265
+266,Injury assessment,266
+267,Injury assessment,267
+268,Injury assessment,268
+269,Urinary symptoms,269
+270,Abdominal pain,270
+271,Dizziness,271
+272,Shortness of breath,272
+273,Abdominal pain,273
+274,Dizziness,274
+275,Injury assessment,275
+276,Routine postoperative follow-up,276
+277,Dizziness,277
+278,Abnormal laboratory values,278
+279,Dizziness,279
+280,Shortness of breath,280
+281,Abnormal laboratory values,281
+282,Routine postoperative follow-up,282
+283,Severe headache,283
+284,Abdominal pain,284
+285,Abdominal pain,285
+286,Shortness of breath,286
+287,Shortness of breath,287
+288,Abdominal pain,288
+289,Abdominal pain,289
+290,Chest discomfort,290
+291,Routine postoperative follow-up,291
+292,Injury assessment,292
+293,Abdominal pain,293
+294,Severe headache,294
+295,Routine postoperative follow-up,295
+296,Severe headache,296
+297,Routine postoperative follow-up,297
+298,Abdominal pain,298
+299,Abnormal laboratory values,299
+300,Injury assessment,300
+301,Shortness of breath,301
+302,Abnormal laboratory values,302
+303,Abnormal laboratory values,303
+304,Shortness of breath,304
+305,Severe headache,305
+306,Urinary symptoms,306
+307,Abdominal pain,307
+308,Fever and fatigue,308
+309,Shortness of breath,309
+310,Fever and fatigue,310
+311,Dizziness,311
+312,Routine postoperative follow-up,312
+313,Urinary symptoms,313
+314,Injury assessment,314
+315,Chest discomfort,315
+316,Dizziness,316
+317,Abdominal pain,317
+318,Dizziness,318
+319,Shortness of breath,319
+320,Injury assessment,320
+321,Urinary symptoms,321
+322,Injury assessment,322
+323,Abnormal laboratory values,323
+324,Severe headache,324
+325,Dizziness,325
+326,Abdominal pain,326
+327,Injury assessment,327
+328,Abnormal laboratory values,328
+329,Fever and fatigue,329
+330,Abdominal pain,330
+331,Injury assessment,331
+332,Chest discomfort,332
+333,Abdominal pain,333
+334,Abdominal pain,334
+335,Abnormal laboratory values,335
+336,Fever and fatigue,336
+337,Chest discomfort,337
+338,Urinary symptoms,338
+339,Abnormal laboratory values,339
+340,Injury assessment,340
+341,Dizziness,341
+342,Urinary symptoms,342
+343,Fever and fatigue,343
+344,Chest discomfort,344
+345,Dizziness,345
+346,Routine postoperative follow-up,346
+347,Chest discomfort,347
+348,Abdominal pain,348
+349,Injury assessment,349
+350,Fever and fatigue,350
+351,Severe headache,351
+352,Fever and fatigue,352
+353,Abdominal pain,353
+354,Chest discomfort,354
+355,Abnormal laboratory values,355
+356,Injury assessment,356
+357,Fever and fatigue,357
+358,Urinary symptoms,358
+359,Shortness of breath,359
+360,Abdominal pain,360
+361,Abnormal laboratory values,361
+362,Fever and fatigue,362
+363,Chest discomfort,363
+364,Dizziness,364
+365,Injury assessment,365
+366,Urinary symptoms,366
+367,Routine postoperative follow-up,367
+368,Shortness of breath,368
+369,Urinary symptoms,369
+370,Injury assessment,370
+371,Routine postoperative follow-up,371
+372,Chest discomfort,372
+373,Injury assessment,373
+374,Fever and fatigue,374
+375,Abdominal pain,375
+376,Chest discomfort,376
+377,Dizziness,377
+378,Urinary symptoms,378
+379,Chest discomfort,379
+380,Abnormal laboratory values,380
+381,Dizziness,381
+382,Shortness of breath,382
+383,Injury assessment,383
+384,Severe headache,384
+385,Shortness of breath,385
+386,Routine postoperative follow-up,386
+387,Injury assessment,387
+388,Abnormal laboratory values,388
+389,Chest discomfort,389
+390,Abdominal pain,390
+391,Fever and fatigue,391
+392,Severe headache,392
+393,Urinary symptoms,393
+394,Injury assessment,394
+395,Abnormal laboratory values,395
+396,Abnormal laboratory values,396
+397,Chest discomfort,397
+398,Injury assessment,398
+399,Abdominal pain,399
+400,Routine postoperative follow-up,400
+401,Routine postoperative follow-up,401
+402,Urinary symptoms,402
+403,Shortness of breath,403
+404,Injury assessment,404
+405,Urinary symptoms,405
+406,Fever and fatigue,406
+407,Dizziness,407
+408,Severe headache,408
+409,Injury assessment,409
+410,Fever and fatigue,410
+411,Severe headache,411
+412,Abdominal pain,412
+413,Fever and fatigue,413
+414,Dizziness,414
+415,Injury assessment,415
+416,Shortness of breath,416
+417,Dizziness,417
+418,Dizziness,418
+419,Fever and fatigue,419
+420,Severe headache,420
+421,Urinary symptoms,421
+422,Shortness of breath,422
+423,Routine postoperative follow-up,423
+424,Severe headache,424
+425,Injury assessment,425
+426,Urinary symptoms,426
+427,Abdominal pain,427
+428,Shortness of breath,428
+429,Abnormal laboratory values,429
+430,Fever and fatigue,430
+431,Abnormal laboratory values,431
+432,Injury assessment,432
+433,Abdominal pain,433
+434,Chest discomfort,434
+435,Shortness of breath,435
+436,Urinary symptoms,436
+437,Abnormal laboratory values,437
+438,Urinary symptoms,438
+439,Abdominal pain,439
+440,Urinary symptoms,440
+441,Abnormal laboratory values,441
+442,Dizziness,442
+443,Fever and fatigue,443
+444,Severe headache,444
+445,Fever and fatigue,445
+446,Injury assessment,446
+447,Fever and fatigue,447
+448,Chest discomfort,448
+449,Shortness of breath,449
+450,Abnormal laboratory values,450
+451,Chest discomfort,451
+452,Abnormal laboratory values,452
+453,Shortness of breath,453
+454,Dizziness,454
+455,Abnormal laboratory values,455
+456,Fever and fatigue,456
+457,Injury assessment,457
+458,Chest discomfort,458
+459,Severe headache,459
+460,Abnormal laboratory values,460
+461,Urinary symptoms,461
+462,Dizziness,462
+463,Abnormal laboratory values,463
+464,Severe headache,464
+465,Shortness of breath,465
+466,Abdominal pain,466
+467,Fever and fatigue,467
+468,Chest discomfort,468
+469,Shortness of breath,469
+470,Severe headache,470
+471,Severe headache,471
+472,Urinary symptoms,472
+473,Shortness of breath,473
+474,Abdominal pain,474
+475,Urinary symptoms,475
+476,Urinary symptoms,476
+477,Severe headache,477
+478,Urinary symptoms,478
+479,Chest discomfort,479
+480,Abdominal pain,480
+481,Fever and fatigue,481
+482,Abdominal pain,482
+483,Shortness of breath,483
+484,Severe headache,484
+485,Dizziness,485
+486,Chest discomfort,486
+487,Severe headache,487
+488,Routine postoperative follow-up,488
+489,Severe headache,489
+490,Chest discomfort,490
+491,Routine postoperative follow-up,491
+492,Routine postoperative follow-up,492
+493,Fever and fatigue,493
+494,Abdominal pain,494
+495,Routine postoperative follow-up,495
+496,Injury assessment,496
+497,Abnormal laboratory values,497
+498,Urinary symptoms,498
+499,Urinary symptoms,499
+500,Dizziness,500
+501,Chest discomfort,501
+502,Shortness of breath,502
+503,Urinary symptoms,503
+504,Injury assessment,504
+505,Abnormal laboratory values,505
+506,Dizziness,506
+507,Routine postoperative follow-up,507
+508,Abdominal pain,508
+509,Chest discomfort,509
+510,Abdominal pain,510
+511,Routine postoperative follow-up,511
+512,Injury assessment,512
+513,Chest discomfort,513
+514,Injury assessment,514
+515,Severe headache,515
+516,Abnormal laboratory values,516
+517,Routine postoperative follow-up,517
+518,Chest discomfort,518
+519,Abnormal laboratory values,519
+520,Fever and fatigue,520
+521,Abdominal pain,521
+522,Urinary symptoms,522
+523,Severe headache,523
+524,Severe headache,524
+525,Abnormal laboratory values,525
+526,Dizziness,526
+527,Chest discomfort,527
+528,Dizziness,528
+529,Urinary symptoms,529
+530,Injury assessment,530
+531,Severe headache,531
+532,Urinary symptoms,532
+533,Fever and fatigue,533
+534,Urinary symptoms,534
+535,Chest discomfort,535
+536,Abnormal laboratory values,536
+537,Abdominal pain,537
+538,Fever and fatigue,538
+539,Dizziness,539
+540,Chest discomfort,540
+541,Chest discomfort,541
+542,Shortness of breath,542
+543,Injury assessment,543
+544,Dizziness,544
+545,Injury assessment,545
+546,Severe headache,546
+547,Abnormal laboratory values,547
+548,Chest discomfort,548
+549,Abdominal pain,549
+550,Fever and fatigue,550
+551,Chest discomfort,551
+552,Severe headache,552
+553,Urinary symptoms,553
+554,Injury assessment,554
+555,Routine postoperative follow-up,555
+556,Urinary symptoms,556
+557,Dizziness,557
+558,Chest discomfort,558
+559,Abnormal laboratory values,559
+560,Routine postoperative follow-up,560
+561,Abnormal laboratory values,561
+562,Fever and fatigue,562
+563,Fever and fatigue,563
+564,Shortness of breath,564
+565,Abdominal pain,565
+566,Dizziness,566
+567,Abdominal pain,567
+568,Dizziness,568
+569,Severe headache,569
+570,Routine postoperative follow-up,570
+571,Routine postoperative follow-up,571
+572,Injury assessment,572
+573,Dizziness,573
+574,Severe headache,574
+575,Severe headache,575
+576,Urinary symptoms,576
+577,Chest discomfort,577
+578,Shortness of breath,578
+579,Urinary symptoms,579
+580,Fever and fatigue,580
+581,Routine postoperative follow-up,581
+582,Chest discomfort,582
+583,Abdominal pain,583
+584,Abdominal pain,584
+585,Abdominal pain,585
+586,Urinary symptoms,586
+587,Dizziness,587
+588,Urinary symptoms,588
+589,Urinary symptoms,589
+590,Abnormal laboratory values,590
+591,Injury assessment,591
+592,Shortness of breath,592
+593,Fever and fatigue,593
+594,Injury assessment,594
+595,Dizziness,595
+596,Injury assessment,596
+597,Routine postoperative follow-up,597
+598,Abdominal pain,598
+599,Dizziness,599
+600,Severe headache,600
+601,Severe headache,601
+602,Routine postoperative follow-up,602
+603,Injury assessment,603
+604,Fever and fatigue,604
+605,Chest discomfort,605
+606,Fever and fatigue,606
+607,Abnormal laboratory values,607
+608,Routine postoperative follow-up,608
+609,Chest discomfort,609
+610,Shortness of breath,610
+611,Dizziness,611
+612,Dizziness,612
+613,Chest discomfort,613
+614,Shortness of breath,614
+615,Abnormal laboratory values,615
+616,Routine postoperative follow-up,616
+617,Abdominal pain,617
+618,Injury assessment,618
+619,Dizziness,619
+620,Abnormal laboratory values,620
+621,Fever and fatigue,621
+622,Dizziness,622
+623,Shortness of breath,623
+624,Dizziness,624
+625,Shortness of breath,625
+626,Shortness of breath,626
+627,Routine postoperative follow-up,627
+628,Severe headache,628
+629,Abnormal laboratory values,629
+630,Shortness of breath,630
+631,Urinary symptoms,631
+632,Dizziness,632
+633,Severe headache,633
+634,Abnormal laboratory values,634
+635,Chest discomfort,635
+636,Fever and fatigue,636
+637,Shortness of breath,637
+638,Chest discomfort,638
+639,Chest discomfort,639
+640,Abdominal pain,640
+641,Shortness of breath,641
+642,Urinary symptoms,642
+643,Abdominal pain,643
+644,Fever and fatigue,644
+645,Chest discomfort,645
+646,Shortness of breath,646
+647,Shortness of breath,647
+648,Dizziness,648
+649,Abdominal pain,649
+650,Chest discomfort,650
+651,Severe headache,651
+652,Injury assessment,652
+653,Dizziness,653
+654,Chest discomfort,654
+655,Chest discomfort,655
+656,Severe headache,656
+657,Routine postoperative follow-up,657
+658,Abnormal laboratory values,658
+659,Routine postoperative follow-up,659
+660,Severe headache,660
+661,Abnormal laboratory values,661
+662,Shortness of breath,662
+663,Abnormal laboratory values,663
+664,Injury assessment,664
+665,Severe headache,665
+666,Shortness of breath,666
+667,Routine postoperative follow-up,667
+668,Fever and fatigue,668
+669,Chest discomfort,669
+670,Chest discomfort,670
+671,Abdominal pain,671
+672,Urinary symptoms,672
+673,Abnormal laboratory values,673
+674,Chest discomfort,674
+675,Routine postoperative follow-up,675
+676,Routine postoperative follow-up,676
+677,Abdominal pain,677
+678,Abnormal laboratory values,678
+679,Abnormal laboratory values,679
+680,Routine postoperative follow-up,680
+681,Shortness of breath,681
+682,Dizziness,682
+683,Abnormal laboratory values,683
+684,Routine postoperative follow-up,684
+685,Urinary symptoms,685
+686,Abdominal pain,686
+687,Abdominal pain,687
+688,Routine postoperative follow-up,688
+689,Abnormal laboratory values,689
+690,Injury assessment,690
+691,Dizziness,691
+692,Fever and fatigue,692
+693,Severe headache,693
+694,Abdominal pain,694
+695,Urinary symptoms,695
+696,Chest discomfort,696
+697,Routine postoperative follow-up,697
+698,Fever and fatigue,698
+699,Severe headache,699
+700,Injury assessment,700
+701,Abnormal laboratory values,701
+702,Abdominal pain,702
+703,Routine postoperative follow-up,703
+704,Chest discomfort,704
+705,Routine postoperative follow-up,705
+706,Abdominal pain,706
+707,Abnormal laboratory values,707
+708,Routine postoperative follow-up,708
+709,Severe headache,709
+710,Routine postoperative follow-up,710
+711,Abdominal pain,711
+712,Routine postoperative follow-up,712
+713,Abnormal laboratory values,713
+714,Fever and fatigue,714
+715,Fever and fatigue,715
+716,Urinary symptoms,716
+717,Urinary symptoms,717
+718,Shortness of breath,718
+719,Dizziness,719
+720,Urinary symptoms,720
+721,Injury assessment,721
+722,Abnormal laboratory values,722
+723,Fever and fatigue,723
+724,Abnormal laboratory values,724
+725,Routine postoperative follow-up,725
+726,Routine postoperative follow-up,726
+727,Dizziness,727
+728,Injury assessment,728
+729,Dizziness,729
+730,Dizziness,730
+731,Urinary symptoms,731
+732,Abdominal pain,732
+733,Injury assessment,733
+734,Severe headache,734
+735,Routine postoperative follow-up,735
+736,Severe headache,736
+737,Urinary symptoms,737
+738,Abnormal laboratory values,738
+739,Routine postoperative follow-up,739
+740,Severe headache,740
+741,Routine postoperative follow-up,741
+742,Dizziness,742
+743,Fever and fatigue,743
+744,Severe headache,744
+745,Dizziness,745
+746,Dizziness,746
+747,Routine postoperative follow-up,747
+748,Severe headache,748
+749,Dizziness,749
+750,Urinary symptoms,750
+751,Shortness of breath,751
+752,Abnormal laboratory values,752
+753,Fever and fatigue,753
+754,Abnormal laboratory values,754
+755,Severe headache,755
+756,Shortness of breath,756
+757,Abdominal pain,757
+758,Chest discomfort,758
+759,Chest discomfort,759
+760,Injury assessment,760
+761,Fever and fatigue,761
+762,Severe headache,762
+763,Urinary symptoms,763
+764,Abdominal pain,764
+765,Abnormal laboratory values,765
+766,Dizziness,766
+767,Abdominal pain,767
+768,Abnormal laboratory values,768
+769,Severe headache,769
+770,Urinary symptoms,770
+771,Injury assessment,771
+772,Injury assessment,772
+773,Urinary symptoms,773
+774,Severe headache,774
+775,Severe headache,775
+776,Abnormal laboratory values,776
+777,Injury assessment,777
+778,Dizziness,778
+779,Routine postoperative follow-up,779
+780,Abdominal pain,780
+781,Abnormal laboratory values,781
+782,Dizziness,782
+783,Abnormal laboratory values,783
+784,Shortness of breath,784
+785,Dizziness,785
+786,Urinary symptoms,786
+787,Shortness of breath,787
+788,Severe headache,788
+789,Abnormal laboratory values,789
+790,Abdominal pain,790
+791,Urinary symptoms,791
+792,Dizziness,792
+793,Urinary symptoms,793
+794,Shortness of breath,794
+795,Chest discomfort,795
+796,Fever and fatigue,796
+797,Abdominal pain,797
+798,Urinary symptoms,798
+799,Dizziness,799
+800,Chest discomfort,800
+801,Injury assessment,801
+802,Severe headache,802
+803,Injury assessment,803
+804,Dizziness,804
+805,Severe headache,805
+806,Injury assessment,806
+807,Fever and fatigue,807
+808,Fever and fatigue,808
+809,Fever and fatigue,809
+810,Urinary symptoms,810
+811,Severe headache,811
+812,Fever and fatigue,812
+813,Urinary symptoms,813
+814,Severe headache,814
+815,Routine postoperative follow-up,815
+816,Chest discomfort,816
+817,Severe headache,817
+818,Routine postoperative follow-up,818
+819,Shortness of breath,819
+820,Injury assessment,820
+821,Shortness of breath,821
+822,Dizziness,822
+823,Chest discomfort,823
+824,Urinary symptoms,824
+825,Injury assessment,825
+826,Shortness of breath,826
+827,Fever and fatigue,827
+828,Dizziness,828
+829,Fever and fatigue,829
+830,Shortness of breath,830
+831,Chest discomfort,831
+832,Routine postoperative follow-up,832
+833,Chest discomfort,833
+834,Abnormal laboratory values,834
+835,Urinary symptoms,835
+836,Fever and fatigue,836
+837,Injury assessment,837
+838,Severe headache,838
+839,Abdominal pain,839
+840,Dizziness,840
+841,Abdominal pain,841
+842,Fever and fatigue,842
+843,Fever and fatigue,843
+844,Routine postoperative follow-up,844
+845,Routine postoperative follow-up,845
+846,Urinary symptoms,846
+847,Injury assessment,847
+848,Urinary symptoms,848
+849,Injury assessment,849
+850,Urinary symptoms,850
+851,Chest discomfort,851
+852,Dizziness,852
+853,Shortness of breath,853
+854,Routine postoperative follow-up,854
+855,Injury assessment,855
+856,Severe headache,856
+857,Abdominal pain,857
+858,Injury assessment,858
+859,Fever and fatigue,859
+860,Abnormal laboratory values,860
+861,Urinary symptoms,861
+862,Severe headache,862
+863,Shortness of breath,863
+864,Routine postoperative follow-up,864
+865,Fever and fatigue,865
+866,Abdominal pain,866
+867,Abnormal laboratory values,867
+868,Abdominal pain,868
+869,Routine postoperative follow-up,869
+870,Routine postoperative follow-up,870
+871,Urinary symptoms,871
+872,Dizziness,872
+873,Dizziness,873
+874,Injury assessment,874
+875,Dizziness,875
+876,Abdominal pain,876
+877,Abdominal pain,877
+878,Abdominal pain,878
+879,Dizziness,879
+880,Routine postoperative follow-up,880
+881,Severe headache,881
+882,Injury assessment,882
+883,Fever and fatigue,883
+884,Urinary symptoms,884
+885,Chest discomfort,885
+886,Urinary symptoms,886
+887,Abdominal pain,887
+888,Severe headache,888
+889,Abnormal laboratory values,889
+890,Chest discomfort,890
+891,Severe headache,891
+892,Chest discomfort,892
+893,Abdominal pain,893
+894,Dizziness,894
+895,Routine postoperative follow-up,895
+896,Shortness of breath,896
+897,Shortness of breath,897
+898,Shortness of breath,898
+899,Severe headache,899
+900,Injury assessment,900
+901,Dizziness,901
+902,Fever and fatigue,902
+903,Dizziness,903
+904,Abnormal laboratory values,904
+905,Injury assessment,905
+906,Injury assessment,906
+907,Severe headache,907
+908,Abdominal pain,908
+909,Shortness of breath,909
+910,Fever and fatigue,910
+911,Routine postoperative follow-up,911
+912,Severe headache,912
+913,Injury assessment,913
+914,Severe headache,914
+915,Shortness of breath,915
+916,Shortness of breath,916
+917,Chest discomfort,917
+918,Abdominal pain,918
+919,Fever and fatigue,919
+920,Abdominal pain,920
+921,Chest discomfort,921
+922,Urinary symptoms,922
+923,Chest discomfort,923
+924,Urinary symptoms,924
+925,Shortness of breath,925
+926,Fever and fatigue,926
+927,Dizziness,927
+928,Routine postoperative follow-up,928
+929,Dizziness,929
+930,Dizziness,930
+931,Fever and fatigue,931
+932,Chest discomfort,932
+933,Urinary symptoms,933
+934,Routine postoperative follow-up,934
+935,Abnormal laboratory values,935
+936,Shortness of breath,936
+937,Abdominal pain,937
+938,Injury assessment,938
+939,Routine postoperative follow-up,939
+940,Chest discomfort,940
+941,Abnormal laboratory values,941
+942,Abdominal pain,942
+943,Chest discomfort,943
+944,Urinary symptoms,944
+945,Dizziness,945
+946,Injury assessment,946
+947,Urinary symptoms,947
+948,Fever and fatigue,948
+949,Abnormal laboratory values,949
+950,Dizziness,950
+951,Severe headache,951
+952,Urinary symptoms,952
+953,Shortness of breath,953
+954,Injury assessment,954
+955,Shortness of breath,955
+956,Chest discomfort,956
+957,Abdominal pain,957
+958,Abdominal pain,958
+959,Injury assessment,959
+960,Routine postoperative follow-up,960
+961,Shortness of breath,961
+962,Chest discomfort,962
+963,Injury assessment,963
+964,Injury assessment,964
+965,Urinary symptoms,965
+966,Dizziness,966
+967,Dizziness,967
+968,Injury assessment,968
+969,Abdominal pain,969
+970,Urinary symptoms,970
+971,Fever and fatigue,971
+972,Injury assessment,972
+973,Severe headache,973
+974,Routine postoperative follow-up,974
+975,Chest discomfort,975
+976,Fever and fatigue,976
+977,Fever and fatigue,977
+978,Urinary symptoms,978
+979,Severe headache,979
+980,Chest discomfort,980
+981,Chest discomfort,981
+982,Routine postoperative follow-up,982
+983,Routine postoperative follow-up,983
+984,Routine postoperative follow-up,984
+985,Abnormal laboratory values,985
+986,Severe headache,986
+987,Abnormal laboratory values,987
+988,Injury assessment,988
+989,Shortness of breath,989
+990,Abnormal laboratory values,990
+991,Routine postoperative follow-up,991
+992,Shortness of breath,992
+993,Urinary symptoms,993
+994,Urinary symptoms,994
+995,Abdominal pain,995
+996,Injury assessment,996
+997,Routine postoperative follow-up,997
+998,Urinary symptoms,998
+999,Abdominal pain,999
+1000,Severe headache,1000
+1001,Dizziness,692
+1002,Urinary symptoms,589
+1003,Routine postoperative follow-up,553
+1004,Abdominal pain,325
+1005,Dizziness,707
+1006,Injury assessment,34
+1007,Abdominal pain,916
+1008,Routine postoperative follow-up,884
+1009,Dizziness,633
+1010,Urinary symptoms,706
+1011,Shortness of breath,330
+1012,Dizziness,725
+1013,Routine postoperative follow-up,647
+1014,Chest discomfort,480
+1015,Routine postoperative follow-up,356
+1016,Routine postoperative follow-up,329
+1017,Injury assessment,81
+1018,Chest discomfort,132
+1019,Abnormal laboratory values,625
+1020,Injury assessment,621
+1021,Abnormal laboratory values,624
+1022,Severe headache,666
+1023,Shortness of breath,804
+1024,Routine postoperative follow-up,831
+1025,Severe headache,211
+1026,Abdominal pain,380
+1027,Fever and fatigue,500
+1028,Abnormal laboratory values,451
+1029,Abdominal pain,4
+1030,Shortness of breath,672
+1031,Abdominal pain,332
+1032,Abnormal laboratory values,42
+1033,Abdominal pain,836
+1034,Routine postoperative follow-up,243
+1035,Fever and fatigue,492
+1036,Dizziness,96
+1037,Abdominal pain,74
+1038,Severe headache,573
+1039,Injury assessment,149
+1040,Injury assessment,536
+1041,Severe headache,859
+1042,Abnormal laboratory values,650
+1043,Injury assessment,266
+1044,Urinary symptoms,332
+1045,Routine postoperative follow-up,414
+1046,Routine postoperative follow-up,590
+1047,Chest discomfort,455
+1048,Urinary symptoms,574
+1049,Shortness of breath,906
+1050,Dizziness,69
+1051,Fever and fatigue,456
+1052,Abdominal pain,884
+1053,Urinary symptoms,992
+1054,Urinary symptoms,607
+1055,Fever and fatigue,905
+1056,Dizziness,212
+1057,Fever and fatigue,372
+1058,Shortness of breath,766
+1059,Dizziness,201
+1060,Chest discomfort,154
+1061,Abnormal laboratory values,79
+1062,Chest discomfort,30
+1063,Shortness of breath,451
+1064,Chest discomfort,409
+1065,Urinary symptoms,221
+1066,Abnormal laboratory values,617
+1067,Severe headache,731
+1068,Severe headache,471
+1069,Severe headache,945
+1070,Severe headache,102
+1071,Routine postoperative follow-up,833
+1072,Abdominal pain,556
+1073,Fever and fatigue,625
+1074,Injury assessment,220
+1075,Abnormal laboratory values,566
+1076,Abnormal laboratory values,485
+1077,Fever and fatigue,672
+1078,Chest discomfort,61
+1079,Shortness of breath,831
+1080,Abnormal laboratory values,705
+1081,Urinary symptoms,765
+1082,Severe headache,182
+1083,Chest discomfort,349
+1084,Urinary symptoms,41
+1085,Injury assessment,434
+1086,Abnormal laboratory values,165
+1087,Routine postoperative follow-up,505
+1088,Severe headache,135
+1089,Routine postoperative follow-up,570
+1090,Injury assessment,91
+1091,Chest discomfort,18
+1092,Fever and fatigue,269
+1093,Urinary symptoms,531
+1094,Dizziness,706
+1095,Injury assessment,341
+1096,Injury assessment,290
+1097,Abnormal laboratory values,803
+1098,Dizziness,333
+1099,Abnormal laboratory values,156
+1100,Abnormal laboratory values,268
+1101,Shortness of breath,425
+1102,Dizziness,926
+1103,Abnormal laboratory values,734
+1104,Severe headache,477
+1105,Chest discomfort,246
+1106,Routine postoperative follow-up,963
+1107,Abdominal pain,403
+1108,Fever and fatigue,6
+1109,Urinary symptoms,743
+1110,Severe headache,464
+1111,Abdominal pain,438
+1112,Routine postoperative follow-up,732
+1113,Urinary symptoms,149
+1114,Severe headache,721
+1115,Fever and fatigue,730
+1116,Abnormal laboratory values,375
+1117,Injury assessment,12
+1118,Routine postoperative follow-up,338
+1119,Abnormal laboratory values,992
+1120,Urinary symptoms,206
+1121,Routine postoperative follow-up,548
+1122,Abdominal pain,512
+1123,Fever and fatigue,196
+1124,Severe headache,61
+1125,Urinary symptoms,403
+1126,Abnormal laboratory values,320
+1127,Fever and fatigue,470
+1128,Shortness of breath,485
+1129,Severe headache,140
+1130,Severe headache,70
+1131,Severe headache,48
+1132,Routine postoperative follow-up,381
+1133,Fever and fatigue,484
+1134,Severe headache,759
+1135,Abdominal pain,614
+1136,Abdominal pain,163
+1137,Injury assessment,554
+1138,Routine postoperative follow-up,18
+1139,Routine postoperative follow-up,614
+1140,Shortness of breath,510
+1141,Chest discomfort,477
+1142,Shortness of breath,856
+1143,Chest discomfort,170
+1144,Shortness of breath,67
+1145,Chest discomfort,362
+1146,Injury assessment,28
+1147,Abdominal pain,684
+1148,Severe headache,558
+1149,Routine postoperative follow-up,644
+1150,Abdominal pain,265
+1151,Injury assessment,631
+1152,Urinary symptoms,956
+1153,Injury assessment,209
+1154,Abdominal pain,42
+1155,Dizziness,208
+1156,Routine postoperative follow-up,288
+1157,Shortness of breath,725
+1158,Dizziness,951
+1159,Abdominal pain,473
+1160,Chest discomfort,840
+1161,Urinary symptoms,433
+1162,Chest discomfort,681
+1163,Urinary symptoms,582
+1164,Severe headache,426
+1165,Fever and fatigue,519
+1166,Routine postoperative follow-up,997
+1167,Shortness of breath,522
+1168,Routine postoperative follow-up,307
+1169,Routine postoperative follow-up,351
+1170,Severe headache,13
+1171,Chest discomfort,580
+1172,Routine postoperative follow-up,559
+1173,Urinary symptoms,334
+1174,Chest discomfort,848
+1175,Chest discomfort,464
+1176,Abdominal pain,357
+1177,Injury assessment,86
+1178,Shortness of breath,446
+1179,Abdominal pain,857
+1180,Fever and fatigue,233
+1181,Severe headache,114
+1182,Abdominal pain,90
+1183,Routine postoperative follow-up,848
+1184,Chest discomfort,587
+1185,Fever and fatigue,793
+1186,Injury assessment,513
+1187,Abnormal laboratory values,518
+1188,Dizziness,939
+1189,Urinary symptoms,590
+1190,Dizziness,269
+1191,Routine postoperative follow-up,228
+1192,Shortness of breath,680
+1193,Dizziness,775
+1194,Abdominal pain,401
+1195,Chest discomfort,122
+1196,Fever and fatigue,44
+1197,Shortness of breath,397
+1198,Injury assessment,591
+1199,Shortness of breath,3
+1200,Chest discomfort,614
+1201,Routine postoperative follow-up,155
+1202,Dizziness,819
+1203,Dizziness,357
+1204,Abnormal laboratory values,993
+1205,Injury assessment,915
+1206,Abnormal laboratory values,36
+1207,Fever and fatigue,716
+1208,Abdominal pain,909
+1209,Chest discomfort,162
+1210,Routine postoperative follow-up,779
+1211,Shortness of breath,536
+1212,Abdominal pain,178
+1213,Dizziness,669
+1214,Dizziness,322
+1215,Abnormal laboratory values,14
+1216,Routine postoperative follow-up,802
+1217,Chest discomfort,25
+1218,Abdominal pain,59
+1219,Routine postoperative follow-up,441
+1220,Fever and fatigue,138
+1221,Injury assessment,826
+1222,Fever and fatigue,300
+1223,Abdominal pain,473
+1224,Fever and fatigue,316
+1225,Routine postoperative follow-up,969
+1226,Abnormal laboratory values,939
+1227,Chest discomfort,606
+1228,Urinary symptoms,906
+1229,Abnormal laboratory values,968
+1230,Injury assessment,714
+1231,Abdominal pain,490
+1232,Severe headache,589
+1233,Dizziness,385
+1234,Injury assessment,737
+1235,Injury assessment,953
+1236,Dizziness,332
+1237,Abdominal pain,968
+1238,Shortness of breath,98
+1239,Routine postoperative follow-up,552
+1240,Injury assessment,610
+1241,Severe headache,903
+1242,Shortness of breath,331
+1243,Abnormal laboratory values,35
+1244,Injury assessment,669
+1245,Severe headache,324
+1246,Abnormal laboratory values,488
+1247,Shortness of breath,739
+1248,Fever and fatigue,491
+1249,Severe headache,416
+1250,Severe headache,954
+1251,Abnormal laboratory values,888
+1252,Urinary symptoms,770
+1253,Routine postoperative follow-up,150
+1254,Abdominal pain,289
+1255,Urinary symptoms,823
+1256,Dizziness,940
+1257,Abdominal pain,646
+1258,Injury assessment,793
+1259,Injury assessment,186
+1260,Abnormal laboratory values,762
+1261,Severe headache,822
+1262,Severe headache,554
+1263,Dizziness,69
+1264,Fever and fatigue,166
+1265,Shortness of breath,451
+1266,Severe headache,73
+1267,Chest discomfort,239
+1268,Abdominal pain,291
+1269,Abdominal pain,422
+1270,Chest discomfort,190
+1271,Chest discomfort,241
+1272,Severe headache,667
+1273,Routine postoperative follow-up,110
+1274,Shortness of breath,64
+1275,Abdominal pain,682
+1276,Abdominal pain,266
+1277,Fever and fatigue,726
+1278,Injury assessment,585
+1279,Shortness of breath,532
+1280,Urinary symptoms,962
+1281,Dizziness,457
+1282,Routine postoperative follow-up,309
+1283,Dizziness,258
+1284,Urinary symptoms,980
+1285,Urinary symptoms,669
+1286,Shortness of breath,438
+1287,Chest discomfort,953
+1288,Abnormal laboratory values,854
+1289,Urinary symptoms,905
+1290,Abdominal pain,255
+1291,Routine postoperative follow-up,362
+1292,Fever and fatigue,152
+1293,Shortness of breath,812
+1294,Abnormal laboratory values,843
+1295,Shortness of breath,475
+1296,Chest discomfort,867
+1297,Severe headache,779
+1298,Urinary symptoms,572
+1299,Abdominal pain,897
+1300,Severe headache,637
+1301,Shortness of breath,42
+1302,Shortness of breath,488
+1303,Fever and fatigue,58
+1304,Shortness of breath,938
+1305,Abnormal laboratory values,975
+1306,Shortness of breath,315
+1307,Chest discomfort,556
+1308,Injury assessment,86
+1309,Severe headache,310
+1310,Urinary symptoms,115
+1311,Dizziness,983
+1312,Urinary symptoms,671
+1313,Urinary symptoms,976
+1314,Routine postoperative follow-up,351
+1315,Abnormal laboratory values,923
+1316,Urinary symptoms,783
+1317,Routine postoperative follow-up,102
+1318,Urinary symptoms,997
+1319,Routine postoperative follow-up,205
+1320,Shortness of breath,978
+1321,Routine postoperative follow-up,815
+1322,Dizziness,73
+1323,Injury assessment,580
+1324,Injury assessment,526
+1325,Chest discomfort,806
+1326,Shortness of breath,172
+1327,Dizziness,419
+1328,Routine postoperative follow-up,175
+1329,Injury assessment,509
+1330,Fever and fatigue,510
+1331,Shortness of breath,481
+1332,Chest discomfort,22
+1333,Urinary symptoms,672
+1334,Abnormal laboratory values,955
+1335,Abnormal laboratory values,184
+1336,Routine postoperative follow-up,455
+1337,Abnormal laboratory values,455
+1338,Chest discomfort,973
+1339,Dizziness,601
+1340,Routine postoperative follow-up,72
+1341,Routine postoperative follow-up,962
+1342,Fever and fatigue,553
+1343,Urinary symptoms,624
+1344,Fever and fatigue,192
+1345,Dizziness,254
+1346,Severe headache,997
+1347,Severe headache,590
+1348,Shortness of breath,143
+1349,Dizziness,150
+1350,Fever and fatigue,138
+1351,Shortness of breath,1011
+1352,Routine postoperative follow-up,1012
+1353,Chest discomfort,1013
+1354,Abdominal pain,1014
+1355,Fever and fatigue,1015
+1356,Routine postoperative follow-up,1016
+1357,Dizziness,1017
+1358,Dizziness,1018
+1359,Chest discomfort,1019
+1360,Abnormal laboratory values,1020
+1361,Chest discomfort,1021
+1362,Fever and fatigue,1022
+1363,Routine postoperative follow-up,1023
+1364,Fever and fatigue,1024
+1365,Abnormal laboratory values,1025
+1366,Injury assessment,1026
+1367,Severe headache,1027
+1368,Dizziness,1028
+1369,Abdominal pain,1029
+1370,Chest discomfort,1030
+1371,Fever and fatigue,1031
+1372,Fever and fatigue,1032
+1373,Fever and fatigue,1033
+1374,Routine postoperative follow-up,1034
+1375,Urinary symptoms,1035
+1376,Routine postoperative follow-up,1036
+1377,Abdominal pain,1037
+1378,Shortness of breath,1038
+1379,Abdominal pain,1039
+1380,Abdominal pain,1040
+1381,Severe headache,1041
+1382,Routine postoperative follow-up,1042
+1383,Abdominal pain,1043
+1384,Fever and fatigue,1044
+1385,Fever and fatigue,1045
+1386,Abdominal pain,1046
+1387,Chest discomfort,1047
+1388,Chest discomfort,1048
+1389,Severe headache,1049
+1390,Urinary symptoms,1050
+1391,Dizziness,1051
+1392,Severe headache,1052
+1393,Shortness of breath,1053
+1394,Routine postoperative follow-up,1054
+1395,Injury assessment,1055
+1396,Chest discomfort,1056
+1397,Dizziness,1057
+1398,Chest discomfort,1058
+1399,Severe headache,1059
+1400,Routine postoperative follow-up,1060
+1401,Abnormal laboratory values,1061
+1402,Severe headache,1062
+1403,Abdominal pain,1063
+1404,Fever and fatigue,1064
+1405,Shortness of breath,1065
+1406,Routine postoperative follow-up,1066
+1407,Routine postoperative follow-up,1067
+1408,Shortness of breath,1068
+1409,Shortness of breath,1069
+1410,Chest discomfort,1070
+1411,Injury assessment,1071
+1412,Severe headache,1072
+1413,Dizziness,1073
+1414,Routine postoperative follow-up,1074
+1415,Dizziness,1075
+1416,Fever and fatigue,1076
+1417,Fever and fatigue,1077
+1418,Severe headache,1078
+1419,Dizziness,1079
+1420,Routine postoperative follow-up,1080
+1421,Dizziness,1081
+1422,Chest discomfort,1082
+1423,Abdominal pain,1083
+1424,Abnormal laboratory values,1084
+1425,Fever and fatigue,1085
+1426,Shortness of breath,1086
+1427,Abnormal laboratory values,1087
+1428,Shortness of breath,1088
+1429,Abnormal laboratory values,1089
+1430,Urinary symptoms,1090
+1431,Chest discomfort,1091
+1432,Abnormal laboratory values,1092
+1433,Abdominal pain,1093
+1434,Dizziness,1094
+1435,Chest discomfort,1095
+1436,Fever and fatigue,1096
+1437,Severe headache,1097
+1438,Abnormal laboratory values,1098
+1439,Fever and fatigue,1099
+1440,Abnormal laboratory values,1100
+1441,Dizziness,1101
+1442,Dizziness,1102
+1443,Routine postoperative follow-up,1103
+1444,Chest discomfort,1104
+1445,Injury assessment,1105
+1446,Urinary symptoms,1106
+1447,Abdominal pain,1107
+1448,Shortness of breath,1108
+1449,Chest discomfort,1109
+1450,Fever and fatigue,1110
+1451,Chest discomfort,1111
+1452,Urinary symptoms,1112
+1453,Dizziness,1113
+1454,Chest discomfort,1114
+1455,Shortness of breath,1115
+1456,Abnormal laboratory values,1116
+1457,Shortness of breath,1117
+1458,Abnormal laboratory values,1118
+1459,Abdominal pain,1119
+1460,Abdominal pain,1120
+1461,Severe headache,1121
+1462,Routine postoperative follow-up,1122
+1463,Urinary symptoms,1123
+1464,Abdominal pain,1124
+1465,Chest discomfort,1125
+1466,Abnormal laboratory values,1126
+1467,Injury assessment,1127
+1468,Shortness of breath,1128
+1469,Dizziness,1129
+1470,Routine postoperative follow-up,1130
+1471,Severe headache,1131
+1472,Severe headache,1132
+1473,Dizziness,1133
+1474,Routine postoperative follow-up,1134
+1475,Severe headache,1135
+1476,Fever and fatigue,1136
+1477,Abnormal laboratory values,1137
+1478,Abdominal pain,1138
+1479,Shortness of breath,1139
+1480,Dizziness,1140
+1481,Urinary symptoms,1141
+1482,Abdominal pain,1142
+1483,Dizziness,1143
+1484,Abdominal pain,1144
+1485,Injury assessment,1145
+1486,Severe headache,1146
+1487,Abdominal pain,1147
+1488,Abdominal pain,1148
+1489,Injury assessment,1149
+1490,Fever and fatigue,1150
+1491,Fever and fatigue,1151
+1492,Injury assessment,1152
+1493,Injury assessment,1153
+1494,Fever and fatigue,1154
+1495,Abdominal pain,1155
+1496,Chest discomfort,1156
+1497,Chest discomfort,1157
+1498,Abdominal pain,1158
+1499,Abnormal laboratory values,1159
+1500,Abdominal pain,1160
+1501,Injury assessment,1161
+1502,Severe headache,1162
+1503,Dizziness,1163
+1504,Routine postoperative follow-up,1164
+1505,Chest discomfort,1165
+1506,Fever and fatigue,1166
+1507,Severe headache,1167
+1508,Abnormal laboratory values,1168
+1509,Dizziness,1169
+1510,Routine postoperative follow-up,1170
+1511,Abdominal pain,1171
+1512,Severe headache,1172
+1513,Injury assessment,1173
+1514,Dizziness,1174
+1515,Injury assessment,1175
+1516,Urinary symptoms,1176
+1517,Routine postoperative follow-up,1177
+1518,Injury assessment,1178
+1519,Abdominal pain,1179
+1520,Abdominal pain,1180
+1521,Urinary symptoms,1181
+1522,Fever and fatigue,1182
+1523,Urinary symptoms,1183
+1524,Abdominal pain,1184
+1525,Urinary symptoms,1185
+1526,Chest discomfort,1186
+1527,Injury assessment,1187
+1528,Abnormal laboratory values,1188
+1529,Dizziness,1189
+1530,Severe headache,1190
+1531,Fever and fatigue,1191
+1532,Injury assessment,1192
+1533,Chest discomfort,1193
+1534,Severe headache,1194
+1535,Abnormal laboratory values,1195
+1536,Chest discomfort,1196
+1537,Abnormal laboratory values,1197
+1538,Fever and fatigue,1198
+1539,Injury assessment,1199
+1540,Shortness of breath,1200
+1541,Dizziness,1201
+1542,Abdominal pain,1202
+1543,Abnormal laboratory values,1203
+1544,Dizziness,1204
+1545,Shortness of breath,1205
+1546,Abnormal laboratory values,1206
+1547,Shortness of breath,1207
+1548,Severe headache,1208
+1549,Dizziness,1209
+1550,Severe headache,1210
+1551,Routine postoperative follow-up,1211
+1552,Injury assessment,1212
+1553,Urinary symptoms,1213
+1554,Abnormal laboratory values,1214
+1555,Abnormal laboratory values,1215
+1556,Injury assessment,1216
+1557,Fever and fatigue,1217
+1558,Dizziness,1218
+1559,Urinary symptoms,1219
+1560,Shortness of breath,1220
+1561,Abnormal laboratory values,1221
+1562,Urinary symptoms,1222
+1563,Severe headache,1223
+1564,Routine postoperative follow-up,1224
+1565,Urinary symptoms,1225
+1566,Abdominal pain,1226
+1567,Fever and fatigue,1227
+1568,Shortness of breath,1228
+1569,Severe headache,1229
+1570,Shortness of breath,1230
+1571,Fever and fatigue,1231
+1572,Abdominal pain,1232
+1573,Dizziness,1233
+1574,Urinary symptoms,1234
+1575,Chest discomfort,1235
+1576,Abnormal laboratory values,1236
+1577,Shortness of breath,1237
+1578,Severe headache,1238
+1579,Urinary symptoms,1239
+1580,Urinary symptoms,1240
+1581,Shortness of breath,1241
+1582,Shortness of breath,1242
+1583,Routine postoperative follow-up,1243
+1584,Dizziness,1244
+1585,Dizziness,1245
+1586,Abnormal laboratory values,1246
+1587,Shortness of breath,1247
+1588,Routine postoperative follow-up,1248
+1589,Severe headache,1249
+1590,Shortness of breath,1250
+1591,Severe headache,1251
+1592,Abnormal laboratory values,1252
+1593,Injury assessment,1253
+1594,Shortness of breath,1254
+1595,Shortness of breath,1255
+1596,Urinary symptoms,1256
+1597,Injury assessment,1257
+1598,Urinary symptoms,1258
+1599,Severe headache,1259
+1600,Severe headache,1260
+1601,Routine postoperative follow-up,1261
+1602,Shortness of breath,1262
+1603,Routine postoperative follow-up,1263
+1604,Severe headache,1264
+1605,Shortness of breath,1265
+1606,Dizziness,1266
+1607,Chest discomfort,1267
+1608,Shortness of breath,1268
+1609,Abdominal pain,1269
+1610,Urinary symptoms,1270
+1611,Injury assessment,1271
+1612,Injury assessment,1272
+1613,Abdominal pain,1273
+1614,Injury assessment,1274
+1615,Routine postoperative follow-up,1275
+1616,Urinary symptoms,1276
+1617,Fever and fatigue,1277
+1618,Injury assessment,1278
+1619,Dizziness,1279
+1620,Severe headache,1280
+1621,Dizziness,1281
+1622,Severe headache,1282
+1623,Fever and fatigue,1283
+1624,Urinary symptoms,1284
+1625,Fever and fatigue,1285
+1626,Abdominal pain,1286
+1627,Severe headache,1287
+1628,Abnormal laboratory values,1288
+1629,Chest discomfort,1289
+1630,Shortness of breath,1290
+1631,Shortness of breath,1291
+1632,Injury assessment,1292
+1633,Routine postoperative follow-up,1293
+1634,Routine postoperative follow-up,1294
+1635,Shortness of breath,1295
+1636,Abnormal laboratory values,1296
+1637,Abnormal laboratory values,1297
+1638,Routine postoperative follow-up,1298
+1639,Injury assessment,1299
+1640,Chest discomfort,1300
+1641,Shortness of breath,1301
+1642,Shortness of breath,1302
+1643,Urinary symptoms,1303
+1644,Chest discomfort,1304
+1645,Chest discomfort,1305
+1646,Injury assessment,1306
+1647,Routine postoperative follow-up,1307
+1648,Abnormal laboratory values,1308
+1649,Severe headache,1309
+1650,Routine postoperative follow-up,1310
+1651,Severe headache,1311
+1652,Injury assessment,1312
+1653,Abnormal laboratory values,1313
+1654,Abdominal pain,1314
+1655,Fever and fatigue,1315
+1656,Routine postoperative follow-up,1316
+1657,Shortness of breath,1317
+1658,Routine postoperative follow-up,1318
+1659,Urinary symptoms,1319
+1660,Injury assessment,1320
+1661,Routine postoperative follow-up,1321
+1662,Abdominal pain,1322
+1663,Fever and fatigue,1323
+1664,Shortness of breath,1324
+1665,Dizziness,1325
+1666,Severe headache,1326
+1667,Fever and fatigue,1327
+1668,Chest discomfort,1328
+1669,Fever and fatigue,1329
+1670,Routine postoperative follow-up,1330
+1671,Abdominal pain,1331
+1672,Shortness of breath,1332
+1673,Chest discomfort,1333
+1674,Dizziness,1334
+1675,Urinary symptoms,1335
+1676,Urinary symptoms,1336
+1677,Routine postoperative follow-up,1337
+1678,Injury assessment,1338
+1679,Abdominal pain,1339
+1680,Urinary symptoms,1340
+1681,Urinary symptoms,1341
+1682,Dizziness,1342
+1683,Routine postoperative follow-up,1343
+1684,Abdominal pain,1344
+1685,Chest discomfort,1345
+1686,Abdominal pain,1346
+1687,Fever and fatigue,1347
+1688,Routine postoperative follow-up,1348
+1689,Urinary symptoms,1349
+1690,Severe headache,1350
+1691,Urinary symptoms,1351
+1692,Routine postoperative follow-up,1352
+1693,Severe headache,1353
+1694,Routine postoperative follow-up,1354
+1695,Dizziness,1355
+1696,Urinary symptoms,1356
+1697,Urinary symptoms,1357
+1698,Dizziness,1358
+1699,Routine postoperative follow-up,1359
+1700,Severe headache,1360
+1701,Routine postoperative follow-up,1361
+1702,Dizziness,1362
+1703,Urinary symptoms,1363
+1704,Fever and fatigue,1364
+1705,Routine postoperative follow-up,1365
+1706,Injury assessment,1366
+1707,Severe headache,1367
+1708,Injury assessment,1368
+1709,Urinary symptoms,1369
+1710,Dizziness,1370
+1711,Routine postoperative follow-up,1371
+1712,Dizziness,1372
+1713,Severe headache,1373
+1714,Chest discomfort,1374
+1715,Routine postoperative follow-up,1375
+1716,Abnormal laboratory values,1376
+1717,Urinary symptoms,1377
+1718,Dizziness,1378
+1719,Abnormal laboratory values,1379
+1720,Dizziness,1380
+1721,Dizziness,1381
+1722,Abnormal laboratory values,1382
+1723,Abdominal pain,1383
+1724,Routine postoperative follow-up,1384
+1725,Shortness of breath,1385
+1726,Urinary symptoms,1386
+1727,Fever and fatigue,1387
+1728,Urinary symptoms,1388
+1729,Dizziness,1389
+1730,Abdominal pain,1390
+1731,Urinary symptoms,1391
+1732,Dizziness,1392
+1733,Dizziness,1393
+1734,Urinary symptoms,1394
+1735,Urinary symptoms,1395
+1736,Shortness of breath,1396
+1737,Severe headache,1397
+1738,Abdominal pain,1398
+1739,Injury assessment,1399
+1740,Abnormal laboratory values,1400
+1741,Chest discomfort,1401
+1742,Chest discomfort,1402
+1743,Chest discomfort,1403
+1744,Shortness of breath,1404
+1745,Routine postoperative follow-up,1405
+1746,Injury assessment,1406
+1747,Dizziness,1407
+1748,Urinary symptoms,1408
+1749,Abnormal laboratory values,1409
+1750,Severe headache,1410
+1751,Injury assessment,1411
+1752,Shortness of breath,1412
+1753,Abdominal pain,1413
+1754,Abdominal pain,1414
+1755,Shortness of breath,1415
+1756,Fever and fatigue,1416
+1757,Abdominal pain,1417
+1758,Chest discomfort,1418
+1759,Chest discomfort,1419
+1760,Routine postoperative follow-up,1420
+1761,Urinary symptoms,1421
+1762,Shortness of breath,1422
+1763,Chest discomfort,1423
+1764,Dizziness,1424
+1765,Fever and fatigue,1425
+1766,Abdominal pain,1426
+1767,Chest discomfort,1427
+1768,Dizziness,1428
+1769,Routine postoperative follow-up,1429
+1770,Abnormal laboratory values,1430
+1771,Shortness of breath,1431
+1772,Abnormal laboratory values,1432
+1773,Severe headache,1433
+1774,Shortness of breath,1434
+1775,Chest discomfort,1435
+1776,Shortness of breath,1436
+1777,Urinary symptoms,1437
+1778,Injury assessment,1438
+1779,Abnormal laboratory values,1439
+1780,Abnormal laboratory values,1440
+1781,Abnormal laboratory values,1441
+1782,Chest discomfort,1442
+1783,Injury assessment,1443
+1784,Shortness of breath,1444
+1785,Severe headache,1445
+1786,Dizziness,1446
+1787,Abdominal pain,1447
+1788,Fever and fatigue,1448
+1789,Shortness of breath,1449
+1790,Urinary symptoms,1450
+1791,Severe headache,1451
+1792,Fever and fatigue,1452
+1793,Injury assessment,1453
+1794,Abdominal pain,1454
+1795,Urinary symptoms,1455
+1796,Chest discomfort,1456
+1797,Abnormal laboratory values,1457
+1798,Chest discomfort,1458
+1799,Urinary symptoms,1459
+1800,Shortness of breath,1460
+1801,Urinary symptoms,1461
+1802,Routine postoperative follow-up,1462
+1803,Fever and fatigue,1463
+1804,Chest discomfort,1464
+1805,Severe headache,1465
+1806,Abdominal pain,1466
+1807,Urinary symptoms,1467
+1808,Injury assessment,1468
+1809,Shortness of breath,1469
+1810,Chest discomfort,1470
+1811,Fever and fatigue,1471
+1812,Dizziness,1472
+1813,Abdominal pain,1473
+1814,Shortness of breath,1474
+1815,Shortness of breath,1475
+1816,Abnormal laboratory values,1476
+1817,Abnormal laboratory values,1477
+1818,Abnormal laboratory values,1478
+1819,Severe headache,1479
+1820,Shortness of breath,1480
+1821,Urinary symptoms,1481
+1822,Chest discomfort,1482
+1823,Abdominal pain,1483
+1824,Shortness of breath,1484
+1825,Abnormal laboratory values,1485
+1826,Abdominal pain,1486
+1827,Abnormal laboratory values,1487
+1828,Chest discomfort,1488
+1829,Injury assessment,1489
+1830,Dizziness,1490
+1831,Abnormal laboratory values,1491
+1832,Chest discomfort,1492
+1833,Shortness of breath,1493
+1834,Chest discomfort,1494
+1835,Abdominal pain,1495
+1836,Dizziness,1496
+1837,Chest discomfort,1497
+1838,Fever and fatigue,1498
+1839,Injury assessment,1499
+1840,Abnormal laboratory values,1500
+1841,Routine postoperative follow-up,1501
+1842,Routine postoperative follow-up,1502
+1843,Abnormal laboratory values,1503
+1844,Severe headache,1504
+1845,Shortness of breath,1505
+1846,Injury assessment,1506
+1847,Injury assessment,1507
+1848,Routine postoperative follow-up,1508
+1849,Fever and fatigue,1509
+1850,Injury assessment,1510
+1851,Routine postoperative follow-up,1511
+1852,Severe headache,1512
+1853,Severe headache,1513
+1854,Urinary symptoms,1514
+1855,Shortness of breath,1515
+1856,Injury assessment,1516
+1857,Severe headache,1517
+1858,Abdominal pain,1518
+1859,Abdominal pain,1519
+1860,Urinary symptoms,1520
+1861,Abnormal laboratory values,1521
+1862,Shortness of breath,1522
+1863,Severe headache,1523
+1864,Dizziness,1524
+1865,Dizziness,1525
+1866,Routine postoperative follow-up,1526
+1867,Severe headache,1527
+1868,Chest discomfort,1528
+1869,Dizziness,1529
+1870,Shortness of breath,1530
+1871,Abdominal pain,1531
+1872,Shortness of breath,1532
+1873,Chest discomfort,1533
+1874,Fever and fatigue,1534
+1875,Severe headache,1535
+1876,Severe headache,1536
+1877,Shortness of breath,1537
+1878,Urinary symptoms,1538
+1879,Shortness of breath,1539
+1880,Injury assessment,1540
+1881,Urinary symptoms,1541
+1882,Abnormal laboratory values,1542
+1883,Routine postoperative follow-up,1543
+1884,Abdominal pain,1544
+1885,Fever and fatigue,1545
+1886,Shortness of breath,1546
+1887,Fever and fatigue,1547
+1888,Injury assessment,1548
+1889,Severe headache,1549
+1890,Severe headache,1550
+1891,Injury assessment,1551
+1892,Fever and fatigue,1552
+1893,Fever and fatigue,1553
+1894,Fever and fatigue,1554
+1895,Fever and fatigue,1555
+1896,Fever and fatigue,1556
+1897,Shortness of breath,1557
+1898,Injury assessment,1558
+1899,Fever and fatigue,1559
+1900,Shortness of breath,1560
+1901,Injury assessment,1561
+1902,Shortness of breath,1562
+1903,Dizziness,1563
+1904,Abnormal laboratory values,1564
+1905,Injury assessment,1565
+1906,Chest discomfort,1566
+1907,Routine postoperative follow-up,1567
+1908,Routine postoperative follow-up,1568
+1909,Dizziness,1569
+1910,Abnormal laboratory values,1570
+1911,Dizziness,1571
+1912,Dizziness,1572
+1913,Injury assessment,1573
+1914,Routine postoperative follow-up,1574
+1915,Abnormal laboratory values,1575
+1916,Fever and fatigue,1576
+1917,Abdominal pain,1577
+1918,Severe headache,1578
+1919,Shortness of breath,1579
+1920,Severe headache,1580
+1921,Routine postoperative follow-up,1581
+1922,Chest discomfort,1582
+1923,Abnormal laboratory values,1583
+1924,Abnormal laboratory values,1584
+1925,Abdominal pain,1585
+1926,Fever and fatigue,1586
+1927,Shortness of breath,1587
+1928,Abnormal laboratory values,1588
+1929,Dizziness,1589
+1930,Dizziness,1590
+1931,Abdominal pain,1591
+1932,Urinary symptoms,1592
+1933,Chest discomfort,1593
+1934,Shortness of breath,1594
+1935,Chest discomfort,1595
+1936,Routine postoperative follow-up,1596
+1937,Fever and fatigue,1597
+1938,Shortness of breath,1598
+1939,Chest discomfort,1599
+1940,Severe headache,1600
+1941,Fever and fatigue,1601
+1942,Fever and fatigue,1602
+1943,Dizziness,1603
+1944,Injury assessment,1604
+1945,Abnormal laboratory values,1605
+1946,Fever and fatigue,1606
+1947,Chest discomfort,1607
+1948,Severe headache,1608
+1949,Dizziness,1609
+1950,Dizziness,1610
+1951,Chest discomfort,1611
+1952,Urinary symptoms,1612
+1953,Urinary symptoms,1613
+1954,Fever and fatigue,1614
+1955,Fever and fatigue,1615
+1956,Severe headache,1616
+1957,Injury assessment,1617
+1958,Abnormal laboratory values,1618
+1959,Abnormal laboratory values,1619
+1960,Chest discomfort,1620
+1961,Urinary symptoms,1621
+1962,Injury assessment,1622
+1963,Fever and fatigue,1623
+1964,Shortness of breath,1624
+1965,Injury assessment,1625
+1966,Urinary symptoms,1626
+1967,Routine postoperative follow-up,1627
+1968,Abnormal laboratory values,1628
+1969,Abnormal laboratory values,1629
+1970,Severe headache,1630
+1971,Injury assessment,1631
+1972,Fever and fatigue,1632
+1973,Routine postoperative follow-up,1633
+1974,Routine postoperative follow-up,1634
+1975,Shortness of breath,1635
+1976,Fever and fatigue,1636
+1977,Dizziness,1637
+1978,Injury assessment,1638
+1979,Severe headache,1639
+1980,Shortness of breath,1640
+1981,Shortness of breath,1641
+1982,Fever and fatigue,1642
+1983,Chest discomfort,1643
+1984,Dizziness,1644
+1985,Urinary symptoms,1645
+1986,Urinary symptoms,1646
+1987,Dizziness,1647
+1988,Shortness of breath,1648
+1989,Abdominal pain,1649
+1990,Dizziness,1650
+1991,Abnormal laboratory values,1651
+1992,Abnormal laboratory values,1652
+1993,Abdominal pain,1653
+1994,Abnormal laboratory values,1654
+1995,Chest discomfort,1655
+1996,Chest discomfort,1656
+1997,Fever and fatigue,1657
+1998,Abdominal pain,1658
+1999,Chest discomfort,1659
+2000,Shortness of breath,1660
+2001,Abdominal pain,1661
+2002,Abdominal pain,1662
+2003,Dizziness,1663
+2004,Chest discomfort,1664
+2005,Shortness of breath,1665
+2006,Abdominal pain,1666
+2007,Severe headache,1667
+2008,Shortness of breath,1668
+2009,Severe headache,1669
+2010,Injury assessment,1670
+2011,Fever and fatigue,1671
+2012,Dizziness,1672
+2013,Routine postoperative follow-up,1673
+2014,Chest discomfort,1674
+2015,Abdominal pain,1675
+2016,Abdominal pain,1676
+2017,Abnormal laboratory values,1677
+2018,Routine postoperative follow-up,1678
+2019,Abdominal pain,1679
+2020,Severe headache,1680
+2021,Injury assessment,1681
+2022,Urinary symptoms,1682
+2023,Chest discomfort,1683
+2024,Dizziness,1684
+2025,Chest discomfort,1685
+2026,Shortness of breath,1686
+2027,Chest discomfort,1687
+2028,Abdominal pain,1688
+2029,Chest discomfort,1689
+2030,Chest discomfort,1690
+2031,Urinary symptoms,1691
+2032,Fever and fatigue,1692
+2033,Severe headache,1693
+2034,Shortness of breath,1694
+2035,Abnormal laboratory values,1695
+2036,Urinary symptoms,1696
+2037,Abdominal pain,1697
+2038,Abdominal pain,1698
+2039,Shortness of breath,1699
+2040,Routine postoperative follow-up,1700
+2041,Fever and fatigue,1701
+2042,Routine postoperative follow-up,1702
+2043,Shortness of breath,1703
+2044,Injury assessment,1704
+2045,Shortness of breath,1705
+2046,Urinary symptoms,1706
+2047,Urinary symptoms,1707
+2048,Injury assessment,1708
+2049,Severe headache,1709
+2050,Dizziness,1710
+2051,Chest discomfort,1711
+2052,Abdominal pain,1712
+2053,Shortness of breath,1713
+2054,Urinary symptoms,1714
+2055,Dizziness,1715
+2056,Abdominal pain,1716
+2057,Urinary symptoms,1717
+2058,Dizziness,1718
+2059,Abdominal pain,1719
+2060,Urinary symptoms,1720
+2061,Dizziness,1721
+2062,Chest discomfort,1722
+2063,Chest discomfort,1723
+2064,Chest discomfort,1724
+2065,Dizziness,1725
+2066,Severe headache,1726
+2067,Severe headache,1727
+2068,Routine postoperative follow-up,1728
+2069,Shortness of breath,1729
+2070,Shortness of breath,1730
+2071,Abnormal laboratory values,1731
+2072,Dizziness,1732
+2073,Injury assessment,1733
+2074,Injury assessment,1734
+2075,Severe headache,1735
+2076,Abnormal laboratory values,1736
+2077,Shortness of breath,1737
+2078,Abnormal laboratory values,1738
+2079,Fever and fatigue,1739
+2080,Shortness of breath,1740
+2081,Urinary symptoms,1741
+2082,Shortness of breath,1742
+2083,Fever and fatigue,1743
+2084,Urinary symptoms,1744
+2085,Severe headache,1745
+2086,Routine postoperative follow-up,1746
+2087,Abdominal pain,1747
+2088,Fever and fatigue,1748
+2089,Urinary symptoms,1749
+2090,Dizziness,1750
+2091,Chest discomfort,1751
+2092,Dizziness,1752
+2093,Abdominal pain,1753
+2094,Abdominal pain,1754
+2095,Abnormal laboratory values,1755
+2096,Abdominal pain,1756
+2097,Injury assessment,1757
+2098,Chest discomfort,1758
+2099,Routine postoperative follow-up,1759
+2100,Fever and fatigue,1760
+2101,Injury assessment,1761
+2102,Urinary symptoms,1762
+2103,Injury assessment,1763
+2104,Shortness of breath,1764
+2105,Urinary symptoms,1765
+2106,Shortness of breath,1766
+2107,Abnormal laboratory values,1767
+2108,Dizziness,1768
+2109,Chest discomfort,1769
+2110,Routine postoperative follow-up,1770
+2111,Abnormal laboratory values,1771
+2112,Abnormal laboratory values,1772
+2113,Chest discomfort,1773
+2114,Abdominal pain,1774
+2115,Routine postoperative follow-up,1775
+2116,Chest discomfort,1776
+2117,Urinary symptoms,1777
+2118,Chest discomfort,1778
+2119,Dizziness,1779
+2120,Routine postoperative follow-up,1780
+2121,Injury assessment,1781
+2122,Fever and fatigue,1782
+2123,Dizziness,1783
+2124,Dizziness,1784
+2125,Abdominal pain,1785
+2126,Injury assessment,1786
+2127,Dizziness,1787
+2128,Abdominal pain,1788
+2129,Injury assessment,1789
+2130,Abnormal laboratory values,1790
+2131,Injury assessment,1791
+2132,Severe headache,1792
+2133,Fever and fatigue,1793
+2134,Routine postoperative follow-up,1794
+2135,Dizziness,1795
+2136,Abnormal laboratory values,1796
+2137,Injury assessment,1797
+2138,Fever and fatigue,1798
+2139,Abdominal pain,1799
+2140,Dizziness,1800
+2141,Injury assessment,1801
+2142,Abdominal pain,1802
+2143,Abdominal pain,1803
+2144,Urinary symptoms,1804
+2145,Routine postoperative follow-up,1805
+2146,Dizziness,1806
+2147,Abdominal pain,1807
+2148,Chest discomfort,1808
+2149,Severe headache,1809
+2150,Abnormal laboratory values,1810
+2151,Severe headache,1811
+2152,Abnormal laboratory values,1812
+2153,Routine postoperative follow-up,1813
+2154,Fever and fatigue,1814
+2155,Abnormal laboratory values,1815
+2156,Severe headache,1816
+2157,Urinary symptoms,1817
+2158,Abdominal pain,1818
+2159,Abdominal pain,1819
+2160,Fever and fatigue,1820
+2161,Fever and fatigue,1821
+2162,Routine postoperative follow-up,1822
+2163,Injury assessment,1823
+2164,Injury assessment,1824
+2165,Fever and fatigue,1825
+2166,Abnormal laboratory values,1826
+2167,Dizziness,1827
+2168,Abnormal laboratory values,1828
+2169,Urinary symptoms,1829
+2170,Dizziness,1830
+2171,Severe headache,1831
+2172,Abdominal pain,1832
+2173,Fever and fatigue,1833
+2174,Injury assessment,1834
+2175,Severe headache,1835
+2176,Severe headache,1836
+2177,Abnormal laboratory values,1837
+2178,Injury assessment,1838
+2179,Shortness of breath,1839
+2180,Fever and fatigue,1840
+2181,Urinary symptoms,1841
+2182,Severe headache,1842
+2183,Dizziness,1843
+2184,Abdominal pain,1844
+2185,Fever and fatigue,1845
+2186,Injury assessment,1846
+2187,Shortness of breath,1847
+2188,Shortness of breath,1848
+2189,Abnormal laboratory values,1849
+2190,Abdominal pain,1850
+2191,Abnormal laboratory values,1851
+2192,Fever and fatigue,1852
+2193,Abdominal pain,1853
+2194,Chest discomfort,1854
+2195,Shortness of breath,1855
+2196,Severe headache,1856
+2197,Routine postoperative follow-up,1857
+2198,Severe headache,1858
+2199,Routine postoperative follow-up,1859
+2200,Dizziness,1860
+2201,Dizziness,1861
+2202,Fever and fatigue,1862
+2203,Abdominal pain,1863
+2204,Routine postoperative follow-up,1864
+2205,Routine postoperative follow-up,1865
+2206,Severe headache,1866
+2207,Chest discomfort,1867
+2208,Shortness of breath,1868
+2209,Severe headache,1869
+2210,Chest discomfort,1870
+2211,Injury assessment,1871
+2212,Dizziness,1872
+2213,Urinary symptoms,1873
+2214,Dizziness,1874
+2215,Severe headache,1875
+2216,Fever and fatigue,1876
+2217,Dizziness,1877
+2218,Fever and fatigue,1878
+2219,Abnormal laboratory values,1879
+2220,Abdominal pain,1880
+2221,Injury assessment,1881
+2222,Dizziness,1882
+2223,Severe headache,1883
+2224,Routine postoperative follow-up,1884
+2225,Abdominal pain,1885
+2226,Shortness of breath,1886
+2227,Severe headache,1887
+2228,Abnormal laboratory values,1888
+2229,Abdominal pain,1889
+2230,Abnormal laboratory values,1890
+2231,Fever and fatigue,1891
+2232,Abnormal laboratory values,1892
+2233,Chest discomfort,1893
+2234,Urinary symptoms,1894
+2235,Severe headache,1895
+2236,Routine postoperative follow-up,1896
+2237,Chest discomfort,1897
+2238,Severe headache,1898
+2239,Dizziness,1899
+2240,Fever and fatigue,1900
+2241,Urinary symptoms,1901
+2242,Injury assessment,1902
+2243,Shortness of breath,1903
+2244,Urinary symptoms,1904
+2245,Urinary symptoms,1905
+2246,Shortness of breath,1906
+2247,Shortness of breath,1907
+2248,Severe headache,1908
+2249,Urinary symptoms,1909
+2250,Fever and fatigue,1910
+2251,Injury assessment,1911
+2252,Shortness of breath,1912
+2253,Urinary symptoms,1913
+2254,Abdominal pain,1914
+2255,Fever and fatigue,1915
+2256,Routine postoperative follow-up,1916
+2257,Chest discomfort,1917
+2258,Urinary symptoms,1918
+2259,Routine postoperative follow-up,1919
+2260,Chest discomfort,1920
+2261,Chest discomfort,1921
+2262,Dizziness,1922
+2263,Abdominal pain,1923
+2264,Severe headache,1924
+2265,Fever and fatigue,1925
+2266,Urinary symptoms,1926
+2267,Shortness of breath,1927
+2268,Urinary symptoms,1928
+2269,Severe headache,1929
+2270,Abdominal pain,1930
+2271,Dizziness,1931
+2272,Routine postoperative follow-up,1932
+2273,Fever and fatigue,1933
+2274,Shortness of breath,1934
+2275,Fever and fatigue,1935
+2276,Severe headache,1936
+2277,Fever and fatigue,1937
+2278,Routine postoperative follow-up,1938
+2279,Shortness of breath,1939
+2280,Severe headache,1940
+2281,Urinary symptoms,1941
+2282,Shortness of breath,1942
+2283,Urinary symptoms,1943
+2284,Routine postoperative follow-up,1944
+2285,Injury assessment,1945
+2286,Severe headache,1946
+2287,Shortness of breath,1947
+2288,Injury assessment,1948
+2289,Injury assessment,1949
+2290,Dizziness,1950
+2291,Severe headache,1951
+2292,Abnormal laboratory values,1952
+2293,Injury assessment,1953
+2294,Dizziness,1954
+2295,Severe headache,1955
+2296,Urinary symptoms,1956
+2297,Dizziness,1957
+2298,Severe headache,1958
+2299,Routine postoperative follow-up,1959
+2300,Shortness of breath,1960
+2301,Urinary symptoms,1961
+2302,Shortness of breath,1962
+2303,Chest discomfort,1963
+2304,Abnormal laboratory values,1964
+2305,Urinary symptoms,1965
+2306,Abnormal laboratory values,1966
+2307,Chest discomfort,1967
+2308,Abnormal laboratory values,1968
+2309,Abdominal pain,1969
+2310,Abnormal laboratory values,1970
+2311,Abdominal pain,1971
+2312,Abnormal laboratory values,1972
+2313,Abdominal pain,1973
+2314,Routine postoperative follow-up,1974
+2315,Severe headache,1975
+2316,Abdominal pain,1976
+2317,Shortness of breath,1977
+2318,Severe headache,1978
+2319,Severe headache,1979
+2320,Injury assessment,1980
+2321,Chest discomfort,1981
+2322,Chest discomfort,1982
+2323,Abnormal laboratory values,1983
+2324,Routine postoperative follow-up,1984
+2325,Injury assessment,1985
+2326,Severe headache,1986
+2327,Abnormal laboratory values,1987
+2328,Abdominal pain,1988
+2329,Abdominal pain,1989
+2330,Injury assessment,1990
+2331,Severe headache,1991
+2332,Dizziness,1992
+2333,Abdominal pain,1993
+2334,Dizziness,1994
+2335,Chest discomfort,1995
+2336,Urinary symptoms,1996
+2337,Abdominal pain,1997
+2338,Dizziness,1998
+2339,Abnormal laboratory values,1999
+2340,Injury assessment,2000
+2341,Fever and fatigue,2001
+2342,Dizziness,2002
+2343,Routine postoperative follow-up,2003
+2344,Fever and fatigue,2004
+2345,Abdominal pain,2005
+2346,Chest discomfort,2006
+2347,Routine postoperative follow-up,2007
+2348,Injury assessment,2008
+2349,Routine postoperative follow-up,2009
+2350,Chest discomfort,2010
+2351,Routine postoperative follow-up,1281
+2352,Chest discomfort,1719
+2353,Chest discomfort,1391
+2354,Dizziness,1458
+2355,Severe headache,1796
+2356,Routine postoperative follow-up,1978
+2357,Fever and fatigue,1392
+2358,Severe headache,1175
+2359,Injury assessment,1266
+2360,Urinary symptoms,1783
+2361,Shortness of breath,1138
+2362,Dizziness,1157
+2363,Injury assessment,1924
+2364,Severe headache,1454
+2365,Fever and fatigue,1109
+2366,Severe headache,1897
+2367,Urinary symptoms,1155
+2368,Dizziness,1072
+2369,Fever and fatigue,1874
+2370,Urinary symptoms,1182
+2371,Abdominal pain,1782
+2372,Shortness of breath,1685
+2373,Severe headache,1260
+2374,Routine postoperative follow-up,1347
+2375,Urinary symptoms,1782
+2376,Shortness of breath,1644
+2377,Abnormal laboratory values,1463
+2378,Severe headache,1800
+2379,Abdominal pain,1396
+2380,Urinary symptoms,1743
+2381,Abnormal laboratory values,1307
+2382,Fever and fatigue,1707
+2383,Routine postoperative follow-up,1694
+2384,Shortness of breath,1208
+2385,Routine postoperative follow-up,1527
+2386,Fever and fatigue,1243
+2387,Severe headache,1255
+2388,Abdominal pain,1942
+2389,Routine postoperative follow-up,1700
+2390,Severe headache,1019
+2391,Fever and fatigue,1026
+2392,Shortness of breath,1985
+2393,Fever and fatigue,1842
+2394,Fever and fatigue,1263
+2395,Chest discomfort,1120
+2396,Injury assessment,1033
+2397,Severe headache,1572
+2398,Routine postoperative follow-up,1527
+2399,Urinary symptoms,1965
+2400,Shortness of breath,1239
+2401,Injury assessment,1560
+2402,Injury assessment,1818
+2403,Fever and fatigue,1883
+2404,Severe headache,1427
+2405,Chest discomfort,1104
+2406,Injury assessment,1668
+2407,Shortness of breath,1340
+2408,Shortness of breath,1154
+2409,Urinary symptoms,1926
+2410,Shortness of breath,1215
+2411,Fever and fatigue,1741
+2412,Urinary symptoms,1570
+2413,Abnormal laboratory values,1162
+2414,Urinary symptoms,1821
+2415,Abnormal laboratory values,1911
+2416,Abnormal laboratory values,1566
+2417,Abdominal pain,1035
+2418,Shortness of breath,1025
+2419,Severe headache,1702
+2420,Shortness of breath,1416
+2421,Shortness of breath,1649
+2422,Abdominal pain,1216
+2423,Injury assessment,1344
+2424,Injury assessment,1351
+2425,Fever and fatigue,1064
+2426,Injury assessment,1919
+2427,Abdominal pain,1046
+2428,Injury assessment,1442
+2429,Injury assessment,1178
+2430,Shortness of breath,1062
+2431,Shortness of breath,1137
+2432,Fever and fatigue,1226
+2433,Chest discomfort,1714
+2434,Routine postoperative follow-up,1554
+2435,Urinary symptoms,1859
+2436,Abnormal laboratory values,2009
+2437,Abnormal laboratory values,1564
+2438,Dizziness,1939
+2439,Routine postoperative follow-up,1870
+2440,Fever and fatigue,1519
+2441,Fever and fatigue,1218
+2442,Urinary symptoms,1630
+2443,Injury assessment,1350
+2444,Urinary symptoms,1082
+2445,Dizziness,1930
+2446,Injury assessment,1393
+2447,Severe headache,1427
+2448,Fever and fatigue,1972
+2449,Chest discomfort,1287
+2450,Abdominal pain,1545
+2451,Abdominal pain,1714
+2452,Severe headache,1423
+2453,Abdominal pain,1163
+2454,Urinary symptoms,1041
+2455,Fever and fatigue,1711
+2456,Routine postoperative follow-up,1723
+2457,Dizziness,1593
+2458,Abdominal pain,1652
+2459,Severe headache,1489
+2460,Urinary symptoms,1236
+2461,Dizziness,1111
+2462,Abnormal laboratory values,1645
+2463,Urinary symptoms,1563
+2464,Shortness of breath,1172
+2465,Fever and fatigue,1064
+2466,Urinary symptoms,1378
+2467,Routine postoperative follow-up,1510
+2468,Abdominal pain,1754
+2469,Injury assessment,1419
+2470,Abdominal pain,1815
+2471,Urinary symptoms,1088
+2472,Abnormal laboratory values,1201
+2473,Dizziness,1079
+2474,Severe headache,1766
+2475,Abnormal laboratory values,1135
+2476,Abnormal laboratory values,1467
+2477,Injury assessment,1104
+2478,Routine postoperative follow-up,1441
+2479,Abdominal pain,1418
+2480,Abnormal laboratory values,1456
+2481,Abnormal laboratory values,1933
+2482,Dizziness,1758
+2483,Abnormal laboratory values,1655
+2484,Abnormal laboratory values,1065
+2485,Abnormal laboratory values,1713
+2486,Fever and fatigue,1177
+2487,Injury assessment,1957
+2488,Severe headache,1360
+2489,Injury assessment,1234
+2490,Severe headache,1895
+2491,Routine postoperative follow-up,2005
+2492,Abnormal laboratory values,1253
+2493,Shortness of breath,1679
+2494,Urinary symptoms,1042
+2495,Abnormal laboratory values,1441
+2496,Urinary symptoms,1675
+2497,Abnormal laboratory values,1287
+2498,Severe headache,1555
+2499,Fever and fatigue,1355
+2500,Dizziness,1763
+2501,Abnormal laboratory values,1226
+2502,Shortness of breath,1594
+2503,Shortness of breath,1337
+2504,Chest discomfort,1038
+2505,Dizziness,1665
+2506,Abdominal pain,1611
+2507,Urinary symptoms,1892
+2508,Abdominal pain,1495
+2509,Routine postoperative follow-up,1550
+2510,Urinary symptoms,1049
+2511,Chest discomfort,1809
+2512,Shortness of breath,1888
+2513,Chest discomfort,1261
+2514,Abnormal laboratory values,1237
+2515,Abdominal pain,1574
+2516,Urinary symptoms,1703
+2517,Abdominal pain,1490
+2518,Dizziness,1397
+2519,Shortness of breath,1921
+2520,Injury assessment,1101
+2521,Chest discomfort,1200
+2522,Fever and fatigue,1766
+2523,Injury assessment,1577
+2524,Routine postoperative follow-up,1735
+2525,Abdominal pain,1267
+2526,Abdominal pain,1866
+2527,Abnormal laboratory values,1233
+2528,Fever and fatigue,1771
+2529,Urinary symptoms,1868
+2530,Fever and fatigue,1446
+2531,Severe headache,1376
+2532,Abnormal laboratory values,1136
+2533,Injury assessment,1974
+2534,Shortness of breath,1951
+2535,Routine postoperative follow-up,1221
+2536,Severe headache,1667
+2537,Routine postoperative follow-up,1292
+2538,Fever and fatigue,1735
+2539,Abdominal pain,1053
+2540,Severe headache,1569
+2541,Abdominal pain,1625
+2542,Dizziness,1879
+2543,Shortness of breath,1331
+2544,Fever and fatigue,1489
+2545,Severe headache,1081
+2546,Abdominal pain,1174
+2547,Severe headache,1218
+2548,Urinary symptoms,1220
+2549,Chest discomfort,1757
+2550,Urinary symptoms,1159
+2551,Chest discomfort,1943
+2552,Chest discomfort,1205
+2553,Severe headache,1690
+2554,Severe headache,1652
+2555,Dizziness,1106
+2556,Abnormal laboratory values,1134
+2557,Abnormal laboratory values,1549
+2558,Chest discomfort,1993
+2559,Dizziness,1230
+2560,Abnormal laboratory values,1094
+2561,Severe headache,1866
+2562,Chest discomfort,1937
+2563,Severe headache,1925
+2564,Chest discomfort,1665
+2565,Severe headache,1912
+2566,Severe headache,1345
+2567,Shortness of breath,1144
+2568,Dizziness,1300
+2569,Routine postoperative follow-up,1028
+2570,Abnormal laboratory values,1591
+2571,Injury assessment,1100
+2572,Fever and fatigue,1037
+2573,Abdominal pain,1108
+2574,Chest discomfort,1460
+2575,Dizziness,1318
+2576,Abnormal laboratory values,1700
+2577,Chest discomfort,1527
+2578,Injury assessment,1608
+2579,Chest discomfort,1994
+2580,Shortness of breath,1257
+2581,Abdominal pain,1963
+2582,Urinary symptoms,1497
+2583,Severe headache,1156
+2584,Severe headache,1962
+2585,Injury assessment,1358
+2586,Shortness of breath,1850
+2587,Abdominal pain,1617
+2588,Urinary symptoms,1241
+2589,Severe headache,1703
+2590,Injury assessment,1919
+2591,Shortness of breath,1508
+2592,Shortness of breath,1996
+2593,Urinary symptoms,1339
+2594,Abnormal laboratory values,1038
+2595,Chest discomfort,1607
+2596,Shortness of breath,1292
+2597,Injury assessment,1373
+2598,Abnormal laboratory values,1154
+2599,Dizziness,1794
+2600,Shortness of breath,1484
+2601,Shortness of breath,1995
+2602,Shortness of breath,1976
+2603,Abnormal laboratory values,1044
+2604,Routine postoperative follow-up,1602
+2605,Dizziness,1343
+2606,Fever and fatigue,1379
+2607,Injury assessment,1323
+2608,Abdominal pain,1965
+2609,Dizziness,1481
+2610,Severe headache,1652
+2611,Urinary symptoms,1850
+2612,Routine postoperative follow-up,1574
+2613,Routine postoperative follow-up,1438
+2614,Abnormal laboratory values,1153
+2615,Abnormal laboratory values,1260
+2616,Chest discomfort,1052
+2617,Chest discomfort,1639
+2618,Shortness of breath,1727
+2619,Shortness of breath,1273
+2620,Chest discomfort,1551
+2621,Abdominal pain,1489
+2622,Abnormal laboratory values,1265
+2623,Fever and fatigue,1557
+2624,Urinary symptoms,1655
+2625,Shortness of breath,1960
+2626,Routine postoperative follow-up,1357
+2627,Urinary symptoms,1833
+2628,Fever and fatigue,1616
+2629,Routine postoperative follow-up,1222
+2630,Abnormal laboratory values,1357
+2631,Severe headache,1286
+2632,Chest discomfort,1077
+2633,Shortness of breath,1095
+2634,Abdominal pain,1720
+2635,Routine postoperative follow-up,1105
+2636,Injury assessment,1700
+2637,Routine postoperative follow-up,1426
+2638,Chest discomfort,1912
+2639,Injury assessment,1697
+2640,Shortness of breath,1634
+2641,Abdominal pain,1655
+2642,Dizziness,1233
+2643,Injury assessment,1702
+2644,Shortness of breath,1754
+2645,Abdominal pain,1215
+2646,Shortness of breath,1758
+2647,Dizziness,1872
+2648,Severe headache,1832
+2649,Abnormal laboratory values,1234
+2650,Urinary symptoms,1225
+2651,Injury assessment,1177
+2652,Chest discomfort,1915
+2653,Dizziness,1187
+2654,Abnormal laboratory values,1622
+2655,Injury assessment,1726
+2656,Severe headache,1967
+2657,Shortness of breath,1883
+2658,Fever and fatigue,1651
+2659,Dizziness,1401
+2660,Abnormal laboratory values,1166
+2661,Abdominal pain,1579
+2662,Severe headache,1765
+2663,Routine postoperative follow-up,1928
+2664,Dizziness,1622
+2665,Abnormal laboratory values,1898
+2666,Dizziness,1810
+2667,Urinary symptoms,1024
+2668,Dizziness,1376
+2669,Injury assessment,1804
+2670,Chest discomfort,1245
+2671,Severe headache,1997
+2672,Dizziness,1634
+2673,Urinary symptoms,1139
+2674,Abnormal laboratory values,1963
+2675,Urinary symptoms,1178
+2676,Abdominal pain,1163
+2677,Abdominal pain,1312
+2678,Chest discomfort,1035
+2679,Urinary symptoms,1651
+2680,Shortness of breath,1750
+2681,Abdominal pain,1537
+2682,Abnormal laboratory values,1731
+2683,Injury assessment,1082
+2684,Dizziness,1186
+2685,Chest discomfort,1339
+2686,Routine postoperative follow-up,1114
+2687,Chest discomfort,1611
+2688,Routine postoperative follow-up,1914
+2689,Injury assessment,1648
+2690,Shortness of breath,1725
+2691,Urinary symptoms,1041
+2692,Severe headache,1501
+2693,Injury assessment,1571
+2694,Dizziness,1478
+2695,Chest discomfort,1789
+2696,Chest discomfort,1875
+2697,Routine postoperative follow-up,1857
+2698,Urinary symptoms,1958
+2699,Severe headache,1177
+2700,Injury assessment,1271
+2701,Fever and fatigue,2021
+2702,Routine postoperative follow-up,2022
+2703,Dizziness,2023
+2704,Fever and fatigue,2024
+2705,Shortness of breath,2025
+2706,Routine postoperative follow-up,2026
+2707,Dizziness,2027
+2708,Dizziness,2028
+2709,Severe headache,2029
+2710,Dizziness,2030
+2711,Urinary symptoms,2031
+2712,Abnormal laboratory values,2032
+2713,Shortness of breath,2033
+2714,Shortness of breath,2034
+2715,Injury assessment,2035
+2716,Injury assessment,2036
+2717,Abnormal laboratory values,2037
+2718,Routine postoperative follow-up,2038
+2719,Severe headache,2039
+2720,Abdominal pain,2040
+2721,Urinary symptoms,2041
+2722,Routine postoperative follow-up,2042
+2723,Urinary symptoms,2043
+2724,Severe headache,2044
+2725,Fever and fatigue,2045
+2726,Routine postoperative follow-up,2046
+2727,Injury assessment,2047
+2728,Severe headache,2048
+2729,Abdominal pain,2049
+2730,Shortness of breath,2050
+2731,Routine postoperative follow-up,2051
+2732,Dizziness,2052
+2733,Chest discomfort,2053
+2734,Dizziness,2054
+2735,Severe headache,2055
+2736,Injury assessment,2056
+2737,Chest discomfort,2057
+2738,Shortness of breath,2058
+2739,Severe headache,2059
+2740,Shortness of breath,2060
+2741,Shortness of breath,2061
+2742,Routine postoperative follow-up,2062
+2743,Dizziness,2063
+2744,Routine postoperative follow-up,2064
+2745,Fever and fatigue,2065
+2746,Abnormal laboratory values,2066
+2747,Dizziness,2067
+2748,Urinary symptoms,2068
+2749,Injury assessment,2069
+2750,Abdominal pain,2070
+2751,Routine postoperative follow-up,2071
+2752,Urinary symptoms,2072
+2753,Shortness of breath,2073
+2754,Fever and fatigue,2074
+2755,Chest discomfort,2075
+2756,Abnormal laboratory values,2076
+2757,Chest discomfort,2077
+2758,Chest discomfort,2078
+2759,Severe headache,2079
+2760,Shortness of breath,2080
+2761,Shortness of breath,2081
+2762,Dizziness,2082
+2763,Severe headache,2083
+2764,Shortness of breath,2084
+2765,Abnormal laboratory values,2085
+2766,Urinary symptoms,2086
+2767,Urinary symptoms,2087
+2768,Dizziness,2088
+2769,Urinary symptoms,2089
+2770,Chest discomfort,2090
+2771,Routine postoperative follow-up,2091
+2772,Routine postoperative follow-up,2092
+2773,Shortness of breath,2093
+2774,Urinary symptoms,2094
+2775,Chest discomfort,2095
+2776,Shortness of breath,2096
+2777,Urinary symptoms,2097
+2778,Abdominal pain,2098
+2779,Abdominal pain,2099
+2780,Shortness of breath,2100
+2781,Fever and fatigue,2101
+2782,Fever and fatigue,2102
+2783,Urinary symptoms,2103
+2784,Fever and fatigue,2104
+2785,Dizziness,2105
+2786,Abnormal laboratory values,2106
+2787,Routine postoperative follow-up,2107
+2788,Chest discomfort,2108
+2789,Dizziness,2109
+2790,Shortness of breath,2110
+2791,Abdominal pain,2111
+2792,Chest discomfort,2112
+2793,Fever and fatigue,2113
+2794,Dizziness,2114
+2795,Dizziness,2115
+2796,Dizziness,2116
+2797,Chest discomfort,2117
+2798,Abdominal pain,2118
+2799,Shortness of breath,2119
+2800,Shortness of breath,2120
+2801,Chest discomfort,2121
+2802,Abdominal pain,2122
+2803,Abnormal laboratory values,2123
+2804,Shortness of breath,2124
+2805,Abdominal pain,2125
+2806,Urinary symptoms,2126
+2807,Chest discomfort,2127
+2808,Severe headache,2128
+2809,Dizziness,2129
+2810,Abnormal laboratory values,2130
+2811,Urinary symptoms,2131
+2812,Severe headache,2132
+2813,Abnormal laboratory values,2133
+2814,Abnormal laboratory values,2134
+2815,Chest discomfort,2135
+2816,Fever and fatigue,2136
+2817,Routine postoperative follow-up,2137
+2818,Shortness of breath,2138
+2819,Injury assessment,2139
+2820,Severe headache,2140
+2821,Routine postoperative follow-up,2141
+2822,Injury assessment,2142
+2823,Fever and fatigue,2143
+2824,Routine postoperative follow-up,2144
+2825,Chest discomfort,2145
+2826,Dizziness,2146
+2827,Abnormal laboratory values,2147
+2828,Shortness of breath,2148
+2829,Fever and fatigue,2149
+2830,Shortness of breath,2150
+2831,Routine postoperative follow-up,2151
+2832,Routine postoperative follow-up,2152
+2833,Fever and fatigue,2153
+2834,Routine postoperative follow-up,2154
+2835,Dizziness,2155
+2836,Severe headache,2156
+2837,Dizziness,2157
+2838,Injury assessment,2158
+2839,Fever and fatigue,2159
+2840,Urinary symptoms,2160
+2841,Urinary symptoms,2161
+2842,Fever and fatigue,2162
+2843,Urinary symptoms,2163
+2844,Severe headache,2164
+2845,Dizziness,2165
+2846,Fever and fatigue,2166
+2847,Fever and fatigue,2167
+2848,Abdominal pain,2168
+2849,Urinary symptoms,2169
+2850,Severe headache,2170
+2851,Urinary symptoms,2171
+2852,Fever and fatigue,2172
+2853,Urinary symptoms,2173
+2854,Urinary symptoms,2174
+2855,Routine postoperative follow-up,2175
+2856,Shortness of breath,2176
+2857,Routine postoperative follow-up,2177
+2858,Routine postoperative follow-up,2178
+2859,Routine postoperative follow-up,2179
+2860,Chest discomfort,2180
+2861,Injury assessment,2181
+2862,Injury assessment,2182
+2863,Routine postoperative follow-up,2183
+2864,Routine postoperative follow-up,2184
+2865,Fever and fatigue,2185
+2866,Urinary symptoms,2186
+2867,Severe headache,2187
+2868,Injury assessment,2188
+2869,Urinary symptoms,2189
+2870,Abdominal pain,2190
+2871,Shortness of breath,2191
+2872,Chest discomfort,2192
+2873,Abnormal laboratory values,2193
+2874,Fever and fatigue,2194
+2875,Injury assessment,2195
+2876,Abnormal laboratory values,2196
+2877,Fever and fatigue,2197
+2878,Abdominal pain,2198
+2879,Routine postoperative follow-up,2199
+2880,Injury assessment,2200
+2881,Chest discomfort,2201
+2882,Dizziness,2202
+2883,Chest discomfort,2203
+2884,Severe headache,2204
+2885,Chest discomfort,2205
+2886,Abdominal pain,2206
+2887,Severe headache,2207
+2888,Severe headache,2208
+2889,Injury assessment,2209
+2890,Abnormal laboratory values,2210
+2891,Dizziness,2211
+2892,Fever and fatigue,2212
+2893,Abnormal laboratory values,2213
+2894,Abnormal laboratory values,2214
+2895,Urinary symptoms,2215
+2896,Routine postoperative follow-up,2216
+2897,Fever and fatigue,2217
+2898,Urinary symptoms,2218
+2899,Abnormal laboratory values,2219
+2900,Shortness of breath,2220
+2901,Abnormal laboratory values,2221
+2902,Injury assessment,2222
+2903,Urinary symptoms,2223
+2904,Dizziness,2224
+2905,Abnormal laboratory values,2225
+2906,Injury assessment,2226
+2907,Chest discomfort,2227
+2908,Severe headache,2228
+2909,Chest discomfort,2229
+2910,Routine postoperative follow-up,2230
+2911,Dizziness,2231
+2912,Fever and fatigue,2232
+2913,Shortness of breath,2233
+2914,Shortness of breath,2234
+2915,Routine postoperative follow-up,2235
+2916,Fever and fatigue,2236
+2917,Severe headache,2237
+2918,Routine postoperative follow-up,2238
+2919,Routine postoperative follow-up,2239
+2920,Abnormal laboratory values,2240
+2921,Fever and fatigue,2241
+2922,Injury assessment,2242
+2923,Abnormal laboratory values,2243
+2924,Urinary symptoms,2244
+2925,Dizziness,2245
+2926,Urinary symptoms,2246
+2927,Urinary symptoms,2247
+2928,Routine postoperative follow-up,2248
+2929,Urinary symptoms,2249
+2930,Routine postoperative follow-up,2250
+2931,Urinary symptoms,2251
+2932,Dizziness,2252
+2933,Dizziness,2253
+2934,Injury assessment,2254
+2935,Urinary symptoms,2255
+2936,Fever and fatigue,2256
+2937,Urinary symptoms,2257
+2938,Fever and fatigue,2258
+2939,Routine postoperative follow-up,2259
+2940,Injury assessment,2260
+2941,Injury assessment,2261
+2942,Chest discomfort,2262
+2943,Shortness of breath,2263
+2944,Severe headache,2264
+2945,Dizziness,2265
+2946,Injury assessment,2266
+2947,Fever and fatigue,2267
+2948,Urinary symptoms,2268
+2949,Dizziness,2269
+2950,Injury assessment,2270
+2951,Severe headache,2271
+2952,Abnormal laboratory values,2272
+2953,Routine postoperative follow-up,2273
+2954,Shortness of breath,2274
+2955,Fever and fatigue,2275
+2956,Chest discomfort,2276
+2957,Fever and fatigue,2277
+2958,Dizziness,2278
+2959,Fever and fatigue,2279
+2960,Severe headache,2280
+2961,Dizziness,2281
+2962,Dizziness,2282
+2963,Severe headache,2283
+2964,Injury assessment,2284
+2965,Abdominal pain,2285
+2966,Shortness of breath,2286
+2967,Severe headache,2287
+2968,Injury assessment,2288
+2969,Dizziness,2289
+2970,Routine postoperative follow-up,2290
+2971,Severe headache,2291
+2972,Routine postoperative follow-up,2292
+2973,Fever and fatigue,2293
+2974,Urinary symptoms,2294
+2975,Abdominal pain,2295
+2976,Shortness of breath,2296
+2977,Abnormal laboratory values,2297
+2978,Chest discomfort,2298
+2979,Abnormal laboratory values,2299
+2980,Urinary symptoms,2300
+2981,Fever and fatigue,2301
+2982,Fever and fatigue,2302
+2983,Routine postoperative follow-up,2303
+2984,Shortness of breath,2304
+2985,Abdominal pain,2305
+2986,Chest discomfort,2306
+2987,Fever and fatigue,2307
+2988,Abdominal pain,2308
+2989,Abnormal laboratory values,2309
+2990,Abdominal pain,2310
+2991,Abnormal laboratory values,2311
+2992,Routine postoperative follow-up,2312
+2993,Chest discomfort,2313
+2994,Shortness of breath,2314
+2995,Injury assessment,2315
+2996,Routine postoperative follow-up,2316
+2997,Abdominal pain,2317
+2998,Routine postoperative follow-up,2318
+2999,Dizziness,2319
+3000,Chest discomfort,2320
+3001,Chest discomfort,2321
+3002,Abdominal pain,2322
+3003,Fever and fatigue,2323
+3004,Severe headache,2324
+3005,Abdominal pain,2325
+3006,Dizziness,2326
+3007,Chest discomfort,2327
+3008,Chest discomfort,2328
+3009,Abnormal laboratory values,2329
+3010,Severe headache,2330
+3011,Abnormal laboratory values,2331
+3012,Abdominal pain,2332
+3013,Urinary symptoms,2333
+3014,Shortness of breath,2334
+3015,Severe headache,2335
+3016,Severe headache,2336
+3017,Severe headache,2337
+3018,Chest discomfort,2338
+3019,Abnormal laboratory values,2339
+3020,Abdominal pain,2340
+3021,Shortness of breath,2341
+3022,Fever and fatigue,2342
+3023,Fever and fatigue,2343
+3024,Chest discomfort,2344
+3025,Chest discomfort,2345
+3026,Shortness of breath,2346
+3027,Abdominal pain,2347
+3028,Urinary symptoms,2348
+3029,Fever and fatigue,2349
+3030,Fever and fatigue,2350
+3031,Chest discomfort,2351
+3032,Abnormal laboratory values,2352
+3033,Fever and fatigue,2353
+3034,Routine postoperative follow-up,2354
+3035,Abdominal pain,2355
+3036,Chest discomfort,2356
+3037,Injury assessment,2357
+3038,Injury assessment,2358
+3039,Dizziness,2359
+3040,Chest discomfort,2360
+3041,Chest discomfort,2361
+3042,Routine postoperative follow-up,2362
+3043,Chest discomfort,2363
+3044,Abdominal pain,2364
+3045,Routine postoperative follow-up,2365
+3046,Urinary symptoms,2366
+3047,Injury assessment,2367
+3048,Abdominal pain,2368
+3049,Chest discomfort,2369
+3050,Abnormal laboratory values,2370
+3051,Fever and fatigue,2371
+3052,Routine postoperative follow-up,2372
+3053,Dizziness,2373
+3054,Abdominal pain,2374
+3055,Dizziness,2375
+3056,Dizziness,2376
+3057,Injury assessment,2377
+3058,Abdominal pain,2378
+3059,Dizziness,2379
+3060,Injury assessment,2380
+3061,Shortness of breath,2381
+3062,Urinary symptoms,2382
+3063,Routine postoperative follow-up,2383
+3064,Fever and fatigue,2384
+3065,Abnormal laboratory values,2385
+3066,Shortness of breath,2386
+3067,Severe headache,2387
+3068,Dizziness,2388
+3069,Injury assessment,2389
+3070,Routine postoperative follow-up,2390
+3071,Urinary symptoms,2391
+3072,Chest discomfort,2392
+3073,Severe headache,2393
+3074,Abnormal laboratory values,2394
+3075,Abnormal laboratory values,2395
+3076,Fever and fatigue,2396
+3077,Abnormal laboratory values,2397
+3078,Chest discomfort,2398
+3079,Dizziness,2399
+3080,Injury assessment,2400
+3081,Dizziness,2401
+3082,Routine postoperative follow-up,2402
+3083,Abnormal laboratory values,2403
+3084,Abdominal pain,2404
+3085,Severe headache,2405
+3086,Severe headache,2406
+3087,Abnormal laboratory values,2407
+3088,Chest discomfort,2408
+3089,Injury assessment,2409
+3090,Chest discomfort,2410
+3091,Dizziness,2411
+3092,Fever and fatigue,2412
+3093,Abnormal laboratory values,2413
+3094,Chest discomfort,2414
+3095,Shortness of breath,2415
+3096,Abnormal laboratory values,2416
+3097,Abdominal pain,2417
+3098,Dizziness,2418
+3099,Routine postoperative follow-up,2419
+3100,Routine postoperative follow-up,2420
+3101,Severe headache,2421
+3102,Fever and fatigue,2422
+3103,Shortness of breath,2423
+3104,Routine postoperative follow-up,2424
+3105,Dizziness,2425
+3106,Routine postoperative follow-up,2426
+3107,Severe headache,2427
+3108,Fever and fatigue,2428
+3109,Routine postoperative follow-up,2429
+3110,Dizziness,2430
+3111,Dizziness,2431
+3112,Urinary symptoms,2432
+3113,Urinary symptoms,2433
+3114,Abnormal laboratory values,2434
+3115,Chest discomfort,2435
+3116,Abnormal laboratory values,2436
+3117,Shortness of breath,2437
+3118,Routine postoperative follow-up,2438
+3119,Injury assessment,2439
+3120,Severe headache,2440
+3121,Shortness of breath,2441
+3122,Abnormal laboratory values,2442
+3123,Shortness of breath,2443
+3124,Dizziness,2444
+3125,Abnormal laboratory values,2445
+3126,Urinary symptoms,2446
+3127,Fever and fatigue,2447
+3128,Urinary symptoms,2448
+3129,Chest discomfort,2449
+3130,Dizziness,2450
+3131,Severe headache,2451
+3132,Severe headache,2452
+3133,Fever and fatigue,2453
+3134,Severe headache,2454
+3135,Abdominal pain,2455
+3136,Dizziness,2456
+3137,Chest discomfort,2457
+3138,Abdominal pain,2458
+3139,Injury assessment,2459
+3140,Abdominal pain,2460
+3141,Severe headache,2461
+3142,Chest discomfort,2462
+3143,Dizziness,2463
+3144,Injury assessment,2464
+3145,Dizziness,2465
+3146,Routine postoperative follow-up,2466
+3147,Dizziness,2467
+3148,Fever and fatigue,2468
+3149,Routine postoperative follow-up,2469
+3150,Abnormal laboratory values,2470
+3151,Abdominal pain,2471
+3152,Urinary symptoms,2472
+3153,Routine postoperative follow-up,2473
+3154,Abnormal laboratory values,2474
+3155,Urinary symptoms,2475
+3156,Routine postoperative follow-up,2476
+3157,Urinary symptoms,2477
+3158,Fever and fatigue,2478
+3159,Fever and fatigue,2479
+3160,Injury assessment,2480
+3161,Severe headache,2481
+3162,Abnormal laboratory values,2482
+3163,Shortness of breath,2483
+3164,Injury assessment,2484
+3165,Injury assessment,2485
+3166,Injury assessment,2486
+3167,Injury assessment,2487
+3168,Fever and fatigue,2488
+3169,Dizziness,2489
+3170,Abdominal pain,2490
+3171,Urinary symptoms,2491
+3172,Severe headache,2492
+3173,Dizziness,2493
+3174,Chest discomfort,2494
+3175,Injury assessment,2495
+3176,Urinary symptoms,2496
+3177,Severe headache,2497
+3178,Severe headache,2498
+3179,Severe headache,2499
+3180,Shortness of breath,2500
+3181,Urinary symptoms,2501
+3182,Chest discomfort,2502
+3183,Shortness of breath,2503
+3184,Fever and fatigue,2504
+3185,Abnormal laboratory values,2505
+3186,Chest discomfort,2506
+3187,Fever and fatigue,2507
+3188,Abnormal laboratory values,2508
+3189,Fever and fatigue,2509
+3190,Urinary symptoms,2510
+3191,Shortness of breath,2511
+3192,Shortness of breath,2512
+3193,Routine postoperative follow-up,2513
+3194,Shortness of breath,2514
+3195,Urinary symptoms,2515
+3196,Abdominal pain,2516
+3197,Injury assessment,2517
+3198,Fever and fatigue,2518
+3199,Severe headache,2519
+3200,Dizziness,2520
+3201,Chest discomfort,2521
+3202,Dizziness,2522
+3203,Abdominal pain,2523
+3204,Routine postoperative follow-up,2524
+3205,Fever and fatigue,2525
+3206,Shortness of breath,2526
+3207,Routine postoperative follow-up,2527
+3208,Injury assessment,2528
+3209,Injury assessment,2529
+3210,Abnormal laboratory values,2530
+3211,Routine postoperative follow-up,2531
+3212,Routine postoperative follow-up,2532
+3213,Severe headache,2533
+3214,Urinary symptoms,2534
+3215,Fever and fatigue,2535
+3216,Routine postoperative follow-up,2536
+3217,Injury assessment,2537
+3218,Abdominal pain,2538
+3219,Urinary symptoms,2539
+3220,Fever and fatigue,2540
+3221,Fever and fatigue,2541
+3222,Severe headache,2542
+3223,Dizziness,2543
+3224,Shortness of breath,2544
+3225,Chest discomfort,2545
+3226,Routine postoperative follow-up,2546
+3227,Injury assessment,2547
+3228,Shortness of breath,2548
+3229,Urinary symptoms,2549
+3230,Routine postoperative follow-up,2550
+3231,Severe headache,2551
+3232,Injury assessment,2552
+3233,Urinary symptoms,2553
+3234,Urinary symptoms,2554
+3235,Abdominal pain,2555
+3236,Abnormal laboratory values,2556
+3237,Injury assessment,2557
+3238,Fever and fatigue,2558
+3239,Shortness of breath,2559
+3240,Urinary symptoms,2560
+3241,Abnormal laboratory values,2561
+3242,Fever and fatigue,2562
+3243,Dizziness,2563
+3244,Shortness of breath,2564
+3245,Dizziness,2565
+3246,Urinary symptoms,2566
+3247,Urinary symptoms,2567
+3248,Injury assessment,2568
+3249,Shortness of breath,2569
+3250,Urinary symptoms,2570
+3251,Shortness of breath,2571
+3252,Severe headache,2572
+3253,Abnormal laboratory values,2573
+3254,Dizziness,2574
+3255,Shortness of breath,2575
+3256,Urinary symptoms,2576
+3257,Dizziness,2577
+3258,Chest discomfort,2578
+3259,Shortness of breath,2579
+3260,Injury assessment,2580
+3261,Abnormal laboratory values,2581
+3262,Severe headache,2582
+3263,Shortness of breath,2583
+3264,Severe headache,2584
+3265,Abnormal laboratory values,2585
+3266,Injury assessment,2586
+3267,Injury assessment,2587
+3268,Chest discomfort,2588
+3269,Urinary symptoms,2589
+3270,Dizziness,2590
+3271,Chest discomfort,2591
+3272,Dizziness,2592
+3273,Abdominal pain,2593
+3274,Fever and fatigue,2594
+3275,Chest discomfort,2595
+3276,Dizziness,2596
+3277,Severe headache,2597
+3278,Dizziness,2598
+3279,Injury assessment,2599
+3280,Urinary symptoms,2600
+3281,Abnormal laboratory values,2601
+3282,Chest discomfort,2602
+3283,Shortness of breath,2603
+3284,Abnormal laboratory values,2604
+3285,Dizziness,2605
+3286,Dizziness,2606
+3287,Injury assessment,2607
+3288,Fever and fatigue,2608
+3289,Abnormal laboratory values,2609
+3290,Injury assessment,2610
+3291,Dizziness,2611
+3292,Urinary symptoms,2612
+3293,Fever and fatigue,2613
+3294,Injury assessment,2614
+3295,Severe headache,2615
+3296,Abdominal pain,2616
+3297,Dizziness,2617
+3298,Injury assessment,2618
+3299,Urinary symptoms,2619
+3300,Chest discomfort,2620
+3301,Urinary symptoms,2621
+3302,Abdominal pain,2622
+3303,Injury assessment,2623
+3304,Abnormal laboratory values,2624
+3305,Shortness of breath,2625
+3306,Severe headache,2626
+3307,Abnormal laboratory values,2627
+3308,Routine postoperative follow-up,2628
+3309,Chest discomfort,2629
+3310,Chest discomfort,2630
+3311,Routine postoperative follow-up,2631
+3312,Abdominal pain,2632
+3313,Dizziness,2633
+3314,Injury assessment,2634
+3315,Severe headache,2635
+3316,Abnormal laboratory values,2636
+3317,Abnormal laboratory values,2637
+3318,Severe headache,2638
+3319,Shortness of breath,2639
+3320,Dizziness,2640
+3321,Chest discomfort,2641
+3322,Fever and fatigue,2642
+3323,Abdominal pain,2643
+3324,Abnormal laboratory values,2644
+3325,Dizziness,2645
+3326,Routine postoperative follow-up,2646
+3327,Routine postoperative follow-up,2647
+3328,Injury assessment,2648
+3329,Routine postoperative follow-up,2649
+3330,Severe headache,2650
+3331,Abdominal pain,2651
+3332,Fever and fatigue,2652
+3333,Fever and fatigue,2653
+3334,Urinary symptoms,2654
+3335,Routine postoperative follow-up,2655
+3336,Shortness of breath,2656
+3337,Abdominal pain,2657
+3338,Urinary symptoms,2658
+3339,Abdominal pain,2659
+3340,Abdominal pain,2660
+3341,Abdominal pain,2661
+3342,Urinary symptoms,2662
+3343,Severe headache,2663
+3344,Abdominal pain,2664
+3345,Abdominal pain,2665
+3346,Fever and fatigue,2666
+3347,Chest discomfort,2667
+3348,Dizziness,2668
+3349,Routine postoperative follow-up,2669
+3350,Dizziness,2670
+3351,Abdominal pain,2671
+3352,Injury assessment,2672
+3353,Injury assessment,2673
+3354,Shortness of breath,2674
+3355,Urinary symptoms,2675
+3356,Injury assessment,2676
+3357,Shortness of breath,2677
+3358,Chest discomfort,2678
+3359,Fever and fatigue,2679
+3360,Abdominal pain,2680
+3361,Fever and fatigue,2681
+3362,Dizziness,2682
+3363,Shortness of breath,2683
+3364,Routine postoperative follow-up,2684
+3365,Routine postoperative follow-up,2685
+3366,Routine postoperative follow-up,2686
+3367,Severe headache,2687
+3368,Fever and fatigue,2688
+3369,Abnormal laboratory values,2689
+3370,Fever and fatigue,2690
+3371,Shortness of breath,2691
+3372,Injury assessment,2692
+3373,Shortness of breath,2693
+3374,Dizziness,2694
+3375,Abdominal pain,2695
+3376,Abdominal pain,2696
+3377,Dizziness,2697
+3378,Abnormal laboratory values,2698
+3379,Injury assessment,2699
+3380,Dizziness,2700
+3381,Abnormal laboratory values,2701
+3382,Urinary symptoms,2702
+3383,Shortness of breath,2703
+3384,Severe headache,2704
+3385,Dizziness,2705
+3386,Chest discomfort,2706
+3387,Severe headache,2707
+3388,Dizziness,2708
+3389,Abdominal pain,2709
+3390,Severe headache,2710
+3391,Chest discomfort,2711
+3392,Urinary symptoms,2712
+3393,Injury assessment,2713
+3394,Urinary symptoms,2714
+3395,Dizziness,2715
+3396,Urinary symptoms,2716
+3397,Routine postoperative follow-up,2717
+3398,Severe headache,2718
+3399,Abnormal laboratory values,2719
+3400,Dizziness,2720
+3401,Injury assessment,2721
+3402,Routine postoperative follow-up,2722
+3403,Abnormal laboratory values,2723
+3404,Injury assessment,2724
+3405,Urinary symptoms,2725
+3406,Routine postoperative follow-up,2726
+3407,Fever and fatigue,2727
+3408,Injury assessment,2728
+3409,Abnormal laboratory values,2729
+3410,Severe headache,2730
+3411,Injury assessment,2731
+3412,Shortness of breath,2732
+3413,Injury assessment,2733
+3414,Routine postoperative follow-up,2734
+3415,Abdominal pain,2735
+3416,Abnormal laboratory values,2736
+3417,Fever and fatigue,2737
+3418,Abnormal laboratory values,2738
+3419,Shortness of breath,2739
+3420,Abnormal laboratory values,2740
+3421,Urinary symptoms,2741
+3422,Abnormal laboratory values,2742
+3423,Urinary symptoms,2743
+3424,Urinary symptoms,2744
+3425,Abnormal laboratory values,2745
+3426,Chest discomfort,2746
+3427,Dizziness,2747
+3428,Injury assessment,2748
+3429,Injury assessment,2749
+3430,Abdominal pain,2750
+3431,Abnormal laboratory values,2751
+3432,Urinary symptoms,2752
+3433,Shortness of breath,2753
+3434,Dizziness,2754
+3435,Urinary symptoms,2755
+3436,Chest discomfort,2756
+3437,Injury assessment,2757
+3438,Fever and fatigue,2758
+3439,Routine postoperative follow-up,2759
+3440,Fever and fatigue,2760
+3441,Urinary symptoms,2761
+3442,Injury assessment,2762
+3443,Urinary symptoms,2763
+3444,Injury assessment,2764
+3445,Severe headache,2765
+3446,Severe headache,2766
+3447,Shortness of breath,2767
+3448,Shortness of breath,2768
+3449,Injury assessment,2769
+3450,Abdominal pain,2770
+3451,Abnormal laboratory values,2771
+3452,Abdominal pain,2772
+3453,Shortness of breath,2773
+3454,Urinary symptoms,2774
+3455,Chest discomfort,2775
+3456,Shortness of breath,2776
+3457,Routine postoperative follow-up,2777
+3458,Chest discomfort,2778
+3459,Dizziness,2779
+3460,Fever and fatigue,2780
+3461,Shortness of breath,2781
+3462,Shortness of breath,2782
+3463,Abnormal laboratory values,2783
+3464,Abdominal pain,2784
+3465,Fever and fatigue,2785
+3466,Abdominal pain,2786
+3467,Severe headache,2787
+3468,Abnormal laboratory values,2788
+3469,Severe headache,2789
+3470,Fever and fatigue,2790
+3471,Severe headache,2791
+3472,Routine postoperative follow-up,2792
+3473,Abnormal laboratory values,2793
+3474,Severe headache,2794
+3475,Fever and fatigue,2795
+3476,Shortness of breath,2796
+3477,Shortness of breath,2797
+3478,Shortness of breath,2798
+3479,Fever and fatigue,2799
+3480,Abdominal pain,2800
+3481,Routine postoperative follow-up,2801
+3482,Routine postoperative follow-up,2802
+3483,Chest discomfort,2803
+3484,Abnormal laboratory values,2804
+3485,Fever and fatigue,2805
+3486,Shortness of breath,2806
+3487,Abnormal laboratory values,2807
+3488,Routine postoperative follow-up,2808
+3489,Fever and fatigue,2809
+3490,Urinary symptoms,2810
+3491,Dizziness,2811
+3492,Routine postoperative follow-up,2812
+3493,Dizziness,2813
+3494,Severe headache,2814
+3495,Routine postoperative follow-up,2815
+3496,Chest discomfort,2816
+3497,Shortness of breath,2817
+3498,Abnormal laboratory values,2818
+3499,Shortness of breath,2819
+3500,Urinary symptoms,2820
+3501,Shortness of breath,2821
+3502,Shortness of breath,2822
+3503,Fever and fatigue,2823
+3504,Urinary symptoms,2824
+3505,Dizziness,2825
+3506,Abnormal laboratory values,2826
+3507,Abnormal laboratory values,2827
+3508,Chest discomfort,2828
+3509,Fever and fatigue,2829
+3510,Chest discomfort,2830
+3511,Shortness of breath,2831
+3512,Urinary symptoms,2832
+3513,Abnormal laboratory values,2833
+3514,Chest discomfort,2834
+3515,Severe headache,2835
+3516,Chest discomfort,2836
+3517,Dizziness,2837
+3518,Dizziness,2838
+3519,Dizziness,2839
+3520,Fever and fatigue,2840
+3521,Urinary symptoms,2841
+3522,Routine postoperative follow-up,2842
+3523,Dizziness,2843
+3524,Shortness of breath,2844
+3525,Fever and fatigue,2845
+3526,Routine postoperative follow-up,2846
+3527,Fever and fatigue,2847
+3528,Injury assessment,2848
+3529,Chest discomfort,2849
+3530,Urinary symptoms,2850
+3531,Dizziness,2851
+3532,Chest discomfort,2852
+3533,Dizziness,2853
+3534,Abdominal pain,2854
+3535,Abdominal pain,2855
+3536,Routine postoperative follow-up,2856
+3537,Urinary symptoms,2857
+3538,Dizziness,2858
+3539,Severe headache,2859
+3540,Chest discomfort,2860
+3541,Abnormal laboratory values,2861
+3542,Chest discomfort,2862
+3543,Shortness of breath,2863
+3544,Fever and fatigue,2864
+3545,Shortness of breath,2865
+3546,Injury assessment,2866
+3547,Chest discomfort,2867
+3548,Fever and fatigue,2868
+3549,Injury assessment,2869
+3550,Abdominal pain,2870
+3551,Abdominal pain,2871
+3552,Abdominal pain,2872
+3553,Urinary symptoms,2873
+3554,Fever and fatigue,2874
+3555,Injury assessment,2875
+3556,Routine postoperative follow-up,2876
+3557,Routine postoperative follow-up,2877
+3558,Injury assessment,2878
+3559,Abdominal pain,2879
+3560,Chest discomfort,2880
+3561,Urinary symptoms,2881
+3562,Chest discomfort,2882
+3563,Abnormal laboratory values,2883
+3564,Shortness of breath,2884
+3565,Fever and fatigue,2885
+3566,Shortness of breath,2886
+3567,Severe headache,2887
+3568,Severe headache,2888
+3569,Shortness of breath,2889
+3570,Urinary symptoms,2890
+3571,Injury assessment,2891
+3572,Abdominal pain,2892
+3573,Shortness of breath,2893
+3574,Abnormal laboratory values,2894
+3575,Severe headache,2895
+3576,Abdominal pain,2896
+3577,Abnormal laboratory values,2897
+3578,Routine postoperative follow-up,2898
+3579,Chest discomfort,2899
+3580,Routine postoperative follow-up,2900
+3581,Abnormal laboratory values,2901
+3582,Urinary symptoms,2902
+3583,Routine postoperative follow-up,2903
+3584,Routine postoperative follow-up,2904
+3585,Severe headache,2905
+3586,Fever and fatigue,2906
+3587,Urinary symptoms,2907
+3588,Abnormal laboratory values,2908
+3589,Dizziness,2909
+3590,Injury assessment,2910
+3591,Urinary symptoms,2911
+3592,Severe headache,2912
+3593,Fever and fatigue,2913
+3594,Urinary symptoms,2914
+3595,Urinary symptoms,2915
+3596,Abdominal pain,2916
+3597,Shortness of breath,2917
+3598,Severe headache,2918
+3599,Abdominal pain,2919
+3600,Urinary symptoms,2920
+3601,Severe headache,2921
+3602,Urinary symptoms,2922
+3603,Injury assessment,2923
+3604,Severe headache,2924
+3605,Shortness of breath,2925
+3606,Severe headache,2926
+3607,Chest discomfort,2927
+3608,Abnormal laboratory values,2928
+3609,Abnormal laboratory values,2929
+3610,Injury assessment,2930
+3611,Urinary symptoms,2931
+3612,Severe headache,2932
+3613,Urinary symptoms,2933
+3614,Severe headache,2934
+3615,Shortness of breath,2935
+3616,Chest discomfort,2936
+3617,Shortness of breath,2937
+3618,Abdominal pain,2938
+3619,Abnormal laboratory values,2939
+3620,Abdominal pain,2940
+3621,Fever and fatigue,2941
+3622,Injury assessment,2942
+3623,Severe headache,2943
+3624,Injury assessment,2944
+3625,Abnormal laboratory values,2945
+3626,Shortness of breath,2946
+3627,Urinary symptoms,2947
+3628,Dizziness,2948
+3629,Chest discomfort,2949
+3630,Chest discomfort,2950
+3631,Abnormal laboratory values,2951
+3632,Abnormal laboratory values,2952
+3633,Routine postoperative follow-up,2953
+3634,Dizziness,2954
+3635,Shortness of breath,2955
+3636,Abnormal laboratory values,2956
+3637,Urinary symptoms,2957
+3638,Dizziness,2958
+3639,Chest discomfort,2959
+3640,Fever and fatigue,2960
+3641,Fever and fatigue,2961
+3642,Routine postoperative follow-up,2962
+3643,Urinary symptoms,2963
+3644,Shortness of breath,2964
+3645,Abnormal laboratory values,2965
+3646,Urinary symptoms,2966
+3647,Abnormal laboratory values,2967
+3648,Dizziness,2968
+3649,Injury assessment,2969
+3650,Abdominal pain,2970
+3651,Dizziness,2971
+3652,Urinary symptoms,2972
+3653,Abnormal laboratory values,2973
+3654,Dizziness,2974
+3655,Dizziness,2975
+3656,Chest discomfort,2976
+3657,Severe headache,2977
+3658,Fever and fatigue,2978
+3659,Routine postoperative follow-up,2979
+3660,Severe headache,2980
+3661,Urinary symptoms,2981
+3662,Fever and fatigue,2982
+3663,Fever and fatigue,2983
+3664,Abnormal laboratory values,2984
+3665,Abdominal pain,2985
+3666,Dizziness,2986
+3667,Abdominal pain,2987
+3668,Dizziness,2988
+3669,Urinary symptoms,2989
+3670,Abdominal pain,2990
+3671,Severe headache,2991
+3672,Severe headache,2992
+3673,Chest discomfort,2993
+3674,Abnormal laboratory values,2994
+3675,Fever and fatigue,2995
+3676,Chest discomfort,2996
+3677,Abnormal laboratory values,2997
+3678,Fever and fatigue,2998
+3679,Abnormal laboratory values,2999
+3680,Abnormal laboratory values,3000
+3681,Routine postoperative follow-up,3001
+3682,Routine postoperative follow-up,3002
+3683,Chest discomfort,3003
+3684,Urinary symptoms,3004
+3685,Injury assessment,3005
+3686,Dizziness,3006
+3687,Shortness of breath,3007
+3688,Fever and fatigue,3008
+3689,Fever and fatigue,3009
+3690,Urinary symptoms,3010
+3691,Shortness of breath,3011
+3692,Routine postoperative follow-up,3012
+3693,Dizziness,3013
+3694,Abnormal laboratory values,3014
+3695,Injury assessment,3015
+3696,Chest discomfort,3016
+3697,Dizziness,3017
+3698,Routine postoperative follow-up,3018
+3699,Abnormal laboratory values,3019
+3700,Fever and fatigue,3020
+3701,Routine postoperative follow-up,2246
+3702,Shortness of breath,2131
+3703,Urinary symptoms,2222
+3704,Routine postoperative follow-up,2514
+3705,Shortness of breath,2524
+3706,Abdominal pain,2939
+3707,Fever and fatigue,2099
+3708,Dizziness,2435
+3709,Chest discomfort,2949
+3710,Routine postoperative follow-up,2915
+3711,Routine postoperative follow-up,2201
+3712,Abdominal pain,2131
+3713,Urinary symptoms,2267
+3714,Urinary symptoms,2773
+3715,Abdominal pain,2461
+3716,Urinary symptoms,2170
+3717,Urinary symptoms,2233
+3718,Chest discomfort,2864
+3719,Chest discomfort,2543
+3720,Urinary symptoms,2065
+3721,Abnormal laboratory values,2452
+3722,Abdominal pain,2560
+3723,Injury assessment,2171
+3724,Abdominal pain,2263
+3725,Severe headache,2644
+3726,Abdominal pain,2959
+3727,Chest discomfort,2206
+3728,Abdominal pain,2063
+3729,Abnormal laboratory values,2361
+3730,Urinary symptoms,2921
+3731,Fever and fatigue,2181
+3732,Abdominal pain,2476
+3733,Routine postoperative follow-up,2406
+3734,Abnormal laboratory values,2042
+3735,Injury assessment,2281
+3736,Chest discomfort,2440
+3737,Routine postoperative follow-up,2717
+3738,Fever and fatigue,2073
+3739,Dizziness,2935
+3740,Fever and fatigue,2219
+3741,Abdominal pain,2208
+3742,Fever and fatigue,2313
+3743,Routine postoperative follow-up,2317
+3744,Shortness of breath,2902
+3745,Fever and fatigue,2772
+3746,Injury assessment,2623
+3747,Severe headache,2646
+3748,Severe headache,2907
+3749,Severe headache,2342
+3750,Abdominal pain,2060
+3751,Abdominal pain,2943
+3752,Abnormal laboratory values,2935
+3753,Abnormal laboratory values,2354
+3754,Dizziness,3009
+3755,Urinary symptoms,2366
+3756,Urinary symptoms,2216
+3757,Injury assessment,2997
+3758,Dizziness,2912
+3759,Chest discomfort,2500
+3760,Abnormal laboratory values,2209
+3761,Injury assessment,2173
+3762,Abnormal laboratory values,2913
+3763,Routine postoperative follow-up,2995
+3764,Abnormal laboratory values,2794
+3765,Abdominal pain,2274
+3766,Chest discomfort,2339
+3767,Fever and fatigue,2460
+3768,Dizziness,2068
+3769,Dizziness,2420
+3770,Chest discomfort,2310
+3771,Severe headache,2044
+3772,Urinary symptoms,2245
+3773,Shortness of breath,2837
+3774,Abnormal laboratory values,2281
+3775,Chest discomfort,2770
+3776,Injury assessment,2218
+3777,Abnormal laboratory values,2040
+3778,Dizziness,2456
+3779,Urinary symptoms,2856
+3780,Severe headache,2064
+3781,Urinary symptoms,2751
+3782,Shortness of breath,2167
+3783,Urinary symptoms,2995
+3784,Abdominal pain,2279
+3785,Injury assessment,2677
+3786,Abdominal pain,2379
+3787,Abdominal pain,2473
+3788,Urinary symptoms,2124
+3789,Injury assessment,2714
+3790,Abdominal pain,2671
+3791,Routine postoperative follow-up,2161
+3792,Fever and fatigue,2375
+3793,Injury assessment,2912
+3794,Dizziness,2180
+3795,Abnormal laboratory values,2988
+3796,Abnormal laboratory values,2906
+3797,Chest discomfort,2272
+3798,Shortness of breath,2641
+3799,Chest discomfort,2582
+3800,Injury assessment,2080
+3801,Dizziness,2962
+3802,Abdominal pain,2226
+3803,Dizziness,2099
+3804,Urinary symptoms,2044
+3805,Fever and fatigue,2120
+3806,Routine postoperative follow-up,2524
+3807,Urinary symptoms,2419
+3808,Abnormal laboratory values,2188
+3809,Routine postoperative follow-up,2723
+3810,Severe headache,2489
+3811,Shortness of breath,2960
+3812,Abnormal laboratory values,2860
+3813,Chest discomfort,2081
+3814,Urinary symptoms,2904
+3815,Abnormal laboratory values,2573
+3816,Chest discomfort,2705
+3817,Dizziness,2517
+3818,Fever and fatigue,2325
+3819,Dizziness,2405
+3820,Abdominal pain,2497
+3821,Dizziness,2177
+3822,Chest discomfort,2187
+3823,Dizziness,2142
+3824,Routine postoperative follow-up,2268
+3825,Abnormal laboratory values,2585
+3826,Injury assessment,2339
+3827,Chest discomfort,2692
+3828,Shortness of breath,2176
+3829,Urinary symptoms,2131
+3830,Injury assessment,2497
+3831,Urinary symptoms,2720
+3832,Urinary symptoms,2534
+3833,Abdominal pain,2914
+3834,Abdominal pain,3000
+3835,Abnormal laboratory values,2059
+3836,Routine postoperative follow-up,2286
+3837,Urinary symptoms,2120
+3838,Abdominal pain,2093
+3839,Routine postoperative follow-up,2453
+3840,Severe headache,2758
+3841,Abdominal pain,2952
+3842,Fever and fatigue,2564
+3843,Abnormal laboratory values,2759
+3844,Dizziness,2922
+3845,Fever and fatigue,2986
+3846,Routine postoperative follow-up,2681
+3847,Dizziness,2942
+3848,Routine postoperative follow-up,2438
+3849,Fever and fatigue,2834
+3850,Chest discomfort,2933
+3851,Abnormal laboratory values,3011
+3852,Urinary symptoms,2163
+3853,Shortness of breath,2443
+3854,Urinary symptoms,2485
+3855,Dizziness,2267
+3856,Injury assessment,2519
+3857,Abdominal pain,2586
+3858,Injury assessment,2565
+3859,Urinary symptoms,2142
+3860,Abnormal laboratory values,2899
+3861,Dizziness,2319
+3862,Severe headache,2782
+3863,Fever and fatigue,2764
+3864,Dizziness,2590
+3865,Fever and fatigue,2463
+3866,Fever and fatigue,2696
+3867,Injury assessment,2842
+3868,Abdominal pain,2323
+3869,Fever and fatigue,2312
+3870,Abnormal laboratory values,2370
+3871,Shortness of breath,2619
+3872,Abnormal laboratory values,2922
+3873,Dizziness,2422
+3874,Fever and fatigue,2455
+3875,Abdominal pain,2476
+3876,Severe headache,2644
+3877,Chest discomfort,2047
+3878,Fever and fatigue,2592
+3879,Dizziness,2650
+3880,Dizziness,2307
+3881,Shortness of breath,2175
+3882,Abnormal laboratory values,2109
+3883,Urinary symptoms,2264
+3884,Fever and fatigue,2041
+3885,Abdominal pain,2320
+3886,Severe headache,2314
+3887,Urinary symptoms,2864
+3888,Injury assessment,2445
+3889,Abnormal laboratory values,2222
+3890,Injury assessment,2233
+3891,Shortness of breath,2982
+3892,Chest discomfort,2662
+3893,Abnormal laboratory values,2712
+3894,Injury assessment,2209
+3895,Chest discomfort,2264
+3896,Urinary symptoms,2910
+3897,Chest discomfort,2987
+3898,Dizziness,2896
+3899,Fever and fatigue,2803
+3900,Urinary symptoms,2455
+3901,Severe headache,2825
+3902,Shortness of breath,2751
+3903,Urinary symptoms,2175
+3904,Shortness of breath,2657
+3905,Shortness of breath,2977
+3906,Severe headache,2843
+3907,Routine postoperative follow-up,2215
+3908,Dizziness,2896
+3909,Urinary symptoms,2702
+3910,Chest discomfort,2774
+3911,Fever and fatigue,2661
+3912,Abnormal laboratory values,2171
+3913,Dizziness,2668
+3914,Abnormal laboratory values,2363
+3915,Injury assessment,2556
+3916,Severe headache,2559
+3917,Abdominal pain,2748
+3918,Abnormal laboratory values,2077
+3919,Chest discomfort,2346
+3920,Abdominal pain,2343
+3921,Severe headache,2625
+3922,Urinary symptoms,2228
+3923,Routine postoperative follow-up,2805
+3924,Injury assessment,2933
+3925,Dizziness,2179
+3926,Dizziness,2602
+3927,Injury assessment,3015
+3928,Urinary symptoms,2437
+3929,Abnormal laboratory values,2203
+3930,Dizziness,3010
+3931,Injury assessment,2530
+3932,Dizziness,2934
+3933,Abdominal pain,2419
+3934,Severe headache,2128
+3935,Injury assessment,2318
+3936,Dizziness,2659
+3937,Abnormal laboratory values,2471
+3938,Chest discomfort,2042
+3939,Shortness of breath,2383
+3940,Abnormal laboratory values,2109
+3941,Shortness of breath,2233
+3942,Fever and fatigue,2520
+3943,Fever and fatigue,2071
+3944,Fever and fatigue,2969
+3945,Urinary symptoms,2993
+3946,Injury assessment,2783
+3947,Severe headache,2744
+3948,Abdominal pain,2319
+3949,Dizziness,2561
+3950,Dizziness,2458
+3951,Shortness of breath,2659
+3952,Dizziness,2806
+3953,Fever and fatigue,2956
+3954,Routine postoperative follow-up,2347
+3955,Dizziness,2186
+3956,Urinary symptoms,2188
+3957,Shortness of breath,2354
+3958,Injury assessment,2365
+3959,Abdominal pain,2915
+3960,Abdominal pain,2589
+3961,Injury assessment,2476
+3962,Abdominal pain,2935
+3963,Urinary symptoms,2975
+3964,Chest discomfort,2047
+3965,Chest discomfort,2965
+3966,Fever and fatigue,2559
+3967,Routine postoperative follow-up,2206
+3968,Routine postoperative follow-up,2962
+3969,Chest discomfort,2147
+3970,Chest discomfort,2135
+3971,Urinary symptoms,2258
+3972,Abdominal pain,2768
+3973,Injury assessment,3013
+3974,Shortness of breath,2870
+3975,Dizziness,2666
+3976,Shortness of breath,2631
+3977,Urinary symptoms,2403
+3978,Shortness of breath,2645
+3979,Dizziness,2520
+3980,Dizziness,2547
+3981,Injury assessment,2114
+3982,Dizziness,2832
+3983,Abnormal laboratory values,2625
+3984,Urinary symptoms,2028
+3985,Severe headache,2356
+3986,Abnormal laboratory values,2520
+3987,Dizziness,2556
+3988,Fever and fatigue,2399
+3989,Shortness of breath,2112
+3990,Routine postoperative follow-up,2351
+3991,Severe headache,2935
+3992,Abdominal pain,2765
+3993,Severe headache,2802
+3994,Urinary symptoms,2259
+3995,Fever and fatigue,2922
+3996,Abdominal pain,2225
+3997,Urinary symptoms,2240
+3998,Injury assessment,2709
+3999,Shortness of breath,2807
+4000,Shortness of breath,2029
+4001,Abnormal laboratory values,2351
+4002,Abnormal laboratory values,2194
+4003,Urinary symptoms,2735
+4004,Chest discomfort,2519
+4005,Dizziness,2498
+4006,Abdominal pain,2038
+4007,Routine postoperative follow-up,2870
+4008,Shortness of breath,2214
+4009,Shortness of breath,2523
+4010,Abdominal pain,2076
+4011,Injury assessment,2972
+4012,Abnormal laboratory values,2343
+4013,Shortness of breath,2473
+4014,Fever and fatigue,2934
+4015,Fever and fatigue,2602
+4016,Dizziness,2853
+4017,Routine postoperative follow-up,2110
+4018,Injury assessment,2739
+4019,Dizziness,2861
+4020,Chest discomfort,2694
+4021,Chest discomfort,2623
+4022,Chest discomfort,2956
+4023,Shortness of breath,2378
+4024,Abdominal pain,2620
+4025,Shortness of breath,2146
+4026,Abnormal laboratory values,2688
+4027,Urinary symptoms,2034
+4028,Shortness of breath,2188
+4029,Severe headache,2805
+4030,Urinary symptoms,2544
+4031,Shortness of breath,2713
+4032,Urinary symptoms,2371
+4033,Routine postoperative follow-up,2606
+4034,Routine postoperative follow-up,2084
+4035,Shortness of breath,2806
+4036,Abdominal pain,2100
+4037,Shortness of breath,2622
+4038,Fever and fatigue,2479
+4039,Injury assessment,2360
+4040,Routine postoperative follow-up,2094
+4041,Fever and fatigue,2148
+4042,Injury assessment,2333
+4043,Shortness of breath,2510
+4044,Routine postoperative follow-up,2469
+4045,Shortness of breath,2645
+4046,Injury assessment,2026
+4047,Fever and fatigue,2049
+4048,Dizziness,2856
+4049,Abnormal laboratory values,2898
+4050,Fever and fatigue,2934
+4051,Urinary symptoms,3031
+4052,Abnormal laboratory values,3032
+4053,Abdominal pain,3033
+4054,Urinary symptoms,3034
+4055,Injury assessment,3035
+4056,Urinary symptoms,3036
+4057,Abnormal laboratory values,3037
+4058,Severe headache,3038
+4059,Abdominal pain,3039
+4060,Shortness of breath,3040
+4061,Fever and fatigue,3041
+4062,Dizziness,3042
+4063,Severe headache,3043
+4064,Abdominal pain,3044
+4065,Injury assessment,3045
+4066,Shortness of breath,3046
+4067,Injury assessment,3047
+4068,Shortness of breath,3048
+4069,Severe headache,3049
+4070,Abdominal pain,3050
+4071,Routine postoperative follow-up,3051
+4072,Dizziness,3052
+4073,Routine postoperative follow-up,3053
+4074,Dizziness,3054
+4075,Dizziness,3055
+4076,Abnormal laboratory values,3056
+4077,Injury assessment,3057
+4078,Fever and fatigue,3058
+4079,Urinary symptoms,3059
+4080,Chest discomfort,3060
+4081,Severe headache,3061
+4082,Severe headache,3062
+4083,Fever and fatigue,3063
+4084,Injury assessment,3064
+4085,Abnormal laboratory values,3065
+4086,Abdominal pain,3066
+4087,Dizziness,3067
+4088,Severe headache,3068
+4089,Shortness of breath,3069
+4090,Severe headache,3070
+4091,Abdominal pain,3071
+4092,Injury assessment,3072
+4093,Urinary symptoms,3073
+4094,Routine postoperative follow-up,3074
+4095,Routine postoperative follow-up,3075
+4096,Abnormal laboratory values,3076
+4097,Fever and fatigue,3077
+4098,Abnormal laboratory values,3078
+4099,Abdominal pain,3079
+4100,Urinary symptoms,3080
+4101,Chest discomfort,3081
+4102,Chest discomfort,3082
+4103,Routine postoperative follow-up,3083
+4104,Chest discomfort,3084
+4105,Routine postoperative follow-up,3085
+4106,Routine postoperative follow-up,3086
+4107,Abdominal pain,3087
+4108,Fever and fatigue,3088
+4109,Chest discomfort,3089
+4110,Urinary symptoms,3090
+4111,Urinary symptoms,3091
+4112,Routine postoperative follow-up,3092
+4113,Fever and fatigue,3093
+4114,Fever and fatigue,3094
+4115,Abdominal pain,3095
+4116,Urinary symptoms,3096
+4117,Abnormal laboratory values,3097
+4118,Routine postoperative follow-up,3098
+4119,Abnormal laboratory values,3099
+4120,Routine postoperative follow-up,3100
+4121,Fever and fatigue,3101
+4122,Abdominal pain,3102
+4123,Dizziness,3103
+4124,Fever and fatigue,3104
+4125,Abnormal laboratory values,3105
+4126,Shortness of breath,3106
+4127,Shortness of breath,3107
+4128,Shortness of breath,3108
+4129,Dizziness,3109
+4130,Urinary symptoms,3110
+4131,Severe headache,3111
+4132,Abdominal pain,3112
+4133,Chest discomfort,3113
+4134,Shortness of breath,3114
+4135,Fever and fatigue,3115
+4136,Abdominal pain,3116
+4137,Shortness of breath,3117
+4138,Severe headache,3118
+4139,Injury assessment,3119
+4140,Routine postoperative follow-up,3120
+4141,Chest discomfort,3121
+4142,Shortness of breath,3122
+4143,Fever and fatigue,3123
+4144,Abdominal pain,3124
+4145,Routine postoperative follow-up,3125
+4146,Abnormal laboratory values,3126
+4147,Urinary symptoms,3127
+4148,Chest discomfort,3128
+4149,Urinary symptoms,3129
+4150,Severe headache,3130
+4151,Injury assessment,3131
+4152,Shortness of breath,3132
+4153,Abdominal pain,3133
+4154,Injury assessment,3134
+4155,Chest discomfort,3135
+4156,Dizziness,3136
+4157,Dizziness,3137
+4158,Shortness of breath,3138
+4159,Urinary symptoms,3139
+4160,Routine postoperative follow-up,3140
+4161,Urinary symptoms,3141
+4162,Urinary symptoms,3142
+4163,Abdominal pain,3143
+4164,Fever and fatigue,3144
+4165,Abdominal pain,3145
+4166,Routine postoperative follow-up,3146
+4167,Abdominal pain,3147
+4168,Injury assessment,3148
+4169,Abnormal laboratory values,3149
+4170,Severe headache,3150
+4171,Dizziness,3151
+4172,Dizziness,3152
+4173,Urinary symptoms,3153
+4174,Dizziness,3154
+4175,Routine postoperative follow-up,3155
+4176,Urinary symptoms,3156
+4177,Shortness of breath,3157
+4178,Urinary symptoms,3158
+4179,Routine postoperative follow-up,3159
+4180,Abdominal pain,3160
+4181,Abdominal pain,3161
+4182,Urinary symptoms,3162
+4183,Severe headache,3163
+4184,Routine postoperative follow-up,3164
+4185,Severe headache,3165
+4186,Fever and fatigue,3166
+4187,Shortness of breath,3167
+4188,Fever and fatigue,3168
+4189,Abdominal pain,3169
+4190,Severe headache,3170
+4191,Abdominal pain,3171
+4192,Injury assessment,3172
+4193,Injury assessment,3173
+4194,Shortness of breath,3174
+4195,Abdominal pain,3175
+4196,Abnormal laboratory values,3176
+4197,Chest discomfort,3177
+4198,Abnormal laboratory values,3178
+4199,Abnormal laboratory values,3179
+4200,Fever and fatigue,3180
+4201,Fever and fatigue,3181
+4202,Urinary symptoms,3182
+4203,Injury assessment,3183
+4204,Chest discomfort,3184
+4205,Fever and fatigue,3185
+4206,Abdominal pain,3186
+4207,Abdominal pain,3187
+4208,Shortness of breath,3188
+4209,Shortness of breath,3189
+4210,Abnormal laboratory values,3190
+4211,Routine postoperative follow-up,3191
+4212,Abdominal pain,3192
+4213,Shortness of breath,3193
+4214,Dizziness,3194
+4215,Injury assessment,3195
+4216,Abdominal pain,3196
+4217,Severe headache,3197
+4218,Severe headache,3198
+4219,Injury assessment,3199
+4220,Fever and fatigue,3200
+4221,Abnormal laboratory values,3201
+4222,Abnormal laboratory values,3202
+4223,Abdominal pain,3203
+4224,Abnormal laboratory values,3204
+4225,Routine postoperative follow-up,3205
+4226,Injury assessment,3206
+4227,Routine postoperative follow-up,3207
+4228,Chest discomfort,3208
+4229,Severe headache,3209
+4230,Injury assessment,3210
+4231,Shortness of breath,3211
+4232,Abnormal laboratory values,3212
+4233,Shortness of breath,3213
+4234,Injury assessment,3214
+4235,Urinary symptoms,3215
+4236,Shortness of breath,3216
+4237,Urinary symptoms,3217
+4238,Shortness of breath,3218
+4239,Urinary symptoms,3219
+4240,Severe headache,3220
+4241,Fever and fatigue,3221
+4242,Abdominal pain,3222
+4243,Severe headache,3223
+4244,Severe headache,3224
+4245,Abnormal laboratory values,3225
+4246,Shortness of breath,3226
+4247,Chest discomfort,3227
+4248,Urinary symptoms,3228
+4249,Fever and fatigue,3229
+4250,Abdominal pain,3230
+4251,Severe headache,3231
+4252,Dizziness,3232
+4253,Fever and fatigue,3233
+4254,Urinary symptoms,3234
+4255,Urinary symptoms,3235
+4256,Abnormal laboratory values,3236
+4257,Abdominal pain,3237
+4258,Shortness of breath,3238
+4259,Fever and fatigue,3239
+4260,Fever and fatigue,3240
+4261,Fever and fatigue,3241
+4262,Shortness of breath,3242
+4263,Urinary symptoms,3243
+4264,Shortness of breath,3244
+4265,Shortness of breath,3245
+4266,Shortness of breath,3246
+4267,Fever and fatigue,3247
+4268,Injury assessment,3248
+4269,Shortness of breath,3249
+4270,Urinary symptoms,3250
+4271,Abdominal pain,3251
+4272,Shortness of breath,3252
+4273,Dizziness,3253
+4274,Fever and fatigue,3254
+4275,Injury assessment,3255
+4276,Injury assessment,3256
+4277,Chest discomfort,3257
+4278,Severe headache,3258
+4279,Chest discomfort,3259
+4280,Injury assessment,3260
+4281,Urinary symptoms,3261
+4282,Injury assessment,3262
+4283,Abdominal pain,3263
+4284,Dizziness,3264
+4285,Shortness of breath,3265
+4286,Abdominal pain,3266
+4287,Injury assessment,3267
+4288,Abnormal laboratory values,3268
+4289,Shortness of breath,3269
+4290,Routine postoperative follow-up,3270
+4291,Dizziness,3271
+4292,Chest discomfort,3272
+4293,Shortness of breath,3273
+4294,Abdominal pain,3274
+4295,Abdominal pain,3275
+4296,Urinary symptoms,3276
+4297,Dizziness,3277
+4298,Shortness of breath,3278
+4299,Urinary symptoms,3279
+4300,Abnormal laboratory values,3280
+4301,Fever and fatigue,3281
+4302,Fever and fatigue,3282
+4303,Fever and fatigue,3283
+4304,Abnormal laboratory values,3284
+4305,Dizziness,3285
+4306,Dizziness,3286
+4307,Abnormal laboratory values,3287
+4308,Abnormal laboratory values,3288
+4309,Shortness of breath,3289
+4310,Injury assessment,3290
+4311,Chest discomfort,3291
+4312,Dizziness,3292
+4313,Abnormal laboratory values,3293
+4314,Injury assessment,3294
+4315,Dizziness,3295
+4316,Severe headache,3296
+4317,Shortness of breath,3297
+4318,Routine postoperative follow-up,3298
+4319,Routine postoperative follow-up,3299
+4320,Abdominal pain,3300
+4321,Injury assessment,3301
+4322,Urinary symptoms,3302
+4323,Injury assessment,3303
+4324,Abdominal pain,3304
+4325,Urinary symptoms,3305
+4326,Shortness of breath,3306
+4327,Routine postoperative follow-up,3307
+4328,Fever and fatigue,3308
+4329,Injury assessment,3309
+4330,Injury assessment,3310
+4331,Injury assessment,3311
+4332,Dizziness,3312
+4333,Urinary symptoms,3313
+4334,Severe headache,3314
+4335,Routine postoperative follow-up,3315
+4336,Abdominal pain,3316
+4337,Routine postoperative follow-up,3317
+4338,Severe headache,3318
+4339,Abnormal laboratory values,3319
+4340,Abnormal laboratory values,3320
+4341,Shortness of breath,3321
+4342,Dizziness,3322
+4343,Routine postoperative follow-up,3323
+4344,Fever and fatigue,3324
+4345,Severe headache,3325
+4346,Injury assessment,3326
+4347,Routine postoperative follow-up,3327
+4348,Shortness of breath,3328
+4349,Routine postoperative follow-up,3329
+4350,Shortness of breath,3330
+4351,Shortness of breath,3331
+4352,Chest discomfort,3332
+4353,Urinary symptoms,3333
+4354,Injury assessment,3334
+4355,Shortness of breath,3335
+4356,Shortness of breath,3336
+4357,Injury assessment,3337
+4358,Urinary symptoms,3338
+4359,Urinary symptoms,3339
+4360,Abdominal pain,3340
+4361,Abdominal pain,3341
+4362,Fever and fatigue,3342
+4363,Injury assessment,3343
+4364,Routine postoperative follow-up,3344
+4365,Fever and fatigue,3345
+4366,Dizziness,3346
+4367,Injury assessment,3347
+4368,Severe headache,3348
+4369,Severe headache,3349
+4370,Severe headache,3350
+4371,Severe headache,3351
+4372,Shortness of breath,3352
+4373,Dizziness,3353
+4374,Abnormal laboratory values,3354
+4375,Dizziness,3355
+4376,Chest discomfort,3356
+4377,Fever and fatigue,3357
+4378,Urinary symptoms,3358
+4379,Chest discomfort,3359
+4380,Dizziness,3360
+4381,Shortness of breath,3361
+4382,Shortness of breath,3362
+4383,Fever and fatigue,3363
+4384,Severe headache,3364
+4385,Urinary symptoms,3365
+4386,Chest discomfort,3366
+4387,Dizziness,3367
+4388,Chest discomfort,3368
+4389,Abnormal laboratory values,3369
+4390,Urinary symptoms,3370
+4391,Urinary symptoms,3371
+4392,Injury assessment,3372
+4393,Abdominal pain,3373
+4394,Abnormal laboratory values,3374
+4395,Routine postoperative follow-up,3375
+4396,Fever and fatigue,3376
+4397,Injury assessment,3377
+4398,Chest discomfort,3378
+4399,Abnormal laboratory values,3379
+4400,Fever and fatigue,3380
+4401,Urinary symptoms,3381
+4402,Fever and fatigue,3382
+4403,Severe headache,3383
+4404,Dizziness,3384
+4405,Injury assessment,3385
+4406,Shortness of breath,3386
+4407,Routine postoperative follow-up,3387
+4408,Chest discomfort,3388
+4409,Fever and fatigue,3389
+4410,Severe headache,3390
+4411,Abdominal pain,3391
+4412,Dizziness,3392
+4413,Chest discomfort,3393
+4414,Chest discomfort,3394
+4415,Severe headache,3395
+4416,Fever and fatigue,3396
+4417,Fever and fatigue,3397
+4418,Urinary symptoms,3398
+4419,Urinary symptoms,3399
+4420,Shortness of breath,3400
+4421,Routine postoperative follow-up,3401
+4422,Severe headache,3402
+4423,Injury assessment,3403
+4424,Abdominal pain,3404
+4425,Injury assessment,3405
+4426,Abdominal pain,3406
+4427,Urinary symptoms,3407
+4428,Chest discomfort,3408
+4429,Abnormal laboratory values,3409
+4430,Severe headache,3410
+4431,Fever and fatigue,3411
+4432,Dizziness,3412
+4433,Chest discomfort,3413
+4434,Abnormal laboratory values,3414
+4435,Abdominal pain,3415
+4436,Severe headache,3416
+4437,Urinary symptoms,3417
+4438,Urinary symptoms,3418
+4439,Routine postoperative follow-up,3419
+4440,Routine postoperative follow-up,3420
+4441,Urinary symptoms,3421
+4442,Shortness of breath,3422
+4443,Abnormal laboratory values,3423
+4444,Urinary symptoms,3424
+4445,Injury assessment,3425
+4446,Abdominal pain,3426
+4447,Fever and fatigue,3427
+4448,Shortness of breath,3428
+4449,Chest discomfort,3429
+4450,Dizziness,3430
+4451,Injury assessment,3431
+4452,Abdominal pain,3432
+4453,Shortness of breath,3433
+4454,Urinary symptoms,3434
+4455,Shortness of breath,3435
+4456,Urinary symptoms,3436
+4457,Routine postoperative follow-up,3437
+4458,Abnormal laboratory values,3438
+4459,Abnormal laboratory values,3439
+4460,Abdominal pain,3440
+4461,Dizziness,3441
+4462,Abnormal laboratory values,3442
+4463,Injury assessment,3443
+4464,Shortness of breath,3444
+4465,Severe headache,3445
+4466,Chest discomfort,3446
+4467,Chest discomfort,3447
+4468,Severe headache,3448
+4469,Fever and fatigue,3449
+4470,Shortness of breath,3450
+4471,Abnormal laboratory values,3451
+4472,Abdominal pain,3452
+4473,Abnormal laboratory values,3453
+4474,Severe headache,3454
+4475,Urinary symptoms,3455
+4476,Dizziness,3456
+4477,Chest discomfort,3457
+4478,Chest discomfort,3458
+4479,Fever and fatigue,3459
+4480,Dizziness,3460
+4481,Urinary symptoms,3461
+4482,Abnormal laboratory values,3462
+4483,Shortness of breath,3463
+4484,Fever and fatigue,3464
+4485,Abdominal pain,3465
+4486,Fever and fatigue,3466
+4487,Abnormal laboratory values,3467
+4488,Routine postoperative follow-up,3468
+4489,Routine postoperative follow-up,3469
+4490,Fever and fatigue,3470
+4491,Dizziness,3471
+4492,Fever and fatigue,3472
+4493,Routine postoperative follow-up,3473
+4494,Abdominal pain,3474
+4495,Abdominal pain,3475
+4496,Dizziness,3476
+4497,Routine postoperative follow-up,3477
+4498,Abnormal laboratory values,3478
+4499,Abdominal pain,3479
+4500,Abdominal pain,3480
+4501,Routine postoperative follow-up,3481
+4502,Injury assessment,3482
+4503,Abnormal laboratory values,3483
+4504,Dizziness,3484
+4505,Severe headache,3485
+4506,Abdominal pain,3486
+4507,Dizziness,3487
+4508,Fever and fatigue,3488
+4509,Shortness of breath,3489
+4510,Abdominal pain,3490
+4511,Abnormal laboratory values,3491
+4512,Abnormal laboratory values,3492
+4513,Shortness of breath,3493
+4514,Abdominal pain,3494
+4515,Severe headache,3495
+4516,Abdominal pain,3496
+4517,Abdominal pain,3497
+4518,Chest discomfort,3498
+4519,Abdominal pain,3499
+4520,Urinary symptoms,3500
+4521,Dizziness,3501
+4522,Urinary symptoms,3502
+4523,Chest discomfort,3503
+4524,Abdominal pain,3504
+4525,Chest discomfort,3505
+4526,Chest discomfort,3506
+4527,Severe headache,3507
+4528,Fever and fatigue,3508
+4529,Dizziness,3509
+4530,Shortness of breath,3510
+4531,Abnormal laboratory values,3511
+4532,Severe headache,3512
+4533,Routine postoperative follow-up,3513
+4534,Abnormal laboratory values,3514
+4535,Severe headache,3515
+4536,Shortness of breath,3516
+4537,Abnormal laboratory values,3517
+4538,Abdominal pain,3518
+4539,Abnormal laboratory values,3519
+4540,Fever and fatigue,3520
+4541,Abdominal pain,3521
+4542,Fever and fatigue,3522
+4543,Fever and fatigue,3523
+4544,Injury assessment,3524
+4545,Severe headache,3525
+4546,Dizziness,3526
+4547,Severe headache,3527
+4548,Chest discomfort,3528
+4549,Abnormal laboratory values,3529
+4550,Severe headache,3530
+4551,Abnormal laboratory values,3531
+4552,Shortness of breath,3532
+4553,Abdominal pain,3533
+4554,Shortness of breath,3534
+4555,Chest discomfort,3535
+4556,Fever and fatigue,3536
+4557,Abdominal pain,3537
+4558,Urinary symptoms,3538
+4559,Urinary symptoms,3539
+4560,Chest discomfort,3540
+4561,Chest discomfort,3541
+4562,Routine postoperative follow-up,3542
+4563,Abnormal laboratory values,3543
+4564,Urinary symptoms,3544
+4565,Fever and fatigue,3545
+4566,Abnormal laboratory values,3546
+4567,Severe headache,3547
+4568,Chest discomfort,3548
+4569,Severe headache,3549
+4570,Urinary symptoms,3550
+4571,Fever and fatigue,3551
+4572,Dizziness,3552
+4573,Chest discomfort,3553
+4574,Shortness of breath,3554
+4575,Routine postoperative follow-up,3555
+4576,Routine postoperative follow-up,3556
+4577,Abnormal laboratory values,3557
+4578,Fever and fatigue,3558
+4579,Injury assessment,3559
+4580,Abdominal pain,3560
+4581,Abdominal pain,3561
+4582,Fever and fatigue,3562
+4583,Fever and fatigue,3563
+4584,Routine postoperative follow-up,3564
+4585,Abnormal laboratory values,3565
+4586,Shortness of breath,3566
+4587,Dizziness,3567
+4588,Urinary symptoms,3568
+4589,Injury assessment,3569
+4590,Dizziness,3570
+4591,Dizziness,3571
+4592,Shortness of breath,3572
+4593,Injury assessment,3573
+4594,Chest discomfort,3574
+4595,Abnormal laboratory values,3575
+4596,Injury assessment,3576
+4597,Shortness of breath,3577
+4598,Urinary symptoms,3578
+4599,Severe headache,3579
+4600,Urinary symptoms,3580
+4601,Dizziness,3581
+4602,Shortness of breath,3582
+4603,Routine postoperative follow-up,3583
+4604,Abdominal pain,3584
+4605,Chest discomfort,3585
+4606,Shortness of breath,3586
+4607,Dizziness,3587
+4608,Abdominal pain,3588
+4609,Severe headache,3589
+4610,Severe headache,3590
+4611,Severe headache,3591
+4612,Fever and fatigue,3592
+4613,Urinary symptoms,3593
+4614,Shortness of breath,3594
+4615,Urinary symptoms,3595
+4616,Abdominal pain,3596
+4617,Shortness of breath,3597
+4618,Urinary symptoms,3598
+4619,Abnormal laboratory values,3599
+4620,Chest discomfort,3600
+4621,Severe headache,3601
+4622,Dizziness,3602
+4623,Urinary symptoms,3603
+4624,Routine postoperative follow-up,3604
+4625,Abdominal pain,3605
+4626,Chest discomfort,3606
+4627,Severe headache,3607
+4628,Injury assessment,3608
+4629,Abdominal pain,3609
+4630,Fever and fatigue,3610
+4631,Injury assessment,3611
+4632,Routine postoperative follow-up,3612
+4633,Abdominal pain,3613
+4634,Urinary symptoms,3614
+4635,Abnormal laboratory values,3615
+4636,Shortness of breath,3616
+4637,Dizziness,3617
+4638,Dizziness,3618
+4639,Dizziness,3619
+4640,Injury assessment,3620
+4641,Urinary symptoms,3621
+4642,Dizziness,3622
+4643,Severe headache,3623
+4644,Chest discomfort,3624
+4645,Shortness of breath,3625
+4646,Chest discomfort,3626
+4647,Abnormal laboratory values,3627
+4648,Fever and fatigue,3628
+4649,Urinary symptoms,3629
+4650,Shortness of breath,3630
+4651,Shortness of breath,3631
+4652,Shortness of breath,3632
+4653,Urinary symptoms,3633
+4654,Abdominal pain,3634
+4655,Abnormal laboratory values,3635
+4656,Fever and fatigue,3636
+4657,Abdominal pain,3637
+4658,Shortness of breath,3638
+4659,Severe headache,3639
+4660,Fever and fatigue,3640
+4661,Shortness of breath,3641
+4662,Abdominal pain,3642
+4663,Fever and fatigue,3643
+4664,Shortness of breath,3644
+4665,Dizziness,3645
+4666,Routine postoperative follow-up,3646
+4667,Urinary symptoms,3647
+4668,Fever and fatigue,3648
+4669,Urinary symptoms,3649
+4670,Dizziness,3650
+4671,Routine postoperative follow-up,3651
+4672,Abnormal laboratory values,3652
+4673,Dizziness,3653
+4674,Abnormal laboratory values,3654
+4675,Injury assessment,3655
+4676,Severe headache,3656
+4677,Fever and fatigue,3657
+4678,Abdominal pain,3658
+4679,Abdominal pain,3659
+4680,Shortness of breath,3660
+4681,Abdominal pain,3661
+4682,Abdominal pain,3662
+4683,Shortness of breath,3663
+4684,Severe headache,3664
+4685,Abdominal pain,3665
+4686,Abnormal laboratory values,3666
+4687,Severe headache,3667
+4688,Abdominal pain,3668
+4689,Chest discomfort,3669
+4690,Routine postoperative follow-up,3670
+4691,Abdominal pain,3671
+4692,Shortness of breath,3672
+4693,Shortness of breath,3673
+4694,Abnormal laboratory values,3674
+4695,Abdominal pain,3675
+4696,Dizziness,3676
+4697,Abnormal laboratory values,3677
+4698,Abnormal laboratory values,3678
+4699,Chest discomfort,3679
+4700,Shortness of breath,3680
+4701,Routine postoperative follow-up,3681
+4702,Severe headache,3682
+4703,Abdominal pain,3683
+4704,Injury assessment,3684
+4705,Abnormal laboratory values,3685
+4706,Chest discomfort,3686
+4707,Urinary symptoms,3687
+4708,Abnormal laboratory values,3688
+4709,Shortness of breath,3689
+4710,Dizziness,3690
+4711,Abdominal pain,3691
+4712,Urinary symptoms,3692
+4713,Abdominal pain,3693
+4714,Fever and fatigue,3694
+4715,Routine postoperative follow-up,3695
+4716,Routine postoperative follow-up,3696
+4717,Severe headache,3697
+4718,Shortness of breath,3698
+4719,Urinary symptoms,3699
+4720,Routine postoperative follow-up,3700
+4721,Routine postoperative follow-up,3701
+4722,Abnormal laboratory values,3702
+4723,Urinary symptoms,3703
+4724,Dizziness,3704
+4725,Abdominal pain,3705
+4726,Urinary symptoms,3706
+4727,Abdominal pain,3707
+4728,Chest discomfort,3708
+4729,Abnormal laboratory values,3709
+4730,Abdominal pain,3710
+4731,Shortness of breath,3711
+4732,Fever and fatigue,3712
+4733,Abdominal pain,3713
+4734,Routine postoperative follow-up,3714
+4735,Fever and fatigue,3715
+4736,Fever and fatigue,3716
+4737,Dizziness,3717
+4738,Chest discomfort,3718
+4739,Routine postoperative follow-up,3719
+4740,Dizziness,3720
+4741,Chest discomfort,3721
+4742,Chest discomfort,3722
+4743,Fever and fatigue,3723
+4744,Abnormal laboratory values,3724
+4745,Abdominal pain,3725
+4746,Chest discomfort,3726
+4747,Fever and fatigue,3727
+4748,Shortness of breath,3728
+4749,Abdominal pain,3729
+4750,Fever and fatigue,3730
+4751,Abnormal laboratory values,3731
+4752,Shortness of breath,3732
+4753,Chest discomfort,3733
+4754,Abnormal laboratory values,3734
+4755,Abdominal pain,3735
+4756,Injury assessment,3736
+4757,Chest discomfort,3737
+4758,Urinary symptoms,3738
+4759,Fever and fatigue,3739
+4760,Abdominal pain,3740
+4761,Shortness of breath,3741
+4762,Shortness of breath,3742
+4763,Routine postoperative follow-up,3743
+4764,Chest discomfort,3744
+4765,Injury assessment,3745
+4766,Dizziness,3746
+4767,Injury assessment,3747
+4768,Urinary symptoms,3748
+4769,Injury assessment,3749
+4770,Routine postoperative follow-up,3750
+4771,Dizziness,3751
+4772,Routine postoperative follow-up,3752
+4773,Routine postoperative follow-up,3753
+4774,Abnormal laboratory values,3754
+4775,Fever and fatigue,3755
+4776,Injury assessment,3756
+4777,Abnormal laboratory values,3757
+4778,Urinary symptoms,3758
+4779,Abnormal laboratory values,3759
+4780,Shortness of breath,3760
+4781,Shortness of breath,3761
+4782,Chest discomfort,3762
+4783,Chest discomfort,3763
+4784,Shortness of breath,3764
+4785,Chest discomfort,3765
+4786,Shortness of breath,3766
+4787,Shortness of breath,3767
+4788,Urinary symptoms,3768
+4789,Dizziness,3769
+4790,Shortness of breath,3770
+4791,Fever and fatigue,3771
+4792,Injury assessment,3772
+4793,Fever and fatigue,3773
+4794,Chest discomfort,3774
+4795,Urinary symptoms,3775
+4796,Urinary symptoms,3776
+4797,Routine postoperative follow-up,3777
+4798,Shortness of breath,3778
+4799,Chest discomfort,3779
+4800,Chest discomfort,3780
+4801,Chest discomfort,3781
+4802,Fever and fatigue,3782
+4803,Abdominal pain,3783
+4804,Fever and fatigue,3784
+4805,Dizziness,3785
+4806,Shortness of breath,3786
+4807,Urinary symptoms,3787
+4808,Injury assessment,3788
+4809,Shortness of breath,3789
+4810,Shortness of breath,3790
+4811,Abnormal laboratory values,3791
+4812,Abdominal pain,3792
+4813,Urinary symptoms,3793
+4814,Shortness of breath,3794
+4815,Shortness of breath,3795
+4816,Dizziness,3796
+4817,Fever and fatigue,3797
+4818,Urinary symptoms,3798
+4819,Fever and fatigue,3799
+4820,Chest discomfort,3800
+4821,Shortness of breath,3801
+4822,Injury assessment,3802
+4823,Routine postoperative follow-up,3803
+4824,Severe headache,3804
+4825,Dizziness,3805
+4826,Dizziness,3806
+4827,Severe headache,3807
+4828,Abdominal pain,3808
+4829,Shortness of breath,3809
+4830,Severe headache,3810
+4831,Abnormal laboratory values,3811
+4832,Dizziness,3812
+4833,Urinary symptoms,3813
+4834,Injury assessment,3814
+4835,Abnormal laboratory values,3815
+4836,Routine postoperative follow-up,3816
+4837,Routine postoperative follow-up,3817
+4838,Shortness of breath,3818
+4839,Severe headache,3819
+4840,Fever and fatigue,3820
+4841,Injury assessment,3821
+4842,Urinary symptoms,3822
+4843,Shortness of breath,3823
+4844,Chest discomfort,3824
+4845,Urinary symptoms,3825
+4846,Abnormal laboratory values,3826
+4847,Fever and fatigue,3827
+4848,Urinary symptoms,3828
+4849,Abdominal pain,3829
+4850,Chest discomfort,3830
+4851,Fever and fatigue,3831
+4852,Dizziness,3832
+4853,Routine postoperative follow-up,3833
+4854,Chest discomfort,3834
+4855,Severe headache,3835
+4856,Dizziness,3836
+4857,Dizziness,3837
+4858,Abnormal laboratory values,3838
+4859,Urinary symptoms,3839
+4860,Abdominal pain,3840
+4861,Injury assessment,3841
+4862,Abdominal pain,3842
+4863,Severe headache,3843
+4864,Fever and fatigue,3844
+4865,Abdominal pain,3845
+4866,Abnormal laboratory values,3846
+4867,Severe headache,3847
+4868,Abdominal pain,3848
+4869,Dizziness,3849
+4870,Severe headache,3850
+4871,Severe headache,3851
+4872,Abnormal laboratory values,3852
+4873,Dizziness,3853
+4874,Dizziness,3854
+4875,Shortness of breath,3855
+4876,Shortness of breath,3856
+4877,Fever and fatigue,3857
+4878,Fever and fatigue,3858
+4879,Dizziness,3859
+4880,Fever and fatigue,3860
+4881,Urinary symptoms,3861
+4882,Abdominal pain,3862
+4883,Severe headache,3863
+4884,Dizziness,3864
+4885,Chest discomfort,3865
+4886,Routine postoperative follow-up,3866
+4887,Chest discomfort,3867
+4888,Urinary symptoms,3868
+4889,Abdominal pain,3869
+4890,Injury assessment,3870
+4891,Injury assessment,3871
+4892,Dizziness,3872
+4893,Shortness of breath,3873
+4894,Dizziness,3874
+4895,Routine postoperative follow-up,3875
+4896,Injury assessment,3876
+4897,Shortness of breath,3877
+4898,Fever and fatigue,3878
+4899,Routine postoperative follow-up,3879
+4900,Dizziness,3880
+4901,Dizziness,3881
+4902,Abnormal laboratory values,3882
+4903,Chest discomfort,3883
+4904,Routine postoperative follow-up,3884
+4905,Injury assessment,3885
+4906,Routine postoperative follow-up,3886
+4907,Shortness of breath,3887
+4908,Chest discomfort,3888
+4909,Severe headache,3889
+4910,Fever and fatigue,3890
+4911,Urinary symptoms,3891
+4912,Fever and fatigue,3892
+4913,Severe headache,3893
+4914,Chest discomfort,3894
+4915,Severe headache,3895
+4916,Injury assessment,3896
+4917,Fever and fatigue,3897
+4918,Fever and fatigue,3898
+4919,Abnormal laboratory values,3899
+4920,Shortness of breath,3900
+4921,Abdominal pain,3901
+4922,Fever and fatigue,3902
+4923,Dizziness,3903
+4924,Dizziness,3904
+4925,Fever and fatigue,3905
+4926,Shortness of breath,3906
+4927,Severe headache,3907
+4928,Fever and fatigue,3908
+4929,Injury assessment,3909
+4930,Severe headache,3910
+4931,Routine postoperative follow-up,3911
+4932,Shortness of breath,3912
+4933,Fever and fatigue,3913
+4934,Injury assessment,3914
+4935,Dizziness,3915
+4936,Chest discomfort,3916
+4937,Injury assessment,3917
+4938,Severe headache,3918
+4939,Chest discomfort,3919
+4940,Severe headache,3920
+4941,Fever and fatigue,3921
+4942,Shortness of breath,3922
+4943,Severe headache,3923
+4944,Fever and fatigue,3924
+4945,Urinary symptoms,3925
+4946,Fever and fatigue,3926
+4947,Chest discomfort,3927
+4948,Urinary symptoms,3928
+4949,Fever and fatigue,3929
+4950,Fever and fatigue,3930
+4951,Routine postoperative follow-up,3931
+4952,Chest discomfort,3932
+4953,Chest discomfort,3933
+4954,Abdominal pain,3934
+4955,Abdominal pain,3935
+4956,Severe headache,3936
+4957,Abdominal pain,3937
+4958,Urinary symptoms,3938
+4959,Urinary symptoms,3939
+4960,Injury assessment,3940
+4961,Abnormal laboratory values,3941
+4962,Chest discomfort,3942
+4963,Routine postoperative follow-up,3943
+4964,Fever and fatigue,3944
+4965,Shortness of breath,3945
+4966,Abdominal pain,3946
+4967,Urinary symptoms,3947
+4968,Injury assessment,3948
+4969,Urinary symptoms,3949
+4970,Routine postoperative follow-up,3950
+4971,Dizziness,3951
+4972,Severe headache,3952
+4973,Fever and fatigue,3953
+4974,Injury assessment,3954
+4975,Abdominal pain,3955
+4976,Injury assessment,3956
+4977,Dizziness,3957
+4978,Urinary symptoms,3958
+4979,Abnormal laboratory values,3959
+4980,Abdominal pain,3960
+4981,Shortness of breath,3961
+4982,Fever and fatigue,3962
+4983,Injury assessment,3963
+4984,Dizziness,3964
+4985,Fever and fatigue,3965
+4986,Chest discomfort,3966
+4987,Dizziness,3967
+4988,Shortness of breath,3968
+4989,Routine postoperative follow-up,3969
+4990,Abdominal pain,3970
+4991,Severe headache,3971
+4992,Injury assessment,3972
+4993,Routine postoperative follow-up,3973
+4994,Abdominal pain,3974
+4995,Shortness of breath,3975
+4996,Abdominal pain,3976
+4997,Urinary symptoms,3977
+4998,Injury assessment,3978
+4999,Dizziness,3979
+5000,Urinary symptoms,3980
+5001,Chest discomfort,3981
+5002,Abdominal pain,3982
+5003,Urinary symptoms,3983
+5004,Fever and fatigue,3984
+5005,Dizziness,3985
+5006,Severe headache,3986
+5007,Abnormal laboratory values,3987
+5008,Fever and fatigue,3988
+5009,Shortness of breath,3989
+5010,Chest discomfort,3990
+5011,Abdominal pain,3991
+5012,Urinary symptoms,3992
+5013,Routine postoperative follow-up,3993
+5014,Abnormal laboratory values,3994
+5015,Severe headache,3995
+5016,Dizziness,3996
+5017,Abdominal pain,3997
+5018,Chest discomfort,3998
+5019,Urinary symptoms,3999
+5020,Routine postoperative follow-up,4000
+5021,Routine postoperative follow-up,4001
+5022,Fever and fatigue,4002
+5023,Routine postoperative follow-up,4003
+5024,Injury assessment,4004
+5025,Chest discomfort,4005
+5026,Fever and fatigue,4006
+5027,Dizziness,4007
+5028,Severe headache,4008
+5029,Fever and fatigue,4009
+5030,Chest discomfort,4010
+5031,Injury assessment,4011
+5032,Shortness of breath,4012
+5033,Abdominal pain,4013
+5034,Abnormal laboratory values,4014
+5035,Dizziness,4015
+5036,Dizziness,4016
+5037,Severe headache,4017
+5038,Shortness of breath,4018
+5039,Injury assessment,4019
+5040,Abnormal laboratory values,4020
+5041,Dizziness,4021
+5042,Urinary symptoms,4022
+5043,Abnormal laboratory values,4023
+5044,Abdominal pain,4024
+5045,Dizziness,4025
+5046,Shortness of breath,4026
+5047,Chest discomfort,4027
+5048,Routine postoperative follow-up,4028
+5049,Dizziness,4029
+5050,Routine postoperative follow-up,4030
+5051,Severe headache,3334
+5052,Abnormal laboratory values,3613
+5053,Urinary symptoms,3954
+5054,Dizziness,3819
+5055,Abnormal laboratory values,3575
+5056,Dizziness,3920
+5057,Routine postoperative follow-up,4030
+5058,Dizziness,3392
+5059,Urinary symptoms,3416
+5060,Abnormal laboratory values,3107
+5061,Abnormal laboratory values,3264
+5062,Fever and fatigue,3172
+5063,Severe headache,3335
+5064,Dizziness,3987
+5065,Routine postoperative follow-up,3500
+5066,Chest discomfort,3620
+5067,Routine postoperative follow-up,3118
+5068,Severe headache,3730
+5069,Shortness of breath,3699
+5070,Abdominal pain,4000
+5071,Chest discomfort,3429
+5072,Severe headache,3939
+5073,Shortness of breath,3735
+5074,Abdominal pain,3179
+5075,Chest discomfort,3120
+5076,Urinary symptoms,3104
+5077,Dizziness,3209
+5078,Severe headache,3969
+5079,Severe headache,3246
+5080,Injury assessment,3860
+5081,Dizziness,3237
+5082,Urinary symptoms,3728
+5083,Urinary symptoms,3457
+5084,Injury assessment,3999
+5085,Severe headache,3475
+5086,Shortness of breath,3663
+5087,Severe headache,3159
+5088,Urinary symptoms,3531
+5089,Severe headache,3125
+5090,Abdominal pain,3344
+5091,Routine postoperative follow-up,3862
+5092,Dizziness,4027
+5093,Urinary symptoms,3552
+5094,Abdominal pain,3165
+5095,Routine postoperative follow-up,4024
+5096,Routine postoperative follow-up,3600
+5097,Injury assessment,3070
+5098,Abnormal laboratory values,3352
+5099,Dizziness,3899
+5100,Abdominal pain,3332
+5101,Severe headache,3347
+5102,Abnormal laboratory values,3494
+5103,Injury assessment,3845
+5104,Chest discomfort,3083
+5105,Injury assessment,3489
+5106,Dizziness,3733
+5107,Urinary symptoms,3594
+5108,Abdominal pain,3952
+5109,Routine postoperative follow-up,3114
+5110,Dizziness,3366
+5111,Severe headache,3147
+5112,Abdominal pain,3711
+5113,Chest discomfort,3778
+5114,Dizziness,3942
+5115,Routine postoperative follow-up,3651
+5116,Chest discomfort,3418
+5117,Fever and fatigue,3991
+5118,Abdominal pain,3913
+5119,Dizziness,3299
+5120,Routine postoperative follow-up,3964
+5121,Injury assessment,3433
+5122,Chest discomfort,3085
+5123,Dizziness,3921
+5124,Dizziness,3094
+5125,Severe headache,3274
+5126,Abdominal pain,3994
+5127,Dizziness,3265
+5128,Urinary symptoms,3543
+5129,Abdominal pain,3931
+5130,Injury assessment,3667
+5131,Fever and fatigue,3244
+5132,Fever and fatigue,3455
+5133,Fever and fatigue,3227
+5134,Chest discomfort,3990
+5135,Injury assessment,3704
+5136,Routine postoperative follow-up,3272
+5137,Shortness of breath,3751
+5138,Chest discomfort,3536
+5139,Abdominal pain,3261
+5140,Shortness of breath,3716
+5141,Abnormal laboratory values,3432
+5142,Shortness of breath,3226
+5143,Injury assessment,3798
+5144,Shortness of breath,3132
+5145,Abnormal laboratory values,3299
+5146,Urinary symptoms,3915
+5147,Severe headache,3997
+5148,Fever and fatigue,3771
+5149,Fever and fatigue,3513
+5150,Abnormal laboratory values,3100
+5151,Shortness of breath,3580
+5152,Fever and fatigue,3778
+5153,Injury assessment,3596
+5154,Severe headache,3419
+5155,Abdominal pain,3944
+5156,Abnormal laboratory values,3903
+5157,Shortness of breath,3121
+5158,Dizziness,4007
+5159,Dizziness,3408
+5160,Routine postoperative follow-up,3562
+5161,Abdominal pain,3137
+5162,Abdominal pain,3867
+5163,Abnormal laboratory values,3869
+5164,Fever and fatigue,3852
+5165,Severe headache,3986
+5166,Abdominal pain,3637
+5167,Shortness of breath,3703
+5168,Dizziness,3089
+5169,Chest discomfort,3166
+5170,Dizziness,3853
+5171,Abdominal pain,3626
+5172,Injury assessment,4013
+5173,Severe headache,3330
+5174,Urinary symptoms,3421
+5175,Severe headache,3506
+5176,Severe headache,3306
+5177,Injury assessment,3808
+5178,Severe headache,3334
+5179,Abnormal laboratory values,4027
+5180,Abnormal laboratory values,3902
+5181,Fever and fatigue,3919
+5182,Fever and fatigue,3971
+5183,Injury assessment,3308
+5184,Severe headache,3632
+5185,Routine postoperative follow-up,3504
+5186,Urinary symptoms,3063
+5187,Routine postoperative follow-up,3849
+5188,Abnormal laboratory values,3490
+5189,Abnormal laboratory values,3043
+5190,Urinary symptoms,4030
+5191,Dizziness,3207
+5192,Fever and fatigue,3267
+5193,Abnormal laboratory values,3681
+5194,Chest discomfort,3134
+5195,Chest discomfort,3345
+5196,Dizziness,4023
+5197,Fever and fatigue,3217
+5198,Dizziness,3616
+5199,Severe headache,3097
+5200,Shortness of breath,4029
+5201,Fever and fatigue,3842
+5202,Urinary symptoms,3042
+5203,Abdominal pain,3204
+5204,Dizziness,3385
+5205,Dizziness,3737
+5206,Routine postoperative follow-up,3804
+5207,Abdominal pain,3151
+5208,Urinary symptoms,3056
+5209,Fever and fatigue,4008
+5210,Injury assessment,3738
+5211,Abnormal laboratory values,3662
+5212,Severe headache,3324
+5213,Abnormal laboratory values,3053
+5214,Abnormal laboratory values,3327
+5215,Shortness of breath,3451
+5216,Routine postoperative follow-up,3742
+5217,Routine postoperative follow-up,3297
+5218,Abdominal pain,3848
+5219,Shortness of breath,3766
+5220,Fever and fatigue,3620
+5221,Fever and fatigue,3469
+5222,Chest discomfort,3793
+5223,Severe headache,3577
+5224,Chest discomfort,3187
+5225,Urinary symptoms,3863
+5226,Shortness of breath,3956
+5227,Shortness of breath,3553
+5228,Abnormal laboratory values,3554
+5229,Shortness of breath,3059
+5230,Urinary symptoms,3438
+5231,Fever and fatigue,3212
+5232,Severe headache,3059
+5233,Fever and fatigue,3312
+5234,Injury assessment,3408
+5235,Dizziness,3442
+5236,Routine postoperative follow-up,3817
+5237,Fever and fatigue,3758
+5238,Injury assessment,3636
+5239,Abdominal pain,3053
+5240,Urinary symptoms,3450
+5241,Abdominal pain,3777
+5242,Routine postoperative follow-up,3065
+5243,Urinary symptoms,3567
+5244,Chest discomfort,3286
+5245,Severe headache,3375
+5246,Abdominal pain,3893
+5247,Abdominal pain,3258
+5248,Abnormal laboratory values,3262
+5249,Injury assessment,3747
+5250,Urinary symptoms,3035
+5251,Severe headache,3815
+5252,Routine postoperative follow-up,3225
+5253,Fever and fatigue,3677
+5254,Dizziness,3478
+5255,Injury assessment,3390
+5256,Urinary symptoms,3483
+5257,Urinary symptoms,3061
+5258,Abnormal laboratory values,3166
+5259,Urinary symptoms,3528
+5260,Urinary symptoms,3195
+5261,Dizziness,3421
+5262,Urinary symptoms,3383
+5263,Chest discomfort,3069
+5264,Routine postoperative follow-up,3126
+5265,Injury assessment,3914
+5266,Urinary symptoms,3105
+5267,Shortness of breath,3677
+5268,Dizziness,3241
+5269,Routine postoperative follow-up,3110
+5270,Routine postoperative follow-up,3855
+5271,Dizziness,3553
+5272,Routine postoperative follow-up,3356
+5273,Routine postoperative follow-up,3678
+5274,Dizziness,3957
+5275,Shortness of breath,3142
+5276,Fever and fatigue,3076
+5277,Shortness of breath,3630
+5278,Abnormal laboratory values,3184
+5279,Routine postoperative follow-up,3523
+5280,Abdominal pain,4007
+5281,Injury assessment,3810
+5282,Urinary symptoms,3395
+5283,Routine postoperative follow-up,3515
+5284,Fever and fatigue,3685
+5285,Urinary symptoms,3367
+5286,Shortness of breath,3116
+5287,Urinary symptoms,3241
+5288,Dizziness,3587
+5289,Injury assessment,3548
+5290,Shortness of breath,3501
+5291,Urinary symptoms,3522
+5292,Injury assessment,3903
+5293,Chest discomfort,3726
+5294,Abnormal laboratory values,3792
+5295,Chest discomfort,3766
+5296,Abnormal laboratory values,3687
+5297,Abdominal pain,3210
+5298,Abdominal pain,3618
+5299,Fever and fatigue,3609
+5300,Chest discomfort,3280
+5301,Injury assessment,3659
+5302,Fever and fatigue,3086
+5303,Shortness of breath,3112
+5304,Routine postoperative follow-up,3381
+5305,Injury assessment,3177
+5306,Dizziness,3048
+5307,Dizziness,3494
+5308,Injury assessment,3231
+5309,Injury assessment,3149
+5310,Chest discomfort,3501
+5311,Dizziness,3725
+5312,Fever and fatigue,3613
+5313,Severe headache,3341
+5314,Severe headache,3504
+5315,Severe headache,3855
+5316,Chest discomfort,3390
+5317,Injury assessment,3337
+5318,Shortness of breath,3413
+5319,Shortness of breath,3538
+5320,Severe headache,3874
+5321,Abnormal laboratory values,3088
+5322,Dizziness,3960
+5323,Injury assessment,3393
+5324,Severe headache,3388
+5325,Abnormal laboratory values,3128
+5326,Shortness of breath,3168
+5327,Routine postoperative follow-up,3570
+5328,Chest discomfort,3519
+5329,Severe headache,3667
+5330,Urinary symptoms,3490
+5331,Severe headache,3182
+5332,Abdominal pain,3764
+5333,Urinary symptoms,3551
+5334,Abdominal pain,3517
+5335,Abnormal laboratory values,3772
+5336,Fever and fatigue,3403
+5337,Routine postoperative follow-up,4021
+5338,Chest discomfort,3169
+5339,Routine postoperative follow-up,3712
+5340,Chest discomfort,3981
+5341,Routine postoperative follow-up,3359
+5342,Abnormal laboratory values,3104
+5343,Severe headache,4027
+5344,Severe headache,3237
+5345,Chest discomfort,3372
+5346,Chest discomfort,3198
+5347,Severe headache,3772
+5348,Abnormal laboratory values,3754
+5349,Dizziness,3771
+5350,Chest discomfort,3446
+5351,Fever and fatigue,3797
+5352,Severe headache,3638
+5353,Severe headache,3287
+5354,Injury assessment,3482
+5355,Chest discomfort,3819
+5356,Shortness of breath,3774
+5357,Injury assessment,3033
+5358,Injury assessment,3591
+5359,Injury assessment,3052
+5360,Chest discomfort,3085
+5361,Urinary symptoms,3864
+5362,Injury assessment,3186
+5363,Abdominal pain,3826
+5364,Abnormal laboratory values,3477
+5365,Abnormal laboratory values,3903
+5366,Chest discomfort,3793
+5367,Urinary symptoms,3098
+5368,Routine postoperative follow-up,3772
+5369,Dizziness,3039
+5370,Abnormal laboratory values,3532
+5371,Abnormal laboratory values,3642
+5372,Severe headache,3797
+5373,Urinary symptoms,3354
+5374,Injury assessment,3720
+5375,Abnormal laboratory values,3956
+5376,Shortness of breath,3314
+5377,Severe headache,3499
+5378,Chest discomfort,3500
+5379,Fever and fatigue,3977
+5380,Abnormal laboratory values,3386
+5381,Shortness of breath,3481
+5382,Urinary symptoms,3132
+5383,Routine postoperative follow-up,3181
+5384,Injury assessment,3772
+5385,Urinary symptoms,3968
+5386,Dizziness,3181
+5387,Fever and fatigue,3857
+5388,Dizziness,3245
+5389,Injury assessment,4027
+5390,Routine postoperative follow-up,3682
+5391,Chest discomfort,3476
+5392,Fever and fatigue,3296
+5393,Dizziness,3112
+5394,Severe headache,3661
+5395,Injury assessment,3214
+5396,Urinary symptoms,3608
+5397,Dizziness,3281
+5398,Abnormal laboratory values,3665
+5399,Abnormal laboratory values,3941
+5400,Injury assessment,3754

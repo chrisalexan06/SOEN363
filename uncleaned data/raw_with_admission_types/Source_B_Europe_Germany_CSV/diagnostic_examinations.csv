@@ -1,0 +1,351 @@
+UntersuchungNr,diagnostic_order_id,FallNr,referring_physician_id,examination_type,examination_date,examination_time,examination_status,body_area_examined,radiology_technician,link_to_images,result_value,result_unit
+1,1,18,38,BloodTest,26.03.2025,13.00,Completed,Blood,Tech-02,k.A.,8.93,reference-unit
+2,2,35,19,CT Examination,31.05.2025,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-2,9.49,reference-unit
+3,3,52,3,electrodiagram,11.01.2025,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-3,5.46,reference-unit
+4,4,69,41,BloodTest,02.11.2024,13.00,Completed,Blood,Tech-02,k.A.,6.68,reference-unit
+5,5,86,33,CT Examination,12.07.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-5,8.38,reference-unit
+6,6,103,30,electrodiagram,23.08.2024,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-6,5.92,reference-unit
+7,7,120,20,BloodTest,14.03.2025,13.00,Completed,Blood,Tech-01,k.A.,3.54,reference-unit
+8,8,137,24,CT Examination,07.03.2025,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-8,3.52,reference-unit
+9,9,154,30,electrodiagram,29.03.2024,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-9,4.16,reference-unit
+10,10,171,34,BloodTest,04.04.2024,13.00,Completed,Blood,Tech-01,k.A.,8.64,reference-unit
+11,11,188,7,CT Examination,07.12.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-11,7.38,reference-unit
+12,12,205,24,electrodiagram,24.03.2025,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-12,5.27,reference-unit
+13,13,222,17,BloodTest,19.06.2025,13.00,Completed,Blood,k.A.,k.A.,3.78,reference-unit
+14,14,239,21,CT Examination,12.05.2025,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-14,5.67,reference-unit
+15,15,256,54,electrodiagram,29.05.2025,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-15,10.95,reference-unit
+16,16,273,12,BloodTest,21.01.2025,13.00,Completed,Blood,Tech-01,k.A.,9.66,reference-unit
+17,17,290,28,CT Examination,22.09.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-17,6.72,reference-unit
+18,18,307,49,electrodiagram,07.10.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-18,10.66,reference-unit
+19,19,324,26,BloodTest,08.03.2025,13.00,Completed,Blood,Tech-02,k.A.,6.6,reference-unit
+20,20,341,50,CT Examination,24.09.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-20,8.97,reference-unit
+21,21,358,51,electrodiagram,04.09.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-21,10.18,reference-unit
+22,22,375,43,BloodTest,31.01.2024,13.00,Completed,Blood,k.A.,k.A.,8.63,reference-unit
+23,23,392,40,CT Examination,14.09.2024,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-23,7.07,reference-unit
+24,24,409,44,electrodiagram,01.01.2025,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-24,9.24,reference-unit
+25,25,426,9,BloodTest,08.04.2024,13.00,Completed,Blood,k.A.,k.A.,9.29,reference-unit
+26,26,443,23,CT Examination,02.05.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-26,6.65,reference-unit
+27,27,460,39,electrodiagram,23.10.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-27,4.56,reference-unit
+28,28,477,51,BloodTest,13.08.2024,13.00,Completed,Blood,Tech-01,k.A.,7.64,reference-unit
+29,29,494,20,CT Examination,18.06.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-29,10.7,reference-unit
+30,30,511,30,electrodiagram,24.04.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-30,8.41,reference-unit
+31,31,528,43,BloodTest,27.04.2025,13.00,Completed,Blood,k.A.,k.A.,4.68,reference-unit
+32,32,545,41,CT Examination,15.03.2025,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-32,5.68,reference-unit
+33,33,562,31,electrodiagram,25.01.2025,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-33,9.84,reference-unit
+34,34,579,37,BloodTest,26.10.2024,13.00,Completed,Blood,k.A.,k.A.,9.87,reference-unit
+35,35,596,10,CT Examination,15.03.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-35,4.99,reference-unit
+36,36,613,33,electrodiagram,12.12.2024,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-36,5.67,reference-unit
+37,37,630,28,BloodTest,13.01.2025,13.00,Completed,Blood,Tech-02,k.A.,3.85,reference-unit
+38,38,647,44,CT Examination,22.06.2025,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-38,10.71,reference-unit
+39,39,664,32,electrodiagram,02.12.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-39,7.67,reference-unit
+40,40,681,39,BloodTest,13.01.2025,13.00,Completed,Blood,k.A.,k.A.,10.03,reference-unit
+41,41,698,46,CT Examination,08.03.2025,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-41,6.54,reference-unit
+42,42,715,5,electrodiagram,06.04.2025,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-42,3.98,reference-unit
+43,43,732,34,BloodTest,08.05.2025,13.00,Completed,Blood,Tech-02,k.A.,7.49,reference-unit
+44,44,749,22,CT Examination,01.03.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-44,10.66,reference-unit
+45,45,766,46,electrodiagram,22.04.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-45,9.5,reference-unit
+46,46,783,26,BloodTest,23.04.2024,13.00,Completed,Blood,Tech-02,k.A.,3.27,reference-unit
+47,47,800,33,CT Examination,12.01.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-47,10.39,reference-unit
+48,48,817,34,electrodiagram,19.07.2024,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-48,9.15,reference-unit
+49,49,834,34,BloodTest,15.06.2024,13.00,Completed,Blood,Tech-02,k.A.,6.52,reference-unit
+50,50,851,7,CT Examination,01.07.2025,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-50,8.34,reference-unit
+51,51,868,22,electrodiagram,14.07.2024,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-51,4.18,reference-unit
+52,52,885,7,BloodTest,19.06.2024,13.00,Completed,Blood,Tech-01,k.A.,10.33,reference-unit
+53,53,902,34,CT Examination,14.03.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-53,4.46,reference-unit
+54,54,919,33,electrodiagram,21.04.2025,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-54,5.96,reference-unit
+55,55,936,1,BloodTest,06.12.2024,13.00,Completed,Blood,k.A.,k.A.,5.82,reference-unit
+56,56,953,32,CT Examination,19.11.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-56,3.03,reference-unit
+57,57,970,12,electrodiagram,08.01.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-57,3.21,reference-unit
+58,58,987,24,BloodTest,28.02.2025,13.00,Completed,Blood,Tech-02,k.A.,9.11,reference-unit
+59,59,1004,16,CT Examination,18.08.2026,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-59,10.85,reference-unit
+60,60,1021,33,electrodiagram,03.10.2026,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-60,4.55,reference-unit
+61,61,1038,20,BloodTest,27.07.2026,13.00,Completed,Blood,Tech-01,k.A.,4.06,reference-unit
+62,62,1055,4,CT Examination,31.05.2026,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-62,3.85,reference-unit
+63,63,1072,13,electrodiagram,20.09.2025,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-63,9.1,reference-unit
+64,64,1089,43,BloodTest,15.10.2025,13.00,Completed,Blood,Tech-01,k.A.,9.53,reference-unit
+65,65,1106,15,CT Examination,24.04.2026,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-65,8.06,reference-unit
+66,66,1123,36,electrodiagram,13.08.2026,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-66,7.85,reference-unit
+67,67,1140,28,BloodTest,10.01.2026,13.00,Completed,Blood,k.A.,k.A.,7.03,reference-unit
+68,68,1157,11,CT Examination,21.12.2025,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-68,8.89,reference-unit
+69,69,1174,52,electrodiagram,12.04.2026,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-69,7.41,reference-unit
+70,70,1191,23,BloodTest,27.02.2026,13.00,Completed,Blood,Tech-01,k.A.,7.65,reference-unit
+71,71,1208,9,CT Examination,13.06.2026,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-71,6.59,reference-unit
+72,72,1225,31,electrodiagram,25.09.2026,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-72,9.96,reference-unit
+73,73,1242,3,BloodTest,25.04.2026,13.00,Completed,Blood,Tech-02,k.A.,4.35,reference-unit
+74,74,1259,8,CT Examination,18.06.2026,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-74,10.06,reference-unit
+75,75,1276,39,electrodiagram,17.03.2026,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-75,9.0,reference-unit
+76,76,1293,37,BloodTest,05.03.2026,13.00,Completed,Blood,Tech-02,k.A.,10.42,reference-unit
+77,77,1310,8,CT Examination,28.04.2026,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-77,6.7,reference-unit
+78,78,1327,54,electrodiagram,20.07.2026,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-78,7.01,reference-unit
+79,79,1344,53,BloodTest,04.10.2025,13.00,Completed,Blood,k.A.,k.A.,10.6,reference-unit
+80,80,11,54,CT Examination,20.03.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-80,3.54,reference-unit
+81,1,18,38,BloodTest,26.03.2025,13.00,Completed,Blood,Tech-01,k.A.,5.78,reference-unit
+82,2,35,19,CT Examination,31.05.2025,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-82,8.5,reference-unit
+83,3,52,3,electrodiagram,10.01.2025,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-83,6.55,reference-unit
+84,4,69,41,BloodTest,31.10.2024,13.00,Completed,Blood,Tech-01,k.A.,10.85,reference-unit
+85,5,86,33,CT Examination,12.07.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-85,3.81,reference-unit
+86,6,103,30,electrodiagram,23.08.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-86,9.57,reference-unit
+87,7,120,20,BloodTest,12.03.2025,13.00,Completed,Blood,Tech-02,k.A.,7.84,reference-unit
+88,8,137,24,CT Examination,08.03.2025,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-88,7.76,reference-unit
+89,9,154,30,electrodiagram,29.03.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-89,4.19,reference-unit
+90,10,171,34,BloodTest,02.04.2024,13.00,Completed,Blood,Tech-02,k.A.,8.62,reference-unit
+91,11,188,7,CT Examination,09.12.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-91,8.2,reference-unit
+92,12,205,24,electrodiagram,23.03.2025,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-92,6.46,reference-unit
+93,13,222,17,BloodTest,18.06.2025,13.00,Completed,Blood,Tech-02,k.A.,8.19,reference-unit
+94,14,239,21,CT Examination,11.05.2025,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-94,9.3,reference-unit
+95,15,256,54,electrodiagram,27.05.2025,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-95,5.25,reference-unit
+96,16,273,12,BloodTest,22.01.2025,13.00,Completed,Blood,Tech-02,k.A.,9.17,reference-unit
+97,17,290,28,CT Examination,21.09.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-97,6.79,reference-unit
+98,18,307,49,electrodiagram,08.10.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-98,4.14,reference-unit
+99,19,324,26,BloodTest,07.03.2025,13.00,Completed,Blood,Tech-01,k.A.,6.63,reference-unit
+100,20,341,50,CT Examination,24.09.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-100,8.05,reference-unit
+101,21,358,51,electrodiagram,04.09.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-101,3.22,reference-unit
+102,22,375,43,BloodTest,30.01.2024,13.00,Completed,Blood,Tech-01,k.A.,6.72,reference-unit
+103,23,392,40,CT Examination,16.09.2024,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-103,7.36,reference-unit
+104,24,409,44,electrodiagram,03.01.2025,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-104,6.21,reference-unit
+105,25,426,9,BloodTest,07.04.2024,13.00,Completed,Blood,Tech-02,k.A.,6.82,reference-unit
+106,26,443,23,CT Examination,02.05.2024,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-106,8.28,reference-unit
+107,27,460,39,electrodiagram,21.10.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-107,4.97,reference-unit
+108,28,477,51,BloodTest,14.08.2024,13.00,Completed,Blood,k.A.,k.A.,7.58,reference-unit
+109,29,494,20,CT Examination,16.06.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-109,10.9,reference-unit
+110,30,511,30,electrodiagram,23.04.2024,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-110,10.17,reference-unit
+111,31,528,43,BloodTest,27.04.2025,13.00,Completed,Blood,k.A.,k.A.,7.55,reference-unit
+112,32,545,41,CT Examination,14.03.2025,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-112,4.5,reference-unit
+113,33,562,31,electrodiagram,26.01.2025,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-113,6.84,reference-unit
+114,34,579,37,BloodTest,25.10.2024,13.00,Completed,Blood,Tech-02,k.A.,4.16,reference-unit
+115,35,596,10,CT Examination,16.03.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-115,6.14,reference-unit
+116,36,613,33,electrodiagram,10.12.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-116,3.48,reference-unit
+117,37,630,28,BloodTest,12.01.2025,13.00,Completed,Blood,Tech-01,k.A.,6.5,reference-unit
+118,38,647,44,CT Examination,21.06.2025,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-118,7.0,reference-unit
+119,39,664,32,electrodiagram,01.12.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-119,9.88,reference-unit
+120,40,681,39,BloodTest,14.01.2025,13.00,Completed,Blood,Tech-01,k.A.,8.98,reference-unit
+121,41,698,46,CT Examination,10.03.2025,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-121,10.29,reference-unit
+122,42,715,5,electrodiagram,04.04.2025,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-122,5.25,reference-unit
+123,43,732,34,BloodTest,08.05.2025,13.00,Completed,Blood,Tech-01,k.A.,10.58,reference-unit
+124,44,749,22,CT Examination,02.03.2024,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-124,5.16,reference-unit
+125,45,766,46,electrodiagram,22.04.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-125,3.16,reference-unit
+126,46,783,26,BloodTest,23.04.2024,13.00,Completed,Blood,k.A.,k.A.,7.1,reference-unit
+127,47,800,33,CT Examination,13.01.2024,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-127,8.49,reference-unit
+128,48,817,34,electrodiagram,21.07.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-128,4.65,reference-unit
+129,49,834,34,BloodTest,17.06.2024,13.00,Completed,Blood,Tech-02,k.A.,8.19,reference-unit
+130,50,851,7,CT Examination,30.06.2025,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-130,3.97,reference-unit
+131,51,868,22,electrodiagram,13.07.2024,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-131,4.18,reference-unit
+132,52,885,7,BloodTest,18.06.2024,13.00,Completed,Blood,Tech-02,k.A.,7.49,reference-unit
+133,53,902,34,CT Examination,15.03.2024,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-133,5.05,reference-unit
+134,54,919,33,electrodiagram,21.04.2025,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-134,5.37,reference-unit
+135,55,936,1,BloodTest,06.12.2024,13.00,Completed,Blood,k.A.,k.A.,8.53,reference-unit
+136,56,953,32,CT Examination,17.11.2024,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-136,10.36,reference-unit
+137,57,970,12,electrodiagram,06.01.2024,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-137,3.69,reference-unit
+138,58,987,24,BloodTest,28.02.2025,13.00,Completed,Blood,k.A.,k.A.,6.51,reference-unit
+139,59,1004,16,CT Examination,19.08.2026,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-139,4.29,reference-unit
+140,60,1021,33,electrodiagram,02.10.2026,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-140,8.36,reference-unit
+141,61,1038,20,BloodTest,28.07.2026,13.00,Completed,Blood,Tech-02,k.A.,7.93,reference-unit
+142,62,1055,4,CT Examination,31.05.2026,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-142,4.62,reference-unit
+143,63,1072,13,electrodiagram,22.09.2025,13.00,Completed,Chest,k.A.,FAKE-IMAGE-B-143,5.61,reference-unit
+144,64,1089,43,BloodTest,16.10.2025,13.00,Completed,Blood,k.A.,k.A.,8.35,reference-unit
+145,65,1106,15,CT Examination,26.04.2026,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-145,4.54,reference-unit
+146,66,1123,36,electrodiagram,12.08.2026,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-146,10.85,reference-unit
+147,67,1140,28,BloodTest,12.01.2026,13.00,Completed,Blood,k.A.,k.A.,10.75,reference-unit
+148,68,1157,11,CT Examination,21.12.2025,13.00,Completed,Abdomen,k.A.,FAKE-IMAGE-B-148,4.77,reference-unit
+149,69,1174,52,electrodiagram,12.04.2026,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-149,6.24,reference-unit
+150,70,1191,23,BloodTest,26.02.2026,13.00,Completed,Blood,Tech-01,k.A.,9.53,reference-unit
+151,71,1208,9,CT Examination,13.06.2026,13.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-151,10.25,reference-unit
+152,72,1225,31,electrodiagram,25.09.2026,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-152,3.47,reference-unit
+153,73,1242,3,BloodTest,27.04.2026,13.00,Completed,Blood,Tech-01,k.A.,6.45,reference-unit
+154,74,1259,8,CT Examination,16.06.2026,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-154,10.4,reference-unit
+155,75,1276,39,electrodiagram,16.03.2026,13.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-155,4.77,reference-unit
+156,76,1293,37,BloodTest,04.03.2026,13.00,Completed,Blood,Tech-01,k.A.,8.19,reference-unit
+157,77,1310,8,CT Examination,26.04.2026,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-157,4.33,reference-unit
+158,78,1327,54,electrodiagram,20.07.2026,13.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-158,4.11,reference-unit
+159,79,1344,53,BloodTest,02.10.2025,13.00,Completed,Blood,Tech-01,k.A.,4.24,reference-unit
+160,80,11,54,CT Examination,21.03.2024,13.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-160,4.19,reference-unit
+10001,81,28,52,X-ray,10.08.2024,14.30.00,Completed,Head,Tech-01,FAKE-IMAGE-B-RAD-0001,k.A.,k.A.
+10002,82,45,27,Ultrasound,13.06.2025,14.30.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-RAD-0002,k.A.,k.A.
+10003,83,62,31,MRI,02.02.2025,14.30.00,Completed,Abdomen,Tech-03,FAKE-IMAGE-B-RAD-0003,k.A.,k.A.
+10004,84,79,11,X-ray,23.02.2024,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0004,k.A.,k.A.
+10005,85,96,13,Ultrasound,17.10.2024,14.30.00,Completed,Abdomen,Tech-05,FAKE-IMAGE-B-RAD-0005,k.A.,k.A.
+10006,86,113,40,MRI,17.05.2024,14.30.00,Completed,Chest,Tech-06,FAKE-IMAGE-B-RAD-0006,k.A.,k.A.
+10007,87,130,35,X-ray,21.05.2025,14.30.00,Completed,Extremity,Tech-07,FAKE-IMAGE-B-RAD-0007,k.A.,k.A.
+10008,88,147,51,Ultrasound,11.04.2025,14.30.00,Completed,Head,Tech-08,FAKE-IMAGE-B-RAD-0008,k.A.,k.A.
+10009,89,164,35,MRI,14.05.2024,14.30.00,Completed,Head,Tech-09,FAKE-IMAGE-B-RAD-0009,k.A.,k.A.
+10010,90,181,31,X-ray,30.01.2024,14.30.00,Completed,Chest,Tech-10,FAKE-IMAGE-B-RAD-0010,k.A.,k.A.
+10011,91,198,21,Ultrasound,27.01.2024,14.30.00,Completed,Extremity,Tech-11,FAKE-IMAGE-B-RAD-0011,k.A.,k.A.
+10012,92,215,20,MRI,02.01.2025,14.30.00,Completed,Chest,Tech-12,FAKE-IMAGE-B-RAD-0012,k.A.,k.A.
+10013,93,232,8,X-ray,19.01.2025,14.30.00,Completed,Head,Tech-13,FAKE-IMAGE-B-RAD-0013,k.A.,k.A.
+10014,94,249,40,Ultrasound,21.05.2025,14.30.00,Completed,Chest,Tech-14,FAKE-IMAGE-B-RAD-0014,k.A.,k.A.
+10015,95,266,42,MRI,30.09.2024,14.30.00,Completed,Head,Tech-15,FAKE-IMAGE-B-RAD-0015,k.A.,k.A.
+10016,96,283,23,X-ray,30.03.2024,14.30.00,Completed,Head,Tech-16,FAKE-IMAGE-B-RAD-0016,k.A.,k.A.
+10017,97,300,37,Ultrasound,04.05.2024,14.30.00,Completed,Abdomen,Tech-00,FAKE-IMAGE-B-RAD-0017,k.A.,k.A.
+10018,98,317,53,MRI,26.04.2024,14.30.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-RAD-0018,k.A.,k.A.
+10019,99,334,11,X-ray,10.05.2025,14.30.00,Completed,Extremity,Tech-02,FAKE-IMAGE-B-RAD-0019,k.A.,k.A.
+10020,100,351,10,Ultrasound,05.04.2024,14.30.00,Completed,Abdomen,Tech-03,FAKE-IMAGE-B-RAD-0020,k.A.,k.A.
+10021,101,368,43,MRI,26.02.2025,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0021,k.A.,k.A.
+10022,102,385,50,X-ray,04.03.2025,14.30.00,Completed,Chest,Tech-05,FAKE-IMAGE-B-RAD-0022,k.A.,k.A.
+10023,103,402,9,Ultrasound,04.02.2024,14.30.00,Completed,Extremity,Tech-06,FAKE-IMAGE-B-RAD-0023,k.A.,k.A.
+10024,104,419,38,MRI,10.02.2024,14.30.00,Completed,Chest,Tech-07,FAKE-IMAGE-B-RAD-0024,k.A.,k.A.
+10025,105,436,14,X-ray,16.09.2024,14.30.00,Completed,Head,Tech-08,FAKE-IMAGE-B-RAD-0025,k.A.,k.A.
+10026,106,453,38,Ultrasound,28.11.2024,14.30.00,Completed,Chest,Tech-09,FAKE-IMAGE-B-RAD-0026,k.A.,k.A.
+10027,107,470,25,MRI,18.02.2024,14.30.00,Completed,Chest,Tech-10,FAKE-IMAGE-B-RAD-0027,k.A.,k.A.
+10028,108,487,5,X-ray,01.03.2024,14.30.00,Completed,Chest,Tech-11,FAKE-IMAGE-B-RAD-0028,k.A.,k.A.
+10029,109,504,1,Ultrasound,24.02.2025,14.30.00,Completed,Abdomen,Tech-12,FAKE-IMAGE-B-RAD-0029,k.A.,k.A.
+10030,110,521,51,MRI,01.05.2025,14.30.00,Completed,Extremity,Tech-13,FAKE-IMAGE-B-RAD-0030,k.A.,k.A.
+10031,111,538,3,X-ray,30.12.2024,14.30.00,Completed,Head,Tech-14,FAKE-IMAGE-B-RAD-0031,k.A.,k.A.
+10032,112,555,41,Ultrasound,22.01.2025,14.30.00,Completed,Chest,Tech-15,FAKE-IMAGE-B-RAD-0032,k.A.,k.A.
+10033,113,572,17,MRI,25.04.2024,14.30.00,Completed,Abdomen,Tech-16,FAKE-IMAGE-B-RAD-0033,k.A.,k.A.
+10034,114,589,17,X-ray,04.11.2024,14.30.00,Completed,Chest,Tech-00,FAKE-IMAGE-B-RAD-0034,k.A.,k.A.
+10035,115,606,48,Ultrasound,09.01.2024,14.30.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-RAD-0035,k.A.,k.A.
+10036,116,623,8,MRI,04.10.2024,14.30.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-RAD-0036,k.A.,k.A.
+10037,117,640,21,X-ray,21.04.2024,14.30.00,Completed,Chest,Tech-03,FAKE-IMAGE-B-RAD-0037,k.A.,k.A.
+10038,118,657,2,Ultrasound,22.03.2024,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0038,k.A.,k.A.
+10039,119,674,48,MRI,24.04.2025,14.30.00,Completed,Abdomen,Tech-05,FAKE-IMAGE-B-RAD-0039,k.A.,k.A.
+10040,120,691,49,X-ray,26.11.2024,14.30.00,Completed,Head,Tech-06,FAKE-IMAGE-B-RAD-0040,k.A.,k.A.
+10041,121,708,42,Ultrasound,26.03.2025,14.30.00,Completed,Extremity,Tech-07,FAKE-IMAGE-B-RAD-0041,k.A.,k.A.
+10042,122,725,51,MRI,08.05.2024,14.30.00,Completed,Abdomen,Tech-08,FAKE-IMAGE-B-RAD-0042,k.A.,k.A.
+10043,123,742,55,X-ray,13.04.2024,14.30.00,Completed,Chest,Tech-09,FAKE-IMAGE-B-RAD-0043,k.A.,k.A.
+10044,124,759,34,Ultrasound,31.03.2024,14.30.00,Completed,Head,Tech-10,FAKE-IMAGE-B-RAD-0044,k.A.,k.A.
+10045,125,776,7,MRI,19.02.2024,14.30.00,Completed,Chest,Tech-11,FAKE-IMAGE-B-RAD-0045,k.A.,k.A.
+10046,126,793,6,X-ray,13.06.2025,14.30.00,Completed,Extremity,Tech-12,FAKE-IMAGE-B-RAD-0046,k.A.,k.A.
+10047,127,810,19,Ultrasound,12.06.2025,14.30.00,Completed,Abdomen,Tech-13,FAKE-IMAGE-B-RAD-0047,k.A.,k.A.
+10048,128,827,10,MRI,03.08.2024,14.30.00,Completed,Abdomen,Tech-14,FAKE-IMAGE-B-RAD-0048,k.A.,k.A.
+10049,129,844,40,X-ray,09.07.2024,14.30.00,Completed,Extremity,Tech-15,FAKE-IMAGE-B-RAD-0049,k.A.,k.A.
+10050,130,861,41,Ultrasound,01.11.2024,14.30.00,Completed,Head,Tech-16,FAKE-IMAGE-B-RAD-0050,k.A.,k.A.
+10051,131,878,36,MRI,25.12.2024,14.30.00,Completed,Head,Tech-00,FAKE-IMAGE-B-RAD-0051,k.A.,k.A.
+10052,132,895,9,X-ray,31.05.2024,14.30.00,Completed,Head,Tech-01,FAKE-IMAGE-B-RAD-0052,k.A.,k.A.
+10053,133,912,27,Ultrasound,07.02.2025,14.30.00,Completed,Extremity,Tech-02,FAKE-IMAGE-B-RAD-0053,k.A.,k.A.
+10054,134,929,2,MRI,12.05.2025,14.30.00,Completed,Extremity,Tech-03,FAKE-IMAGE-B-RAD-0054,k.A.,k.A.
+10055,135,946,16,X-ray,17.05.2024,14.30.00,Completed,Extremity,Tech-04,FAKE-IMAGE-B-RAD-0055,k.A.,k.A.
+10056,136,963,31,Ultrasound,07.05.2024,14.30.00,Completed,Head,Tech-05,FAKE-IMAGE-B-RAD-0056,k.A.,k.A.
+10057,137,980,7,MRI,24.06.2025,14.30.00,Completed,Chest,Tech-06,FAKE-IMAGE-B-RAD-0057,k.A.,k.A.
+10058,138,997,8,X-ray,27.02.2024,14.30.00,Completed,Head,Tech-07,FAKE-IMAGE-B-RAD-0058,k.A.,k.A.
+10059,139,1014,50,Ultrasound,29.08.2025,14.30.00,Completed,Abdomen,Tech-08,FAKE-IMAGE-B-RAD-0059,k.A.,k.A.
+10060,140,1031,49,MRI,29.04.2026,14.30.00,Completed,Head,Tech-09,FAKE-IMAGE-B-RAD-0060,k.A.,k.A.
+10061,141,1048,39,X-ray,01.08.2026,14.30.00,Completed,Extremity,Tech-10,FAKE-IMAGE-B-RAD-0061,k.A.,k.A.
+10062,142,1065,15,Ultrasound,19.09.2025,14.30.00,Completed,Abdomen,Tech-11,FAKE-IMAGE-B-RAD-0062,k.A.,k.A.
+10063,143,1082,23,MRI,16.11.2025,14.30.00,Completed,Extremity,Tech-12,FAKE-IMAGE-B-RAD-0063,k.A.,k.A.
+10064,144,1099,32,X-ray,16.02.2026,14.30.00,Completed,Head,Tech-13,FAKE-IMAGE-B-RAD-0064,k.A.,k.A.
+10065,145,1116,45,Ultrasound,17.08.2026,14.30.00,Completed,Chest,Tech-14,FAKE-IMAGE-B-RAD-0065,k.A.,k.A.
+10066,146,1133,32,MRI,17.06.2026,14.30.00,Completed,Abdomen,Tech-15,FAKE-IMAGE-B-RAD-0066,k.A.,k.A.
+10067,147,1150,49,X-ray,15.09.2026,14.30.00,Completed,Abdomen,Tech-16,FAKE-IMAGE-B-RAD-0067,k.A.,k.A.
+10068,148,1167,46,Ultrasound,14.04.2026,14.30.00,Completed,Head,Tech-00,FAKE-IMAGE-B-RAD-0068,k.A.,k.A.
+10069,149,1184,30,MRI,11.03.2026,14.30.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-RAD-0069,k.A.,k.A.
+10070,150,1201,26,X-ray,19.05.2026,14.30.00,Completed,Extremity,Tech-02,FAKE-IMAGE-B-RAD-0070,k.A.,k.A.
+10071,151,1218,44,Ultrasound,26.08.2025,14.30.00,Completed,Abdomen,Tech-03,FAKE-IMAGE-B-RAD-0071,k.A.,k.A.
+10072,152,1235,51,MRI,21.09.2025,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0072,k.A.,k.A.
+10073,153,1252,12,X-ray,29.06.2026,14.30.00,Completed,Abdomen,Tech-05,FAKE-IMAGE-B-RAD-0073,k.A.,k.A.
+10074,154,1269,47,Ultrasound,02.01.2026,14.30.00,Completed,Extremity,Tech-06,FAKE-IMAGE-B-RAD-0074,k.A.,k.A.
+10075,155,1286,23,MRI,12.11.2025,14.30.00,Completed,Chest,Tech-07,FAKE-IMAGE-B-RAD-0075,k.A.,k.A.
+10076,156,1303,6,X-ray,21.10.2026,14.30.00,Completed,Head,Tech-08,FAKE-IMAGE-B-RAD-0076,k.A.,k.A.
+10077,157,1320,9,Ultrasound,28.12.2025,14.30.00,Completed,Extremity,Tech-09,FAKE-IMAGE-B-RAD-0077,k.A.,k.A.
+10078,158,1337,1,MRI,24.09.2025,14.30.00,Completed,Abdomen,Tech-10,FAKE-IMAGE-B-RAD-0078,k.A.,k.A.
+10079,159,4,43,X-ray,17.03.2025,14.30.00,Completed,Chest,Tech-11,FAKE-IMAGE-B-RAD-0079,k.A.,k.A.
+10080,160,21,15,Ultrasound,17.03.2025,14.30.00,Completed,Head,Tech-12,FAKE-IMAGE-B-RAD-0080,k.A.,k.A.
+10081,81,28,52,X-ray,10.08.2024,14.30.00,Completed,Chest,Tech-13,FAKE-IMAGE-B-RAD-0081,k.A.,k.A.
+10082,82,45,27,Ultrasound,13.06.2025,14.30.00,Completed,Abdomen,Tech-14,FAKE-IMAGE-B-RAD-0082,k.A.,k.A.
+10083,83,62,31,MRI,02.02.2025,14.30.00,Completed,Head,Tech-15,FAKE-IMAGE-B-RAD-0083,k.A.,k.A.
+10084,84,79,11,X-ray,23.02.2024,14.30.00,Completed,Extremity,Tech-16,FAKE-IMAGE-B-RAD-0084,k.A.,k.A.
+10085,85,96,13,Ultrasound,17.10.2024,14.30.00,Completed,Extremity,Tech-00,FAKE-IMAGE-B-RAD-0085,k.A.,k.A.
+10086,86,113,40,MRI,17.05.2024,14.30.00,Completed,Head,Tech-01,FAKE-IMAGE-B-RAD-0086,k.A.,k.A.
+10087,87,130,35,X-ray,21.05.2025,14.30.00,Completed,Extremity,Tech-02,FAKE-IMAGE-B-RAD-0087,k.A.,k.A.
+10088,88,147,51,Ultrasound,11.04.2025,14.30.00,Completed,Extremity,Tech-03,FAKE-IMAGE-B-RAD-0088,k.A.,k.A.
+10089,89,164,35,MRI,14.05.2024,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0089,k.A.,k.A.
+10090,90,181,31,X-ray,30.01.2024,14.30.00,Completed,Extremity,Tech-05,FAKE-IMAGE-B-RAD-0090,k.A.,k.A.
+10091,91,198,21,Ultrasound,27.01.2024,14.30.00,Completed,Chest,Tech-06,FAKE-IMAGE-B-RAD-0091,k.A.,k.A.
+10092,92,215,20,MRI,02.01.2025,14.30.00,Completed,Abdomen,Tech-07,FAKE-IMAGE-B-RAD-0092,k.A.,k.A.
+10093,93,232,8,X-ray,19.01.2025,14.30.00,Completed,Chest,Tech-08,FAKE-IMAGE-B-RAD-0093,k.A.,k.A.
+10094,94,249,40,Ultrasound,21.05.2025,14.30.00,Completed,Extremity,Tech-09,FAKE-IMAGE-B-RAD-0094,k.A.,k.A.
+10095,95,266,42,MRI,30.09.2024,14.30.00,Completed,Head,Tech-10,FAKE-IMAGE-B-RAD-0095,k.A.,k.A.
+10096,96,283,23,X-ray,30.03.2024,14.30.00,Completed,Extremity,Tech-11,FAKE-IMAGE-B-RAD-0096,k.A.,k.A.
+10097,97,300,37,Ultrasound,04.05.2024,14.30.00,Completed,Extremity,Tech-12,FAKE-IMAGE-B-RAD-0097,k.A.,k.A.
+10098,98,317,53,MRI,26.04.2024,14.30.00,Completed,Head,Tech-13,FAKE-IMAGE-B-RAD-0098,k.A.,k.A.
+10099,99,334,11,X-ray,10.05.2025,14.30.00,Completed,Extremity,Tech-14,FAKE-IMAGE-B-RAD-0099,k.A.,k.A.
+10100,100,351,10,Ultrasound,05.04.2024,14.30.00,Completed,Chest,Tech-15,FAKE-IMAGE-B-RAD-0100,k.A.,k.A.
+10101,101,368,43,MRI,26.02.2025,14.30.00,Completed,Chest,Tech-16,FAKE-IMAGE-B-RAD-0101,k.A.,k.A.
+10102,102,385,50,X-ray,04.03.2025,14.30.00,Completed,Head,Tech-00,FAKE-IMAGE-B-RAD-0102,k.A.,k.A.
+10103,103,402,9,Ultrasound,04.02.2024,14.30.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-RAD-0103,k.A.,k.A.
+10104,104,419,38,MRI,10.02.2024,14.30.00,Completed,Chest,Tech-02,FAKE-IMAGE-B-RAD-0104,k.A.,k.A.
+10105,105,436,14,X-ray,16.09.2024,14.30.00,Completed,Head,Tech-03,FAKE-IMAGE-B-RAD-0105,k.A.,k.A.
+10106,106,453,38,Ultrasound,28.11.2024,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0106,k.A.,k.A.
+10107,107,470,25,MRI,18.02.2024,14.30.00,Completed,Abdomen,Tech-05,FAKE-IMAGE-B-RAD-0107,k.A.,k.A.
+10108,108,487,5,X-ray,01.03.2024,14.30.00,Completed,Abdomen,Tech-06,FAKE-IMAGE-B-RAD-0108,k.A.,k.A.
+10109,109,504,1,Ultrasound,24.02.2025,14.30.00,Completed,Extremity,Tech-07,FAKE-IMAGE-B-RAD-0109,k.A.,k.A.
+10110,110,521,51,MRI,01.05.2025,14.30.00,Completed,Chest,Tech-08,FAKE-IMAGE-B-RAD-0110,k.A.,k.A.
+10111,111,538,3,X-ray,30.12.2024,14.30.00,Completed,Head,Tech-09,FAKE-IMAGE-B-RAD-0111,k.A.,k.A.
+10112,112,555,41,Ultrasound,22.01.2025,14.30.00,Completed,Abdomen,Tech-10,FAKE-IMAGE-B-RAD-0112,k.A.,k.A.
+10113,113,572,17,MRI,25.04.2024,14.30.00,Completed,Extremity,Tech-11,FAKE-IMAGE-B-RAD-0113,k.A.,k.A.
+10114,114,589,17,X-ray,04.11.2024,14.30.00,Completed,Abdomen,Tech-12,FAKE-IMAGE-B-RAD-0114,k.A.,k.A.
+10115,115,606,48,Ultrasound,09.01.2024,14.30.00,Completed,Head,Tech-13,FAKE-IMAGE-B-RAD-0115,k.A.,k.A.
+10116,116,623,8,MRI,04.10.2024,14.30.00,Completed,Abdomen,Tech-14,FAKE-IMAGE-B-RAD-0116,k.A.,k.A.
+10117,117,640,21,X-ray,21.04.2024,14.30.00,Completed,Chest,Tech-15,FAKE-IMAGE-B-RAD-0117,k.A.,k.A.
+10118,118,657,2,Ultrasound,22.03.2024,14.30.00,Completed,Chest,Tech-16,FAKE-IMAGE-B-RAD-0118,k.A.,k.A.
+10119,119,674,48,MRI,24.04.2025,14.30.00,Completed,Chest,Tech-00,FAKE-IMAGE-B-RAD-0119,k.A.,k.A.
+10120,120,691,49,X-ray,26.11.2024,14.30.00,Completed,Extremity,Tech-01,FAKE-IMAGE-B-RAD-0120,k.A.,k.A.
+10121,121,708,42,Ultrasound,26.03.2025,14.30.00,Completed,Abdomen,Tech-02,FAKE-IMAGE-B-RAD-0121,k.A.,k.A.
+10122,122,725,51,MRI,08.05.2024,14.30.00,Completed,Head,Tech-03,FAKE-IMAGE-B-RAD-0122,k.A.,k.A.
+10123,123,742,55,X-ray,13.04.2024,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0123,k.A.,k.A.
+10124,124,759,34,Ultrasound,31.03.2024,14.30.00,Completed,Extremity,Tech-05,FAKE-IMAGE-B-RAD-0124,k.A.,k.A.
+10125,125,776,7,MRI,19.02.2024,14.30.00,Completed,Chest,Tech-06,FAKE-IMAGE-B-RAD-0125,k.A.,k.A.
+10126,126,793,6,X-ray,13.06.2025,14.30.00,Completed,Head,Tech-07,FAKE-IMAGE-B-RAD-0126,k.A.,k.A.
+10127,127,810,19,Ultrasound,12.06.2025,14.30.00,Completed,Abdomen,Tech-08,FAKE-IMAGE-B-RAD-0127,k.A.,k.A.
+10128,128,827,10,MRI,03.08.2024,14.30.00,Completed,Abdomen,Tech-09,FAKE-IMAGE-B-RAD-0128,k.A.,k.A.
+10129,129,844,40,X-ray,09.07.2024,14.30.00,Completed,Extremity,Tech-10,FAKE-IMAGE-B-RAD-0129,k.A.,k.A.
+10130,130,861,41,Ultrasound,01.11.2024,14.30.00,Completed,Abdomen,Tech-11,FAKE-IMAGE-B-RAD-0130,k.A.,k.A.
+10131,131,878,36,MRI,25.12.2024,14.30.00,Completed,Chest,Tech-12,FAKE-IMAGE-B-RAD-0131,k.A.,k.A.
+10132,132,895,9,X-ray,31.05.2024,14.30.00,Completed,Abdomen,Tech-13,FAKE-IMAGE-B-RAD-0132,k.A.,k.A.
+10133,133,912,27,Ultrasound,07.02.2025,14.30.00,Completed,Chest,Tech-14,FAKE-IMAGE-B-RAD-0133,k.A.,k.A.
+10134,134,929,2,MRI,12.05.2025,14.30.00,Completed,Head,Tech-15,FAKE-IMAGE-B-RAD-0134,k.A.,k.A.
+10135,135,946,16,X-ray,17.05.2024,14.30.00,Completed,Extremity,Tech-16,FAKE-IMAGE-B-RAD-0135,k.A.,k.A.
+10136,136,963,31,Ultrasound,07.05.2024,14.30.00,Completed,Head,Tech-00,FAKE-IMAGE-B-RAD-0136,k.A.,k.A.
+10137,137,980,7,MRI,24.06.2025,14.30.00,Completed,Abdomen,Tech-01,FAKE-IMAGE-B-RAD-0137,k.A.,k.A.
+10138,138,997,8,X-ray,27.02.2024,14.30.00,Completed,Extremity,Tech-02,FAKE-IMAGE-B-RAD-0138,k.A.,k.A.
+10139,139,1014,50,Ultrasound,29.08.2025,14.30.00,Completed,Extremity,Tech-03,FAKE-IMAGE-B-RAD-0139,k.A.,k.A.
+10140,140,1031,49,MRI,29.04.2026,14.30.00,Completed,Head,Tech-04,FAKE-IMAGE-B-RAD-0140,k.A.,k.A.
+10141,141,1048,39,X-ray,01.08.2026,14.30.00,Completed,Abdomen,Tech-05,FAKE-IMAGE-B-RAD-0141,k.A.,k.A.
+10142,142,1065,15,Ultrasound,19.09.2025,14.30.00,Completed,Head,Tech-06,FAKE-IMAGE-B-RAD-0142,k.A.,k.A.
+10143,143,1082,23,MRI,16.11.2025,14.30.00,Completed,Extremity,Tech-07,FAKE-IMAGE-B-RAD-0143,k.A.,k.A.
+10144,144,1099,32,X-ray,16.02.2026,14.30.00,Completed,Abdomen,Tech-08,FAKE-IMAGE-B-RAD-0144,k.A.,k.A.
+10145,145,1116,45,Ultrasound,17.08.2026,14.30.00,Completed,Chest,Tech-09,FAKE-IMAGE-B-RAD-0145,k.A.,k.A.
+10146,146,1133,32,MRI,17.06.2026,14.30.00,Completed,Head,Tech-10,FAKE-IMAGE-B-RAD-0146,k.A.,k.A.
+10147,147,1150,49,X-ray,15.09.2026,14.30.00,Completed,Extremity,Tech-11,FAKE-IMAGE-B-RAD-0147,k.A.,k.A.
+10148,148,1167,46,Ultrasound,14.04.2026,14.30.00,Completed,Extremity,Tech-12,FAKE-IMAGE-B-RAD-0148,k.A.,k.A.
+10149,149,1184,30,MRI,11.03.2026,14.30.00,Completed,Extremity,Tech-13,FAKE-IMAGE-B-RAD-0149,k.A.,k.A.
+10150,150,1201,26,X-ray,19.05.2026,14.30.00,Completed,Chest,Tech-14,FAKE-IMAGE-B-RAD-0150,k.A.,k.A.
+10151,151,1218,44,Ultrasound,26.08.2025,14.30.00,Completed,Chest,Tech-15,FAKE-IMAGE-B-RAD-0151,k.A.,k.A.
+10152,152,1235,51,MRI,21.09.2025,14.30.00,Completed,Head,Tech-16,FAKE-IMAGE-B-RAD-0152,k.A.,k.A.
+10153,153,1252,12,X-ray,29.06.2026,14.30.00,Completed,Head,Tech-00,FAKE-IMAGE-B-RAD-0153,k.A.,k.A.
+10154,154,1269,47,Ultrasound,02.01.2026,14.30.00,Completed,Extremity,Tech-01,FAKE-IMAGE-B-RAD-0154,k.A.,k.A.
+10155,155,1286,23,MRI,12.11.2025,14.30.00,Completed,Extremity,Tech-02,FAKE-IMAGE-B-RAD-0155,k.A.,k.A.
+10156,156,1303,6,X-ray,21.10.2026,14.30.00,Completed,Chest,Tech-03,FAKE-IMAGE-B-RAD-0156,k.A.,k.A.
+10157,157,1320,9,Ultrasound,28.12.2025,14.30.00,Completed,Abdomen,Tech-04,FAKE-IMAGE-B-RAD-0157,k.A.,k.A.
+10158,158,1337,1,MRI,24.09.2025,14.30.00,Completed,Extremity,Tech-05,FAKE-IMAGE-B-RAD-0158,k.A.,k.A.
+10159,159,4,43,X-ray,17.03.2025,14.30.00,Completed,Chest,Tech-06,FAKE-IMAGE-B-RAD-0159,k.A.,k.A.
+10160,160,21,15,Ultrasound,17.03.2025,14.30.00,Completed,Extremity,Tech-07,FAKE-IMAGE-B-RAD-0160,k.A.,k.A.
+10161,81,28,52,X-ray,10.08.2024,14.30.00,Completed,Extremity,Tech-08,FAKE-IMAGE-B-RAD-0161,k.A.,k.A.
+10162,82,45,27,Ultrasound,13.06.2025,14.30.00,Completed,Head,Tech-09,FAKE-IMAGE-B-RAD-0162,k.A.,k.A.
+10163,83,62,31,MRI,02.02.2025,14.30.00,Completed,Abdomen,Tech-10,FAKE-IMAGE-B-RAD-0163,k.A.,k.A.
+10164,84,79,11,X-ray,23.02.2024,14.30.00,Completed,Extremity,Tech-11,FAKE-IMAGE-B-RAD-0164,k.A.,k.A.
+10165,85,96,13,Ultrasound,17.10.2024,14.30.00,Completed,Abdomen,Tech-12,FAKE-IMAGE-B-RAD-0165,k.A.,k.A.
+10166,86,113,40,MRI,17.05.2024,14.30.00,Completed,Extremity,Tech-13,FAKE-IMAGE-B-RAD-0166,k.A.,k.A.
+10167,87,130,35,X-ray,21.05.2025,14.30.00,Completed,Head,Tech-14,FAKE-IMAGE-B-RAD-0167,k.A.,k.A.
+10168,88,147,51,Ultrasound,11.04.2025,14.30.00,Completed,Chest,Tech-15,FAKE-IMAGE-B-RAD-0168,k.A.,k.A.
+10169,89,164,35,MRI,14.05.2024,14.30.00,Completed,Head,Tech-16,FAKE-IMAGE-B-RAD-0169,k.A.,k.A.
+10170,90,181,31,X-ray,30.01.2024,14.30.00,Completed,Head,Tech-00,FAKE-IMAGE-B-RAD-0170,k.A.,k.A.
+10171,91,198,21,Ultrasound,27.01.2024,14.30.00,Completed,Extremity,Tech-01,FAKE-IMAGE-B-RAD-0171,k.A.,k.A.
+10172,92,215,20,MRI,02.01.2025,14.30.00,Completed,Extremity,Tech-02,FAKE-IMAGE-B-RAD-0172,k.A.,k.A.
+10173,93,232,8,X-ray,19.01.2025,14.30.00,Completed,Chest,Tech-03,FAKE-IMAGE-B-RAD-0173,k.A.,k.A.
+10174,94,249,40,Ultrasound,21.05.2025,14.30.00,Completed,Extremity,Tech-04,FAKE-IMAGE-B-RAD-0174,k.A.,k.A.
+10175,95,266,42,MRI,30.09.2024,14.30.00,Completed,Extremity,Tech-05,FAKE-IMAGE-B-RAD-0175,k.A.,k.A.
+10176,96,283,23,X-ray,30.03.2024,14.30.00,Completed,Extremity,Tech-06,FAKE-IMAGE-B-RAD-0176,k.A.,k.A.
+10177,97,300,37,Ultrasound,04.05.2024,14.30.00,Completed,Extremity,Tech-07,FAKE-IMAGE-B-RAD-0177,k.A.,k.A.
+10178,98,317,53,MRI,26.04.2024,14.30.00,Completed,Head,Tech-08,FAKE-IMAGE-B-RAD-0178,k.A.,k.A.
+10179,99,334,11,X-ray,10.05.2025,14.30.00,Completed,Abdomen,Tech-09,FAKE-IMAGE-B-RAD-0179,k.A.,k.A.
+10180,100,351,10,Ultrasound,05.04.2024,14.30.00,Completed,Chest,Tech-10,FAKE-IMAGE-B-RAD-0180,k.A.,k.A.
+10181,101,368,43,MRI,26.02.2025,14.30.00,Completed,Extremity,Tech-11,FAKE-IMAGE-B-RAD-0181,k.A.,k.A.
+10182,102,385,50,X-ray,04.03.2025,14.30.00,Completed,Head,Tech-12,FAKE-IMAGE-B-RAD-0182,k.A.,k.A.
+10183,103,402,9,Ultrasound,04.02.2024,14.30.00,Completed,Chest,Tech-13,FAKE-IMAGE-B-RAD-0183,k.A.,k.A.
+10184,104,419,38,MRI,10.02.2024,14.30.00,Completed,Head,Tech-14,FAKE-IMAGE-B-RAD-0184,k.A.,k.A.
+10185,105,436,14,X-ray,16.09.2024,14.30.00,Completed,Extremity,Tech-15,FAKE-IMAGE-B-RAD-0185,k.A.,k.A.
+10186,106,453,38,Ultrasound,28.11.2024,14.30.00,Completed,Abdomen,Tech-16,FAKE-IMAGE-B-RAD-0186,k.A.,k.A.
+10187,107,470,25,MRI,18.02.2024,14.30.00,Completed,Extremity,Tech-00,FAKE-IMAGE-B-RAD-0187,k.A.,k.A.
+10188,108,487,5,X-ray,01.03.2024,14.30.00,Completed,Chest,Tech-01,FAKE-IMAGE-B-RAD-0188,k.A.,k.A.
+10189,109,504,1,Ultrasound,24.02.2025,14.30.00,Completed,Head,Tech-02,FAKE-IMAGE-B-RAD-0189,k.A.,k.A.
+10190,110,521,51,MRI,01.05.2025,14.30.00,Completed,Abdomen,Tech-03,FAKE-IMAGE-B-RAD-0190,k.A.,k.A.

@@ -1,0 +1,15 @@
+unit_id,unit_name,unit_type,ward,capacity_beds
+1,Berlin ED 1,Notaufnahme,W01,16
+2,Berlin General Ward 1,Normalstation,W02,12
+3,Berlin ICU 1,Intensivstation,W03,16
+4,Berlin Surgical Ward 1,Chirurgie,W04,12
+5,Berlin Recovery 1,Aufwachraum,W05,20
+6,Berlin ED 2,Notaufnahme,W06,16
+7,Berlin General Ward 2,Normalstation,W07,24
+8,Berlin MICU 2,MICU,W08,16
+9,Berlin Surgical Ward 2,Chirurgie,W09,24
+10,Berlin Recovery 2,Aufwachraum,W10,24
+11,Berlin ED 3,Notaufnahme,W11,16
+12,Berlin General Ward 3,Normalstation,W12,20
+13,B SICU,SICU,W13,24
+14,B CCU,CCU,W14,24

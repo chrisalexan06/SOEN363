@@ -1,0 +1,189 @@
+procedure_id,FallNr,ArztNr,procedure_date,procedure_time,procedure_type,duration_minutes
+1,28,52,01.01.2023,16.00,Cholecystectomy,146
+2,45,27,01.01.2023,16.00,Cholecystectomy,146
+3,62,31,01.01.2023,16.00,Endoscopy with intervention,59
+4,79,11,01.01.2023,16.00,Hernia repair,135
+5,96,13,01.01.2023,16.00,Endoscopy with intervention,155
+6,113,40,01.01.2023,16.00,Hernia repair,55
+7,130,35,01.01.2023,16.00,Orthopedic fixation,116
+8,147,51,01.01.2023,16.00,Appendectomy,87
+9,164,35,01.01.2023,16.00,Orthopedic fixation,134
+10,181,31,01.01.2023,16.00,Cholecystectomy,112
+11,198,21,01.01.2023,16.00,Appendectomy,89
+12,215,20,01.01.2023,16.00,Cholecystectomy,96
+13,232,8,19.01.2025,16.00,Cardiac catheterization,117
+14,249,40,21.05.2025,16.00,Appendectomy,56
+15,266,42,30.09.2024,16.00,Cardiac catheterization,66
+16,283,23,30.03.2024,16.00,Orthopedic fixation,138
+17,300,37,04.05.2024,16.00,Orthopedic fixation,122
+18,317,53,26.04.2024,16.00,Hernia repair,101
+19,334,11,10.05.2025,16.00,Appendectomy,64
+20,351,10,05.04.2024,16.00,Cholecystectomy,76
+21,368,43,26.02.2025,16.00,Appendectomy,82
+22,385,50,04.03.2025,16.00,Hernia repair,77
+23,402,9,04.02.2024,16.00,Appendectomy,110
+24,419,38,10.02.2024,16.00,Endoscopy with intervention,35
+25,436,14,16.09.2024,16.00,Hernia repair,49
+26,453,38,28.11.2024,16.00,Cholecystectomy,133
+27,470,25,18.02.2024,16.00,Appendectomy,77
+28,487,5,01.03.2024,16.00,Appendectomy,117
+29,504,1,24.02.2025,16.00,Appendectomy,112
+30,521,51,01.05.2025,16.00,Cholecystectomy,126
+31,538,3,30.12.2024,16.00,Endoscopy with intervention,105
+32,555,41,22.01.2025,16.00,Cardiac catheterization,49
+33,572,17,25.04.2024,16.00,Endoscopy with intervention,56
+34,589,17,04.11.2024,16.00,Cholecystectomy,146
+35,606,48,09.01.2024,16.00,Orthopedic fixation,145
+36,623,8,04.10.2024,16.00,Appendectomy,41
+37,640,21,21.04.2024,16.00,Appendectomy,110
+38,657,2,22.03.2024,16.00,Hernia repair,47
+39,674,48,24.04.2025,16.00,Cardiac catheterization,35
+40,691,49,26.11.2024,16.00,Orthopedic fixation,131
+41,708,42,26.03.2025,16.00,Hernia repair,112
+42,725,51,08.05.2024,16.00,Appendectomy,106
+43,742,55,13.04.2024,16.00,Cholecystectomy,78
+44,759,34,31.03.2024,16.00,Appendectomy,103
+45,776,7,19.02.2024,16.00,Endoscopy with intervention,143
+46,793,6,13.06.2025,16.00,Cholecystectomy,43
+47,810,19,12.06.2025,16.00,Cardiac catheterization,45
+48,827,10,03.08.2024,16.00,Cholecystectomy,99
+49,844,40,09.07.2024,16.00,Cholecystectomy,99
+50,861,41,01.11.2024,16.00,Hernia repair,67
+51,878,36,25.12.2024,16.00,Hernia repair,53
+52,895,9,31.05.2024,16.00,Cholecystectomy,155
+53,912,27,07.02.2025,16.00,Orthopedic fixation,60
+54,929,2,12.05.2025,16.00,Hernia repair,63
+55,946,16,17.05.2024,16.00,Orthopedic fixation,59
+56,963,31,07.05.2024,16.00,Cardiac catheterization,106
+57,980,7,24.06.2025,16.00,Cardiac catheterization,102
+58,997,8,27.02.2024,16.00,Appendectomy,78
+59,1014,50,29.08.2025,16.00,Appendectomy,45
+60,1031,49,29.04.2026,16.00,Cardiac catheterization,126
+61,1048,39,01.08.2026,16.00,Cardiac catheterization,51
+62,1065,15,19.09.2025,16.00,Endoscopy with intervention,45
+63,1082,23,16.11.2025,16.00,Orthopedic fixation,86
+64,1099,32,16.02.2026,16.00,Endoscopy with intervention,150
+65,1116,45,17.08.2026,16.00,Orthopedic fixation,122
+66,1133,32,17.06.2026,16.00,Orthopedic fixation,123
+67,1150,49,15.09.2026,16.00,Cholecystectomy,127
+68,1167,46,14.04.2026,16.00,Hernia repair,129
+69,1184,30,11.03.2026,16.00,Cholecystectomy,83
+70,1201,26,19.05.2026,16.00,Cardiac catheterization,59
+71,1350,51,07.04.2026,16.00,Cholecystectomy,93
+72,549,4,08.06.2025,16.00,Orthopedic fixation,70
+73,830,8,18.11.2024,16.00,Cholecystectomy,115
+74,587,46,31.03.2025,16.00,Cholecystectomy,76
+75,744,15,12.02.2025,16.00,Cardiac catheterization,90
+76,1030,52,22.08.2025,16.00,Cardiac catheterization,116
+77,628,16,23.05.2025,16.00,Cholecystectomy,80
+78,1268,36,12.02.2026,16.00,Endoscopy with intervention,88
+79,1335,9,07.08.2026,16.00,Orthopedic fixation,151
+80,1256,22,15.04.2026,16.00,Endoscopy with intervention,63
+81,783,26,24.04.2024,16.00,Endoscopy with intervention,36
+82,852,13,13.03.2024,16.00,Hernia repair,145
+83,833,12,15.05.2025,16.00,Hernia repair,60
+84,559,7,17.12.2024,16.00,Endoscopy with intervention,135
+85,233,18,21.03.2024,16.00,Orthopedic fixation,85
+86,287,16,22.04.2024,16.00,Cardiac catheterization,124
+87,952,25,19.03.2025,16.00,Orthopedic fixation,86
+88,1096,46,15.11.2025,16.00,Cardiac catheterization,44
+89,126,5,17.05.2025,16.00,Orthopedic fixation,125
+90,937,12,18.02.2024,16.00,Endoscopy with intervention,83
+91,1081,26,09.06.2026,16.00,Orthopedic fixation,117
+92,1280,8,08.11.2025,16.00,Endoscopy with intervention,47
+93,859,43,23.01.2024,16.00,Orthopedic fixation,113
+94,622,25,13.03.2025,16.00,Orthopedic fixation,104
+95,1080,11,21.09.2025,16.00,Orthopedic fixation,35
+96,1201,26,19.05.2026,16.00,Orthopedic fixation,84
+97,415,53,15.06.2024,16.00,Cholecystectomy,88
+98,1307,55,15.12.2025,16.00,Endoscopy with intervention,103
+99,1339,51,17.08.2026,16.00,Cholecystectomy,97
+100,888,1,16.04.2025,16.00,Hernia repair,64
+101,314,13,04.05.2024,16.00,Cholecystectomy,111
+102,535,22,28.06.2025,16.00,Cholecystectomy,135
+103,1010,22,06.01.2026,16.00,Cholecystectomy,49
+104,1208,9,14.06.2026,16.00,Endoscopy with intervention,100
+105,1342,37,26.08.2026,16.00,Appendectomy,55
+106,10,2,02.03.2025,16.00,Hernia repair,137
+107,1111,16,13.04.2026,16.00,Cardiac catheterization,118
+108,154,30,30.03.2024,16.00,Orthopedic fixation,93
+109,1015,52,17.09.2026,16.00,Hernia repair,139
+110,519,34,07.03.2024,16.00,Endoscopy with intervention,107
+111,483,10,14.12.2024,16.00,Endoscopy with intervention,75
+112,375,43,31.01.2024,16.00,Appendectomy,35
+113,770,45,03.05.2024,16.00,Hernia repair,85
+114,330,46,28.11.2024,16.00,Cardiac catheterization,120
+115,351,10,05.04.2024,16.00,Cholecystectomy,118
+116,462,6,03.01.2025,16.00,Hernia repair,136
+117,122,21,11.06.2024,16.00,Endoscopy with intervention,128
+118,525,50,16.06.2024,16.00,Hernia repair,84
+119,97,48,07.09.2024,16.00,Cardiac catheterization,70
+120,1324,45,30.06.2026,16.00,Hernia repair,47
+121,1169,1,08.02.2026,16.00,Endoscopy with intervention,38
+122,1001,39,11.11.2025,16.00,Endoscopy with intervention,154
+123,42,18,15.04.2025,16.00,Hernia repair,46
+124,858,5,26.03.2025,16.00,Appendectomy,104
+125,297,40,21.05.2025,16.00,Endoscopy with intervention,134
+126,581,28,09.02.2024,16.00,Appendectomy,99
+127,125,5,11.04.2025,16.00,Hernia repair,137
+128,454,3,18.06.2025,16.00,Hernia repair,115
+129,902,34,14.03.2024,16.00,Cardiac catheterization,126
+130,570,18,21.04.2024,16.00,Appendectomy,138
+131,498,7,07.12.2024,16.00,Orthopedic fixation,56
+132,422,53,27.03.2024,16.00,Appendectomy,66
+133,708,42,26.03.2025,16.00,Endoscopy with intervention,55
+134,975,42,02.08.2024,16.00,Appendectomy,89
+135,881,7,06.12.2024,16.00,Appendectomy,55
+136,1064,47,20.10.2026,16.00,Appendectomy,101
+137,348,23,30.01.2024,16.00,Cardiac catheterization,122
+138,1022,55,10.05.2026,16.00,Endoscopy with intervention,124
+139,582,47,03.06.2024,16.00,Cholecystectomy,143
+140,372,47,08.10.2024,16.00,Cholecystectomy,73
+141,558,22,16.04.2025,16.00,Orthopedic fixation,54
+142,428,7,07.10.2024,16.00,Endoscopy with intervention,49
+143,753,26,22.12.2024,16.00,Hernia repair,111
+144,1252,12,29.06.2026,16.00,Appendectomy,151
+145,678,29,21.01.2024,16.00,Hernia repair,151
+146,482,25,10.02.2024,16.00,Orthopedic fixation,115
+147,941,23,03.10.2024,16.00,Orthopedic fixation,67
+148,423,18,22.06.2025,16.00,Hernia repair,139
+149,48,45,14.07.2024,16.00,Endoscopy with intervention,152
+150,441,20,28.06.2025,16.00,Orthopedic fixation,65
+151,1085,33,22.01.2026,16.00,Orthopedic fixation,77
+152,1002,45,26.12.2025,16.00,Cardiac catheterization,47
+153,1108,27,13.10.2025,16.00,Appendectomy,52
+154,905,48,13.08.2024,16.00,Cardiac catheterization,112
+155,471,46,23.06.2025,16.00,Endoscopy with intervention,62
+156,23,21,15.06.2025,16.00,Endoscopy with intervention,36
+157,136,7,09.09.2024,16.00,Endoscopy with intervention,120
+158,1234,12,27.08.2026,16.00,Cardiac catheterization,134
+159,1103,27,22.12.2025,16.00,Hernia repair,89
+160,1152,50,29.11.2025,16.00,Cholecystectomy,61
+161,699,23,27.03.2024,16.00,Orthopedic fixation,138
+162,781,37,03.12.2024,16.00,Appendectomy,147
+163,831,43,12.01.2024,16.00,Cholecystectomy,41
+164,1059,39,12.10.2025,16.00,Hernia repair,75
+165,500,38,10.05.2024,16.00,Orthopedic fixation,99
+166,1079,6,23.10.2026,16.00,Appendectomy,119
+167,526,37,27.07.2024,16.00,Orthopedic fixation,97
+168,55,46,24.07.2024,16.00,Endoscopy with intervention,45
+169,470,25,18.02.2024,16.00,Hernia repair,86
+170,635,42,26.03.2025,16.00,Cardiac catheterization,84
+171,1136,24,14.09.2026,16.00,Hernia repair,80
+172,534,53,05.07.2024,16.00,Endoscopy with intervention,60
+173,1228,19,21.04.2026,16.00,Endoscopy with intervention,71
+174,714,35,09.12.2024,16.00,Appendectomy,128
+175,1140,28,11.01.2026,16.00,Hernia repair,109
+176,1300,9,26.09.2025,16.00,Hernia repair,64
+177,507,30,30.09.2024,16.00,Appendectomy,66
+178,1157,11,22.12.2025,16.00,Hernia repair,122
+179,32,9,31.03.2025,16.00,Cardiac catheterization,111
+180,326,26,04.06.2024,16.00,Orthopedic fixation,92
+81,783,26,24.04.2024,16.00,Endoscopy with intervention,36
+82,852,13,13.03.2024,16.00,Hernia repair,145
+83,833,12,15.05.2025,16.00,Hernia repair,60
+84,559,7,17.12.2024,16.00,Endoscopy with intervention,135
+85,233,18,21.03.2024,16.00,Orthopedic fixation,85
+86,287,16,22.04.2024,16.00,Cardiac catheterization,124
+87,952,25,19.03.2025,16.00,Orthopedic fixation,86
+88,1096,46,15.11.2025,16.00,Cardiac catheterization,44

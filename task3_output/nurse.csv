@@ -1,0 +1,181 @@
+nurse_id,nurse_name,source_id,original_id
+1,Brandon Miller,A,1
+2,Christopher Scott,A,2
+3,Veronica Turner,A,3
+4,Cameron Johnson,A,4
+5,Ronald Hoover Md,A,5
+6,Anna Reed,A,6
+7,Jacob Smith,A,7
+8,Jennifer Estrada,A,8
+9,Terry Lewis,A,9
+10,Abigail Lewis,A,10
+11,Kerry Cain,A,11
+12,Gabrielle Ochoa,A,12
+13,Linda Sampson,A,13
+14,Katherine May,A,14
+15,Brenda Harper,A,15
+16,Sara Wright,A,16
+17,Hunter Peterson,A,17
+18,Nicole Jones,A,18
+19,Kristen Perez,A,19
+20,Joseph Wilson,A,20
+21,Dustin English,A,21
+22,Stacey Shah,A,22
+23,Jeremy Marshall,A,23
+24,Joseph Cruz,A,24
+25,Douglas Bender,A,25
+26,Mr. Patrick Cisneros,A,26
+27,Teresa Oliver,A,27
+28,Jason Armstrong,A,28
+29,Alisha Barr,A,29
+30,Kathleen Smith,A,30
+31,Colleen Gonzales,A,31
+32,Terry Murillo,A,32
+33,Stacy Bonilla,A,33
+34,Valerie Clay,A,34
+35,Tiffany Savage,A,35
+36,Richard Powell,A,36
+37,Dennis King,A,37
+38,Bobby Osborne,A,38
+39,Michael Harris,A,39
+40,Leslie Thompson,A,40
+41,Natalie Roberts,A,41
+42,Jamie Thomas,A,42
+43,Mr. Christopher Clayton,A,43
+44,Steven Butler,A,44
+45,Elizabeth Reynolds,A,45
+46,Dipl.-Ing. Dietlind Klemt,B,1
+47,Dolores Kostolzin,B,2
+48,Hans-Henning Paffrath,B,3
+49,Jörg Franke,B,4
+50,Dipl.-Ing. Marjan Schuster B.A.,B,5
+51,H.-Dieter Wohlgemut,B,6
+52,Catrin Huhn,B,7
+53,Dipl.-Ing. Annika Söding,B,8
+54,Ruben Bien,B,9
+55,Annelore Hertrampf,B,10
+56,Beatrix Ortmann,B,11
+57,Maria-Theresia Schleich,B,12
+58,Auguste Meister,B,13
+59,Mesut Preiß,B,14
+60,Ursula Bruder B.Sc.,B,15
+61,Baptist Riehl B.A.,B,16
+62,Karl-August Pergande,B,17
+63,Walli Striebitz-Zorbach,B,18
+64,Helene Blümel-Müller,B,19
+65,Marga Lübs,B,20
+66,Angelica Etzler-Van Der Dussen,B,21
+67,Nikolaj Wesack,B,22
+68,Univ.Prof. Herrmann Döhn B.A.,B,23
+69,Michel Winkler,B,24
+70,Falko Wulff Mba.,B,25
+71,Editha Klemt Mba.,B,26
+72,Jens-Uwe Pruschke,B,27
+73,Bernard Dörr,B,28
+74,Ernst Bender,B,29
+75,Traudel Ruppert,B,30
+76,Herr Korbinian Schenk B.A.,B,31
+77,Mohamed Geißler,B,32
+78,Kreszenz Eigenwillig-Seip,B,33
+79,Janna Jopich-Junk,B,34
+80,Laszlo Barth-Hörle,B,35
+81,Univ.Prof. Constanze Koch Ii,B,36
+82,Andrej Butte,B,37
+83,Steven Jessel-Wagner,B,38
+84,Michelle Adolph-Hande,B,39
+85,Univ.Prof. Tatjana Seifert B.Eng.,B,40
+86,Univ.Prof. Larissa Kramer,B,41
+87,Alina Gumprich,B,42
+88,Kriemhild Hertrampf,B,43
+89,Swen Kroker B.Eng.,B,44
+90,Reza Kaul,B,45
+91,後藤 春香,C,1
+92,石井 充,C,2
+93,小川 花子,C,3
+94,長谷川 京助,C,4
+95,木村 陽子,C,5
+96,山本 陽一,C,6
+97,森 英樹,C,7
+98,藤田 康弘,C,8
+99,佐藤 結衣,C,9
+100,石井 裕美子,C,10
+101,森 桃子,C,11
+102,村上 淳,C,12
+103,橋本 裕美子,C,13
+104,橋本 拓真,C,14
+105,中川 知実,C,15
+106,鈴木 智也,C,16
+107,山田 聡太郎,C,17
+108,伊藤 陽一,C,18
+109,高橋 淳,C,19
+110,加藤 里佳,C,20
+111,山本 裕美子,C,21
+112,遠藤 浩,C,22
+113,石川 学,C,23
+114,松本 裕太,C,24
+115,山口 英樹,C,25
+116,斉藤 健一,C,26
+117,藤原 春香,C,27
+118,近藤 千代,C,28
+119,前田 里佳,C,29
+120,阿部 美加子,C,30
+121,井上 和也,C,31
+122,佐藤 直子,C,32
+123,小川 稔,C,33
+124,西村 健一,C,34
+125,近藤 智也,C,35
+126,山田 亮介,C,36
+127,渡辺 浩,C,37
+128,高橋 充,C,38
+129,藤田 幹,C,39
+130,中川 晃,C,40
+131,佐藤 拓真,C,41
+132,鈴木 千代,C,42
+133,佐藤 七夏,C,43
+134,中村 稔,C,44
+135,山本 あすか,C,45
+136,Lerato Botha,D,1
+137,Lerato Naidoo,D,2
+138,Lerato Dlamini,D,3
+139,Kabelo Nkosi,D,4
+140,Thabo Van Der Merwe,D,5
+141,Kabelo Khumalo,D,6
+142,Naledi Naidoo,D,7
+143,Nomsa Naidoo,D,8
+144,Sibongile Pillay,D,9
+145,Zanele Mthembu,D,10
+146,Zanele Nkosi,D,11
+147,Kabelo Khumalo,D,12
+148,Zanele Dlamini,D,13
+149,Mandla Dlamini,D,14
+150,Naledi Van Der Merwe,D,15
+151,Kabelo Khumalo,D,16
+152,Naledi Dlamini,D,17
+153,Nomsa Dlamini,D,18
+154,Sipho Botha,D,19
+155,Bongani Naidoo,D,20
+156,Sibongile Pillay,D,21
+157,Naledi Pillay,D,22
+158,Sipho Naidoo,D,23
+159,Sipho Pillay,D,24
+160,Amina Ndlovu,D,25
+161,Nomsa Naidoo,D,26
+162,Sipho Van Der Merwe,D,27
+163,Mandla Botha,D,28
+164,Sibongile Ndlovu,D,29
+165,Thabo Nkosi,D,30
+166,Nomsa Mokoena,D,31
+167,Sipho Mthembu,D,32
+168,Kabelo Van Der Merwe,D,33
+169,Sipho Ndlovu,D,34
+170,Thabo Mokoena,D,35
+171,Bongani Khumalo,D,36
+172,Kabelo Pillay,D,37
+173,Bongani Mokoena,D,38
+174,Naledi Van Der Merwe,D,39
+175,Kabelo Khumalo,D,40
+176,Sibongile Naidoo,D,41
+177,Sipho Khumalo,D,42
+178,Lindiwe Nkosi,D,43
+179,Mandla Dlamini,D,44
+180,Kabelo Khumalo,D,45

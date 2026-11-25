@@ -1,0 +1,340 @@
+{
+  "record_counts": {
+    "input_records": 38868,
+    "accepted": 38556,
+    "quarantined": 216,
+    "duplicate_removed": 96
+  },
+  "required_fields": {
+    "hospital_units": [
+      "capacity_beds",
+      "unit_id",
+      "unit_name",
+      "unit_type",
+      "ward"
+    ],
+    "nurses": [
+      "nurse_id",
+      "nurse_name"
+    ],
+    "physicians": [
+      "physician_id",
+      "physician_name"
+    ],
+    "radiologists": [
+      "radiologist_id",
+      "radiologist_name"
+    ],
+    "icd9_dictionary": [
+      "description",
+      "diagnosis_title",
+      "icd9_code"
+    ],
+    "patients": [
+      "date_of_birth",
+      "full_name",
+      "gender",
+      "life_status",
+      "patient_id"
+    ],
+    "admissions": [
+      "admission_date",
+      "admission_id",
+      "admission_source",
+      "admission_status",
+      "admission_time",
+      "admission_type",
+      "is_followup",
+      "nurse_id",
+      "patient_id",
+      "physician_id",
+      "visit_reason"
+    ],
+    "assessments": [
+      "admission_id",
+      "assessment_date",
+      "assessment_id",
+      "assessment_time",
+      "nurse_id",
+      "patient_id",
+      "triage_priority_level"
+    ],
+    "unit_stays": [
+      "admission_id",
+      "entry_date",
+      "entry_time",
+      "hospital_unit_id",
+      "responsible_physician_id",
+      "unit_stay_id",
+      "unit_type",
+      "ward"
+    ],
+    "diagnoses": [
+      "admission_id",
+      "diagnosis_date",
+      "diagnosis_id",
+      "diagnosis_time",
+      "diagnosis_type",
+      "icd9_code",
+      "patient_id",
+      "physician_id"
+    ],
+    "clinical_notes": [
+      "admission_id",
+      "clinical_note_id",
+      "medical_condition",
+      "note_contents",
+      "note_date",
+      "note_time",
+      "note_type",
+      "patient_id",
+      "physician_id"
+    ],
+    "diagnostic_orders": [
+      "admission_id",
+      "diagnostic_order_id",
+      "order_status",
+      "patient_id",
+      "priority",
+      "request_date",
+      "request_time",
+      "requested_examination",
+      "requesting_physician_id"
+    ],
+    "diagnostic_examinations": [
+      "admission_id",
+      "diagnostic_order_id",
+      "examination_date",
+      "examination_id",
+      "examination_status",
+      "examination_time",
+      "examination_type",
+      "referring_physician_id"
+    ],
+    "radiology_examinations": [
+      "admission_id",
+      "diagnostic_order_id",
+      "examination_date",
+      "examination_id",
+      "examination_status",
+      "examination_time",
+      "examination_type",
+      "radiology_examination_id",
+      "referring_physician_id",
+      "reviewed_by_radiologist_id"
+    ],
+    "radiology_reports": [
+      "findings",
+      "radiologist_id",
+      "radiology_examination_id",
+      "radiology_report_id",
+      "report_date",
+      "report_time"
+    ],
+    "surgical_procedures": [
+      "admission_id",
+      "duration_minutes",
+      "physician_id",
+      "procedure_date",
+      "procedure_id",
+      "procedure_time",
+      "procedure_type"
+    ],
+    "discharge_records": [
+      "admission_id",
+      "discharge_date",
+      "discharge_destination",
+      "discharge_record_id",
+      "discharge_time",
+      "patient_condition",
+      "patient_id",
+      "physician_id",
+      "primary_icd9_code"
+    ],
+    "discharge_summaries": [
+      "admission_id",
+      "admission_reason",
+      "discharge_record_id",
+      "discharge_summary_id",
+      "physician_id",
+      "recommendations"
+    ]
+  },
+  "missing_markers": [
+    "",
+    "-",
+    "k.a.",
+    "n/a",
+    "na",
+    "nan",
+    "null",
+    "未記録"
+  ],
+  "category_mappings": {
+    "admission_type": {
+      "emergency": "Emergency",
+      "notfall": "Emergency",
+      "緊急": "Emergency",
+      "elective": "Elective",
+      "geplant": "Elective",
+      "予定": "Elective"
+    },
+    "admission_source": {
+      "emergency department": "Emergency Department",
+      "notaufnahme": "Emergency Department",
+      "救急外来": "Emergency Department",
+      "ed": "Emergency Department",
+      "physician referral": "Physician Referral",
+      "arztüberweisung": "Physician Referral",
+      "医師紹介": "Physician Referral",
+      "physician_referral": "Physician Referral",
+      "hospital transfer": "Hospital Transfer",
+      "krankenhausverlegung": "Hospital Transfer",
+      "転院": "Hospital Transfer",
+      "hospital_transfer": "Hospital Transfer"
+    },
+    "gender": {
+      "male": "Male",
+      "m": "Male",
+      "男": "Male",
+      "female": "Female",
+      "f": "Female",
+      "女": "Female",
+      "other": "Other",
+      "x": "Other",
+      "その他": "Other"
+    },
+    "life_status": {
+      "alive": "Alive",
+      "lebend": "Alive",
+      "生存": "Alive",
+      "deceased": "Deceased",
+      "verstorben": "Deceased",
+      "死亡": "Deceased",
+      "dead": "Deceased"
+    },
+    "diagnosis_type": {
+      "primary": "Primary",
+      "haupt": "Primary",
+      "主": "Primary",
+      "secondary": "Secondary",
+      "neben": "Secondary",
+      "副": "Secondary"
+    },
+    "unit_type": {
+      "ed": "ED",
+      "notaufnahme": "ED",
+      "救急": "ED",
+      "emergency": "ED",
+      "general ward": "General Ward",
+      "normalstation": "General Ward",
+      "一般病棟": "General Ward",
+      "ward": "General Ward",
+      "icu": "ICU",
+      "intensivstation": "ICU",
+      "集中治療": "ICU",
+      "micu": "MICU",
+      "sicu": "SICU",
+      "ccu": "CCU",
+      "surgical ward": "Surgical Ward",
+      "chirurgie": "Surgical Ward",
+      "外科病棟": "Surgical Ward",
+      "surgical": "Surgical Ward",
+      "recovery": "Recovery",
+      "aufwachraum": "Recovery",
+      "回復室": "Recovery"
+    },
+    "priority": {
+      "routine": "Routine",
+      "normal": "Routine",
+      "通常": "Routine",
+      "low": "Routine",
+      "urgent": "Urgent",
+      "hoch": "Urgent",
+      "緊急": "Urgent",
+      "high": "Urgent",
+      "stat": "Stat",
+      "sofort": "Stat",
+      "至急": "Stat",
+      "critical": "Stat"
+    },
+    "admission_status": {
+      "closed": "Closed",
+      "completed": "Closed",
+      "discharged": "Closed",
+      "open": "Open",
+      "active": "Open",
+      "admitted": "Open"
+    },
+    "order_status": {
+      "completed": "Completed",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "canceled": "Cancelled"
+    },
+    "examination_status": {
+      "completed": "Completed",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "canceled": "Cancelled"
+    },
+    "temperature_unit": {
+      "c": "C",
+      "°c": "C",
+      "celsius": "C",
+      "f": "F",
+      "°f": "F",
+      "fahrenheit": "F"
+    }
+  },
+  "numeric_screening_ranges": {
+    "body_temperature": [
+      25,
+      45
+    ],
+    "heart_rate": [
+      1,
+      300
+    ],
+    "respiratory_rate": [
+      1,
+      100
+    ],
+    "oxygen_saturation": [
+      0,
+      100
+    ],
+    "pain_level": [
+      0,
+      10
+    ],
+    "triage_priority_level": [
+      1,
+      5
+    ],
+    "duration_minutes": [
+      1,
+      10080
+    ],
+    "capacity_beds": [
+      1,
+      10000
+    ],
+    "bed_number": [
+      1,
+      10000
+    ],
+    "result_value": [
+      null,
+      null
+    ]
+  },
+  "missing_value_policy": "Documented markers become null. Literal 'None' in allergy/medication text is preserved. Optional missing values remain null; invalid optional numeric measurements become null. Missing required fields and other unresolved problems quarantine the record with reasons.",
+  "duplicate_policy": "Within each source/entity, remove exact copies and identical standardized records sharing a local primary key. Quarantine all conflicting versions of the same key. Patients with the same insurance number and birth date but different IDs require review. Do not merge by name or by a shared ID across sources. Duplicate removals are counted in the summary.",
+  "text_policy": "Collapse whitespace; use title case for synthetic personal names except Japanese names. Preserve other clinical text capitalization. Apply explicit category mappings.",
+  "date_and_timezone_policy": "Use each source's documented date format; reject ambiguous or impossible dates. Output ISO dates and HH:MM:SS times. No source supplies a time zone: preserve local wall times, do not assume UTC offsets, and compare chronology within each source only.",
+  "numeric_and_unit_policy": "Convert numeric types; enforce documented integer/range rules. Convert Fahrenheit to Celsius rounded to one decimal. Do not guess missing units or invent measurements. Retain diagnostic reference-unit because no physical conversion is documented.",
+  "clinical_category_policy": "Use the explicit mappings above. Triage priorities use the same integer scale 1-5 in all sources. The revised synthetic sources explicitly supply admission types, mapped to Emergency or Elective independently of Open/Closed admission status, with explicit admission-source labels. The cleaner never infers a missing type; missing required or unknown types require quarantine.",
+  "relationship_and_chronology_policy": "Validate references against accepted parents, patient/admission agreement, unit/order links and event chronology. Quarantine unresolved records; repeat reference checking after parent removals so no accepted children reference quarantined parents.",
+  "output_policy": "Accepted CSV files are grouped by source; empty cells represent null. The example file contains representative changes. Quarantine retains original and standardized records with reasons. Raw source files are read only and are never rewritten by this script."
+}

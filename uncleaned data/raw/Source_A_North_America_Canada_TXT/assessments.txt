@@ -1,0 +1,1351 @@
+assessment_id|admission_id|patient_id|nurse_id|assessment_date|assessment_time|triage_priority_level|body_temperature|temperature_unit|heart_rate|respiratory_rate|oxygen_saturation|blood_pressure|pain_level|known_allergies|reported_symptoms|current_medication
+1|1|1|7|2024-05-09|08:20|1|999|C|93|21|98|149/69|3|NA|Abdominal pain|NA
+2|2|2|1|2024-05-06|08:20|4|999|C|122|23|100|114/66|9|Penicillin|Dizziness|NA
+3|3|3|40|2025-05-18|08:20|4|999|C|100|22|99|130/91|10|Pollen|Abnormal laboratory values|NA
+4|4|4|45|2024-08-27|08:20|2|999|C|88|16|92|116/69|9|Pollen|Urinary symptoms|None
+5|5|5|9|2024-11-20|08:20|2|999|C|76|16|93|117/85|8|Pollen|Injury assessment|NA
+6|6|6|3|2024-07-15|08:20|2|999|C|71|20|99|155/83|6|None|Urinary symptoms|None
+7|7|7|18|2024-10-03|08:20|4|999|C|104|17|92|140/86|7|NA|Dizziness|Documented home medication
+8|8|8|44|2024-12-23|08:20|1|999|C|82|22|94|144/80|7|Penicillin|Urinary symptoms|Documented home medication
+9|9|9|2|2024-01-03|08:20|4|999|C|103|23|92|137/88|6|Nuts|Abnormal laboratory values|Documented home medication
+10|10|10|8|2024-03-06|08:20|3|999|C|73|14|98|148/67|2|None|Injury assessment|Documented home medication
+11|11|11|44|2024-12-08|08:20|5|999|C|69|24|94|113/95|6|None|Injury assessment|Documented home medication
+12|12|12|33|2024-07-19|08:20|1|999|C|73|25|92|142/91|6|Pollen|Shortness of breath|Documented home medication
+13|13|13|27|2024-03-14|08:20|4|999|C|65|15|97|145/75|7|Penicillin|Routine postoperative follow-up|None
+14|14|14|38|2024-07-18|08:20|3|999|C|74|25|96|127/84|0|None|Shortness of breath|NA
+15|15|15|38|2025-01-06|08:20|3|36.9|C|65|13|96|132/67|5|Nuts|Severe headache|NA
+16|16|16|20|2024-07-11|08:20|2|38.9|C|111|16|94|113/79|7|Nuts|Dizziness|NA
+17|17|17|27|2024-09-10|08:20|1|37.8|C|104|20|95|146/85|9|Penicillin|Fever and fatigue|None
+18|18|18|32|2025-06-24|08:20|1|38.1|C|95|19|93|134/85|5|Nuts|Injury assessment|None
+19|19|19|42|2025-05-09|08:20|4|38.7|C|109|18|98|112/71|0|Pollen|Urinary symptoms|Documented home medication
+20|20|20|15|2024-06-24|08:20|4|36.6|C|74|15|92|130/65|2|None|Severe headache|Documented home medication
+21|21|21|34|2024-07-27|08:20|4|36.3|C|86|25|97|141/90|9|Penicillin|Severe headache|NA
+22|22|22|18|2024-07-06|08:20|5|37.2|C|72|22|93|110/95|10|Penicillin|Abnormal laboratory values|None
+23|23|23|8|2024-02-14|08:20|3|37.5|C|121|14|99|154/83|4|None|Severe headache|Documented home medication
+24|24|24|1|2024-09-21|08:20|4|37.9|C|75|14|99|136/94|1|Pollen|Severe headache|None
+25|25|25|40|2025-03-31|08:20|5|38.7|C|83|17|97|139/66|7|None|Shortness of breath|NA
+26|26|26|6|2024-11-09|08:20|3|37.5|C|105|23|94|106/90|5|NA|Shortness of breath|NA
+27|27|27|34|2025-05-03|08:20|2|36.5|C|66|24|93|131/82|4|Pollen|Routine postoperative follow-up|NA
+28|28|28|16|2024-04-17|08:20|4|36.2|C|75|20|99|111/82|2|Nuts|Abnormal laboratory values|NA
+29|29|29|32|2024-05-04|08:20|1|38.7|C|71|18|98|135/89|7|None|Routine postoperative follow-up|Documented home medication
+30|30|30|6|2025-02-24|08:20|3|37.0|C|99|14|96|129/65|5|Pollen|Shortness of breath|None
+31|31|31|8|2024-04-27|08:20|1|36.5|C|81|18|95|126/80|1|NA|Abdominal pain|Documented home medication
+32|32|32|17|2024-11-17|08:20|4|38.2|C|88|21|96|143/90|4|None|Injury assessment|NA
+33|33|33|31|2024-10-21|08:20|2|38.3|C|118|20|99|131/73|1|None|Abdominal pain|NA
+34|34|34|35|2025-01-27|08:20|5|36.2|C|108|25|100|152/87|4|Pollen|Chest discomfort|NA
+35|35|35|21|2024-08-11|08:20|5|37.3|C|95|15|95|106/94|8|None|Fever and fatigue|NA
+36|36|36|17|2024-06-08|08:20|3|36.7|C|86|19|100|107/72|8|NA|Injury assessment|NA
+37|37|37|10|2024-03-06|08:20|1|36.2|C|73|16|95|127/74|2|NA|Dizziness|Documented home medication
+38|38|38|28|2024-12-10|08:20|1|38.7|C|64|15|97|140/93|7|None|Abnormal laboratory values|Documented home medication
+39|39|39|1|2024-05-31|08:20|3|36.1|C|95|21|94|153/94|10|Penicillin|Abdominal pain|NA
+40|40|40|8|2024-11-28|08:20|3|36.5|C|96|20|99|131/85|5|None|Chest discomfort|Documented home medication
+41|41|41|36|2024-08-09|08:20|3|36.7|C|116|23|100|142/83|6|None|Dizziness|None
+42|42|42|39|2025-03-31|08:20|3|38.8|C|107|12|99|135/65|7|Penicillin|Dizziness|None
+43|43|43|22|2025-03-07|08:20|2|36.8|C|88|19|99|126/83|5|NA|Urinary symptoms|Documented home medication
+44|44|44|8|2025-06-10|08:20|4|37.3|C|87|25|94|127/66|3|Pollen|Shortness of breath|NA
+45|45|45|5|2024-02-12|08:20|5|36.4|C|86|16|96|117/73|4|Penicillin|Injury assessment|NA
+46|46|46|40|2024-08-18|08:20|3|36.7|C|65|13|92|148/74|5|Pollen|Chest discomfort|Documented home medication
+47|47|47|10|2025-04-29|08:20|2|37.5|C|105|19|93|140/78|4|None|Fever and fatigue|Documented home medication
+48|48|48|11|2025-02-10|08:20|2|36.6|C|109|14|100|131/77|9|None|Routine postoperative follow-up|Documented home medication
+49|49|49|8|2024-05-27|08:20|3|37.4|C|77|21|96|118/69|0|Penicillin|Abdominal pain|None
+50|50|50|5|2024-12-22|08:20|5|38.5|C|85|17|93|106/96|7|Pollen|Fever and fatigue|NA
+51|51|51|35|2024-02-22|08:20|1|36.8|C|121|20|99|108/68|3|Pollen|Urinary symptoms|NA
+52|52|52|14|2025-06-14|08:20|4|38.5|C|64|21|99|112/84|3|Pollen|Injury assessment|NA
+53|53|53|24|2025-02-15|08:20|1|37.3|C|117|18|95|132/92|4|Pollen|Fever and fatigue|Documented home medication
+54|54|54|14|2025-01-21|08:20|5|37.4|C|95|23|95|111/90|0|None|Fever and fatigue|None
+55|55|55|18|2024-03-20|08:20|4|38.5|C|66|13|96|151/91|7|Nuts|Dizziness|NA
+56|56|56|15|2024-03-07|08:20|2|38.4|C|90|19|100|134/93|6|None|Injury assessment|Documented home medication
+57|57|57|32|2025-04-05|08:20|1|38.8|C|107|22|95|141/96|8|NA|Severe headache|NA
+58|58|58|19|2025-04-17|08:20|1|37.7|C|80|17|98|127/74|9|NA|Abdominal pain|Documented home medication
+59|59|59|24|2025-06-06|08:20|1|36.6|C|72|22|98|137/77|1|Nuts|Chest discomfort|None
+60|60|60|26|2024-01-05|08:20|4|36.5|C|104|23|100|134/76|5|None|Chest discomfort|Documented home medication
+61|61|61|21|2025-03-10|08:20|3|37.9|C|79|13|99|120/88|1|Pollen|Shortness of breath|None
+62|62|62|35|2025-06-06|08:20|4|36.8|C|122|12|96|108/69|4|Pollen|Shortness of breath|NA
+63|63|63|16|2025-03-09|08:20|4|37.7|C|73|22|98|134/74|10|Penicillin|Severe headache|Documented home medication
+64|64|64|16|2024-05-06|08:20|2|37.1|C|70|13|92|109/72|10|NA|Routine postoperative follow-up|NA
+65|65|65|13|2024-09-08|08:20|2|38.7|C|99|17|92|126/78|2|NA|Urinary symptoms|NA
+66|66|66|13|2024-08-03|08:20|1|37.2|C|112|17|92|110/67|1|NA|Abdominal pain|Documented home medication
+67|67|67|3|2024-01-27|08:20|2|37.7|C|69|17|93|139/94|10|Nuts|Fever and fatigue|NA
+68|68|68|5|2025-05-17|08:20|1|38.0|C|77|24|100|113/95|5|Penicillin|Fever and fatigue|NA
+69|69|69|19|2025-05-26|08:20|2|36.4|C|71|15|100|137/94|8|NA|Injury assessment|Documented home medication
+70|70|70|5|2024-08-22|08:20|5|38.3|C|110|13|100|121/69|6|Pollen|Severe headache|NA
+71|71|71|6|2024-09-12|08:20|5|37.1|C|89|21|95|117/95|2|Penicillin|Abdominal pain|None
+72|72|72|2|2025-03-08|08:20|1|38.2|C|100|24|96|144/82|2|Penicillin|Severe headache|Documented home medication
+73|73|73|26|2024-04-25|08:20|2|38.2|C|66|20|96|118/90|3|NA|Abnormal laboratory values|NA
+74|74|74|39|2025-03-02|08:20|4|36.7|C|118|20|100|136/67|5|NA|Chest discomfort|None
+75|75|75|10|2024-03-09|08:20|2|37.8|C|102|14|99|148/87|0|None|Urinary symptoms|None
+76|76|76|10|2024-02-01|08:20|1|38.3|C|104|14|100|139/92|3|NA|Routine postoperative follow-up|NA
+77|77|77|18|2024-06-12|08:20|2|36.0|C|69|19|100|138/90|3|Penicillin|Fever and fatigue|None
+78|78|78|21|2024-07-10|08:20|2|38.5|C|123|25|94|147/71|3|Pollen|Fever and fatigue|None
+79|79|79|2|2024-11-01|08:20|3|37.9|C|82|15|98|106/92|3|None|Shortness of breath|NA
+80|80|80|27|2025-02-05|08:20|1|37.0|C|68|17|97|132/92|6|Pollen|Chest discomfort|Documented home medication
+81|81|81|14|2025-03-06|08:20|5|36.0|C|108|12|92|112/88|5|Nuts|Abnormal laboratory values|Documented home medication
+82|82|82|32|2024-04-24|08:20|1|37.1|C|85|19|95|132/87|10|Nuts|Routine postoperative follow-up|Documented home medication
+83|83|83|33|2024-01-05|08:20|4|38.9|C|80|22|93|139/94|9|Penicillin|Urinary symptoms|Documented home medication
+84|84|84|12|2024-10-13|08:20|1|36.5|C|63|17|100|110/84|5|Penicillin|Dizziness|None
+85|85|85|30|2025-05-20|08:20|1|36.5|C|88|16|97|115/81|0|Pollen|Abdominal pain|Documented home medication
+86|86|86|29|2024-11-28|08:20|2|38.4|C|96|20|100|147/96|10|NA|Abdominal pain|None
+87|87|87|2|2024-01-22|08:20|1|37.5|C|75|15|96|117/85|10|Pollen|Severe headache|Documented home medication
+88|88|88|22|2024-09-20|08:20|5|38.4|C|97|12|95|124/75|1|Nuts|Dizziness|Documented home medication
+89|89|89|1|2024-07-27|08:20|3|39.0|C|79|14|99|119/95|5|Penicillin|Fever and fatigue|None
+90|90|90|31|2024-12-01|08:20|1|37.9|C|77|24|94|136/71|6|Pollen|Severe headache|NA
+91|91|91|11|2024-01-18|08:20|2|37.3|C|75|16|100|113/90|5|NA|Severe headache|NA
+92|92|92|9|2024-03-10|08:20|5|38.0|C|110|19|100|154/71|8|Pollen|Routine postoperative follow-up|NA
+93|93|93|8|2025-05-21|08:20|2|38.3|C|74|21|95|109/71|10|Penicillin|Chest discomfort|NA
+94|94|94|41|2025-06-28|08:20|1|38.1|C|69|15|92|133/74|1|Pollen|Abnormal laboratory values|NA
+95|95|95|6|2024-11-30|08:20|2|37.0|C|73|13|95|131/81|3|Penicillin|Severe headache|Documented home medication
+96|96|96|43|2025-02-23|08:20|5|37.9|C|124|19|92|131/84|7|None|Urinary symptoms|Documented home medication
+97|97|97|1|2025-05-05|08:20|3|36.4|C|61|18|96|107/81|8|Penicillin|Urinary symptoms|NA
+98|98|98|22|2025-02-22|08:20|1|38.7|C|86|15|92|119/72|1|NA|Urinary symptoms|NA
+99|99|99|34|2025-06-23|08:20|1|38.8|C|116|21|95|134/66|6|Penicillin|Dizziness|NA
+100|100|100|15|2024-05-25|08:20|5|37.7|C|79|19|100|114/77|8|NA|Routine postoperative follow-up|None
+101|101|101|13|2024-10-20|08:20|5|37.0|C|93|18|92|110/79|10|Pollen|Urinary symptoms|NA
+102|102|102|28|2024-04-15|08:20|3|37.8|C|107|12|98|154/88|9|Penicillin|Severe headache|None
+103|103|103|23|2025-06-04|08:20|1|36.6|C|121|13|93|130/80|0|Nuts|Severe headache|Documented home medication
+104|104|104|41|2024-01-23|08:20|5|37.0|C|116|21|92|107/65|10|NA|Injury assessment|Documented home medication
+105|105|105|6|2024-10-12|08:20|5|37.4|C|66|16|95|147/85|1|NA|Routine postoperative follow-up|Documented home medication
+106|106|106|19|2024-08-18|08:20|1|38.6|C|121|23|94|140/69|6|Nuts|Fever and fatigue|None
+107|107|107|30|2025-01-26|08:20|3|36.9|C|102|21|92|155/76|5|None|Fever and fatigue|NA
+108|108|108|9|2024-08-21|08:20|2|36.8|C|96|23|100|138/75|3|None|Abdominal pain|None
+109|109|109|36|2025-04-09|08:20|3|36.4|C|89|21|100|105/73|10|Pollen|Abdominal pain|NA
+110|110|110|6|2024-07-07|08:20|1|38.9|C|78|25|97|153/85|6|Nuts|Urinary symptoms|NA
+111|111|111|33|2024-12-28|08:20|3|38.0|C|101|21|94|123/90|0|None|Shortness of breath|NA
+112|112|112|45|2025-04-23|08:20|1|37.3|C|74|21|97|120/79|4|Nuts|Chest discomfort|Documented home medication
+113|113|113|43|2024-12-25|08:20|3|38.4|C|79|16|98|123/93|0|Nuts|Routine postoperative follow-up|NA
+114|114|114|29|2025-04-24|08:20|1|37.1|C|109|21|94|147/66|2|NA|Shortness of breath|None
+115|115|115|24|2025-06-07|08:20|5|37.4|C|104|13|99|140/69|10|None|Routine postoperative follow-up|Documented home medication
+116|116|116|24|2024-04-13|08:20|1|38.6|C|79|14|97|124/93|10|None|Severe headache|None
+117|117|117|27|2025-06-21|08:20|4|37.9|C|65|25|93|150/79|10|None|Shortness of breath|None
+118|118|118|1|2024-06-28|08:20|2|36.2|C|66|22|94|121/76|4|NA|Severe headache|Documented home medication
+119|119|119|32|2024-04-08|08:20|3|36.8|C|63|24|96|115/96|2|Pollen|Urinary symptoms|None
+120|120|120|14|2025-06-07|08:20|1|38.9|C|75|17|92|147/69|9|Penicillin|Shortness of breath|None
+121|121|121|26|2024-08-24|08:20|3|36.8|C|65|14|95|147/84|9|Nuts|Fever and fatigue|NA
+122|122|122|19|2025-02-04|08:20|1|38.5|C|126|21|95|124/86|6|Penicillin|Abdominal pain|None
+123|123|123|3|2024-09-09|08:20|4|38.8|C|74|25|100|137/81|0|Nuts|Chest discomfort|Documented home medication
+124|124|124|31|2024-05-01|08:20|3|38.0|C|67|18|93|116/82|0|Pollen|Chest discomfort|None
+125|125|125|4|2025-04-26|08:20|5|37.0|C|99|12|95|130/66|3|Nuts|Fever and fatigue|NA
+126|126|126|28|2025-05-05|08:20|3|36.1|C|87|17|92|141/88|6|Nuts|Chest discomfort|Documented home medication
+127|127|127|5|2024-12-02|08:20|4|37.9|C|87|17|95|123/96|8|Pollen|Dizziness|None
+128|128|128|24|2025-01-06|08:20|2|36.8|C|87|21|100|134/79|1|NA|Routine postoperative follow-up|NA
+129|129|129|7|2024-06-02|08:20|4|36.4|C|91|21|99|126/66|8|Penicillin|Abnormal laboratory values|Documented home medication
+130|130|130|12|2024-09-15|08:20|5|37.9|C|112|23|96|125/79|10|Nuts|Shortness of breath|None
+131|131|131|14|2024-07-27|08:20|4|36.8|C|99|16|97|142/79|4|Pollen|Urinary symptoms|NA
+132|132|132|14|2025-03-30|08:20|5|37.3|C|98|18|92|117/66|4|Penicillin|Urinary symptoms|Documented home medication
+133|133|133|26|2024-03-26|08:20|2|38.9|C|111|12|99|112/86|0|Pollen|Injury assessment|None
+134|134|134|41|2025-04-15|08:20|1|38.5|C|72|21|100|141/94|5|Nuts|Injury assessment|Documented home medication
+135|135|135|42|2025-01-17|08:20|1|36.6|C|106|14|96|152/88|4|NA|Routine postoperative follow-up|NA
+136|136|136|1|2024-06-05|08:20|5|38.6|C|104|25|98|149/96|10|Pollen|Fever and fatigue|Documented home medication
+137|137|137|31|2025-04-26|08:20|1|36.2|C|81|18|94|109/76|3|Pollen|Severe headache|Documented home medication
+138|138|138|5|2024-06-23|08:20|5|37.0|C|82|25|94|105/76|6|NA|Chest discomfort|Documented home medication
+139|139|139|18|2024-05-23|08:20|4|37.1|C|93|24|100|109/70|5|Nuts|Injury assessment|Documented home medication
+140|140|140|15|2025-03-01|08:20|3|38.6|C|106|17|92|149/81|10|None|Fever and fatigue|NA
+141|141|141|30|2024-03-19|08:20|3|38.9|C|120|23|96|108/65|4|Penicillin|Abdominal pain|NA
+142|142|142|45|2024-08-15|08:20|1|37.1|C|121|14|100|118/70|0|None|Urinary symptoms|None
+143|143|143|16|2025-05-08|08:20|3|37.1|C|114|16|92|130/87|10|Pollen|Chest discomfort|NA
+144|144|144|34|2024-06-12|08:20|4|36.4|C|101|18|100|154/93|1|Nuts|Routine postoperative follow-up|NA
+145|145|145|45|2024-09-29|08:20|2|37.5|C|79|12|97|130/70|4|NA|Abdominal pain|None
+146|146|146|15|2025-03-17|08:20|5|37.9|C|107|14|93|145/88|1|Pollen|Severe headache|Documented home medication
+147|147|147|35|2024-06-26|08:20|2|36.8|C|122|12|95|120/76|5|NA|Chest discomfort|Documented home medication
+148|148|148|17|2024-05-10|08:20|4|36.8|C|111|13|97|148/89|6|NA|Chest discomfort|NA
+149|149|149|21|2024-03-18|08:20|3|38.8|C|77|18|96|122/76|7|None|Abdominal pain|None
+150|150|150|34|2024-12-18|08:20|1|36.6|C|123|19|100|150/76|2|None|Fever and fatigue|Documented home medication
+151|151|151|25|2025-04-19|08:20|3|36.5|C|104|17|92|149/73|2|Pollen|Chest discomfort|NA
+152|152|152|9|2025-01-13|08:20|2|38.2|C|123|23|100|144/90|6|Pollen|Abdominal pain|NA
+153|153|153|45|2024-08-22|08:20|4|37.2|C|111|19|92|129/65|6|None|Abnormal laboratory values|NA
+154|154|154|39|2024-06-23|08:20|4|37.1|C|114|21|95|139/67|8|Penicillin|Urinary symptoms|Documented home medication
+155|155|155|1|2024-11-15|08:20|4|36.1|C|126|25|100|144/73|10|Pollen|Dizziness|NA
+156|156|156|37|2025-01-07|08:20|1|36.4|C|103|24|96|154/92|0|Nuts|Routine postoperative follow-up|NA
+157|157|157|34|2025-03-10|08:20|4|37.6|C|75|14|93|122/95|1|Pollen|Urinary symptoms|Documented home medication
+158|158|158|6|2024-05-07|08:20|3|36.2|C|98|12|100|146/79|8|None|Abnormal laboratory values|Documented home medication
+159|159|159|8|2024-10-05|08:20|3|37.4|C|98|22|100|117/69|3|NA|Chest discomfort|None
+160|160|160|33|2024-09-19|08:20|1|37.2|C|109|21|98|133/77|5|Nuts|Shortness of breath|NA
+161|161|161|18|2024-03-18|08:20|1|38.3|C|102|13|96|128/70|4|NA|Abnormal laboratory values|NA
+162|162|162|11|2024-10-29|08:20|4|38.8|C|62|23|94|128/92|7|NA|Dizziness|None
+163|163|163|24|2025-05-27|08:20|5|38.5|C|93|24|99|146/72|4|None|Abnormal laboratory values|Documented home medication
+164|164|164|24|2024-01-25|08:20|5|38.1|C|85|15|98|140/93|2|Nuts|Urinary symptoms|NA
+165|165|165|16|2024-05-30|08:20|5|38.2|C|124|21|95|155/65|10|Nuts|Fever and fatigue|Documented home medication
+166|166|166|40|2024-06-24|08:20|2|36.7|C|72|25|99|117/75|0|None|Routine postoperative follow-up|None
+167|167|167|2|2025-04-07|08:20|3|38.5|C|82|14|96|111/95|4|Pollen|Chest discomfort|None
+168|168|168|17|2025-05-12|08:20|4|36.6|C|117|20|94|130/80|10|Pollen|Dizziness|Documented home medication
+169|169|169|6|2025-05-27|08:20|4|38.8|C|109|13|95|126/91|9|None|Abdominal pain|None
+170|170|170|30|2024-01-17|08:20|5|37.1|C|88|22|95|155/70|3|Penicillin|Urinary symptoms|NA
+171|171|171|4|2024-03-16|08:20|2|36.1|C|84|24|100|135/70|6|Penicillin|Severe headache|Documented home medication
+172|172|172|26|2024-11-18|08:20|3|37.4|C|60|18|92|124/93|2|None|Chest discomfort|NA
+173|173|173|13|2024-07-25|08:20|2|38.9|C|79|19|93|116/76|6|Pollen|Abnormal laboratory values|Documented home medication
+174|174|174|36|2024-11-23|08:20|4|36.7|C|124|16|96|140/78|1|None|Abnormal laboratory values|NA
+175|175|175|34|2024-05-09|08:20|1|38.3|C|91|21|96|148/72|5|NA|Chest discomfort|Documented home medication
+176|176|176|39|2025-03-28|08:20|1|38.9|C|114|19|99|121/87|4|Pollen|Chest discomfort|None
+177|177|177|33|2024-03-08|08:20|5|37.9|C|80|14|98|121/65|3|Penicillin|Abnormal laboratory values|None
+178|178|178|2|2025-02-16|08:20|5|38.5|C|62|20|92|119/69|4|Penicillin|Routine postoperative follow-up|NA
+179|179|179|23|2025-02-01|08:20|3|38.3|C|108|13|94|139/86|3|Nuts|Chest discomfort|Documented home medication
+180|180|180|29|2024-07-14|08:20|1|36.4|C|112|15|98|118/73|5|Pollen|Abdominal pain|Documented home medication
+181|181|181|44|2025-05-30|08:20|5|36.2|C|94|24|96|133/85|0|None|Abnormal laboratory values|NA
+182|182|182|21|2025-05-28|08:20|1|38.9|C|75|20|98|141/72|7|Pollen|Urinary symptoms|Documented home medication
+183|183|183|23|2024-01-17|08:20|4|38.2|C|76|24|92|109/91|0|None|Severe headache|NA
+184|184|184|24|2024-01-25|08:20|1|36.2|C|94|25|92|145/66|5|Nuts|Shortness of breath|None
+185|185|185|29|2025-05-25|08:20|1|37.5|C|102|22|95|141/89|7|NA|Urinary symptoms|None
+186|186|186|29|2024-10-27|08:20|2|39.1|C|122|16|99|127/87|9|Pollen|Severe headache|Documented home medication
+187|187|187|26|2025-03-17|08:20|4|38.3|C|103|21|92|119/72|5|Nuts|Shortness of breath|NA
+188|188|188|11|2024-06-29|08:20|2|36.3|C|98|16|100|129/65|3|NA|Chest discomfort|NA
+189|189|189|37|2024-05-23|08:20|5|38.9|C|119|15|92|131/89|1|Pollen|Abdominal pain|None
+190|190|190|38|2024-06-05|08:20|4|36.1|C|124|20|95|118/68|9|None|Chest discomfort|None
+191|191|191|2|2024-12-20|08:20|5|36.3|C|73|19|99|126/74|10|Pollen|Routine postoperative follow-up|Documented home medication
+192|192|192|15|2025-05-19|08:20|2|37.7|C|78|16|92|119/71|2|Nuts|Fever and fatigue|None
+193|193|193|38|2024-03-05|08:20|5|37.3|C|69|16|98|141/86|1|Penicillin|Urinary symptoms|Documented home medication
+194|194|194|41|2024-10-15|08:20|5|39.0|C|96|16|95|129/76|1|None|Chest discomfort|NA
+195|195|195|15|2024-05-14|08:20|3|38.4|C|87|22|93|127/70|5|Penicillin|Fever and fatigue|None
+196|196|196|1|2025-02-03|08:20|3|36.7|C|106|24|94|147/73|5|Nuts|Abnormal laboratory values|None
+197|197|197|34|2024-11-13|08:20|2|36.8|C|107|19|99|118/69|0|Nuts|Dizziness|NA
+198|198|198|7|2024-10-27|08:20|2|36.1|C|91|18|97|126/66|5|None|Severe headache|None
+199|199|199|21|2024-11-01|08:20|4|37.5|C|122|13|100|108/71|7|Nuts|Routine postoperative follow-up|None
+200|200|200|27|2024-02-26|08:20|2|37.1|C|92|16|99|118/72|9|Pollen|Abnormal laboratory values|Documented home medication
+201|201|201|32|2024-01-14|08:20|5|36.0|C|123|17|94|145/74|10|Penicillin|Abnormal laboratory values|NA
+202|202|202|18|2024-05-25|08:20|5|38.8|C|124|22|94|147/90|4|Nuts|Abdominal pain|NA
+203|203|203|1|2024-05-21|08:20|1|37.1|C|123|15|92|140/96|6|NA|Severe headache|Documented home medication
+204|204|204|26|2025-02-20|08:20|5|37.2|C|59|18|97|120/80|8|NA|Urinary symptoms|Documented home medication
+205|205|205|17|2024-01-18|08:20|3|37.1|C|84|13|93|105/82|6|Pollen|Dizziness|None
+206|206|206|26|2025-06-08|08:20|3|37.5|C|99|19|95|107/82|10|NA|Routine postoperative follow-up|NA
+207|207|207|7|2025-06-22|08:20|2|36.9|C|85|22|99|147/91|5|NA|Injury assessment|Documented home medication
+208|208|208|26|2024-05-08|08:20|2|37.5|C|87|21|97|142/71|9|None|Severe headache|Documented home medication
+209|209|209|34|2025-03-16|08:20|3|36.4|C|84|17|96|114/83|6|Pollen|Severe headache|Documented home medication
+210|210|210|37|2024-07-18|08:20|1|36.1|C|76|16|92|147/92|5|None|Routine postoperative follow-up|NA
+211|211|211|22|2025-04-10|08:20|5|38.4|C|108|23|99|112/67|5|Pollen|Dizziness|None
+212|212|212|16|2024-06-30|08:20|3|36.6|C|68|14|100|137/93|10|None|Chest discomfort|Documented home medication
+213|213|213|31|2024-08-19|08:20|5|38.6|C|111|20|92|140/77|2|None|Fever and fatigue|NA
+214|214|214|41|2024-01-14|08:20|4|37.2|C|95|14|92|143/67|5|Pollen|Fever and fatigue|None
+215|215|215|14|2025-04-09|08:20|3|38.5|C|94|15|92|144/93|2|None|Severe headache|NA
+216|216|216|43|2024-10-13|08:20|4|36.6|C|102|15|94|135/78|5|Nuts|Dizziness|None
+217|217|217|23|2024-05-07|08:20|5|39.0|C|123|19|100|131/87|9|None|Chest discomfort|Documented home medication
+218|218|218|11|2025-04-03|08:20|1|36.6|C|83|19|92|130/81|10|None|Abdominal pain|Documented home medication
+219|219|219|20|2024-04-05|08:20|2|38.4|C|104|23|92|106/71|4|None|Urinary symptoms|Documented home medication
+220|220|220|42|2024-04-21|08:20|1|37.5|C|82|12|98|125/95|1|Nuts|Shortness of breath|Documented home medication
+221|221|221|5|2024-03-03|08:20|2|38.8|C|109|13|97|115/89|5|None|Injury assessment|Documented home medication
+222|222|222|13|2024-08-06|08:20|5|37.1|C|96|14|94|150/89|6|NA|Severe headache|Documented home medication
+223|223|223|6|2024-09-18|08:20|1|39.0|C|78|15|98|146/67|8|Nuts|Urinary symptoms|NA
+224|224|224|30|2024-08-22|08:20|5|37.4|C|107|20|100|147/89|1|None|Severe headache|NA
+225|225|225|41|2025-02-27|08:20|3|37.8|C|115|18|100|121/68|9|Penicillin|Chest discomfort|NA
+226|226|226|41|2024-07-07|08:20|1|36.3|C|114|24|94|144/74|5|None|Severe headache|NA
+227|227|227|3|2024-08-31|08:20|2|38.8|C|66|23|96|135/92|3|None|Shortness of breath|Documented home medication
+228|228|228|21|2025-05-14|08:20|3|38.2|C|64|22|98|129/93|6|Pollen|Abdominal pain|Documented home medication
+229|229|229|37|2025-03-31|08:20|5|36.6|C|115|19|92|123/83|5|Pollen|Routine postoperative follow-up|NA
+230|230|230|7|2024-08-19|08:20|1|36.6|C|72|22|93|136/79|4|Pollen|Injury assessment|NA
+231|231|231|33|2024-03-16|08:20|2|38.7|C|118|16|99|144/85|6|NA|Shortness of breath|None
+232|232|232|9|2025-03-01|08:20|4|36.6|C|69|20|98|109/90|7|Nuts|Abnormal laboratory values|Documented home medication
+233|233|233|18|2025-01-14|08:20|5|37.1|C|96|13|95|148/77|10|Penicillin|Shortness of breath|Documented home medication
+234|234|234|34|2024-09-05|08:20|4|37.1|C|121|20|99|121/89|1|Nuts|Dizziness|NA
+235|235|235|20|2025-01-05|08:20|1|38.6|C|59|12|93|105/66|2|Pollen|Injury assessment|Documented home medication
+236|236|236|24|2024-05-11|08:20|4|37.2|C|115|21|94|134/84|7|Pollen|Fever and fatigue|Documented home medication
+237|237|237|27|2024-05-06|08:20|5|38.8|C|65|24|93|131/66|6|Penicillin|Shortness of breath|NA
+238|238|238|34|2024-04-10|08:20|4|37.1|C|118|20|92|113/83|9|None|Dizziness|None
+239|239|239|44|2025-04-20|08:20|3|37.4|C|69|25|95|148/84|8|NA|Dizziness|None
+240|240|240|16|2024-07-13|08:20|4|38.6|C|104|14|92|149/76|2|Penicillin|Routine postoperative follow-up|NA
+241|241|241|39|2025-06-17|08:20|1|36.8|C|59|21|100|127/75|10|Nuts|Routine postoperative follow-up|NA
+242|242|242|20|2025-06-21|08:20|1|37.0|C|84|23|93|142/87|8|Pollen|Routine postoperative follow-up|NA
+243|243|243|37|2024-07-13|08:20|1|36.8|C|59|25|94|148/78|5|NA|Injury assessment|None
+244|244|244|29|2024-03-15|08:20|3|38.8|C|59|14|95|154/73|0|Penicillin|Routine postoperative follow-up|Documented home medication
+245|245|245|10|2024-07-13|08:20|2|39.0|C|90|18|93|141/91|1|Nuts|Severe headache|None
+246|246|246|18|2024-12-11|08:20|4|37.3|C|85|15|99|109/91|4|None|Urinary symptoms|None
+247|247|247|32|2025-06-09|08:20|1|39.0|C|80|16|98|148/76|5|Nuts|Shortness of breath|None
+248|248|248|44|2025-05-31|08:20|3|37.5|C|91|20|92|124/82|1|None|Fever and fatigue|NA
+249|249|249|1|2024-05-17|08:20|4|36.3|C|114|14|98|131/96|1|Penicillin|Dizziness|NA
+250|250|250|3|2025-02-08|08:20|1|36.3|C|91|19|99|115/72|8|None|Severe headache|None
+251|251|251|35|2025-06-27|08:20|3|36.9|C|78|12|97|118/73|9|NA|Abnormal laboratory values|None
+252|252|252|7|2025-03-01|08:20|2|38.5|C|65|14|99|109/88|7|Penicillin|Abnormal laboratory values|None
+253|253|253|21|2025-02-02|08:20|4|38.6|C|101|16|93|111/76|9|Pollen|Severe headache|None
+254|254|254|34|2024-03-25|08:20|1|37.5|C|93|21|92|135/66|7|Penicillin|Injury assessment|Documented home medication
+255|255|255|1|2024-06-20|08:20|5|36.3|C|63|21|99|141/89|7|Penicillin|Abnormal laboratory values|NA
+256|256|256|12|2025-04-12|08:20|2|37.2|C|97|23|96|148/66|3|Pollen|Chest discomfort|NA
+257|257|257|33|2024-06-17|08:20|4|36.3|C|69|25|94|146/95|8|Pollen|Routine postoperative follow-up|None
+258|258|258|20|2025-05-06|08:20|1|38.4|C|64|22|94|138/90|3|NA|Routine postoperative follow-up|Documented home medication
+259|259|259|14|2024-12-03|08:20|1|37.5|C|105|23|96|118/70|9|Nuts|Routine postoperative follow-up|NA
+260|260|260|14|2025-03-30|08:20|1|38.2|C|66|19|96|137/70|6|Pollen|Shortness of breath|NA
+261|261|261|25|2024-06-20|08:20|3|36.6|C|111|17|93|138/74|4|Pollen|Abdominal pain|Documented home medication
+262|262|262|43|2025-04-07|08:20|2|36.8|C|100|24|93|145/71|8|None|Injury assessment|Documented home medication
+263|263|263|1|2025-06-13|08:20|5|38.6|C|67|19|96|115/87|10|Penicillin|Urinary symptoms|Documented home medication
+264|264|264|16|2024-01-05|08:20|1|38.5|C|119|12|95|149/93|8|None|Chest discomfort|None
+265|265|265|26|2025-03-16|08:20|1|36.3|C|92|21|93|141/95|0|Penicillin|Injury assessment|NA
+266|266|266|18|2024-05-15|08:20|2|37.4|C|122|18|100|131/75|8|Nuts|Injury assessment|NA
+267|267|267|7|2024-03-18|08:20|2|38.1|C|107|23|92|119/78|1|None|Injury assessment|NA
+268|268|268|1|2024-01-17|08:20|1|37.2|C|74|12|94|116/81|3|NA|Injury assessment|None
+269|269|269|17|2024-03-17|08:20|1|37.9|C|77|12|95|134/65|0|NA|Urinary symptoms|Documented home medication
+270|270|270|16|2025-05-11|08:20|5|36.5|C|85|22|95|122/84|3|Pollen|Abdominal pain|Documented home medication
+271|271|271|7|2025-01-15|08:20|1|36.4|C|115|22|94|107/90|8|Nuts|Dizziness|NA
+272|272|272|27|2024-05-30|08:20|3|36.6|C|67|25|92|150/88|7|Nuts|Shortness of breath|None
+273|273|273|30|2025-06-18|08:20|5|37.0|C|64|17|100|114/88|2|Pollen|Abdominal pain|Documented home medication
+274|274|274|6|2024-08-16|08:20|5|38.0|C|103|21|92|153/65|4|NA|Dizziness|NA
+275|275|275|45|2025-03-01|08:20|4|37.9|C|119|21|96|122/94|8|NA|Injury assessment|None
+276|276|276|10|2025-04-14|08:20|5|38.2|C|95|16|96|108/74|1|Penicillin|Routine postoperative follow-up|Documented home medication
+277|277|277|41|2024-07-27|08:20|2|36.8|C|121|13|96|149/90|6|Pollen|Dizziness|None
+278|278|278|14|2024-08-26|08:20|2|38.3|C|76|17|95|110/92|3|Penicillin|Abnormal laboratory values|NA
+279|279|279|19|2025-05-30|08:20|5|38.1|C|87|24|98|119/96|10|Pollen|Dizziness|Documented home medication
+280|280|280|34|2024-11-15|08:20|3|36.8|C|70|16|95|110/94|0|Penicillin|Shortness of breath|Documented home medication
+281|281|281|10|2025-05-04|08:20|5|37.3|C|116|21|92|155/83|4|Penicillin|Abnormal laboratory values|Documented home medication
+282|282|282|20|2025-01-19|08:20|1|36.2|C|105|19|93|148/84|3|NA|Routine postoperative follow-up|NA
+283|283|283|22|2025-04-25|08:20|2|37.2|C|91|22|96|110/75|1|Penicillin|Severe headache|None
+284|284|284|4|2025-06-28|08:20|4|37.3|C|81|16|94|112/72|7|Nuts|Abdominal pain|None
+285|285|285|24|2025-04-28|08:20|2|38.8|C|111|25|92|138/89|5|Nuts|Abdominal pain|NA
+286|286|286|21|2024-04-05|08:20|5|36.3|C|76|24|97|130/83|10|None|Shortness of breath|NA
+287|287|287|20|2024-11-27|08:20|4|39.1|C|69|14|96|129/86|9|Pollen|Shortness of breath|None
+288|288|288|34|2024-01-11|08:20|5|36.4|C|114|22|93|120/65|6|Nuts|Abdominal pain|NA
+289|289|289|40|2024-07-12|08:20|1|38.4|C|93|14|100|155/93|4|Pollen|Abdominal pain|None
+290|290|290|29|2024-06-20|08:20|2|38.4|C|112|17|100|123/79|9|Nuts|Chest discomfort|NA
+291|291|291|35|2025-06-03|08:20|4|37.6|C|103|25|100|105/66|2|None|Routine postoperative follow-up|NA
+292|292|292|42|2025-04-19|08:20|1|37.7|C|94|25|96|141/89|4|None|Injury assessment|None
+293|293|293|24|2025-03-22|08:20|4|36.3|C|124|22|98|146/93|10|Pollen|Abdominal pain|None
+294|294|294|23|2024-03-22|08:20|4|36.7|C|94|16|93|110/85|10|NA|Severe headache|None
+295|295|295|11|2024-08-06|08:20|5|38.2|C|76|15|99|155/92|2|Penicillin|Routine postoperative follow-up|None
+296|296|296|4|2024-07-31|08:20|4|38.6|C|107|15|94|153/67|3|Nuts|Severe headache|Documented home medication
+297|297|297|31|2024-01-20|08:20|2|36.7|C|81|13|98|109/84|5|NA|Routine postoperative follow-up|NA
+298|298|298|42|2025-04-12|08:20|5|36.3|C|113|13|93|123/66|7|Pollen|Abdominal pain|NA
+299|299|299|26|2024-12-06|08:20|5|36.9|C|111|19|94|117/76|8|Nuts|Abnormal laboratory values|NA
+300|300|300|21|2024-10-10|08:20|1|36.7|C|89|12|97|154/95|5|NA|Injury assessment|NA
+301|301|301|9|2025-03-05|08:20|1|37.7|C|78|16|94|131/68|0|Nuts|Shortness of breath|Documented home medication
+302|302|302|15|2025-03-02|08:20|3|36.2|C|102|21|94|150/65|6|None|Abnormal laboratory values|None
+303|303|303|6|2024-04-17|08:20|5|38.7|C|62|15|98|124/92|9|NA|Abnormal laboratory values|None
+304|304|304|45|2024-09-04|08:20|3|37.6|C|65|22|95|110/75|3|Pollen|Shortness of breath|NA
+305|305|305|18|2024-06-16|08:20|4|37.6|C|88|17|95|135/77|3|Pollen|Severe headache|None
+306|306|306|23|2024-06-23|08:20|5|39.1|C|91|12|98|107/87|4|Penicillin|Urinary symptoms|NA
+307|307|307|38|2024-03-05|08:20|3|38.3|C|119|18|92|154/82|0|NA|Abdominal pain|NA
+308|308|308|30|2024-10-17|08:20|2|37.7|C|81|12|95|146/73|2|Nuts|Fever and fatigue|Documented home medication
+309|309|309|23|2025-02-10|08:20|4|38.5|C|108|16|96|132/74|6|NA|Shortness of breath|NA
+310|310|310|33|2024-06-11|08:20|2|37.0|C|69|15|98|150/79|1|Pollen|Fever and fatigue|Documented home medication
+311|311|311|26|2024-03-10|08:20|4|37.0|C|82|25|95|129/85|6|None|Dizziness|None
+312|312|312|1|2024-03-21|08:20|5|36.1|C|104|18|99|108/87|1|Penicillin|Routine postoperative follow-up|Documented home medication
+313|313|313|28|2024-10-11|08:20|2|37.4|C|111|20|100|147/65|8|Penicillin|Urinary symptoms|None
+314|314|314|25|2025-06-20|08:20|2|38.3|C|79|25|95|151/88|0|None|Injury assessment|Documented home medication
+315|315|315|5|2025-02-21|08:20|4|37.0|C|76|21|97|108/86|1|None|Chest discomfort|None
+316|316|316|26|2024-01-28|08:20|5|37.9|C|126|13|97|125/83|8|NA|Dizziness|NA
+317|317|317|11|2024-07-06|08:20|3|37.5|C|76|21|95|109/83|5|NA|Abdominal pain|Documented home medication
+318|318|318|45|2025-05-01|08:20|3|36.8|C|61|23|98|113/96|3|None|Dizziness|NA
+319|319|319|38|2025-04-15|08:20|1|38.5|C|104|23|93|131/81|8|None|Shortness of breath|Documented home medication
+320|320|320|38|2025-01-23|08:20|5|39.0|C|87|16|93|123/78|2|Penicillin|Injury assessment|NA
+321|321|321|7|2024-04-01|08:20|5|37.9|C|64|14|98|141/84|9|NA|Urinary symptoms|None
+322|322|322|40|2024-03-27|08:20|1|38.8|C|103|16|98|131/77|9|None|Injury assessment|Documented home medication
+323|323|323|33|2024-12-10|08:20|1|36.6|C|120|12|98|138/88|10|None|Abnormal laboratory values|None
+324|324|324|20|2025-02-28|08:20|5|39.0|C|61|21|94|155/85|9|Nuts|Severe headache|Documented home medication
+325|325|325|33|2024-05-17|08:20|3|37.1|C|75|15|99|153/76|7|None|Dizziness|Documented home medication
+326|326|326|16|2025-01-03|08:20|3|37.7|C|119|23|93|108/87|7|Penicillin|Abdominal pain|Documented home medication
+327|327|327|12|2024-08-12|08:20|5|36.6|C|64|20|97|137/76|5|NA|Injury assessment|Documented home medication
+328|328|328|4|2025-05-31|08:20|3|38.6|C|80|25|97|106/86|9|Pollen|Abnormal laboratory values|None
+329|329|329|43|2024-11-27|08:20|3|37.0|C|115|25|93|143/83|1|Pollen|Fever and fatigue|Documented home medication
+330|330|330|19|2025-03-15|08:20|1|37.0|C|59|17|100|134/89|1|Penicillin|Abdominal pain|NA
+331|331|331|8|2024-03-28|08:20|4|36.8|C|86|15|99|111/75|0|Penicillin|Injury assessment|NA
+332|332|332|44|2024-05-20|08:20|5|37.7|C|106|19|96|110/81|10|Nuts|Chest discomfort|NA
+333|333|333|25|2025-03-28|08:20|2|38.5|C|124|22|98|142/70|10|None|Abdominal pain|NA
+334|334|334|12|2024-05-10|08:20|2|38.1|C|104|15|94|120/88|2|Nuts|Abdominal pain|None
+335|335|335|29|2024-05-01|08:20|4|36.3|C|100|21|95|120/90|6|NA|Abnormal laboratory values|Documented home medication
+336|336|336|16|2024-05-18|08:20|3|38.0|C|123|14|95|145/67|2|Nuts|Fever and fatigue|None
+337|337|337|26|2024-04-10|08:20|5|37.6|C|66|15|97|126/71|5|None|Chest discomfort|Documented home medication
+338|338|338|32|2025-06-12|08:20|3|36.6|C|91|12|98|140/93|10|NA|Urinary symptoms|NA
+339|339|339|4|2024-12-02|08:20|3|36.8|C|62|23|96|147/95|9|Nuts|Abnormal laboratory values|Documented home medication
+340|340|340|38|2025-06-20|08:20|2|38.3|C|91|24|97|144/65|8|Nuts|Injury assessment|None
+341|341|341|8|2024-01-16|08:20|1|36.2|C|91|14|93|118/80|5|Penicillin|Dizziness|Documented home medication
+342|342|342|34|2025-05-09|08:20|4|37.7|C|104|17|98|117/84|8|Pollen|Urinary symptoms|NA
+343|343|343|21|2024-11-28|08:20|2|36.7|C|69|16|99|106/89|5|Penicillin|Fever and fatigue|Documented home medication
+344|344|344|4|2024-08-01|08:20|1|37.6|C|103|17|94|137/89|2|Pollen|Chest discomfort|None
+345|345|345|34|2024-11-17|08:20|4|38.7|C|83|18|98|126/74|3|NA|Dizziness|None
+346|346|346|2|2024-09-24|08:20|1|36.4|C|61|13|95|140/68|3|Pollen|Routine postoperative follow-up|Documented home medication
+347|347|347|16|2024-06-17|08:20|2|38.6|C|99|19|99|110/80|6|NA|Chest discomfort|NA
+348|348|348|36|2024-05-05|08:20|2|38.4|C|89|15|96|118/96|5|Nuts|Abdominal pain|NA
+349|349|349|28|2024-01-17|08:20|3|36.5|C|112|24|98|141/95|2|Pollen|Injury assessment|NA
+350|350|350|1|2024-05-20|08:20|5|36.8|C|72|20|99|132/92|10|None|Fever and fatigue|Documented home medication
+351|351|351|28|2024-09-09|08:20|3|36.5|C|86|22|99|131/67|3|Nuts|Severe headache|None
+352|352|352|25|2024-03-15|08:20|2|38.8|C|112|15|94|110/65|2|Nuts|Fever and fatigue|Documented home medication
+353|353|353|36|2024-01-26|08:20|2|37.0|C|87|20|98|144/92|5|Penicillin|Abdominal pain|None
+354|354|354|6|2025-02-15|08:20|4|38.4|C|114|16|92|121/82|3|Pollen|Chest discomfort|None
+355|355|355|7|2024-12-26|08:20|3|38.8|C|66|17|92|144/93|0|Pollen|Abnormal laboratory values|NA
+356|356|356|10|2024-09-16|08:20|4|36.3|C|98|23|95|116/90|9|Pollen|Injury assessment|Documented home medication
+357|357|357|33|2024-09-25|08:20|2|37.5|C|62|21|97|105/91|9|Penicillin|Fever and fatigue|NA
+358|358|358|11|2025-02-18|08:20|4|37.9|C|113|22|92|106/74|7|NA|Urinary symptoms|None
+359|359|359|5|2024-09-04|08:20|3|36.8|C|81|16|94|141/67|6|None|Shortness of breath|Documented home medication
+360|360|360|12|2024-07-22|08:20|4|37.1|C|72|21|99|106/89|2|NA|Abdominal pain|Documented home medication
+361|361|361|7|2025-04-11|08:20|2|38.6|C|65|18|98|149/96|3|None|Abnormal laboratory values|None
+362|362|362|26|2024-10-30|08:20|5|36.3|C|66|22|100|117/92|9|Nuts|Fever and fatigue|NA
+363|363|363|16|2025-04-20|08:20|2|36.6|C|85|19|100|128/65|10|Penicillin|Chest discomfort|Documented home medication
+364|364|364|31|2024-08-11|08:20|2|36.8|C|64|21|94|124/75|9|Penicillin|Dizziness|NA
+365|365|365|42|2024-02-15|08:20|5|38.7|C|86|14|100|148/90|7|Penicillin|Injury assessment|NA
+366|366|366|44|2024-01-13|08:20|1|38.8|C|86|17|100|114/93|1|Penicillin|Urinary symptoms|None
+367|367|367|9|2025-03-17|08:20|5|37.1|C|78|24|100|113/70|10|NA|Routine postoperative follow-up|NA
+368|368|368|24|2024-09-05|08:20|4|38.2|C|94|22|94|128/71|10|Penicillin|Shortness of breath|NA
+369|369|369|34|2024-12-29|08:20|1|37.3|C|70|20|93|109/74|4|Pollen|Urinary symptoms|None
+370|370|370|10|2024-01-16|08:20|3|38.6|C|70|24|93|125/78|10|None|Injury assessment|None
+371|371|371|45|2024-06-15|08:20|5|36.0|C|113|19|94|107/93|2|Pollen|Routine postoperative follow-up|Documented home medication
+372|372|372|34|2024-05-15|08:20|2|37.2|C|110|19|98|129/79|10|Pollen|Chest discomfort|NA
+373|373|373|10|2024-12-20|08:20|5|37.7|C|114|25|98|115/76|1|Nuts|Injury assessment|Documented home medication
+374|374|374|34|2024-07-29|08:20|3|36.7|C|105|21|98|140/75|3|Pollen|Fever and fatigue|None
+375|375|375|11|2025-03-24|08:20|1|37.0|C|71|25|96|141/82|4|Pollen|Abdominal pain|NA
+376|376|376|44|2025-04-08|08:20|4|39.0|C|67|25|97|145/73|1|Pollen|Chest discomfort|NA
+377|377|377|6|2024-02-03|08:20|4|37.5|C|102|15|92|140/84|8|Penicillin|Dizziness|NA
+378|378|378|10|2024-07-29|08:20|3|37.6|C|62|20|98|139/71|1|NA|Urinary symptoms|Documented home medication
+379|379|379|34|2025-03-23|08:20|3|37.1|C|124|14|94|139/68|2|None|Chest discomfort|Documented home medication
+380|380|380|12|2024-12-29|08:20|1|36.4|C|62|22|97|120/84|10|NA|Abnormal laboratory values|Documented home medication
+381|381|381|12|2024-06-13|08:20|2|36.0|C|114|20|95|117/85|10|None|Dizziness|None
+382|382|382|35|2024-04-16|08:20|4|37.9|C|87|20|97|148/90|2|None|Shortness of breath|Documented home medication
+383|383|383|4|2024-05-02|08:20|1|38.4|C|62|21|98|154/89|3|Nuts|Injury assessment|NA
+384|384|384|29|2025-04-18|08:20|4|37.4|C|85|12|97|116/74|2|Penicillin|Severe headache|Documented home medication
+385|385|385|16|2024-03-18|08:20|1|38.1|C|95|22|94|134/82|9|NA|Shortness of breath|NA
+386|386|386|8|2025-04-29|08:20|4|38.6|C|59|22|93|107/91|3|NA|Routine postoperative follow-up|None
+387|387|387|15|2024-08-04|08:20|4|39.0|C|91|22|95|145/91|10|Nuts|Injury assessment|Documented home medication
+388|388|388|36|2024-03-07|08:20|1|38.6|C|100|24|94|109/73|9|Nuts|Abnormal laboratory values|Documented home medication
+389|389|389|2|2024-12-28|08:20|4|38.0|C|122|12|97|155/96|9|Nuts|Chest discomfort|NA
+390|390|390|30|2024-05-06|08:20|2|38.7|C|68|21|93|127/74|4|None|Abdominal pain|None
+391|391|391|10|2025-03-04|08:20|4|37.7|C|111|19|94|130/71|10|None|Fever and fatigue|None
+392|392|392|33|2024-07-15|08:20|5|38.0|C|99|15|96|142/77|10|Penicillin|Severe headache|Documented home medication
+393|393|393|24|2024-03-27|08:20|2|36.1|C|106|15|99|107/65|5|Pollen|Urinary symptoms|Documented home medication
+394|394|394|20|2024-01-15|08:20|3|38.0|C|126|22|94|146/66|3|NA|Injury assessment|Documented home medication
+395|395|395|29|2024-11-21|08:20|3|38.9|C|116|18|98|120/74|3|Penicillin|Abnormal laboratory values|NA
+396|396|396|8|2025-03-15|08:20|5|39.0|C|77|25|99|124/84|0|NA|Abnormal laboratory values|Documented home medication
+397|397|397|23|2024-10-18|08:20|5|39.0|C|81|12|98|149/85|1|NA|Chest discomfort|Documented home medication
+398|398|398|4|2024-03-18|08:20|4|36.2|C|73|14|95|148/92|7|Penicillin|Injury assessment|NA
+399|399|399|33|2025-04-11|08:20|2|37.2|C|121|14|98|136/72|3|Penicillin|Abdominal pain|None
+400|400|400|5|2024-07-29|08:20|2|38.3|C|97|25|100|155/89|8|Pollen|Routine postoperative follow-up|None
+401|401|401|4|2025-04-06|08:20|1|38.0|C|92|24|95|139/75|5|NA|Routine postoperative follow-up|NA
+402|402|402|29|2024-07-02|08:20|2|37.2|C|83|18|95|146/72|7|Penicillin|Urinary symptoms|None
+403|403|403|29|2025-04-02|08:20|4|37.9|C|75|18|96|132/96|7|Penicillin|Shortness of breath|None
+404|404|404|17|2024-05-19|08:20|3|36.9|C|119|22|100|115/91|2|Pollen|Injury assessment|None
+405|405|405|3|2024-07-13|08:20|1|36.4|C|118|15|95|129/71|9|Nuts|Urinary symptoms|None
+406|406|406|38|2025-01-12|08:20|4|36.1|C|121|16|93|109/96|1|None|Fever and fatigue|NA
+407|407|407|34|2025-05-13|08:20|3|37.8|C|61|15|96|125/85|3|NA|Dizziness|Documented home medication
+408|408|408|27|2024-10-28|08:20|1|37.7|C|104|25|100|155/72|5|Nuts|Severe headache|None
+409|409|409|41|2025-01-30|08:20|4|37.9|C|110|24|99|130/69|5|Nuts|Injury assessment|Documented home medication
+410|410|410|18|2024-04-26|08:20|4|36.0|C|120|24|93|150/87|7|Penicillin|Fever and fatigue|None
+411|411|411|33|2025-05-25|08:20|4|38.5|C|89|22|93|135/77|8|None|Severe headache|Documented home medication
+412|412|412|26|2024-08-03|08:20|1|38.5|C|92|13|94|109/91|2|NA|Abdominal pain|Documented home medication
+413|413|413|9|2025-04-13|08:20|4|38.4|C|115|16|95|119/88|0|None|Fever and fatigue|Documented home medication
+414|414|414|42|2024-03-23|08:20|1|37.4|C|117|13|92|120/92|4|Nuts|Dizziness|NA
+415|415|415|17|2024-04-24|08:20|4|37.0|C|104|21|97|107/71|10|None|Injury assessment|Documented home medication
+416|416|416|16|2025-03-22|08:20|1|36.6|C|74|20|96|137/70|1|Pollen|Shortness of breath|Documented home medication
+417|417|417|18|2025-06-16|08:20|4|36.6|C|108|12|94|109/85|7|Penicillin|Dizziness|NA
+418|418|418|10|2025-05-15|08:20|1|36.6|C|114|22|95|119/73|5|Penicillin|Dizziness|NA
+419|419|419|8|2025-02-13|08:20|3|37.4|C|65|18|96|155/95|7|Pollen|Fever and fatigue|NA
+420|420|420|4|2025-04-18|08:20|2|36.0|C|115|23|96|122/68|8|None|Severe headache|Documented home medication
+421|421|421|8|2024-01-05|08:20|2|37.2|C|78|15|96|117/79|3|Nuts|Urinary symptoms|NA
+422|422|422|40|2025-06-12|08:20|1|38.5|C|126|24|98|153/95|10|Nuts|Shortness of breath|NA
+423|423|423|21|2024-03-08|08:20|5|37.6|C|120|15|92|133/75|0|NA|Routine postoperative follow-up|Documented home medication
+424|424|424|8|2025-02-21|08:20|2|38.9|C|72|16|94|132/89|10|Penicillin|Severe headache|None
+425|425|425|32|2024-06-27|08:20|3|38.7|C|97|24|92|148/82|1|Pollen|Injury assessment|Documented home medication
+426|426|426|40|2025-02-19|08:20|5|38.6|C|124|24|96|128/92|5|Pollen|Urinary symptoms|NA
+427|427|427|30|2024-02-15|08:20|4|37.9|C|71|20|100|106/83|2|Pollen|Abdominal pain|NA
+428|428|428|35|2025-02-13|08:20|1|37.5|C|106|14|93|106/88|3|NA|Shortness of breath|Documented home medication
+429|429|429|29|2024-06-27|08:20|5|36.2|C|84|16|96|133/68|6|Nuts|Abnormal laboratory values|Documented home medication
+430|430|430|29|2024-05-26|08:20|4|39.0|C|90|24|96|114/80|10|None|Fever and fatigue|Documented home medication
+431|431|431|17|2024-01-22|08:20|3|36.8|C|66|24|98|133/82|5|Nuts|Abnormal laboratory values|None
+432|432|432|6|2024-09-22|08:20|4|38.0|C|63|12|96|132/84|4|None|Injury assessment|None
+433|433|433|45|2025-02-27|08:20|4|36.7|C|69|15|94|145/83|7|Penicillin|Abdominal pain|None
+434|434|434|8|2024-06-30|08:20|2|37.4|C|86|23|96|145/77|10|Penicillin|Chest discomfort|Documented home medication
+435|435|435|30|2025-04-20|08:20|4|39.0|C|61|17|100|116/87|1|NA|Shortness of breath|Documented home medication
+436|436|436|4|2024-05-15|08:20|3|36.1|C|112|16|95|114/69|4|NA|Urinary symptoms|NA
+437|437|437|39|2025-05-16|08:20|2|38.8|C|59|25|97|151/96|0|Pollen|Abnormal laboratory values|None
+438|438|438|15|2024-01-13|08:20|5|36.7|C|75|23|95|142/83|0|Nuts|Urinary symptoms|Documented home medication
+439|439|439|17|2024-08-21|08:20|1|38.4|C|123|24|94|139/66|10|Pollen|Abdominal pain|Documented home medication
+440|440|440|4|2024-08-03|08:20|3|36.0|C|105|19|93|150/85|2|Nuts|Urinary symptoms|None
+441|441|441|4|2024-11-14|08:20|5|36.3|C|80|25|100|138/65|7|NA|Abnormal laboratory values|NA
+442|442|442|37|2024-07-14|08:20|1|37.7|C|110|21|98|155/87|5|Penicillin|Dizziness|NA
+443|443|443|3|2024-10-26|08:20|1|36.2|C|122|24|93|112/71|0|Penicillin|Fever and fatigue|NA
+444|444|444|38|2024-04-29|08:20|3|38.0|C|111|13|97|153/77|2|NA|Severe headache|None
+445|445|445|3|2025-02-05|08:20|5|36.7|C|98|14|93|134/85|4|NA|Fever and fatigue|NA
+446|446|446|35|2025-04-30|08:20|4|38.1|C|124|12|92|129/80|0|Pollen|Injury assessment|NA
+447|447|447|27|2024-06-05|08:20|4|38.7|C|111|18|94|141/88|4|Penicillin|Fever and fatigue|Documented home medication
+448|448|448|15|2024-11-24|08:20|3|36.5|C|104|17|94|109/83|8|Nuts|Chest discomfort|NA
+449|449|449|24|2025-03-26|08:20|4|39.0|C|79|14|92|153/81|7|NA|Shortness of breath|NA
+450|450|450|39|2025-06-26|08:20|5|38.3|C|123|23|97|122/73|3|Penicillin|Abnormal laboratory values|Documented home medication
+451|451|451|26|2024-12-23|08:20|2|37.2|C|103|13|98|112/72|3|Pollen|Chest discomfort|None
+452|452|452|21|2025-01-26|08:20|2|36.3|C|68|25|97|131/85|0|Pollen|Abnormal laboratory values|NA
+453|453|453|15|2024-11-14|08:20|2|37.8|C|115|12|94|126/72|9|NA|Shortness of breath|Documented home medication
+454|454|454|20|2024-04-15|08:20|2|37.5|C|91|24|97|140/79|0|Pollen|Dizziness|NA
+455|455|455|35|2024-02-19|08:20|4|36.1|C|119|21|96|123/77|1|None|Abnormal laboratory values|None
+456|456|456|17|2024-05-03|08:20|4|38.6|C|72|25|96|119/87|3|NA|Fever and fatigue|Documented home medication
+457|457|457|35|2024-03-11|08:20|3|36.2|C|87|22|93|142/95|2|NA|Injury assessment|Documented home medication
+458|458|458|2|2024-07-24|08:20|2|37.7|C|85|25|97|109/83|8|Pollen|Chest discomfort|None
+459|459|459|27|2024-09-22|08:20|5|38.3|C|70|19|97|149/91|8|Nuts|Severe headache|NA
+460|460|460|16|2024-09-10|08:20|1|37.5|C|89|18|96|140/67|7|Pollen|Abnormal laboratory values|Documented home medication
+461|461|461|10|2024-08-07|08:20|5|38.6|C|106|13|98|145/95|2|Penicillin|Urinary symptoms|Documented home medication
+462|462|462|9|2025-05-16|08:20|4|36.2|C|91|12|95|134/78|6|Penicillin|Dizziness|None
+463|463|463|19|2025-04-15|08:20|4|37.8|C|120|18|98|137/66|2|None|Abnormal laboratory values|None
+464|464|464|40|2025-06-22|08:20|2|36.2|C|77|22|99|140/82|8|Penicillin|Severe headache|None
+465|465|465|43|2024-11-06|08:20|5|37.7|C|97|17|92|133/92|0|Penicillin|Shortness of breath|None
+466|466|466|18|2024-11-15|08:20|2|36.7|C|118|19|93|115/71|3|NA|Abdominal pain|NA
+467|467|467|31|2025-02-27|08:20|5|39.0|C|67|24|94|136/74|8|Pollen|Fever and fatigue|None
+468|468|468|25|2024-06-30|08:20|2|37.4|C|97|15|99|153/83|2|Pollen|Chest discomfort|None
+469|469|469|17|2024-05-24|08:20|5|39.0|C|116|14|93|135/79|6|Penicillin|Shortness of breath|None
+470|470|470|14|2024-08-07|08:20|4|37.8|C|117|25|95|142/81|7|None|Severe headache|None
+471|471|471|13|2024-10-16|08:20|4|37.1|C|115|19|94|118/67|4|None|Severe headache|Documented home medication
+472|472|472|37|2024-01-22|08:20|1|38.5|C|73|13|99|147/96|8|Nuts|Urinary symptoms|Documented home medication
+473|473|473|22|2025-03-31|08:20|1|39.0|C|117|12|98|110/92|6|Nuts|Shortness of breath|Documented home medication
+474|474|474|41|2024-02-12|08:20|3|36.7|C|86|17|92|146/80|6|Penicillin|Abdominal pain|None
+475|475|475|19|2025-04-08|08:20|5|36.8|C|115|13|93|146/67|10|Nuts|Urinary symptoms|None
+476|476|476|16|2024-09-10|08:20|4|37.9|C|74|23|93|115/93|1|NA|Urinary symptoms|NA
+477|477|477|7|2024-06-03|08:20|5|38.9|C|95|18|92|124/79|8|None|Severe headache|Documented home medication
+478|478|478|13|2025-01-15|08:20|5|36.8|C|64|19|95|123/66|0|Penicillin|Urinary symptoms|None
+479|479|479|20|2025-04-29|08:20|3|38.7|C|73|13|98|124/89|5|NA|Chest discomfort|None
+480|480|480|1|2025-06-04|08:20|1|36.8|C|75|15|94|110/86|4|NA|Abdominal pain|None
+481|481|481|44|2025-04-09|08:20|2|36.7|C|70|12|97|116/88|0|None|Fever and fatigue|Documented home medication
+482|482|482|18|2024-01-01|08:20|3|36.2|C|112|25|99|135/89|8|Pollen|Abdominal pain|None
+483|483|483|37|2024-12-26|08:20|3|37.5|C|97|18|99|137/84|10|Nuts|Shortness of breath|Documented home medication
+484|484|484|3|2024-03-28|08:20|1|37.0|C|68|22|100|129/91|10|Penicillin|Severe headache|Documented home medication
+485|485|485|44|2025-06-12|08:20|4|37.9|C|95|12|96|133/90|2|Pollen|Dizziness|Documented home medication
+486|486|486|31|2024-10-14|08:20|2|36.4|C|101|17|99|142/87|9|None|Chest discomfort|Documented home medication
+487|487|487|25|2024-11-19|08:20|3|39.0|C|120|23|93|138/78|4|Pollen|Severe headache|NA
+488|488|488|18|2025-03-17|08:20|3|37.4|C|75|18|92|108/67|2|None|Routine postoperative follow-up|NA
+489|489|489|7|2024-08-27|08:20|1|38.7|C|104|24|96|116/69|4|Nuts|Severe headache|Documented home medication
+490|490|490|25|2024-08-14|08:20|4|36.1|C|125|18|95|117/70|3|Penicillin|Chest discomfort|NA
+491|491|491|7|2025-05-13|08:20|2|39.1|C|125|24|95|143/80|6|Nuts|Routine postoperative follow-up|NA
+492|492|492|12|2025-01-18|08:20|4|36.5|C|109|25|98|125/93|10|NA|Routine postoperative follow-up|NA
+493|493|493|11|2024-08-23|08:20|5|36.4|C|103|16|100|145/94|8|Nuts|Fever and fatigue|None
+494|494|494|21|2024-08-23|08:20|2|38.1|C|97|14|97|121/80|8|Nuts|Abdominal pain|Documented home medication
+495|495|495|44|2024-09-21|08:20|3|38.9|C|72|14|99|145/85|7|Penicillin|Routine postoperative follow-up|None
+496|496|496|44|2024-09-16|08:20|5|36.8|C|80|16|99|142/84|8|NA|Injury assessment|None
+497|497|497|14|2024-05-25|08:20|4|37.1|C|103|15|92|128/88|8|Penicillin|Abnormal laboratory values|Documented home medication
+498|498|498|33|2024-12-20|08:20|1|37.2|C|93|12|97|109/65|1|Pollen|Urinary symptoms|None
+499|499|499|7|2024-01-31|08:20|3|37.9|C|121|14|93|142/78|1|Pollen|Urinary symptoms|NA
+500|500|500|18|2024-05-04|08:20|2|37.7|C|100|15|97|153/84|7|Nuts|Dizziness|Documented home medication
+501|501|501|9|2024-06-07|08:20|3|36.8|C|68|18|94|109/85|10|Pollen|Chest discomfort|NA
+502|502|502|41|2025-05-22|08:20|5|38.4|C|120|19|100|140/90|1|Nuts|Shortness of breath|NA
+503|503|503|4|2024-07-14|08:20|3|36.6|C|81|13|95|120/96|0|Pollen|Urinary symptoms|None
+504|504|504|19|2025-03-22|08:20|4|36.4|C|102|22|98|109/76|9|NA|Injury assessment|Documented home medication
+505|505|505|14|2024-01-20|08:20|4|36.3|C|59|23|94|132/95|2|None|Abnormal laboratory values|None
+506|506|506|26|2024-10-07|08:20|3|36.4|C|65|25|92|118/79|1|Nuts|Dizziness|None
+507|507|507|30|2025-06-18|08:20|5|36.4|C|89|20|96|126/68|5|Penicillin|Routine postoperative follow-up|None
+508|508|508|35|2024-04-10|08:20|1|38.4|C|77|25|97|138/81|7|Penicillin|Abdominal pain|NA
+509|509|509|16|2025-01-13|08:20|1|36.4|C|112|21|97|136/67|3|Nuts|Chest discomfort|NA
+510|510|510|14|2024-12-29|08:20|2|37.4|C|73|24|97|139/67|9|Nuts|Abdominal pain|Documented home medication
+511|511|511|35|2024-11-01|08:20|4|38.5|C|106|24|96|121/84|2|Nuts|Routine postoperative follow-up|Documented home medication
+512|512|512|33|2025-03-30|08:20|5|38.3|C|63|19|95|141/81|0|NA|Injury assessment|NA
+513|513|513|12|2024-04-20|08:20|4|36.8|C|59|18|93|134/77|8|Nuts|Chest discomfort|NA
+514|514|514|34|2024-02-28|08:20|3|38.6|C|98|18|97|141/85|8|NA|Injury assessment|None
+515|515|515|37|2024-01-17|08:20|5|36.5|C|78|18|97|146/87|9|Pollen|Severe headache|NA
+516|516|516|18|2024-06-02|08:20|5|36.1|C|103|23|96|141/80|8|Pollen|Abnormal laboratory values|Documented home medication
+517|517|517|3|2024-12-16|08:20|1|36.8|C|65|22|99|147/65|2|Penicillin|Routine postoperative follow-up|NA
+518|518|518|11|2024-01-02|08:20|5|36.8|C|82|23|100|119/81|5|None|Chest discomfort|None
+519|519|519|34|2024-11-25|08:20|5|38.2|C|70|19|95|133/72|1|None|Abnormal laboratory values|Documented home medication
+520|520|520|42|2024-03-07|08:20|4|36.2|C|67|21|95|136/73|6|None|Fever and fatigue|Documented home medication
+521|521|521|35|2024-04-13|08:20|2|37.3|C|99|23|97|131/75|7|Nuts|Abdominal pain|None
+522|522|522|14|2025-01-17|08:20|1|38.6|C|122|14|94|124/91|7|Pollen|Urinary symptoms|NA
+523|523|523|6|2024-04-29|08:20|5|37.7|C|104|14|96|146/88|3|Nuts|Severe headache|None
+524|524|524|25|2025-02-23|08:20|3|39.1|C|69|20|98|142/95|8|Penicillin|Severe headache|Documented home medication
+525|525|525|35|2025-03-20|08:20|5|38.7|C|83|22|92|147/78|10|Pollen|Abnormal laboratory values|None
+526|526|526|3|2024-09-25|08:20|4|37.5|C|113|25|95|115/72|5|Nuts|Dizziness|None
+527|527|527|42|2024-05-09|08:20|4|37.4|C|101|17|99|110/78|4|Nuts|Chest discomfort|Documented home medication
+528|528|528|44|2024-01-09|08:20|1|38.2|C|116|13|95|151/65|8|Nuts|Dizziness|NA
+529|529|529|28|2024-02-16|08:20|5|39.0|C|80|17|95|116/82|0|None|Urinary symptoms|None
+530|530|530|12|2025-03-17|08:20|2|36.5|C|60|25|99|115/66|2|NA|Injury assessment|Documented home medication
+531|531|531|32|2025-04-17|08:20|1|36.1|C|78|23|94|135/89|2|Pollen|Severe headache|NA
+532|532|532|6|2025-04-16|08:20|4|37.6|C|69|22|93|123/95|2|Nuts|Urinary symptoms|None
+533|533|533|11|2024-06-25|08:20|5|37.6|C|78|14|100|124/69|8|Penicillin|Fever and fatigue|Documented home medication
+534|534|534|17|2024-08-11|08:20|2|36.1|C|65|24|98|142/92|1|NA|Urinary symptoms|NA
+535|535|535|40|2025-01-29|08:20|2|38.7|C|112|22|97|150/87|2|None|Chest discomfort|Documented home medication
+536|536|536|4|2024-08-28|08:20|2|36.6|C|97|20|94|146/91|10|Pollen|Abnormal laboratory values|None
+537|537|537|2|2024-09-13|08:20|2|36.3|C|100|18|92|107/77|4|Penicillin|Abdominal pain|NA
+538|538|538|21|2025-01-27|08:20|3|36.8|C|74|24|93|122/84|8|Nuts|Fever and fatigue|NA
+539|539|539|2|2025-06-14|08:20|3|38.1|C|105|20|95|118/89|3|Penicillin|Dizziness|None
+540|540|540|7|2025-01-19|08:20|5|36.1|C|124|19|97|107/87|0|None|Chest discomfort|NA
+541|541|541|23|2024-11-03|08:20|5|36.0|C|99|22|98|127/95|8|None|Chest discomfort|NA
+542|542|542|16|2024-05-14|08:20|3|37.0|C|100|25|96|143/75|1|Pollen|Shortness of breath|NA
+543|543|543|22|2024-10-15|08:20|3|36.8|C|118|24|97|120/68|10|None|Injury assessment|NA
+544|544|544|13|2024-04-09|08:20|4|38.4|C|64|23|100|106/72|4|None|Dizziness|None
+545|545|545|3|2024-04-07|08:20|2|37.9|C|72|17|100|140/65|7|None|Injury assessment|Documented home medication
+546|546|546|3|2024-04-30|08:20|4|37.6|C|103|24|94|123/72|1|Penicillin|Severe headache|NA
+547|547|547|45|2024-03-11|08:20|4|38.3|C|87|21|100|149/75|10|Penicillin|Abnormal laboratory values|Documented home medication
+548|548|548|23|2024-05-23|08:20|3|36.6|C|106|15|93|117/66|5|Penicillin|Chest discomfort|None
+549|549|549|22|2025-05-12|08:20|1|38.7|C|89|24|98|140/94|2|None|Abdominal pain|Documented home medication
+550|550|550|25|2025-06-29|08:20|4|36.4|C|124|24|97|150/68|9|Penicillin|Fever and fatigue|NA
+551|551|551|31|2024-08-28|08:20|5|36.8|C|64|13|95|109/85|4|Pollen|Chest discomfort|Documented home medication
+552|552|552|22|2025-04-26|08:20|1|36.3|C|122|21|100|115/91|7|Pollen|Severe headache|NA
+553|553|553|33|2024-08-31|08:20|1|38.7|C|99|22|96|106/68|9|Penicillin|Urinary symptoms|None
+554|554|554|1|2024-05-11|08:20|4|37.7|C|102|12|100|111/90|7|NA|Injury assessment|NA
+555|555|555|11|2024-09-06|08:20|3|36.8|C|88|20|95|146/87|2|None|Routine postoperative follow-up|NA
+556|556|556|3|2024-07-19|08:20|5|38.2|C|61|21|94|105/75|3|Penicillin|Urinary symptoms|NA
+557|557|557|32|2024-01-18|08:20|2|36.2|C|81|16|92|116/70|5|None|Dizziness|Documented home medication
+558|558|558|34|2024-06-19|08:20|4|36.3|C|69|16|96|112/90|9|Pollen|Chest discomfort|None
+559|559|559|16|2024-04-22|08:20|4|36.5|C|116|18|98|113/72|6|Penicillin|Abnormal laboratory values|NA
+560|560|560|22|2024-12-17|08:20|5|39.0|C|107|17|92|110/85|8|NA|Routine postoperative follow-up|None
+561|561|561|45|2025-01-30|08:20|2|37.0|C|125|12|100|135/85|9|Pollen|Abnormal laboratory values|None
+562|562|562|31|2024-06-04|08:20|5|38.9|C|68|17|93|107/78|0|NA|Fever and fatigue|NA
+563|563|563|24|2024-02-03|08:20|3|36.8|C|112|20|98|129/89|8|NA|Fever and fatigue|Documented home medication
+564|564|564|14|2024-03-26|08:20|5|36.3|C|71|16|92|142/73|1|Pollen|Shortness of breath|None
+565|565|565|35|2024-07-02|08:20|2|38.4|C|73|18|93|127/79|8|NA|Abdominal pain|Documented home medication
+566|566|566|14|2025-05-24|08:20|3|38.3|C|62|23|93|127/68|5|NA|Dizziness|Documented home medication
+567|567|567|17|2025-05-24|08:20|4|37.3|C|60|21|100|139/72|5|Pollen|Abdominal pain|NA
+568|568|568|20|2025-04-20|08:20|4|36.3|C|111|22|99|116/71|9|NA|Dizziness|Documented home medication
+569|569|569|13|2024-10-10|08:20|5|38.6|C|109|13|98|147/66|9|Pollen|Severe headache|NA
+570|570|570|25|2024-05-10|08:20|5|36.1|C|124|24|94|154/93|9|NA|Routine postoperative follow-up|Documented home medication
+571|571|571|12|2024-03-03|08:20|3|38.9|C|124|23|95|121/91|1|NA|Routine postoperative follow-up|Documented home medication
+572|572|572|22|2024-07-31|08:20|3|38.5|C|116|25|97|129/83|0|NA|Injury assessment|Documented home medication
+573|573|573|35|2024-02-11|08:20|5|38.9|C|79|22|94|114/70|7|Penicillin|Dizziness|Documented home medication
+574|574|574|36|2024-08-14|08:20|1|36.2|C|79|25|95|153/89|2|Nuts|Severe headache|NA
+575|575|575|18|2025-03-30|08:20|5|38.4|C|125|23|94|122/78|9|Pollen|Severe headache|Documented home medication
+576|576|576|40|2025-03-31|08:20|2|36.8|C|118|17|96|132/65|0|Penicillin|Urinary symptoms|None
+577|577|577|38|2024-08-17|08:20|3|36.7|C|86|13|98|155/94|6|None|Chest discomfort|NA
+578|578|578|23|2024-06-27|08:20|3|38.0|C|107|14|92|135/90|6|Penicillin|Shortness of breath|Documented home medication
+579|579|579|9|2024-08-06|08:20|5|38.8|C|97|24|94|119/67|2|Pollen|Urinary symptoms|NA
+580|580|580|9|2025-05-31|08:20|4|36.1|C|107|17|92|113/66|0|NA|Fever and fatigue|None
+581|581|581|20|2024-08-27|08:20|3|36.3|C|116|20|94|109/83|4|None|Routine postoperative follow-up|Documented home medication
+582|582|582|22|2025-03-09|08:20|4|36.9|C|69|19|92|109/90|5|Pollen|Chest discomfort|None
+583|583|583|44|2024-09-23|08:20|2|36.4|C|59|14|98|149/93|5|Penicillin|Abdominal pain|None
+584|584|584|37|2024-08-20|08:20|5|36.1|C|113|17|98|147/95|0|Penicillin|Abdominal pain|NA
+585|585|585|40|2025-02-20|08:20|1|38.7|C|110|13|92|154/82|4|Penicillin|Abdominal pain|None
+586|586|586|32|2025-04-07|08:20|2|38.1|C|83|25|92|138/65|0|NA|Urinary symptoms|None
+587|587|587|6|2025-04-28|08:20|2|37.9|C|107|14|94|109/69|5|Nuts|Dizziness|NA
+588|588|588|21|2025-05-21|08:20|1|38.7|C|74|20|92|124/84|7|Pollen|Urinary symptoms|None
+589|589|589|27|2024-12-09|08:20|4|36.3|C|125|16|97|118/94|6|NA|Urinary symptoms|Documented home medication
+590|590|590|19|2024-09-30|08:20|4|38.2|C|113|17|98|153/68|0|NA|Abnormal laboratory values|None
+591|591|591|44|2025-06-20|08:20|2|38.2|C|86|14|97|124/92|10|Nuts|Injury assessment|NA
+592|592|592|42|2025-06-25|08:20|2|38.7|C|87|13|97|120/96|10|Pollen|Shortness of breath|NA
+593|593|593|43|2024-08-07|08:20|4|37.8|C|76|14|98|124/79|5|None|Fever and fatigue|Documented home medication
+594|594|594|29|2024-10-02|08:20|4|38.9|C|88|17|97|133/75|8|Penicillin|Injury assessment|NA
+595|595|595|10|2025-01-30|08:20|5|37.6|C|78|21|96|148/72|1|None|Dizziness|NA
+596|596|596|31|2024-05-30|08:20|4|38.9|C|107|20|92|107/89|2|Penicillin|Injury assessment|Documented home medication
+597|597|597|30|2025-05-10|08:20|3|36.4|C|115|13|94|119/85|2|Pollen|Routine postoperative follow-up|Documented home medication
+598|598|598|44|2024-07-26|08:20|3|38.2|C|99|14|93|141/93|5|NA|Abdominal pain|NA
+599|599|599|36|2025-01-10|08:20|2|37.1|C|91|12|92|119/90|5|NA|Dizziness|NA
+600|600|600|33|2025-06-02|08:20|4|38.0|C|112|14|96|130/70|10|NA|Severe headache|Documented home medication
+601|601|601|14|2024-06-21|08:20|2|39.0|C|88|12|97|130/92|1|Pollen|Severe headache|None
+602|602|602|25|2025-02-08|08:20|2|37.0|C|110|22|100|148/66|7|NA|Routine postoperative follow-up|NA
+603|603|603|12|2024-09-21|08:20|5|38.4|C|68|23|96|139/89|0|Pollen|Injury assessment|NA
+604|604|604|11|2024-10-01|08:20|2|38.4|C|96|24|93|150/96|9|Penicillin|Fever and fatigue|None
+605|605|605|32|2024-01-11|08:20|4|38.9|C|76|25|99|141/71|3|Nuts|Chest discomfort|Documented home medication
+606|606|606|12|2024-01-24|08:20|3|39.0|C|76|22|97|120/72|1|None|Fever and fatigue|NA
+607|607|607|41|2025-01-09|08:20|4|38.3|C|68|22|96|112/91|8|Penicillin|Abnormal laboratory values|NA
+608|608|608|21|2025-04-29|08:20|4|38.2|C|103|15|93|149/85|3|None|Routine postoperative follow-up|NA
+609|609|609|30|2025-02-24|08:20|3|37.7|C|116|13|95|144/88|9|None|Chest discomfort|None
+610|610|610|18|2024-08-12|08:20|1|36.5|C|113|25|98|131/80|1|None|Shortness of breath|Documented home medication
+611|611|611|1|2024-12-14|08:20|5|37.0|C|73|21|95|117/88|3|None|Dizziness|Documented home medication
+612|612|612|30|2024-12-08|08:20|3|37.2|C|78|22|96|140/73|3|None|Dizziness|NA
+613|613|613|6|2024-09-08|08:20|2|38.3|C|108|14|97|110/95|5|Nuts|Chest discomfort|NA
+614|614|614|30|2024-12-07|08:20|4|38.5|C|62|15|94|140/67|10|None|Shortness of breath|None
+615|615|615|32|2024-08-22|08:20|5|37.1|C|119|20|93|109/79|0|Pollen|Abnormal laboratory values|NA
+616|616|616|41|2024-04-26|08:20|3|38.8|C|76|12|95|136/94|5|Pollen|Routine postoperative follow-up|NA
+617|617|617|34|2024-01-06|08:20|4|38.4|C|110|18|92|111/85|5|None|Abdominal pain|NA
+618|618|618|11|2024-11-21|08:20|2|37.9|C|74|24|94|117/86|0|NA|Injury assessment|NA
+619|619|619|13|2025-05-30|08:20|1|36.4|C|124|12|96|151/88|2|Nuts|Dizziness|NA
+620|620|620|45|2024-10-10|08:20|4|37.9|C|106|14|96|152/79|6|Penicillin|Abnormal laboratory values|None
+621|621|621|29|2024-10-30|08:20|5|36.6|C|68|25|100|150/88|3|Pollen|Fever and fatigue|NA
+622|622|622|13|2025-03-14|08:20|5|36.1|C|85|19|96|131/71|1|Pollen|Dizziness|NA
+623|623|623|23|2024-11-19|08:20|2|38.2|C|120|21|92|118/76|8|None|Shortness of breath|None
+624|624|624|8|2024-06-25|08:20|2|38.4|C|75|18|94|150/82|4|NA|Dizziness|NA
+625|625|625|19|2024-08-20|08:20|1|37.0|C|95|25|92|130/86|6|Nuts|Shortness of breath|None
+626|626|626|7|2024-09-23|08:20|1|36.8|C|79|23|97|149/88|1|Pollen|Shortness of breath|Documented home medication
+627|627|627|28|2024-07-04|08:20|5|36.0|C|89|18|94|120/72|6|Penicillin|Routine postoperative follow-up|NA
+628|628|628|25|2024-11-24|08:20|4|36.9|C|109|23|92|145/68|8|None|Severe headache|None
+629|629|629|14|2025-02-27|08:20|4|38.4|C|69|24|95|109/92|2|None|Abnormal laboratory values|Documented home medication
+630|630|630|9|2025-05-06|08:20|4|39.0|C|92|21|98|138/78|10|Penicillin|Shortness of breath|NA
+631|631|631|31|2024-02-07|08:20|1|37.9|C|106|14|92|124/89|2|NA|Urinary symptoms|NA
+632|632|632|22|2024-01-24|08:20|4|38.5|C|110|17|97|148/88|8|Pollen|Dizziness|Documented home medication
+633|633|633|44|2024-04-11|08:20|4|38.0|C|102|19|92|110/78|8|Pollen|Severe headache|Documented home medication
+634|634|634|27|2025-01-16|08:20|4|38.8|C|99|19|100|111/76|1|Nuts|Abnormal laboratory values|None
+635|635|635|22|2025-05-02|08:20|4|37.7|C|63|25|92|107/65|6|Pollen|Chest discomfort|Documented home medication
+636|636|636|13|2025-01-13|08:20|3|36.5|C|110|14|97|150/81|4|NA|Fever and fatigue|Documented home medication
+637|637|637|5|2025-03-01|08:20|5|37.7|C|102|16|95|123/96|5|Nuts|Shortness of breath|Documented home medication
+638|638|638|39|2024-07-22|08:20|1|37.8|C|108|12|100|144/90|4|Pollen|Chest discomfort|Documented home medication
+639|639|639|5|2025-02-02|08:20|5|38.5|C|105|18|95|129/77|4|Nuts|Chest discomfort|NA
+640|640|640|42|2024-08-25|08:20|1|38.1|C|112|14|100|108/71|9|Penicillin|Abdominal pain|Documented home medication
+641|641|641|17|2025-02-24|08:20|5|37.4|C|113|19|95|149/73|8|None|Shortness of breath|Documented home medication
+642|642|642|8|2024-10-20|08:20|4|37.7|C|114|23|95|148/69|4|Penicillin|Urinary symptoms|Documented home medication
+643|643|643|4|2024-08-07|08:20|2|37.6|C|95|25|100|114/92|0|None|Abdominal pain|NA
+644|644|644|1|2025-06-16|08:20|3|38.0|C|112|22|96|109/89|4|Nuts|Fever and fatigue|NA
+645|645|645|24|2025-01-10|08:20|5|38.7|C|63|21|100|144/73|0|NA|Chest discomfort|None
+646|646|646|30|2024-07-31|08:20|2|36.1|C|78|13|92|108/90|3|NA|Shortness of breath|None
+647|647|647|2|2024-02-24|08:20|1|38.8|C|94|19|92|133/83|3|Nuts|Shortness of breath|None
+648|648|648|9|2024-01-13|08:20|1|36.9|C|98|15|97|137/82|8|Penicillin|Dizziness|NA
+649|649|649|30|2024-07-19|08:20|3|36.1|C|104|12|94|147/82|7|NA|Abdominal pain|None
+650|650|650|28|2024-04-25|08:20|2|37.8|C|85|23|95|153/82|5|NA|Chest discomfort|Documented home medication
+651|651|651|41|2025-02-12|08:20|3|38.5|C|66|16|97|148/86|0|None|Severe headache|None
+652|652|652|6|2025-06-11|08:20|4|37.0|C|75|19|93|143/85|3|Nuts|Injury assessment|NA
+653|653|653|3|2025-06-12|08:20|1|36.6|C|81|22|98|150/66|10|NA|Dizziness|Documented home medication
+654|654|654|25|2024-03-23|08:20|2|36.5|C|115|20|98|132/70|9|Pollen|Chest discomfort|NA
+655|655|655|13|2024-02-16|08:20|5|38.0|C|94|15|93|142/84|8|None|Chest discomfort|None
+656|656|656|22|2024-07-24|08:20|2|37.2|C|105|12|96|150/88|7|NA|Severe headache|None
+657|657|657|1|2024-11-28|08:20|3|38.9|C|97|23|98|155/90|8|Nuts|Routine postoperative follow-up|NA
+658|658|658|39|2024-10-25|08:20|5|38.0|C|81|25|95|149/81|3|Penicillin|Abnormal laboratory values|NA
+659|659|659|37|2024-10-13|08:20|1|37.5|C|72|24|95|154/84|0|Pollen|Routine postoperative follow-up|None
+660|660|660|40|2024-03-29|08:20|5|37.4|C|126|15|95|116/90|7|Pollen|Severe headache|Documented home medication
+661|661|661|34|2024-01-17|08:20|3|36.4|C|65|19|97|138/79|0|None|Abnormal laboratory values|NA
+662|662|662|27|2024-10-29|08:20|4|36.4|C|86|25|93|142/73|8|Nuts|Shortness of breath|Documented home medication
+663|663|663|40|2025-02-03|08:20|4|37.5|C|79|14|93|144/89|9|None|Abnormal laboratory values|NA
+664|664|664|32|2024-05-07|08:20|5|36.3|C|78|24|95|133/81|5|Nuts|Injury assessment|None
+665|665|665|37|2025-01-04|08:20|5|39.0|C|74|17|96|113/88|2|Penicillin|Severe headache|None
+666|666|666|42|2024-06-28|08:20|2|36.6|C|76|17|97|119/71|10|None|Shortness of breath|NA
+667|667|667|9|2024-05-18|08:20|3|36.8|C|115|21|92|111/69|4|NA|Routine postoperative follow-up|None
+668|668|668|2|2025-05-16|08:20|1|39.1|C|87|17|100|143/95|2|None|Fever and fatigue|None
+669|669|669|22|2024-06-30|08:20|5|38.0|C|69|16|94|115/74|7|NA|Chest discomfort|None
+670|670|670|25|2024-09-09|08:20|2|36.6|C|119|19|97|113/68|10|Penicillin|Chest discomfort|None
+671|671|671|45|2025-03-26|08:20|3|37.4|C|85|25|99|155/66|3|Penicillin|Abdominal pain|None
+672|672|672|38|2025-03-21|08:20|3|37.1|C|106|13|99|115/73|2|None|Urinary symptoms|None
+673|673|673|35|2024-11-25|08:20|3|37.3|C|72|12|97|138/78|2|NA|Abnormal laboratory values|None
+674|674|674|25|2025-04-10|08:20|1|37.1|C|116|16|94|107/74|6|Nuts|Chest discomfort|None
+675|675|675|10|2024-08-19|08:20|4|37.8|C|121|12|99|105/96|0|Penicillin|Routine postoperative follow-up|None
+676|676|676|45|2024-09-04|08:20|3|37.1|C|117|16|97|143/96|4|NA|Routine postoperative follow-up|NA
+677|677|677|5|2024-08-16|08:20|5|36.8|C|81|19|93|110/74|1|Pollen|Abdominal pain|NA
+678|678|678|38|2024-07-16|08:20|2|36.2|C|86|21|92|115/96|5|Penicillin|Abnormal laboratory values|None
+679|679|679|33|2025-04-16|08:20|4|37.0|C|76|18|92|113/68|8|Nuts|Abnormal laboratory values|NA
+680|680|680|21|2025-01-12|08:20|2|37.6|C|87|15|92|114/77|1|Penicillin|Routine postoperative follow-up|Documented home medication
+681|681|681|26|2024-04-17|08:20|3|37.5|C|104|20|99|145/93|2|Penicillin|Shortness of breath|None
+682|682|682|41|2024-02-21|08:20|1|37.0|C|106|18|98|143/65|3|None|Dizziness|None
+683|683|683|6|2024-12-22|08:20|2|36.9|C|68|14|94|154/78|2|Penicillin|Abnormal laboratory values|Documented home medication
+684|684|684|12|2024-03-22|08:20|3|38.2|C|65|15|92|107/92|9|NA|Routine postoperative follow-up|None
+685|685|685|17|2024-01-31|08:20|1|36.6|C|114|22|96|110/96|6|None|Urinary symptoms|None
+686|686|686|39|2024-03-05|08:20|1|36.8|C|59|13|99|152/73|0|NA|Abdominal pain|Documented home medication
+687|687|687|23|2024-08-21|08:20|3|37.6|C|85|17|93|132/92|3|Penicillin|Abdominal pain|Documented home medication
+688|688|688|13|2024-03-29|08:20|5|36.4|C|88|12|96|139/74|3|None|Routine postoperative follow-up|Documented home medication
+689|689|689|20|2024-10-15|08:20|4|37.3|C|108|22|95|125/82|1|Nuts|Abnormal laboratory values|None
+690|690|690|29|2024-04-18|08:20|5|37.5|C|110|18|94|144/92|10|Nuts|Injury assessment|Documented home medication
+691|691|691|42|2024-09-12|08:20|4|38.0|C|101|12|99|145/72|0|Pollen|Dizziness|Documented home medication
+692|692|692|11|2025-03-27|08:20|1|38.0|C|124|16|92|123/91|0|Penicillin|Fever and fatigue|Documented home medication
+693|693|693|27|2025-06-20|08:20|1|36.7|C|75|12|98|114/79|6|None|Severe headache|Documented home medication
+694|694|694|13|2024-09-17|08:20|1|38.9|C|100|20|94|148/68|0|Nuts|Abdominal pain|Documented home medication
+695|695|695|5|2024-07-02|08:20|5|38.6|C|121|22|94|130/91|8|Pollen|Urinary symptoms|Documented home medication
+696|696|696|40|2025-03-12|08:20|4|38.7|C|73|19|92|142/69|10|Penicillin|Chest discomfort|Documented home medication
+697|697|697|4|2024-04-10|08:20|2|38.1|C|59|16|93|118/91|4|Penicillin|Routine postoperative follow-up|Documented home medication
+698|698|698|2|2025-03-22|08:20|1|38.9|C|103|24|97|118/90|0|None|Fever and fatigue|None
+699|699|699|24|2024-04-29|08:20|1|37.3|C|121|19|99|144/83|7|Penicillin|Severe headache|Documented home medication
+700|700|700|43|2025-03-15|08:20|3|36.1|C|84|13|94|115/72|9|None|Injury assessment|NA
+701|701|701|7|2025-05-24|08:20|4|37.3|C|124|23|96|131/87|4|Penicillin|Abnormal laboratory values|Documented home medication
+702|702|702|19|2024-12-29|08:20|2|37.0|C|122|12|100|133/69|0|Nuts|Abdominal pain|NA
+703|703|703|20|2024-05-03|08:20|4|36.4|C|88|21|93|105/90|1|None|Routine postoperative follow-up|Documented home medication
+704|704|704|16|2024-06-29|08:20|3|36.5|C|104|20|95|130/80|1|Nuts|Chest discomfort|Documented home medication
+705|705|705|6|2025-01-20|08:20|2|36.4|C|97|13|99|109/92|2|Nuts|Routine postoperative follow-up|None
+706|706|706|38|2024-06-11|08:20|4|38.8|C|105|24|97|155/87|4|NA|Abdominal pain|None
+707|707|707|32|2024-10-02|08:20|5|38.0|C|83|23|98|153/88|4|NA|Abnormal laboratory values|None
+708|708|708|25|2025-03-12|08:20|2|37.1|C|73|12|100|146/69|1|Penicillin|Routine postoperative follow-up|None
+709|709|709|39|2024-06-19|08:20|4|38.9|C|74|16|94|132/79|10|Pollen|Severe headache|None
+710|710|710|18|2024-12-10|08:20|5|38.6|C|108|13|94|110/92|5|NA|Routine postoperative follow-up|Documented home medication
+711|711|711|36|2024-09-24|08:20|3|37.4|C|82|23|96|115/76|8|Pollen|Abdominal pain|NA
+712|712|712|22|2025-04-23|08:20|3|39.1|C|121|18|99|151/69|4|Nuts|Routine postoperative follow-up|NA
+713|713|713|28|2025-03-16|08:20|2|37.0|C|90|12|96|110/92|1|Penicillin|Abnormal laboratory values|None
+714|714|714|32|2024-11-18|08:20|4|36.5|C|105|13|96|155/74|4|Penicillin|Fever and fatigue|None
+715|715|715|22|2024-02-18|08:20|3|37.6|C|123|13|94|141/74|7|None|Fever and fatigue|Documented home medication
+716|716|716|41|2024-12-20|08:20|2|38.9|C|93|17|99|149/92|7|Pollen|Urinary symptoms|None
+717|717|717|40|2024-10-29|08:20|5|38.9|C|118|17|98|118/95|6|NA|Urinary symptoms|None
+718|718|718|39|2024-05-21|08:20|2|36.3|C|76|25|93|154/74|5|Penicillin|Shortness of breath|Documented home medication
+719|719|719|38|2025-03-18|08:20|1|36.4|C|74|25|94|124/72|10|Nuts|Dizziness|None
+720|720|720|31|2024-03-15|08:20|3|37.5|C|124|24|92|132/92|3|Nuts|Urinary symptoms|None
+721|721|721|44|2024-11-27|08:20|4|37.4|C|120|20|96|151/86|1|Pollen|Injury assessment|NA
+722|722|722|1|2024-07-06|08:20|2|36.1|C|95|14|99|144/67|4|None|Abnormal laboratory values|NA
+723|723|723|21|2025-02-21|08:20|2|36.3|C|113|24|93|136/92|0|Pollen|Fever and fatigue|None
+724|724|724|39|2025-05-09|08:20|1|39.0|C|69|12|100|151/95|9|Pollen|Abnormal laboratory values|None
+725|725|725|8|2024-01-09|08:20|1|38.4|C|115|22|100|143/78|0|NA|Routine postoperative follow-up|Documented home medication
+726|726|726|31|2024-07-15|08:20|4|38.1|C|89|25|96|129/92|7|Pollen|Routine postoperative follow-up|Documented home medication
+727|727|727|43|2025-05-23|08:20|3|36.4|C|82|13|95|124/91|6|Pollen|Dizziness|Documented home medication
+728|728|728|30|2025-02-07|08:20|1|36.2|C|77|24|99|106/80|2|Nuts|Injury assessment|Documented home medication
+729|729|729|35|2024-05-13|08:20|1|38.6|C|118|24|100|147/81|0|NA|Dizziness|NA
+730|730|730|20|2025-05-08|08:20|4|38.5|C|89|14|100|111/87|3|Penicillin|Dizziness|NA
+731|731|731|30|2025-05-07|08:20|5|38.1|C|107|20|93|147/88|9|Penicillin|Urinary symptoms|None
+732|732|732|33|2025-05-02|08:20|3|38.6|C|65|13|98|143/87|9|None|Abdominal pain|None
+733|733|733|43|2024-02-27|08:20|2|36.2|C|122|12|97|125/74|2|Nuts|Injury assessment|NA
+734|734|734|14|2024-12-05|08:20|1|36.8|C|61|17|93|150/71|7|Penicillin|Severe headache|None
+735|735|735|14|2024-01-21|08:20|5|38.3|C|93|20|96|152/83|7|None|Routine postoperative follow-up|None
+736|736|736|39|2024-07-19|08:20|3|36.0|C|67|13|94|132/82|0|None|Severe headache|Documented home medication
+737|737|737|24|2025-01-09|08:20|1|37.4|C|99|14|94|148/74|5|None|Urinary symptoms|Documented home medication
+738|738|738|41|2024-09-29|08:20|2|37.7|C|119|14|92|110/74|9|None|Abnormal laboratory values|Documented home medication
+739|739|739|23|2025-01-16|08:20|5|39.1|C|74|23|95|150/85|6|Pollen|Routine postoperative follow-up|Documented home medication
+740|740|740|31|2025-01-26|08:20|3|36.4|C|97|17|96|114/75|1|Nuts|Severe headache|NA
+741|741|741|29|2025-01-29|08:20|3|36.0|C|85|12|95|137/76|3|None|Routine postoperative follow-up|None
+742|742|742|34|2024-10-29|08:20|5|36.1|C|100|23|99|138/79|8|None|Dizziness|Documented home medication
+743|743|743|45|2024-01-20|08:20|2|38.5|C|84|25|98|149/75|9|None|Fever and fatigue|Documented home medication
+744|744|744|15|2024-04-24|08:20|2|36.3|C|84|15|94|129/67|4|Penicillin|Severe headache|Documented home medication
+745|745|745|25|2024-07-08|08:20|4|36.8|C|124|25|100|116/95|7|Pollen|Dizziness|Documented home medication
+746|746|746|3|2024-08-03|08:20|4|37.3|C|103|17|97|125/93|6|Penicillin|Dizziness|None
+747|747|747|34|2024-09-22|08:20|3|37.5|C|83|18|97|108/91|5|NA|Routine postoperative follow-up|None
+748|748|748|16|2024-03-14|08:20|1|36.5|C|76|19|97|145/75|0|NA|Severe headache|None
+749|749|749|6|2024-08-02|08:20|3|36.6|C|104|18|92|127/65|8|None|Dizziness|Documented home medication
+750|750|750|10|2024-09-05|08:20|5|37.2|C|77|14|92|111/71|1|Pollen|Urinary symptoms|None
+751|751|751|32|2025-02-06|08:20|4|38.3|C|119|24|96|154/89|4|None|Shortness of breath|Documented home medication
+752|752|752|38|2025-04-25|08:20|5|37.4|C|74|15|93|108/73|6|NA|Abnormal laboratory values|None
+753|753|753|24|2024-06-11|08:20|4|37.3|C|101|19|95|147/95|4|Pollen|Fever and fatigue|NA
+754|754|754|28|2024-07-08|08:20|1|38.8|C|123|22|96|121/74|0|NA|Abnormal laboratory values|NA
+755|755|755|27|2024-06-25|08:20|1|37.6|C|85|16|99|135/74|1|Pollen|Severe headache|Documented home medication
+756|756|756|44|2025-06-26|08:20|1|36.3|C|68|18|99|118/85|8|Pollen|Shortness of breath|NA
+757|757|757|37|2024-03-11|08:20|2|37.2|C|117|25|98|114/68|10|None|Abdominal pain|None
+758|758|758|33|2024-11-26|08:20|2|37.4|C|92|22|93|112/81|10|None|Chest discomfort|None
+759|759|759|5|2024-12-24|08:20|4|38.0|C|70|15|92|111/92|6|None|Chest discomfort|Documented home medication
+760|760|760|17|2025-02-10|08:20|3|38.4|C|68|23|99|145/85|9|NA|Injury assessment|NA
+761|761|761|22|2024-08-11|08:20|5|36.9|C|103|15|92|142/89|8|Pollen|Fever and fatigue|None
+762|762|762|32|2024-08-22|08:20|3|38.4|C|124|13|96|148/93|7|Penicillin|Severe headache|Documented home medication
+763|763|763|9|2024-05-08|08:20|4|38.2|C|123|17|93|148/94|3|None|Urinary symptoms|NA
+764|764|764|20|2024-12-10|08:20|4|36.3|C|117|25|93|106/69|6|Penicillin|Abdominal pain|None
+765|765|765|8|2024-07-20|08:20|4|37.1|C|97|16|96|125/73|5|None|Abnormal laboratory values|None
+766|766|766|16|2025-04-29|08:20|5|39.0|C|110|25|94|115/66|10|Pollen|Dizziness|None
+767|767|767|39|2025-06-25|08:20|5|36.2|C|77|24|97|119/86|8|None|Abdominal pain|None
+768|768|768|24|2024-02-09|08:20|3|38.9|C|103|12|98|130/67|10|None|Abnormal laboratory values|NA
+769|769|769|23|2025-05-19|08:20|3|37.5|C|81|25|100|126/67|9|NA|Severe headache|NA
+770|770|770|19|2024-06-26|08:20|4|38.7|C|69|17|100|154/82|9|Penicillin|Urinary symptoms|None
+771|771|771|34|2024-08-25|08:20|4|36.1|C|120|18|92|151/67|4|None|Injury assessment|NA
+772|772|772|19|2025-06-25|08:20|1|38.2|C|68|19|100|138/84|2|Nuts|Injury assessment|None
+773|773|773|43|2024-07-31|08:20|4|39.0|C|69|24|96|125/82|7|Nuts|Urinary symptoms|Documented home medication
+774|774|774|39|2025-06-22|08:20|5|36.9|C|126|15|94|134/68|3|Pollen|Severe headache|None
+775|775|775|35|2024-10-10|08:20|4|37.5|C|59|13|98|128/82|8|None|Severe headache|NA
+776|776|776|26|2024-06-24|08:20|3|36.2|C|85|20|92|124/84|7|None|Abnormal laboratory values|None
+777|777|777|38|2024-09-17|08:20|3|37.1|C|73|15|100|145/74|2|NA|Injury assessment|None
+778|778|778|6|2025-06-25|08:20|1|36.1|C|125|22|94|117/83|2|None|Dizziness|None
+779|779|779|20|2025-05-11|08:20|4|37.7|C|114|19|93|143/73|1|Nuts|Routine postoperative follow-up|Documented home medication
+780|780|780|31|2024-07-04|08:20|5|37.3|C|120|21|92|105/96|0|Penicillin|Abdominal pain|Documented home medication
+781|781|781|38|2024-07-16|08:20|2|37.1|C|68|25|98|106/81|3|Penicillin|Abnormal laboratory values|None
+782|782|782|45|2024-12-07|08:20|2|37.1|C|112|14|92|126/78|0|Penicillin|Dizziness|Documented home medication
+783|783|783|17|2024-01-05|08:20|4|36.8|C|105|13|93|117/78|0|Pollen|Abnormal laboratory values|None
+784|784|784|33|2024-07-23|08:20|1|36.2|C|94|14|99|150/75|3|Nuts|Shortness of breath|None
+785|785|785|45|2025-03-19|08:20|5|37.3|C|124|13|96|130/92|3|Pollen|Dizziness|None
+786|786|786|21|2024-12-01|08:20|1|36.7|C|84|21|95|140/68|3|NA|Urinary symptoms|Documented home medication
+787|787|787|41|2025-04-05|08:20|2|36.7|C|95|22|97|124/93|2|Nuts|Shortness of breath|NA
+788|788|788|18|2025-01-02|08:20|1|37.9|C|62|15|95|138/96|4|Nuts|Severe headache|Documented home medication
+789|789|789|21|2024-01-30|08:20|3|36.9|C|123|12|98|149/81|10|Nuts|Abnormal laboratory values|None
+790|790|790|31|2024-10-28|08:20|4|36.4|C|117|18|97|155/72|10|Penicillin|Abdominal pain|Documented home medication
+791|791|791|34|2024-04-03|08:20|1|37.1|C|83|15|98|113/73|5|Nuts|Urinary symptoms|Documented home medication
+792|792|792|7|2024-01-13|08:20|4|37.6|C|65|20|92|112/76|1|Penicillin|Dizziness|Documented home medication
+793|793|793|30|2025-02-16|08:20|4|36.0|C|76|20|92|133/66|7|None|Urinary symptoms|NA
+794|794|794|23|2024-03-15|08:20|4|38.4|C|106|16|100|106/77|8|Penicillin|Shortness of breath|Documented home medication
+795|795|795|24|2024-07-01|08:20|3|37.8|C|120|13|95|146/74|0|Penicillin|Chest discomfort|NA
+796|796|796|11|2024-11-24|08:20|5|38.5|C|89|21|99|140/69|0|Penicillin|Fever and fatigue|NA
+797|797|797|20|2024-10-22|08:20|5|38.4|C|65|13|97|115/73|3|None|Abdominal pain|NA
+798|798|798|2|2024-06-02|08:20|4|37.5|C|90|23|95|118/92|10|None|Urinary symptoms|None
+799|799|799|15|2024-08-06|08:20|5|38.7|C|125|20|97|138/78|10|Nuts|Dizziness|None
+800|800|800|38|2024-07-16|08:20|3|37.7|C|89|16|98|122/75|4|None|Chest discomfort|Documented home medication
+801|801|801|16|2025-01-08|08:20|1|38.4|C|126|14|97|146/70|9|Penicillin|Injury assessment|NA
+802|802|802|31|2024-08-15|08:20|1|36.3|C|93|16|95|107/86|1|Pollen|Severe headache|NA
+803|803|803|42|2024-09-19|08:20|2|37.8|C|122|13|94|130/92|10|NA|Injury assessment|NA
+804|804|804|4|2024-04-02|08:20|3|36.0|C|76|18|92|105/71|3|None|Dizziness|Documented home medication
+805|805|805|19|2024-04-21|08:20|4|36.6|C|82|15|92|107/95|2|Penicillin|Severe headache|Documented home medication
+806|806|806|15|2024-03-24|08:20|3|38.1|C|116|12|93|146/92|7|Penicillin|Injury assessment|NA
+807|807|807|37|2024-08-10|08:20|4|38.8|C|87|14|94|117/79|9|NA|Fever and fatigue|NA
+808|808|808|1|2024-12-25|08:20|2|37.5|C|94|14|97|142/80|8|Penicillin|Fever and fatigue|None
+809|809|809|30|2024-08-03|08:20|3|39.0|C|84|16|95|146/93|5|Pollen|Fever and fatigue|Documented home medication
+810|810|810|16|2025-02-11|08:20|1|38.4|C|67|19|93|123/84|7|Penicillin|Urinary symptoms|Documented home medication
+811|811|811|19|2024-03-28|08:20|5|37.7|C|59|21|92|114/76|0|Pollen|Severe headache|Documented home medication
+812|812|812|32|2024-02-14|08:20|3|37.9|C|92|20|99|121/77|8|None|Fever and fatigue|NA
+813|813|813|18|2024-11-25|08:20|4|39.1|C|76|12|98|105/83|8|Nuts|Urinary symptoms|None
+814|814|814|42|2024-03-09|08:20|1|37.9|C|60|14|95|109/86|0|NA|Severe headache|None
+815|815|815|45|2025-05-03|08:20|2|38.9|C|118|23|93|132/89|3|Penicillin|Routine postoperative follow-up|NA
+816|816|816|29|2024-12-23|08:20|5|37.2|C|66|18|94|146/90|5|Penicillin|Chest discomfort|None
+817|817|817|12|2024-04-14|08:20|5|36.5|C|70|15|98|126/96|2|Nuts|Severe headache|Documented home medication
+818|818|818|33|2024-03-15|08:20|1|37.4|C|101|18|95|128/65|8|None|Routine postoperative follow-up|NA
+819|819|819|25|2025-02-14|08:20|5|37.5|C|118|15|94|106/91|0|Nuts|Shortness of breath|Documented home medication
+820|820|820|41|2025-04-25|08:20|3|36.2|C|99|13|98|132/87|1|Penicillin|Injury assessment|NA
+821|821|821|42|2024-04-21|08:20|1|36.5|C|61|20|96|130/70|1|NA|Shortness of breath|Documented home medication
+822|822|822|14|2025-02-07|08:20|2|36.9|C|96|12|99|111/80|1|None|Dizziness|None
+823|823|823|32|2025-04-27|08:20|4|38.9|C|117|21|96|112/69|2|Pollen|Chest discomfort|Documented home medication
+824|824|824|28|2025-05-14|08:20|4|36.4|C|110|14|93|128/68|9|NA|Urinary symptoms|Documented home medication
+825|825|825|28|2024-09-10|08:20|2|38.4|C|124|18|97|113/77|7|Penicillin|Injury assessment|NA
+826|826|826|39|2025-03-14|08:20|1|36.2|C|126|22|100|130/65|7|Pollen|Shortness of breath|Documented home medication
+827|827|827|39|2025-05-02|08:20|5|36.4|C|122|16|98|108/87|0|None|Fever and fatigue|NA
+828|828|828|35|2024-03-07|08:20|5|37.6|C|73|19|100|115/89|7|NA|Dizziness|NA
+829|829|829|33|2025-01-16|08:20|3|39.1|C|63|21|93|131/72|0|NA|Fever and fatigue|None
+830|830|830|11|2025-03-25|08:20|4|36.5|C|89|25|92|114/86|5|Nuts|Shortness of breath|NA
+831|831|831|39|2024-01-29|08:20|3|37.8|C|122|15|95|142/88|1|Penicillin|Chest discomfort|NA
+832|832|832|40|2025-05-13|08:20|4|37.1|C|105|22|98|120/91|8|NA|Routine postoperative follow-up|Documented home medication
+833|833|833|43|2024-08-26|08:20|4|37.2|C|94|16|98|117/87|2|NA|Chest discomfort|NA
+834|834|834|18|2025-04-05|08:20|2|38.2|C|98|24|93|152/92|10|Penicillin|Abnormal laboratory values|None
+835|835|835|42|2025-04-11|08:20|2|38.5|C|76|20|96|112/83|4|Pollen|Urinary symptoms|None
+836|836|836|24|2025-03-22|08:20|5|36.9|C|66|21|96|135/79|2|Pollen|Fever and fatigue|Documented home medication
+837|837|837|21|2024-02-02|08:20|1|38.8|C|90|13|99|109/65|6|NA|Injury assessment|NA
+838|838|838|3|2024-05-19|08:20|5|36.3|C|92|18|98|128/81|10|NA|Severe headache|None
+839|839|839|41|2024-01-11|08:20|5|39.1|C|104|14|97|138/72|3|Nuts|Abdominal pain|None
+840|840|840|21|2025-01-05|08:20|2|37.1|C|93|18|94|152/81|8|Penicillin|Dizziness|NA
+841|841|841|26|2024-02-24|08:20|4|38.6|C|83|19|92|138/68|0|NA|Abdominal pain|Documented home medication
+842|842|842|28|2024-05-01|08:20|1|39.0|C|71|13|95|112/96|5|NA|Fever and fatigue|Documented home medication
+843|843|843|36|2024-05-28|08:20|3|39.0|C|66|16|93|150/67|0|Nuts|Fever and fatigue|NA
+844|844|844|28|2024-05-25|08:20|4|38.4|C|119|23|95|129/75|2|Nuts|Routine postoperative follow-up|Documented home medication
+845|845|845|11|2025-06-18|08:20|5|36.6|C|81|14|99|122/82|2|Nuts|Routine postoperative follow-up|NA
+846|846|846|3|2025-06-18|08:20|1|36.3|C|124|16|96|124/75|9|Nuts|Urinary symptoms|Documented home medication
+847|847|847|29|2024-02-13|08:20|2|37.7|C|90|23|93|115/83|0|NA|Injury assessment|None
+848|848|848|19|2024-12-10|08:20|1|38.4|C|116|24|95|107/95|10|None|Urinary symptoms|NA
+849|849|849|14|2025-06-09|08:20|3|38.1|C|112|16|93|153/81|2|NA|Injury assessment|NA
+850|850|850|35|2025-06-12|08:20|2|36.4|C|64|25|97|118/96|4|Nuts|Urinary symptoms|NA
+851|851|851|12|2025-04-29|08:20|1|36.7|C|101|25|93|112/93|1|Nuts|Chest discomfort|NA
+852|852|852|16|2024-06-13|08:20|2|38.5|C|68|14|95|105/76|6|Penicillin|Dizziness|None
+853|853|853|25|2025-04-13|08:20|1|36.1|C|73|14|100|114/68|5|NA|Shortness of breath|None
+854|854|854|15|2025-01-18|08:20|3|36.7|C|105|21|100|147/67|3|Nuts|Routine postoperative follow-up|Documented home medication
+855|855|855|3|2024-08-23|08:20|4|38.2|C|109|19|92|120/89|0|Nuts|Injury assessment|None
+856|856|856|6|2025-03-28|08:20|3|38.5|C|113|22|96|147/94|4|Pollen|Severe headache|Documented home medication
+857|857|857|7|2025-05-12|08:20|1|38.9|C|115|15|97|107/78|0|None|Abdominal pain|Documented home medication
+858|858|858|36|2024-09-22|08:20|3|38.4|C|64|15|98|138/88|1|Pollen|Injury assessment|None
+859|859|859|32|2024-06-24|08:20|5|37.4|C|105|15|92|138/72|2|None|Fever and fatigue|Documented home medication
+860|860|860|42|2025-04-28|08:20|3|36.7|C|80|14|96|114/66|0|Pollen|Abnormal laboratory values|None
+861|861|861|24|2024-07-01|08:20|1|37.3|C|65|21|93|143/66|1|Penicillin|Urinary symptoms|None
+862|862|862|23|2024-07-16|08:20|2|37.0|C|108|17|93|123/66|10|Penicillin|Severe headache|NA
+863|863|863|7|2025-02-08|08:20|1|37.2|C|90|14|98|123/68|7|Nuts|Shortness of breath|NA
+864|864|864|1|2024-12-04|08:20|2|36.5|C|122|19|98|132/68|8|Pollen|Routine postoperative follow-up|NA
+865|865|865|21|2024-09-13|08:20|1|38.7|C|116|25|99|145/75|7|Pollen|Fever and fatigue|None
+866|866|866|19|2025-02-21|08:20|2|37.2|C|73|20|96|108/67|4|NA|Abdominal pain|None
+867|867|867|44|2024-11-13|08:20|4|38.7|C|95|22|100|127/84|4|Nuts|Abnormal laboratory values|None
+868|868|868|14|2024-02-12|08:20|3|37.4|C|86|20|93|110/91|8|Penicillin|Abdominal pain|None
+869|869|869|22|2024-10-08|08:20|3|36.6|C|96|18|99|115/95|5|None|Routine postoperative follow-up|NA
+870|870|870|1|2024-03-24|08:20|1|39.1|C|122|13|100|126/67|5|NA|Routine postoperative follow-up|None
+871|871|871|22|2024-07-06|08:20|1|36.6|C|123|23|100|142/90|2|Nuts|Urinary symptoms|None
+872|872|872|28|2025-04-21|08:20|1|38.8|C|93|20|94|149/68|9|Penicillin|Dizziness|None
+873|873|873|4|2024-05-08|08:20|4|37.8|C|116|14|97|116/65|0|Pollen|Dizziness|NA
+874|874|874|3|2024-12-30|08:20|3|37.4|C|59|17|94|125/77|1|Nuts|Injury assessment|Documented home medication
+875|875|875|21|2024-06-07|08:20|3|38.0|C|67|13|92|149/94|6|Pollen|Dizziness|Documented home medication
+876|876|876|15|2024-07-24|08:20|1|37.6|C|95|21|93|134/96|2|Penicillin|Abdominal pain|None
+877|877|877|16|2025-05-13|08:20|4|36.7|C|79|12|95|132/91|4|NA|Abdominal pain|NA
+878|878|878|3|2024-05-14|08:20|3|39.0|C|61|24|97|152/65|2|NA|Abdominal pain|Documented home medication
+879|879|879|32|2024-01-11|08:20|2|38.8|C|71|15|97|137/90|4|Pollen|Dizziness|NA
+880|880|880|17|2024-05-22|08:20|5|38.3|C|77|14|93|116/71|0|Penicillin|Routine postoperative follow-up|NA
+881|881|881|9|2024-05-12|08:20|5|36.6|C|96|13|93|137/90|6|None|Severe headache|None
+882|882|882|28|2024-10-16|08:20|1|36.8|C|125|17|95|131/79|4|Nuts|Injury assessment|Documented home medication
+883|883|883|12|2024-07-28|08:20|2|36.6|C|68|21|99|153/88|9|Pollen|Fever and fatigue|Documented home medication
+884|884|884|2|2024-05-22|08:20|1|37.6|C|67|22|98|111/92|9|Nuts|Urinary symptoms|Documented home medication
+885|885|885|22|2024-03-06|08:20|4|36.7|C|119|22|97|114/80|7|Penicillin|Chest discomfort|NA
+886|886|886|18|2024-12-14|08:20|5|38.5|C|81|21|96|143/92|5|None|Urinary symptoms|None
+887|887|887|42|2024-02-19|08:20|2|37.3|C|105|17|94|138/85|0|Nuts|Abdominal pain|None
+888|888|888|34|2025-01-31|08:20|3|38.0|C|113|24|98|131/75|7|NA|Severe headache|Documented home medication
+889|889|889|22|2024-05-22|08:20|4|37.4|C|123|16|93|112/94|2|Nuts|Abnormal laboratory values|NA
+890|890|890|27|2024-12-15|08:20|1|36.6|C|68|22|100|105/76|8|NA|Chest discomfort|None
+891|891|891|45|2024-01-02|08:20|3|37.2|C|73|22|95|125/94|5|None|Severe headache|NA
+892|892|892|26|2025-01-29|08:20|2|37.4|C|119|23|100|121/93|10|Penicillin|Chest discomfort|None
+893|893|893|38|2025-05-20|08:20|3|37.6|C|66|16|93|123/92|3|Penicillin|Abdominal pain|Documented home medication
+894|894|894|45|2025-05-28|08:20|3|36.5|C|66|18|96|141/66|0|Penicillin|Dizziness|Documented home medication
+895|895|895|10|2024-06-26|08:20|1|38.5|C|61|22|100|129/93|6|NA|Routine postoperative follow-up|None
+896|896|896|39|2024-07-31|08:20|5|36.4|C|107|25|99|129/68|1|Penicillin|Shortness of breath|NA
+897|897|897|32|2024-07-27|08:20|4|36.8|C|124|21|92|146/96|3|Nuts|Shortness of breath|None
+898|898|898|23|2025-03-03|08:20|1|37.8|C|96|16|94|123/90|8|Penicillin|Shortness of breath|NA
+899|899|899|14|2025-05-08|08:20|4|38.8|C|76|18|92|114/93|4|Pollen|Severe headache|NA
+900|900|900|37|2025-03-29|08:20|4|39.1|C|87|18|99|139/89|10|Pollen|Injury assessment|None
+901|901|901|16|2024-08-06|08:20|2|37.4|C|122|14|94|149/88|4|Nuts|Dizziness|NA
+902|902|902|27|2024-07-14|08:20|1|38.2|C|86|24|96|146/69|8|None|Fever and fatigue|Documented home medication
+903|903|903|34|2025-04-19|08:20|4|38.6|C|98|19|95|154/83|7|NA|Dizziness|None
+904|904|904|43|2024-12-17|08:20|3|38.9|C|88|14|99|108/78|1|Penicillin|Abnormal laboratory values|None
+905|905|905|6|2025-06-03|08:20|1|38.1|C|90|25|92|130/95|5|NA|Injury assessment|None
+906|906|906|15|2025-04-21|08:20|2|38.0|C|121|25|95|116/76|2|Nuts|Injury assessment|None
+907|907|907|18|2024-07-13|08:20|4|37.7|C|59|21|92|130/75|1|Penicillin|Severe headache|Documented home medication
+908|908|908|7|2024-01-12|08:20|5|36.4|C|78|20|95|118/80|5|None|Abdominal pain|Documented home medication
+909|909|909|30|2025-02-27|08:20|1|36.1|C|120|22|100|139/66|0|Nuts|Shortness of breath|Documented home medication
+910|910|910|24|2025-03-30|08:20|4|38.7|C|85|15|100|152/67|2|Nuts|Fever and fatigue|NA
+911|911|911|16|2024-02-11|08:20|1|37.4|C|103|16|99|119/89|10|NA|Routine postoperative follow-up|NA
+912|912|912|3|2025-03-21|08:20|2|36.4|C|123|21|96|117/80|8|Nuts|Severe headache|Documented home medication
+913|913|913|17|2024-04-21|08:20|5|37.1|C|123|20|93|120/76|9|NA|Injury assessment|None
+914|914|914|4|2025-02-23|08:20|5|36.3|C|97|20|92|140/78|10|Nuts|Severe headache|Documented home medication
+915|915|915|32|2024-10-13|08:20|3|37.6|C|85|13|93|132/68|1|None|Shortness of breath|Documented home medication
+916|916|916|2|2024-02-08|08:20|1|36.6|C|105|20|94|136/89|2|Pollen|Shortness of breath|None
+917|917|917|27|2024-03-16|08:20|1|37.2|C|113|15|96|107/65|2|Pollen|Chest discomfort|None
+918|918|918|43|2025-01-03|08:20|3|37.8|C|100|15|98|125/83|10|None|Abdominal pain|NA
+919|919|919|26|2024-03-15|08:20|5|36.1|C|89|25|96|119/81|2|Nuts|Fever and fatigue|Documented home medication
+920|920|920|13|2025-03-27|08:20|4|36.9|C|117|18|96|119/72|9|NA|Abdominal pain|NA
+921|921|921|25|2024-03-12|08:20|5|36.4|C|110|19|92|110/81|1|Nuts|Chest discomfort|None
+922|922|922|22|2024-04-11|08:20|4|36.4|C|122|16|93|144/72|9|NA|Urinary symptoms|NA
+923|923|923|31|2024-02-05|08:20|4|37.1|C|89|20|96|127/78|0|NA|Chest discomfort|NA
+924|924|924|44|2024-02-03|08:20|2|37.6|C|95|16|92|144/78|5|Nuts|Urinary symptoms|None
+925|925|925|45|2024-03-06|08:20|4|37.9|C|65|12|95|125/72|1|Nuts|Shortness of breath|Documented home medication
+926|926|926|32|2025-06-20|08:20|3|36.4|C|75|15|97|122/87|0|NA|Fever and fatigue|NA
+927|927|927|42|2024-10-01|08:20|3|38.2|C|78|13|99|147/77|9|Pollen|Dizziness|NA
+928|928|928|34|2024-01-01|08:20|2|37.6|C|93|14|99|142/92|3|Penicillin|Routine postoperative follow-up|Documented home medication
+929|929|929|21|2024-07-25|08:20|3|37.0|C|69|17|94|147/93|10|Nuts|Dizziness|Documented home medication
+930|930|930|17|2024-10-12|08:20|5|38.0|C|102|22|95|105/70|8|Penicillin|Dizziness|NA
+931|931|931|11|2024-08-29|08:20|4|36.7|C|98|24|95|107/94|4|None|Fever and fatigue|NA
+932|932|932|10|2025-06-05|08:20|4|37.4|C|68|25|99|118/66|2|Pollen|Chest discomfort|None
+933|933|933|31|2024-12-11|08:20|5|36.3|C|91|24|96|139/76|0|NA|Urinary symptoms|None
+934|934|934|44|2024-01-05|08:20|3|37.8|C|72|18|95|154/95|6|NA|Routine postoperative follow-up|Documented home medication
+935|935|935|45|2025-04-09|08:20|2|37.4|C|72|24|96|129/74|3|Nuts|Abnormal laboratory values|NA
+936|936|936|16|2025-04-21|08:20|1|38.2|C|99|16|93|113/75|6|Nuts|Shortness of breath|Documented home medication
+937|937|937|8|2025-01-10|08:20|4|37.9|C|82|13|98|143/91|3|Nuts|Abdominal pain|NA
+938|938|938|17|2025-02-22|08:20|1|37.3|C|117|24|93|138/69|8|Nuts|Injury assessment|NA
+939|939|939|39|2024-09-15|08:20|1|37.0|C|111|19|98|134/92|8|None|Routine postoperative follow-up|None
+940|940|940|41|2025-03-15|08:20|5|39.0|C|84|12|98|145/88|3|Penicillin|Chest discomfort|Documented home medication
+941|941|941|11|2025-01-27|08:20|5|37.0|C|72|15|98|124/96|3|Nuts|Abnormal laboratory values|None
+942|942|942|16|2025-05-18|08:20|5|38.8|C|107|12|97|137/80|8|Penicillin|Abdominal pain|Documented home medication
+943|943|943|27|2024-08-22|08:20|5|36.2|C|98|17|93|145/81|1|NA|Chest discomfort|None
+944|944|944|28|2025-01-07|08:20|1|36.4|C|63|12|97|119/87|1|Nuts|Urinary symptoms|Documented home medication
+945|945|945|8|2024-01-17|08:20|5|36.6|C|90|20|99|119/66|6|Nuts|Dizziness|Documented home medication
+946|946|946|2|2024-12-22|08:20|5|36.6|C|113|24|93|150/86|3|Nuts|Injury assessment|NA
+947|947|947|33|2024-11-01|08:20|5|37.9|C|126|20|92|150/86|7|Nuts|Urinary symptoms|None
+948|948|948|17|2024-01-09|08:20|5|38.9|C|78|15|94|121/82|6|NA|Fever and fatigue|Documented home medication
+949|949|949|4|2024-02-03|08:20|2|37.4|C|114|19|95|108/93|7|None|Abnormal laboratory values|None
+950|950|950|42|2025-03-30|08:20|2|37.3|C|78|12|92|142/68|9|Penicillin|Dizziness|NA
+951|951|951|19|2024-01-22|08:20|1|38.4|C|79|22|98|135/85|1|Pollen|Severe headache|None
+952|952|952|8|2024-11-23|08:20|5|38.1|C|126|25|93|153/75|3|Pollen|Urinary symptoms|NA
+953|953|953|19|2024-02-28|08:20|5|37.1|C|71|20|98|147/95|5|Nuts|Shortness of breath|NA
+954|954|954|35|2025-01-30|08:20|4|37.9|C|116|20|99|147/66|7|Pollen|Injury assessment|None
+955|955|955|9|2024-03-11|08:20|3|38.1|C|121|23|100|116/71|1|Pollen|Shortness of breath|Documented home medication
+956|956|956|37|2025-01-04|08:20|2|37.7|C|116|17|99|143/96|6|None|Chest discomfort|None
+957|957|957|25|2024-06-26|08:20|4|39.0|C|107|14|94|113/80|6|Penicillin|Abdominal pain|NA
+958|958|958|29|2024-05-03|08:20|3|37.2|C|71|23|96|131/67|4|Penicillin|Abdominal pain|Documented home medication
+959|959|959|25|2024-08-28|08:20|4|37.0|C|99|16|98|126/90|7|Pollen|Injury assessment|NA
+960|960|960|22|2024-09-25|08:20|5|38.3|C|98|22|96|111/68|8|Nuts|Routine postoperative follow-up|None
+961|961|961|16|2025-02-06|08:20|2|37.3|C|121|20|96|145/95|4|Pollen|Shortness of breath|Documented home medication
+962|962|962|42|2024-03-30|08:20|1|38.1|C|118|21|93|130/92|10|None|Chest discomfort|Documented home medication
+963|963|963|37|2025-02-28|08:20|3|38.6|C|108|16|98|116/78|0|Pollen|Injury assessment|Documented home medication
+964|964|964|19|2024-03-17|08:20|4|37.3|C|72|14|92|135/80|6|NA|Injury assessment|None
+965|965|965|30|2024-09-15|08:20|4|38.4|C|87|22|99|150/83|9|Pollen|Urinary symptoms|None
+966|966|966|40|2024-05-28|08:20|4|38.1|C|101|22|96|125/96|9|None|Dizziness|NA
+967|967|967|9|2025-04-13|08:20|2|36.5|C|96|23|93|129/94|7|Pollen|Dizziness|None
+968|968|968|11|2024-03-26|08:20|4|36.8|C|74|13|93|109/81|0|Penicillin|Injury assessment|Documented home medication
+969|969|969|9|2024-04-21|08:20|3|38.4|C|83|16|94|110/87|5|Nuts|Abdominal pain|Documented home medication
+970|970|970|15|2025-02-25|08:20|4|37.3|C|116|20|94|118/66|2|Pollen|Urinary symptoms|Documented home medication
+971|971|971|37|2024-05-02|08:20|3|37.7|C|60|15|94|125/67|5|None|Fever and fatigue|None
+972|972|972|30|2024-04-26|08:20|4|36.1|C|104|24|93|125/74|10|NA|Injury assessment|Documented home medication
+973|973|973|10|2024-02-05|08:20|5|38.8|C|60|24|94|153/73|5|Penicillin|Severe headache|Documented home medication
+974|974|974|25|2024-10-18|08:20|2|38.3|C|112|14|99|110/84|3|Pollen|Routine postoperative follow-up|Documented home medication
+975|975|975|32|2024-03-12|08:20|4|37.3|C|75|21|98|139/79|4|Penicillin|Chest discomfort|None
+976|976|976|34|2024-04-02|08:20|5|37.5|C|94|25|93|111/68|6|None|Fever and fatigue|None
+977|977|977|11|2024-10-11|08:20|3|39.0|C|63|19|98|149/91|7|NA|Fever and fatigue|NA
+978|978|978|39|2025-01-21|08:20|3|39.0|C|105|20|99|127/73|9|Nuts|Urinary symptoms|None
+979|979|979|37|2025-06-12|08:20|3|38.3|C|126|13|95|128/68|9|Pollen|Severe headache|Documented home medication
+980|980|980|25|2025-05-02|08:20|4|38.5|C|92|16|97|117/91|2|Pollen|Chest discomfort|None
+981|981|981|3|2024-04-16|08:20|3|38.2|C|118|20|97|108/75|3|Penicillin|Chest discomfort|NA
+982|982|982|38|2024-04-25|08:20|2|37.7|C|87|23|93|153/83|9|Pollen|Routine postoperative follow-up|None
+983|983|983|18|2024-09-18|08:20|4|36.1|C|98|25|99|140/96|8|Penicillin|Routine postoperative follow-up|None
+984|984|984|23|2025-02-21|08:20|5|36.9|C|74|15|92|128/89|9|NA|Routine postoperative follow-up|None
+985|985|985|6|2024-03-22|08:20|3|37.4|C|101|18|95|128/65|10|Nuts|Abnormal laboratory values|None
+986|986|986|17|2024-01-14|08:20|4|36.3|C|87|21|100|152/85|7|None|Severe headache|None
+987|987|987|3|2024-07-01|08:20|4|37.4|C|108|22|97|114/93|1|NA|Abnormal laboratory values|None
+988|988|988|1|2024-08-14|08:20|4|36.5|C|93|13|98|116/70|10|Penicillin|Injury assessment|Documented home medication
+989|989|989|23|2024-09-08|08:20|1|36.4|C|72|22|96|119/66|8|Penicillin|Shortness of breath|Documented home medication
+990|990|990|23|2025-06-14|08:20|5|36.9|C|80|22|100|153/82|10|Penicillin|Abnormal laboratory values|None
+991|991|991|5|2024-08-17|08:20|2|36.2|C|68|19|96|132/66|6|Pollen|Routine postoperative follow-up|Documented home medication
+992|992|992|21|2025-02-05|08:20|4|38.8|C|89|25|100|114/80|7|Pollen|Shortness of breath|Documented home medication
+993|993|993|29|2024-07-09|08:20|1|37.9|C|126|14|92|145/68|10|Nuts|Urinary symptoms|None
+994|994|994|42|2025-04-25|08:20|4|37.4|C|64|13|99|129/71|10|Pollen|Urinary symptoms|Documented home medication
+995|995|995|5|2024-07-15|08:20|1|37.3|C|99|24|98|119/93|8|Pollen|Abdominal pain|None
+996|996|996|27|2024-03-11|08:20|1|36.6|C|76|25|97|115/85|10|Nuts|Injury assessment|NA
+997|997|997|31|2025-06-19|08:20|1|36.1|C|77|20|94|138/73|3|Penicillin|Routine postoperative follow-up|NA
+998|998|998|7|2025-02-17|08:20|5|36.5|C|63|22|99|131/78|9|Penicillin|Urinary symptoms|None
+999|999|999|23|2025-02-10|08:20|5|37.5|C|88|12|93|152/93|8|Pollen|Abdominal pain|Documented home medication
+1000|1000|1000|28|2024-12-22|08:20|2|37.4|C|123|12|93|112/95|9|Penicillin|Severe headache|NA
+1001|1001|692|16|2026-07-10|08:20|5|39.1|C|109|19|95|109/74|5|Penicillin|Dizziness|Documented home medication
+1002|1002|589|13|2026-06-25|08:20|5|38.2|C|124|17|94|144/85|7|Pollen|Urinary symptoms|None
+1003|1003|553|45|2026-10-21|08:20|2|37.8|C|72|13|98|112/76|0|Nuts|Routine postoperative follow-up|None
+1004|1004|325|32|2026-08-08|08:20|1|37.0|C|105|22|97|131/85|8|None|Abdominal pain|NA
+1005|1005|707|35|2026-03-26|08:20|2|38.7|C|89|12|94|121/69|4|Pollen|Dizziness|None
+1006|1006|34|12|2026-10-02|08:20|1|38.0|C|120|22|99|151/81|9|None|Injury assessment|None
+1007|1007|916|8|2026-04-02|08:20|1|38.6|C|99|25|98|112/78|2|Pollen|Abdominal pain|None
+1008|1008|884|24|2026-10-01|08:20|2|36.7|C|89|16|96|144/73|2|None|Routine postoperative follow-up|NA
+1009|1009|633|43|2025-10-08|08:20|4|36.5|C|119|23|93|139/74|8|None|Dizziness|Documented home medication
+1010|1010|706|29|2025-11-11|08:20|5|38.9|C|117|21|95|142/78|1|Nuts|Urinary symptoms|Documented home medication
+1011|1011|330|38|2025-11-24|08:20|3|37.7|C|76|24|96|154/83|2|None|Shortness of breath|Documented home medication
+1012|1012|725|9|2026-09-01|08:20|4|38.9|C|80|14|92|107/71|5|Nuts|Dizziness|None
+1013|1013|647|21|2026-07-02|08:20|2|36.7|C|98|15|96|145/75|2|NA|Routine postoperative follow-up|NA
+1014|1014|480|17|2025-09-11|08:20|1|36.5|C|96|15|100|107/79|3|Pollen|Chest discomfort|Documented home medication
+1015|1015|356|6|2025-10-10|08:20|5|38.6|C|110|23|100|148/78|7|None|Routine postoperative follow-up|NA
+1016|1016|329|3|2026-01-24|08:20|5|37.9|C|111|12|96|130/76|1|Penicillin|Routine postoperative follow-up|NA
+1017|1017|81|44|2026-10-16|08:20|1|38.9|C|79|18|95|125/76|6|Nuts|Injury assessment|None
+1018|1018|132|42|2026-01-26|08:20|4|36.6|C|106|23|94|111/80|0|NA|Chest discomfort|Documented home medication
+1019|1019|625|33|2026-02-18|08:20|2|36.3|C|81|23|95|144/66|0|NA|Abnormal laboratory values|None
+1020|1020|621|23|2026-06-13|08:20|4|37.9|C|62|16|97|106/85|5|Nuts|Injury assessment|None
+1021|1021|624|27|2026-05-22|08:20|1|36.0|C|81|13|92|108/83|2|NA|Abnormal laboratory values|None
+1022|1022|666|7|2025-10-29|08:20|3|39.0|C|126|21|93|128/68|9|None|Severe headache|Documented home medication
+1023|1023|804|26|2026-02-13|08:20|2|37.4|C|81|24|97|117/94|7|None|Shortness of breath|Documented home medication
+1024|1024|831|37|2025-10-24|08:20|1|39.1|C|78|13|96|118/91|10|None|Routine postoperative follow-up|NA
+1025|1025|211|10|2025-10-09|08:20|2|37.3|C|96|14|96|127/75|7|Penicillin|Severe headache|Documented home medication
+1026|1026|380|5|2026-07-23|08:20|3|37.6|C|109|14|94|120/68|6|Nuts|Abdominal pain|Documented home medication
+1027|1027|500|14|2026-09-18|08:20|3|36.2|C|105|12|92|118/84|5|None|Fever and fatigue|NA
+1028|1028|451|5|2026-01-28|08:20|5|36.3|C|79|23|97|122/77|9|None|Abnormal laboratory values|NA
+1029|1029|4|14|2025-10-17|08:20|2|36.6|C|87|12|93|120/75|4|None|Abdominal pain|Documented home medication
+1030|1030|672|32|2026-04-23|08:20|4|36.2|C|125|12|93|148/75|8|Nuts|Shortness of breath|NA
+1031|1031|332|35|2026-02-24|08:20|1|37.7|C|72|20|98|153/65|7|Penicillin|Abdominal pain|None
+1032|1032|42|19|2026-02-12|08:20|3|38.6|C|60|23|97|151/80|0|NA|Abnormal laboratory values|None
+1033|1033|836|14|2025-11-02|08:20|1|36.5|C|69|23|100|152/71|1|Penicillin|Abdominal pain|Documented home medication
+1034|1034|243|19|2026-07-03|08:20|5|36.3|C|76|25|92|122/69|9|Penicillin|Routine postoperative follow-up|None
+1035|1035|492|3|2025-12-16|08:20|1|37.8|C|105|23|100|137/86|6|None|Fever and fatigue|NA
+1036|1036|96|3|2026-09-07|08:20|1|36.8|C|65|17|92|149/79|1|Pollen|Dizziness|None
+1037|1037|74|41|2025-08-24|08:20|4|38.4|C|77|23|95|151/77|9|Pollen|Abdominal pain|None
+1038|1038|573|41|2025-08-15|08:20|5|39.0|C|103|25|96|126/77|6|Nuts|Severe headache|Documented home medication
+1039|1039|149|10|2025-11-24|08:20|4|36.2|C|68|22|99|149/93|9|Nuts|Injury assessment|None
+1040|1040|536|2|2026-09-07|08:20|3|38.1|C|98|18|95|119/76|8|NA|Injury assessment|Documented home medication
+1041|1041|859|6|2025-08-31|08:20|4|37.9|C|79|21|94|119/65|1|NA|Severe headache|None
+1042|1042|650|22|2026-03-05|08:20|3|38.1|C|118|14|96|108/80|3|Nuts|Abnormal laboratory values|Documented home medication
+1043|1043|266|32|2026-03-15|08:20|3|37.7|C|109|19|98|120/67|1|NA|Injury assessment|Documented home medication
+1044|1044|332|36|2026-10-29|08:20|2|37.2|C|59|19|100|140/77|2|Pollen|Urinary symptoms|NA
+1045|1045|414|34|2026-05-06|08:20|3|37.6|C|97|22|99|107/94|2|NA|Routine postoperative follow-up|NA
+1046|1046|590|27|2026-02-21|08:20|2|38.9|C|64|20|97|142/77|2|None|Routine postoperative follow-up|NA
+1047|1047|455|20|2026-09-08|08:20|3|38.9|C|91|13|98|121/82|6|Nuts|Chest discomfort|None
+1048|1048|574|5|2026-08-07|08:20|4|38.9|C|89|17|100|115/94|8|Nuts|Urinary symptoms|NA
+1049|1049|906|8|2026-09-24|08:20|2|37.8|C|111|13|98|147/84|10|NA|Shortness of breath|None
+1050|1050|69|28|2026-09-18|08:20|1|39.0|C|126|20|100|137/68|10|Pollen|Dizziness|Documented home medication
+1051|1051|456|20|2025-09-24|08:20|4|36.5|C|83|15|96|133/80|0|Pollen|Fever and fatigue|NA
+1052|1052|884|23|2025-08-27|08:20|5|37.5|C|79|17|94|153/77|2|Pollen|Abdominal pain|Documented home medication
+1053|1053|992|38|2026-03-12|08:20|4|36.3|C|110|23|98|117/87|2|None|Urinary symptoms|None
+1054|1054|607|11|2026-01-28|08:20|1|37.8|C|64|19|95|117/90|9|Penicillin|Urinary symptoms|NA
+1055|1055|905|43|2025-08-09|08:20|4|38.0|C|92|12|95|133/74|0|None|Fever and fatigue|None
+1056|1056|212|5|2026-01-01|08:20|5|36.2|C|70|13|97|148/95|6|Nuts|Dizziness|NA
+1057|1057|372|28|2026-06-23|08:20|5|36.9|C|75|14|92|126/74|8|Nuts|Fever and fatigue|None
+1058|1058|766|6|2025-11-16|08:20|2|36.3|C|93|23|94|132/74|7|None|Shortness of breath|NA
+1059|1059|201|21|2026-04-21|08:20|4|36.4|C|117|15|96|113/65|8|Pollen|Dizziness|Documented home medication
+1060|1060|154|24|2025-09-11|08:20|2|38.4|C|64|18|93|154/96|0|None|Chest discomfort|None
+1061|1061|79|7|2026-05-22|08:20|3|37.2|C|109|12|97|118/84|5|Nuts|Abnormal laboratory values|Documented home medication
+1062|1062|30|20|2025-09-02|08:20|3|37.3|C|101|24|99|155/78|9|Nuts|Chest discomfort|None
+1063|1063|451|7|2026-01-12|08:20|3|38.4|C|92|17|93|144/81|5|NA|Shortness of breath|None
+1064|1064|409|35|2026-05-07|08:20|4|38.3|C|83|18|94|121/89|5|None|Chest discomfort|Documented home medication
+1065|1065|221|25|2026-03-15|08:20|3|38.5|C|84|21|98|147/79|10|Pollen|Urinary symptoms|None
+1066|1066|617|5|2025-12-08|08:20|2|38.0|C|97|13|95|154/89|8|NA|Abnormal laboratory values|None
+1067|1067|731|27|2025-11-28|08:20|3|39.0|C|109|24|97|131/78|10|Pollen|Severe headache|Documented home medication
+1068|1068|471|34|2026-02-09|08:20|2|36.7|C|87|13|93|154/94|10|None|Severe headache|NA
+1069|1069|945|40|2026-05-17|08:20|1|38.1|C|59|25|95|121/75|0|Pollen|Severe headache|None
+1070|1070|102|21|2026-02-02|08:20|4|37.2|C|120|14|96|135/68|2|Penicillin|Severe headache|NA
+1071|1071|833|16|2025-09-30|08:20|5|37.9|C|101|12|99|152/67|0|None|Routine postoperative follow-up|None
+1072|1072|556|34|2025-11-18|08:20|3|37.3|C|66|13|98|131/83|2|Nuts|Abdominal pain|NA
+1073|1073|625|27|2026-01-10|08:20|3|38.5|C|74|22|94|135/92|8|Pollen|Fever and fatigue|Documented home medication
+1074|1074|220|3|2026-07-04|08:20|1|37.1|C|85|19|93|130/91|1|Penicillin|Injury assessment|None
+1075|1075|566|13|2026-04-13|08:20|4|37.7|C|73|24|98|139/87|6|NA|Abnormal laboratory values|None
+1076|1076|485|40|2025-12-18|08:20|4|37.3|C|88|12|97|153/78|10|Penicillin|Abnormal laboratory values|None
+1077|1077|672|6|2025-08-10|08:20|5|36.1|C|81|15|92|122/85|4|Pollen|Fever and fatigue|None
+1078|1078|61|32|2026-03-22|08:20|2|36.3|C|111|14|93|109/74|1|Penicillin|Chest discomfort|None
+1079|1079|831|14|2025-11-11|08:20|4|37.8|C|70|20|94|148/65|7|Nuts|Shortness of breath|NA
+1080|1080|705|17|2026-03-26|08:20|4|38.3|C|80|12|100|136/81|9|NA|Abnormal laboratory values|None
+1081|1081|765|23|2026-02-11|08:20|3|36.6|C|64|19|100|147/75|4|None|Urinary symptoms|None
+1082|1082|182|10|2026-02-17|08:20|1|36.4|C|62|17|96|117/95|8|Penicillin|Severe headache|None
+1083|1083|349|6|2026-03-15|08:20|1|36.2|C|98|19|93|155/70|6|Pollen|Chest discomfort|Documented home medication
+1084|1084|41|41|2025-12-26|08:20|1|37.1|C|107|20|98|125/65|10|None|Urinary symptoms|None
+1085|1085|434|11|2026-04-30|08:20|2|38.2|C|123|19|92|147/93|7|None|Injury assessment|NA
+1086|1086|165|21|2026-03-01|08:20|4|37.4|C|75|23|99|138/71|9|NA|Abnormal laboratory values|Documented home medication
+1087|1087|505|35|2026-04-02|08:20|5|38.4|C|113|15|99|128/69|1|Penicillin|Routine postoperative follow-up|None
+1088|1088|135|31|2025-12-15|08:20|1|38.6|C|71|13|97|137/90|1|None|Severe headache|None
+1089|1089|570|43|2026-05-05|08:20|4|38.3|C|104|13|96|143/92|6|Nuts|Routine postoperative follow-up|NA
+1090|1090|91|7|2026-07-07|08:20|4|36.5|C|105|23|100|137/66|6|Pollen|Injury assessment|NA
+1091|1091|18|12|2026-10-22|08:20|1|37.8|C|106|12|98|107/93|5|NA|Chest discomfort|None
+1092|1092|269|7|2026-09-02|08:20|5|36.0|C|74|23|93|142/66|6|Penicillin|Fever and fatigue|Documented home medication
+1093|1093|531|23|2026-04-07|08:20|5|37.5|C|61|15|97|128/71|3|Penicillin|Urinary symptoms|NA
+1094|1094|706|27|2025-10-24|08:20|5|38.6|C|64|19|92|152/72|4|None|Dizziness|None
+1095|1095|341|17|2026-07-12|08:20|2|38.3|C|124|21|94|125/65|8|NA|Injury assessment|None
+1096|1096|290|4|2026-07-14|08:20|1|37.8|C|117|13|93|139/83|5|None|Injury assessment|None
+1097|1097|803|39|2025-08-27|08:20|4|37.2|C|119|14|96|155/71|1|Penicillin|Abnormal laboratory values|NA
+1098|1098|333|1|2026-07-14|08:20|2|37.8|C|126|18|96|117/88|8|Penicillin|Dizziness|None
+1099|1099|156|37|2026-01-05|08:20|5|36.5|C|86|12|95|144/96|3|None|Abnormal laboratory values|None
+1100|1100|268|8|2025-12-30|08:20|2|38.6|C|63|21|97|121/76|1|Nuts|Abnormal laboratory values|None
+1101|1101|425|25|2026-09-28|08:20|1|37.0|C|73|17|92|126/92|5|Nuts|Shortness of breath|Documented home medication
+1102|1102|926|40|2026-09-15|08:20|4|37.0|C|111|15|99|122/71|8|Nuts|Dizziness|None
+1103|1103|734|2|2026-05-03|08:20|5|38.3|C|96|20|96|115/76|1|None|Abnormal laboratory values|None
+1104|1104|477|32|2026-07-21|08:20|4|36.0|C|78|15|97|115/76|1|None|Severe headache|Documented home medication
+1105|1105|246|11|2026-10-29|08:20|2|38.3|C|68|15|93|109/83|1|None|Chest discomfort|NA
+1106|1106|963|12|2026-05-27|08:20|5|37.3|C|113|19|93|108/71|7|NA|Routine postoperative follow-up|NA
+1107|1107|403|45|2025-12-06|08:20|4|38.8|C|95|23|97|129/93|2|None|Abdominal pain|Documented home medication
+1108|1108|6|44|2025-08-22|08:20|4|37.7|C|65|13|98|122/75|8|None|Fever and fatigue|None
+1109|1109|743|25|2025-09-18|08:20|4|36.2|C|104|16|96|129/79|10|Nuts|Urinary symptoms|NA
+1110|1110|464|38|2025-11-15|08:20|2|37.1|C|69|14|97|108/80|3|Nuts|Severe headache|NA
+1111|1111|438|6|2026-10-02|08:20|3|37.0|C|79|17|92|141/76|3|None|Abdominal pain|Documented home medication
+1112|1112|732|25|2026-08-26|08:20|5|36.4|C|104|21|92|142/93|9|Pollen|Routine postoperative follow-up|None
+1113|1113|149|45|2026-04-18|08:20|4|38.2|C|90|21|94|117/77|9|None|Urinary symptoms|None
+1114|1114|721|41|2025-08-17|08:20|1|37.0|C|106|13|96|110/70|6|Pollen|Severe headache|NA
+1115|1115|730|26|2026-10-24|08:20|4|36.4|C|80|15|93|125/74|6|None|Fever and fatigue|NA
+1116|1116|375|25|2026-07-20|08:20|2|39.0|C|88|13|97|107/78|5|None|Abnormal laboratory values|None
+1117|1117|12|39|2026-05-15|08:20|4|38.3|C|123|17|99|140/80|2|Penicillin|Injury assessment|NA
+1118|1118|338|41|2026-04-22|08:20|3|37.9|C|93|25|96|112/81|3|Pollen|Routine postoperative follow-up|None
+1119|1119|992|8|2026-04-09|08:20|2|38.9|C|69|22|98|108/71|8|Penicillin|Abnormal laboratory values|NA
+1120|1120|206|23|2026-10-11|08:20|5|36.2|C|114|12|92|111/68|8|Nuts|Urinary symptoms|NA
+1121|1121|548|11|2026-08-25|08:20|2|37.3|C|76|18|97|115/93|3|Pollen|Routine postoperative follow-up|NA
+1122|1122|512|12|2026-07-06|08:20|5|37.1|C|126|21|92|142/67|8|Penicillin|Abdominal pain|NA
+1123|1123|196|16|2026-10-24|08:20|4|38.7|C|87|22|99|133/89|3|Penicillin|Fever and fatigue|NA
+1124|1124|61|36|2026-09-11|08:20|4|37.1|C|80|20|92|107/87|7|None|Severe headache|Documented home medication
+1125|1125|403|40|2026-08-07|08:20|3|37.5|C|61|25|97|125/96|2|None|Urinary symptoms|Documented home medication
+1126|1126|320|37|2026-05-23|08:20|4|37.9|C|86|19|98|127/83|4|Pollen|Abnormal laboratory values|NA
+1127|1127|470|7|2025-11-22|08:20|1|36.1|C|61|12|97|122/96|1|Penicillin|Fever and fatigue|NA
+1128|1128|485|16|2026-05-26|08:20|2|36.9|C|98|20|99|113/66|7|NA|Shortness of breath|NA
+1129|1129|140|1|2025-12-23|08:20|3|37.6|C|124|13|94|152/86|0|Pollen|Severe headache|None
+1130|1130|70|36|2026-10-16|08:20|3|38.4|C|91|14|98|151/66|2|Penicillin|Severe headache|Documented home medication
+1131|1131|48|38|2026-04-02|08:20|2|38.8|C|123|12|96|123/66|0|Nuts|Severe headache|None
+1132|1132|381|16|2026-04-19|08:20|4|39.1|C|62|14|98|114/80|8|Nuts|Routine postoperative follow-up|Documented home medication
+1133|1133|484|32|2026-08-19|08:20|1|38.4|C|119|23|99|135/92|3|None|Fever and fatigue|NA
+1134|1134|759|34|2026-05-21|08:20|3|38.4|C|67|25|96|122/79|6|NA|Severe headache|Documented home medication
+1135|1135|614|30|2025-10-07|08:20|1|37.8|C|81|17|93|155/91|8|NA|Abdominal pain|None
+1136|1136|163|44|2025-10-17|08:20|2|38.1|C|69|14|93|112/82|4|NA|Abdominal pain|Documented home medication
+1137|1137|554|19|2025-09-19|08:20|5|38.0|C|67|25|96|116/69|6|NA|Injury assessment|NA
+1138|1138|18|30|2026-03-12|08:20|3|38.7|C|93|21|100|139/67|3|Penicillin|Routine postoperative follow-up|NA
+1139|1139|614|8|2026-08-05|08:20|3|36.5|C|59|21|96|129/65|5|Nuts|Routine postoperative follow-up|None
+1140|1140|510|32|2025-11-11|08:20|4|36.8|C|95|17|92|115/81|2|None|Shortness of breath|NA
+1141|1141|477|23|2026-05-16|08:20|3|36.8|C|79|17|92|105/69|2|None|Chest discomfort|NA
+1142|1142|856|28|2025-08-10|08:20|3|36.6|C|105|22|94|147/95|0|None|Shortness of breath|None
+1143|1143|170|18|2026-01-12|08:20|1|37.0|C|65|24|97|111/78|7|Penicillin|Chest discomfort|Documented home medication
+1144|1144|67|17|2025-08-25|08:20|4|37.8|C|79|23|93|114/94|10|Penicillin|Shortness of breath|NA
+1145|1145|362|4|2026-10-07|08:20|1|39.1|C|74|21|94|130/90|6|None|Chest discomfort|Documented home medication
+1146|1146|28|16|2026-02-08|08:20|5|37.3|C|96|20|100|113/74|1|Nuts|Injury assessment|Documented home medication
+1147|1147|684|15|2026-08-28|08:20|4|36.1|C|78|12|93|105/76|9|Penicillin|Abdominal pain|Documented home medication
+1148|1148|558|40|2026-01-16|08:20|1|37.9|C|96|23|100|146/83|1|Pollen|Severe headache|Documented home medication
+1149|1149|644|34|2025-12-25|08:20|2|38.2|C|88|13|97|117/74|8|Nuts|Routine postoperative follow-up|None
+1150|1150|265|21|2026-09-25|08:20|2|36.8|C|66|12|99|126/68|9|NA|Abdominal pain|Documented home medication
+1151|1151|631|34|2026-08-23|08:20|1|37.9|C|109|22|95|113/95|4|None|Injury assessment|Documented home medication
+1152|1152|956|32|2026-03-08|08:20|4|36.1|C|88|13|93|122/82|7|None|Urinary symptoms|NA
+1153|1153|209|17|2026-05-06|08:20|3|36.1|C|72|13|99|124/91|10|NA|Injury assessment|Documented home medication
+1154|1154|42|3|2026-03-03|08:20|3|37.2|C|121|12|94|141/90|5|NA|Abdominal pain|NA
+1155|1155|208|16|2026-06-09|08:20|1|37.1|C|110|21|94|144/81|9|Penicillin|Dizziness|NA
+1156|1156|288|42|2025-09-03|08:20|4|37.3|C|73|19|97|132/74|3|None|Routine postoperative follow-up|NA
+1157|1157|725|26|2026-01-13|08:20|1|37.4|C|64|18|94|131/91|6|NA|Shortness of breath|None
+1158|1158|951|8|2026-08-26|08:20|1|37.6|C|104|17|99|152/93|6|Pollen|Dizziness|None
+1159|1159|473|4|2026-03-19|08:20|3|37.3|C|95|23|92|150/85|3|Nuts|Abdominal pain|NA
+1160|1160|840|28|2025-08-27|08:20|5|37.6|C|104|20|93|105/83|2|None|Chest discomfort|Documented home medication
+1161|1161|433|25|2026-02-13|08:20|1|38.4|C|116|18|100|142/74|9|Penicillin|Urinary symptoms|None
+1162|1162|681|14|2026-05-15|08:20|4|37.8|C|82|16|99|134/72|2|NA|Chest discomfort|Documented home medication
+1163|1163|582|14|2026-10-09|08:20|5|37.6|C|67|15|99|145/86|8|None|Urinary symptoms|Documented home medication
+1164|1164|426|22|2026-03-27|08:20|1|37.0|C|87|20|93|110/96|7|NA|Severe headache|NA
+1165|1165|519|27|2025-08-30|08:20|5|36.5|C|91|14|95|142/72|1|Pollen|Fever and fatigue|NA
+1166|1166|997|4|2026-07-15|08:20|5|37.6|C|61|24|95|141/88|7|None|Routine postoperative follow-up|None
+1167|1167|522|5|2026-07-29|08:20|5|38.4|C|112|20|98|137/78|9|NA|Shortness of breath|NA
+1168|1168|307|20|2026-04-26|08:20|3|38.5|C|91|21|94|125/82|10|Nuts|Routine postoperative follow-up|Documented home medication
+1169|1169|351|41|2026-10-27|08:20|2|36.0|C|83|24|94|120/74|7|Penicillin|Routine postoperative follow-up|Documented home medication
+1170|1170|13|41|2025-12-25|08:20|5|38.3|C|75|17|94|106/86|9|None|Severe headache|None
+1171|1171|580|24|2026-02-07|08:20|4|38.8|C|84|13|94|124/75|10|None|Chest discomfort|None
+1172|1172|559|45|2025-08-10|08:20|5|37.0|C|122|24|93|151/65|10|Penicillin|Routine postoperative follow-up|Documented home medication
+1173|1173|334|7|2026-04-25|08:20|1|38.2|C|117|25|93|127/73|8|None|Urinary symptoms|Documented home medication
+1174|1174|848|36|2025-08-18|08:20|2|37.0|C|61|17|93|151/83|9|Pollen|Chest discomfort|NA
+1175|1175|464|30|2026-07-16|08:20|5|36.5|C|68|19|98|139/94|9|NA|Chest discomfort|None
+1176|1176|357|17|2025-12-02|08:20|3|36.2|C|90|13|100|108/94|6|Nuts|Abdominal pain|NA
+1177|1177|86|15|2026-10-17|08:20|4|38.2|C|105|15|95|119/82|9|Penicillin|Injury assessment|None
+1178|1178|446|25|2026-04-02|08:20|3|38.7|C|84|23|98|109/68|1|Pollen|Shortness of breath|Documented home medication
+1179|1179|857|38|2026-02-21|08:20|5|38.7|C|126|12|95|119/69|3|Nuts|Abdominal pain|None
+1180|1180|233|25|2026-08-07|08:20|1|38.8|C|108|13|94|131/79|0|None|Fever and fatigue|None
+1181|1181|114|30|2025-12-26|08:20|4|38.6|C|95|23|98|105/71|0|Nuts|Severe headache|NA
+1182|1182|90|28|2026-03-02|08:20|5|36.4|C|85|19|95|111/74|6|NA|Abdominal pain|NA
+1183|1183|848|10|2025-08-26|08:20|3|38.0|C|98|21|97|136/68|5|NA|Routine postoperative follow-up|None
+1184|1184|587|42|2026-09-12|08:20|1|36.3|C|124|13|99|140/90|9|Pollen|Chest discomfort|Documented home medication
+1185|1185|793|9|2026-01-13|08:20|5|37.5|C|93|22|94|118/94|5|Penicillin|Fever and fatigue|Documented home medication
+1186|1186|513|37|2026-09-10|08:20|5|38.7|C|116|19|100|118/66|0|Pollen|Injury assessment|NA
+1187|1187|518|7|2026-02-25|08:20|5|36.2|C|124|24|95|122/89|6|Nuts|Abnormal laboratory values|Documented home medication
+1188|1188|939|31|2025-09-26|08:20|2|38.0|C|88|24|93|122/65|0|None|Dizziness|Documented home medication
+1189|1189|590|22|2026-09-29|08:20|5|39.0|C|75|13|99|108/73|0|None|Urinary symptoms|Documented home medication
+1190|1190|269|34|2026-07-19|08:20|2|36.2|C|62|20|97|142/80|0|None|Dizziness|Documented home medication
+1191|1191|228|39|2026-04-20|08:20|1|37.8|C|76|16|100|141/66|5|Penicillin|Routine postoperative follow-up|None
+1192|1192|680|38|2026-04-20|08:20|4|36.5|C|84|15|98|131/85|0|NA|Shortness of breath|None
+1193|1193|775|28|2026-04-16|08:20|4|38.8|C|77|14|95|127/78|8|NA|Dizziness|Documented home medication
+1194|1194|401|39|2026-10-07|08:20|1|37.0|C|63|24|92|121/86|6|None|Abdominal pain|Documented home medication
+1195|1195|122|24|2025-11-03|08:20|3|36.6|C|67|24|95|128/89|3|Pollen|Chest discomfort|NA
+1196|1196|44|45|2025-10-19|08:20|4|36.3|C|116|24|93|122/76|7|NA|Fever and fatigue|None
+1197|1197|397|20|2026-09-17|08:20|4|37.7|C|77|13|93|115/84|2|Penicillin|Shortness of breath|None
+1198|1198|591|34|2026-07-06|08:20|4|38.3|C|63|18|95|105/89|0|NA|Injury assessment|Documented home medication
+1199|1199|3|6|2025-09-23|08:20|5|36.5|C|78|19|96|113/92|2|Penicillin|Shortness of breath|Documented home medication
+1200|1200|614|27|2026-08-31|08:20|3|38.2|C|87|19|100|132/72|10|Nuts|Chest discomfort|NA
+1201|1201|155|12|2025-11-05|08:20|2|38.5|C|120|18|97|113/95|10|NA|Routine postoperative follow-up|NA
+1202|1202|819|21|2025-10-24|08:20|4|36.8|C|80|21|98|112/80|9|NA|Dizziness|Documented home medication
+1203|1203|357|42|2026-02-03|08:20|3|38.5|C|74|12|92|153/69|4|Pollen|Dizziness|None
+1204|1204|993|11|2025-09-27|08:20|1|36.3|C|96|12|99|112/95|9|Pollen|Abnormal laboratory values|Documented home medication
+1205|1205|915|15|2026-09-02|08:20|4|38.0|C|103|17|98|139/65|8|Penicillin|Injury assessment|Documented home medication
+1206|1206|36|40|2026-02-10|08:20|3|38.6|C|64|12|97|149/90|1|None|Abnormal laboratory values|NA
+1207|1207|716|14|2026-06-14|08:20|4|36.8|C|92|23|97|134/80|4|Penicillin|Fever and fatigue|Documented home medication
+1208|1208|909|29|2026-06-29|08:20|3|36.6|C|77|14|100|126/65|10|Pollen|Abdominal pain|None
+1209|1209|162|15|2026-05-17|08:20|2|36.6|C|88|13|95|119/83|10|Penicillin|Chest discomfort|NA
+1210|1210|779|14|2025-08-29|08:20|3|38.7|C|108|16|92|137/91|0|Nuts|Routine postoperative follow-up|Documented home medication
+1211|1211|536|2|2026-05-03|08:20|2|37.9|C|95|25|94|143/85|8|Nuts|Shortness of breath|Documented home medication
+1212|1212|178|14|2025-10-20|08:20|4|37.8|C|69|12|94|130/70|4|NA|Abdominal pain|Documented home medication
+1213|1213|669|5|2025-11-05|08:20|2|37.5|C|116|22|97|143/92|5|None|Dizziness|NA
+1214|1214|322|3|2026-08-31|08:20|2|37.3|C|103|25|97|123/68|5|NA|Dizziness|NA
+1215|1215|14|41|2026-04-24|08:20|5|37.3|C|100|13|96|139/73|3|Pollen|Abnormal laboratory values|NA
+1216|1216|802|44|2026-05-22|08:20|5|38.9|C|92|12|97|146/73|6|Nuts|Routine postoperative follow-up|NA
+1217|1217|25|3|2026-05-12|08:20|4|37.9|C|65|18|98|107/96|5|Nuts|Chest discomfort|None
+1218|1218|59|20|2025-09-06|08:20|2|37.2|C|65|13|92|109/74|6|Pollen|Abdominal pain|NA
+1219|1219|441|7|2026-04-01|08:20|5|36.5|C|124|20|92|135/88|10|NA|Routine postoperative follow-up|NA
+1220|1220|138|45|2025-12-06|08:20|4|38.6|C|67|24|99|114/80|5|None|Fever and fatigue|None
+1221|1221|826|43|2026-03-25|08:20|3|37.3|C|104|25|95|145/88|6|Penicillin|Injury assessment|None
+1222|1222|300|17|2026-09-14|08:20|1|38.9|C|79|14|92|129/72|1|Pollen|Fever and fatigue|NA
+1223|1223|473|12|2026-01-11|08:20|5|37.1|C|116|17|94|133/86|7|Nuts|Abdominal pain|Documented home medication
+1224|1224|316|30|2025-10-28|08:20|4|36.4|C|76|23|98|108/71|6|NA|Fever and fatigue|Documented home medication
+1225|1225|969|28|2025-09-28|08:20|1|36.0|C|116|19|95|144/83|5|NA|Routine postoperative follow-up|NA
+1226|1226|939|14|2026-01-15|08:20|4|38.5|C|71|20|95|114/80|4|None|Abnormal laboratory values|NA
+1227|1227|606|33|2026-05-03|08:20|1|38.2|C|61|23|97|146/83|9|Nuts|Chest discomfort|NA
+1228|1228|906|20|2026-07-19|08:20|2|38.3|C|89|16|96|155/73|0|Pollen|Urinary symptoms|None
+1229|1229|968|36|2026-02-12|08:20|1|36.1|C|96|17|92|117/93|4|Nuts|Abnormal laboratory values|None
+1230|1230|714|39|2025-08-11|08:20|1|36.2|C|83|22|93|116/89|7|NA|Injury assessment|NA
+1231|1231|490|8|2026-02-05|08:20|2|37.3|C|90|23|97|123/81|3|None|Abdominal pain|Documented home medication
+1232|1232|589|34|2026-05-06|08:20|4|38.5|C|80|25|92|125/82|3|Pollen|Severe headache|None
+1233|1233|385|4|2025-10-23|08:20|1|38.8|C|121|21|97|147/71|5|None|Dizziness|Documented home medication
+1234|1234|737|5|2026-06-10|08:20|5|38.4|C|74|15|99|119/88|4|Nuts|Injury assessment|NA
+1235|1235|953|30|2026-01-24|08:20|5|36.2|C|102|13|98|135/78|7|None|Injury assessment|None
+1236|1236|332|19|2026-07-25|08:20|4|39.0|C|114|22|93|155/72|8|NA|Dizziness|NA
+1237|1237|968|33|2026-10-20|08:20|2|36.6|C|108|16|97|126/66|4|NA|Abdominal pain|Documented home medication
+1238|1238|98|6|2026-01-19|08:20|2|38.3|C|114|21|97|136/84|4|None|Shortness of breath|None
+1239|1239|552|3|2026-02-11|08:20|2|37.6|C|100|14|93|145/84|10|None|Routine postoperative follow-up|Documented home medication
+1240|1240|610|10|2025-09-12|08:20|3|37.8|C|67|14|94|105/87|8|Nuts|Injury assessment|NA
+1241|1241|903|27|2025-10-08|08:20|2|38.2|C|107|21|96|151/94|9|Nuts|Severe headache|NA
+1242|1242|331|15|2026-02-27|08:20|4|37.7|C|77|24|94|150/89|9|Penicillin|Shortness of breath|None
+1243|1243|35|3|2026-02-23|08:20|5|38.4|C|79|12|92|109/73|0|Nuts|Abnormal laboratory values|NA
+1244|1244|669|18|2026-10-01|08:20|1|38.3|C|70|19|97|152/94|4|Nuts|Injury assessment|Documented home medication
+1245|1245|324|40|2025-09-01|08:20|1|38.7|C|96|13|96|116/89|6|NA|Severe headache|None
+1246|1246|488|44|2026-01-04|08:20|4|36.8|C|124|25|98|122/94|2|Pollen|Abnormal laboratory values|None
+1247|1247|739|8|2026-09-06|08:20|2|37.7|C|78|19|98|144/95|7|Nuts|Shortness of breath|Documented home medication
+1248|1248|491|26|2026-08-10|08:20|4|37.6|C|118|12|96|111/94|7|Nuts|Fever and fatigue|Documented home medication
+1249|1249|416|18|2026-09-08|08:20|3|39.1|C|62|17|93|129/79|3|Penicillin|Severe headache|Documented home medication
+1250|1250|954|23|2025-12-25|08:20|5|36.3|C|69|14|98|107/89|1|Nuts|Severe headache|None
+1251|1251|888|4|2026-04-10|08:20|1|38.4|C|84|19|100|125/84|6|Pollen|Abnormal laboratory values|NA
+1252|1252|770|33|2025-08-29|08:20|3|38.9|C|67|24|95|135/76|2|None|Urinary symptoms|NA
+1253|1253|150|23|2026-03-27|08:20|3|36.5|C|92|22|98|151/94|10|Penicillin|Routine postoperative follow-up|None
+1254|1254|289|39|2025-10-16|08:20|2|38.0|C|122|14|97|153/91|3|Nuts|Abdominal pain|None
+1255|1255|823|3|2025-09-08|08:20|4|37.5|C|67|12|92|117/81|8|Nuts|Urinary symptoms|NA
+1256|1256|940|36|2026-02-27|08:20|5|36.6|C|67|16|100|108/81|2|Penicillin|Dizziness|Documented home medication
+1257|1257|646|19|2025-08-04|08:20|1|38.7|C|74|18|96|110/80|10|Nuts|Abdominal pain|Documented home medication
+1258|1258|793|14|2025-12-16|08:20|1|36.1|C|114|17|98|128/78|4|NA|Injury assessment|NA
+1259|1259|186|1|2026-04-03|08:20|2|36.8|C|126|21|92|116/84|8|Pollen|Injury assessment|Documented home medication
+1260|1260|762|19|2026-02-24|08:20|2|38.6|C|122|18|92|109/83|10|Nuts|Abnormal laboratory values|None
+1261|1261|822|8|2026-04-25|08:20|3|37.4|C|68|21|99|151/83|7|Penicillin|Severe headache|NA
+1262|1262|554|16|2026-08-31|08:20|5|38.1|C|116|22|99|155/88|4|Pollen|Severe headache|Documented home medication
+1263|1263|69|4|2026-10-20|08:20|2|38.9|C|94|23|99|120/67|7|None|Dizziness|NA
+1264|1264|166|44|2026-04-30|08:20|3|37.8|C|125|14|99|125/94|3|Pollen|Fever and fatigue|NA
+1265|1265|451|31|2025-08-25|08:20|2|36.4|C|105|15|93|151/79|10|None|Shortness of breath|NA
+1266|1266|73|22|2025-11-12|08:20|4|37.0|C|65|17|98|146/67|5|None|Severe headache|NA
+1267|1267|239|24|2025-12-25|08:20|2|37.4|C|79|25|93|116/90|10|Penicillin|Chest discomfort|Documented home medication
+1268|1268|291|7|2026-06-05|08:20|2|38.8|C|89|25|95|131/79|8|Pollen|Abdominal pain|None
+1269|1269|422|17|2026-01-19|08:20|5|37.0|C|104|23|96|130/85|5|None|Abdominal pain|Documented home medication
+1270|1270|190|40|2025-09-27|08:20|2|37.6|C|79|22|97|112/66|7|NA|Chest discomfort|NA
+1271|1271|241|8|2026-03-11|08:20|2|38.5|C|91|19|97|129/83|3|Nuts|Chest discomfort|Documented home medication
+1272|1272|667|12|2025-08-01|08:20|3|38.8|C|120|19|97|105/84|6|Pollen|Severe headache|None
+1273|1273|110|39|2026-10-20|08:20|5|37.0|C|66|12|94|152/78|9|None|Routine postoperative follow-up|None
+1274|1274|64|27|2025-11-01|08:20|1|37.3|C|99|17|97|108/72|6|NA|Shortness of breath|None
+1275|1275|682|32|2025-08-16|08:20|5|37.7|C|97|18|99|138/77|3|Penicillin|Abdominal pain|Documented home medication
+1276|1276|266|16|2025-08-26|08:20|4|37.7|C|82|13|97|149/68|4|None|Abdominal pain|Documented home medication
+1277|1277|726|14|2026-07-18|08:20|5|37.2|C|125|24|94|116/83|1|Penicillin|Fever and fatigue|None
+1278|1278|585|17|2026-10-18|08:20|4|36.9|C|119|15|95|125/77|3|Pollen|Injury assessment|None
+1279|1279|532|3|2026-07-13|08:20|4|38.6|C|115|18|100|117/80|3|Pollen|Shortness of breath|Documented home medication
+1280|1280|962|25|2025-08-16|08:20|4|38.1|C|109|14|98|117/67|8|NA|Urinary symptoms|NA
+1281|1281|457|32|2026-03-19|08:20|1|37.7|C|109|12|98|140/94|1|Pollen|Dizziness|None
+1282|1282|309|37|2026-03-18|08:20|2|36.5|C|92|16|92|150/84|5|NA|Routine postoperative follow-up|None
+1283|1283|258|17|2025-10-12|08:20|4|36.9|C|92|20|96|105/96|5|NA|Dizziness|NA
+1284|1284|980|15|2026-08-29|08:20|4|36.4|C|116|21|100|117/78|1|NA|Urinary symptoms|NA
+1285|1285|669|9|2026-05-19|08:20|2|38.9|C|74|24|100|113/96|6|Nuts|Urinary symptoms|Documented home medication
+1286|1286|438|26|2026-02-25|08:20|2|37.2|C|70|23|92|128/87|10|NA|Shortness of breath|None
+1287|1287|953|35|2026-03-14|08:20|1|38.9|C|70|22|92|155/79|0|Penicillin|Chest discomfort|Documented home medication
+1288|1288|854|33|2026-01-24|08:20|2|37.4|C|63|19|94|133/78|10|Pollen|Abnormal laboratory values|Documented home medication
+1289|1289|905|44|2026-01-25|08:20|4|37.7|C|108|12|93|141/70|2|None|Urinary symptoms|Documented home medication
+1290|1290|255|16|2026-04-27|08:20|5|37.8|C|110|14|92|138/91|10|Nuts|Abdominal pain|Documented home medication
+1291|1291|362|6|2025-09-11|08:20|2|37.9|C|107|24|97|129/72|4|Nuts|Routine postoperative follow-up|NA
+1292|1292|152|44|2025-11-19|08:20|1|37.1|C|82|20|97|111/67|4|NA|Fever and fatigue|None
+1293|1293|812|45|2025-10-13|08:20|5|38.2|C|81|17|98|138/93|10|None|Shortness of breath|None
+1294|1294|843|4|2026-09-02|08:20|1|38.8|C|86|21|93|113/76|1|Pollen|Abnormal laboratory values|None
+1295|1295|475|38|2025-10-23|08:20|4|38.3|C|63|16|96|128/74|1|Pollen|Shortness of breath|NA
+1296|1296|867|29|2026-07-15|08:20|1|38.6|C|90|18|94|134/80|10|Nuts|Chest discomfort|NA
+1297|1297|779|24|2026-07-12|08:20|5|38.7|C|93|25|100|111/77|0|NA|Severe headache|Documented home medication
+1298|1298|572|6|2025-08-07|08:20|3|37.5|C|97|23|95|120/79|10|None|Urinary symptoms|None
+1299|1299|897|42|2026-01-28|08:20|4|37.4|C|80|15|96|134/66|3|Nuts|Abdominal pain|NA
+1300|1300|637|20|2025-10-30|08:20|5|38.0|C|84|21|94|152/81|0|None|Severe headache|None
+1301|1301|42|15|2026-01-22|08:20|5|37.3|C|102|17|93|106/89|7|Penicillin|Shortness of breath|None
+1302|1302|488|23|2026-04-15|08:20|2|36.3|C|65|17|96|147/86|8|Penicillin|Shortness of breath|Documented home medication
+1303|1303|58|4|2026-06-01|08:20|2|36.2|C|99|15|94|124/96|2|Nuts|Fever and fatigue|NA
+1304|1304|938|6|2026-05-19|08:20|3|37.6|C|72|21|99|116/70|9|Penicillin|Shortness of breath|None
+1305|1305|975|7|2026-04-01|08:20|5|38.8|C|83|23|94|110/78|1|None|Abnormal laboratory values|None
+1306|1306|315|21|2026-01-15|08:20|5|37.6|C|118|13|97|126/90|1|None|Shortness of breath|NA
+1307|1307|556|35|2026-01-12|08:20|1|36.6|C|116|25|96|116/84|4|None|Chest discomfort|NA
+1308|1308|86|16|2025-09-02|08:20|3|38.5|C|119|21|97|154/95|10|NA|Injury assessment|NA
+1309|1309|310|34|2025-10-12|08:20|3|37.5|C|87|21|100|138/95|5|Nuts|Severe headache|None
+1310|1310|115|6|2026-07-16|08:20|2|37.1|C|108|17|93|148/65|10|Penicillin|Urinary symptoms|NA
+1311|1311|983|37|2026-08-01|08:20|3|36.8|C|107|19|92|132/67|8|None|Dizziness|Documented home medication
+1312|1312|671|44|2026-06-16|08:20|2|38.4|C|85|13|97|108/89|10|NA|Urinary symptoms|Documented home medication
+1313|1313|976|14|2026-04-29|08:20|3|38.0|C|108|24|93|150/79|10|Penicillin|Urinary symptoms|Documented home medication
+1314|1314|351|25|2026-09-24|08:20|2|38.1|C|60|18|94|130/85|8|NA|Routine postoperative follow-up|Documented home medication
+1315|1315|923|28|2026-03-03|08:20|5|37.5|C|103|21|99|123/91|10|Pollen|Abnormal laboratory values|None
+1316|1316|783|8|2026-10-15|08:20|4|39.1|C|78|12|93|115/81|0|Pollen|Urinary symptoms|None
+1317|1317|102|33|2025-08-30|08:20|4|38.6|C|77|20|97|124/88|6|None|Routine postoperative follow-up|NA
+1318|1318|997|12|2025-10-13|08:20|3|37.0|C|103|19|95|123/81|5|Pollen|Urinary symptoms|NA
+1319|1319|205|9|2026-01-20|08:20|1|38.9|C|81|13|93|110/75|5|None|Routine postoperative follow-up|None
+1320|1320|978|20|2026-05-29|08:20|2|38.8|C|97|19|92|135/88|0|Pollen|Shortness of breath|Documented home medication
+1321|1321|815|13|2026-04-26|08:20|1|37.2|C|118|20|94|106/86|10|None|Routine postoperative follow-up|NA
+1322|1322|73|42|2026-02-09|08:20|3|38.3|C|69|19|100|151/66|2|Nuts|Dizziness|NA
+1323|1323|580|35|2025-12-25|08:20|4|38.5|C|80|24|96|145/92|0|Penicillin|Injury assessment|None
+1324|1324|526|18|2025-12-10|08:20|1|38.9|C|111|16|100|141/74|1|Nuts|Injury assessment|None
+1325|1325|806|44|2026-01-03|08:20|2|36.8|C|97|23|95|135/70|2|Nuts|Chest discomfort|NA
+1326|1326|172|31|2026-01-26|08:20|2|38.1|C|68|22|97|137/91|5|None|Shortness of breath|None
+1327|1327|419|33|2025-09-08|08:20|3|38.8|C|126|17|100|111/96|10|Nuts|Dizziness|NA
+1328|1328|175|41|2026-10-12|08:20|3|37.1|C|114|12|100|119/84|9|None|Routine postoperative follow-up|Documented home medication
+1329|1329|509|30|2025-11-27|08:20|4|37.1|C|116|25|96|129/91|1|None|Injury assessment|Documented home medication
+1330|1330|510|37|2026-08-20|08:20|2|38.1|C|109|23|96|123/68|7|Penicillin|Fever and fatigue|NA
+1331|1331|481|29|2026-05-20|08:20|1|38.1|C|100|21|92|110/70|7|Penicillin|Shortness of breath|None
+1332|1332|22|18|2025-12-06|08:20|2|38.4|C|76|15|96|151/86|2|Pollen|Chest discomfort|NA
+1333|1333|672|29|2026-06-01|08:20|5|36.6|C|59|14|97|118/91|1|Penicillin|Urinary symptoms|None
+1334|1334|955|33|2025-09-06|08:20|3|38.7|C|120|21|93|125/93|4|NA|Abnormal laboratory values|Documented home medication
+1335|1335|184|19|2026-03-12|08:20|5|36.2|C|81|12|95|113/85|3|Pollen|Abnormal laboratory values|NA
+1336|1336|455|27|2026-01-29|08:20|1|38.0|C|65|25|95|112/67|5|Pollen|Routine postoperative follow-up|Documented home medication
+1337|1337|455|40|2025-08-01|08:20|4|37.4|C|67|15|94|111/83|0|Penicillin|Abnormal laboratory values|Documented home medication
+1338|1338|973|20|2026-07-03|08:20|2|37.7|C|105|13|99|130/76|1|Penicillin|Chest discomfort|Documented home medication
+1339|1339|601|38|2025-11-11|08:20|4|36.4|C|65|25|93|145/84|6|None|Dizziness|NA
+1340|1340|72|9|2026-03-29|08:20|3|37.0|C|107|24|92|144/78|4|Nuts|Routine postoperative follow-up|NA
+1341|1341|962|6|2025-12-07|08:20|1|37.7|C|118|20|94|108/80|8|None|Routine postoperative follow-up|Documented home medication
+1342|1342|553|39|2026-10-19|08:20|3|38.1|C|64|16|93|109/78|2|None|Fever and fatigue|NA
+1343|1343|624|34|2025-11-15|08:20|4|37.7|C|107|13|93|131/80|3|Pollen|Urinary symptoms|None
+1344|1344|192|20|2026-10-13|08:20|1|36.7|C|116|16|98|135/84|9|Penicillin|Fever and fatigue|None
+1345|1345|254|44|2026-10-18|08:20|4|36.1|C|121|16|95|121/70|6|Pollen|Dizziness|Documented home medication
+1346|1346|997|35|2025-09-25|08:20|2|36.5|C|82|24|94|153/93|3|NA|Severe headache|None
+1347|1347|590|31|2026-06-23|08:20|5|36.3|C|69|14|95|115/75|6|NA|Severe headache|None
+1348|1348|143|26|2025-09-25|08:20|2|37.5|C|67|21|94|109/90|10|NA|Shortness of breath|NA
+1349|1349|150|42|2025-11-02|08:20|5|36.4|C|120|15|98|129/85|1|Penicillin|Dizziness|NA
+1350|1350|138|38|2026-02-26|08:20|4|38.1|C|77|20|99|107/78|2|None|Fever and fatigue|None

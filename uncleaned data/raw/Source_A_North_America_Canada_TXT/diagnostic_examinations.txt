@@ -1,0 +1,161 @@
+examination_id|diagnostic_order_id|admission_id|referring_physician_id|examination_type|examination_date|examination_time|examination_status|body_area_examined|radiology_technician|link_to_images|result_value|result_unit
+1|1|18|41|BloodTest|2025-06-25|13:00|Completed|Blood|NA|NA|3.65|reference-unit
+2|2|35|53|CT Examination|2024-08-13|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-2|3.96|reference-unit
+3|3|52|11|electrodiagram|2025-06-14|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-3|4.44|reference-unit
+4|4|69|46|BloodTest|2025-05-28|13:00|Completed|Blood|Tech-02|NA|7.94|reference-unit
+5|5|86|52|CT Examination|2024-11-30|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-5|8.2|reference-unit
+6|6|103|1|electrodiagram|2025-06-04|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-6|10.82|reference-unit
+7|7|120|26|BloodTest|2025-06-07|13:00|Completed|Blood|Tech-01|NA|10.21|reference-unit
+8|8|137|44|CT Examination|2025-04-28|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-8|8.03|reference-unit
+9|9|154|1|electrodiagram|2024-06-25|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-9|9.94|reference-unit
+10|10|171|55|BloodTest|2024-03-17|13:00|Completed|Blood|Tech-02|NA|7.81|reference-unit
+11|11|188|55|CT Examination|2024-06-30|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-11|5.37|reference-unit
+12|12|205|22|electrodiagram|2024-01-20|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-12|5.53|reference-unit
+13|13|222|20|BloodTest|2024-08-07|13:00|Completed|Blood|Tech-02|NA|9.48|reference-unit
+14|14|239|53|CT Examination|2025-04-21|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-14|5.24|reference-unit
+15|15|256|37|electrodiagram|2025-04-12|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-15|4.06|reference-unit
+16|16|273|41|BloodTest|2025-06-19|13:00|Completed|Blood|NA|NA|10.48|reference-unit
+17|17|290|13|CT Examination|2024-06-21|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-17|10.55|reference-unit
+18|18|307|52|electrodiagram|2024-03-05|13:00|Completed|Chest|NA|FAKE-IMAGE-A-18|4.04|reference-unit
+19|19|324|31|BloodTest|2025-03-02|13:00|Completed|Blood|Tech-02|NA|4.96|reference-unit
+20|20|341|16|CT Examination|2024-01-17|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-20|8.69|reference-unit
+21|21|358|37|electrodiagram|2025-02-20|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-21|4.64|reference-unit
+22|22|375|53|BloodTest|2025-03-26|13:00|Completed|Blood|NA|NA|3.47|reference-unit
+23|23|392|54|CT Examination|2024-07-17|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-23|6.37|reference-unit
+24|24|409|27|electrodiagram|2025-01-30|13:00|Completed|Chest|NA|FAKE-IMAGE-A-24|6.88|reference-unit
+25|25|426|45|BloodTest|2025-02-21|13:00|Completed|Blood|NA|NA|8.43|reference-unit
+26|26|443|37|CT Examination|2024-10-26|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-26|6.06|reference-unit
+27|27|460|18|electrodiagram|2024-09-11|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-27|9.76|reference-unit
+28|28|477|22|BloodTest|2024-06-05|13:00|Completed|Blood|NA|NA|3.5|reference-unit
+29|29|494|17|CT Examination|2024-08-24|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-29|10.23|reference-unit
+30|30|511|27|electrodiagram|2024-11-03|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-30|7.59|reference-unit
+31|31|528|28|BloodTest|2024-01-09|13:00|Completed|Blood|NA|NA|7.69|reference-unit
+32|32|545|21|CT Examination|2024-04-07|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-32|3.06|reference-unit
+33|33|562|23|electrodiagram|2024-06-06|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-33|6.81|reference-unit
+34|34|579|5|BloodTest|2024-08-07|13:00|Completed|Blood|NA|NA|10.01|reference-unit
+35|35|596|2|CT Examination|2024-05-30|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-35|5.09|reference-unit
+36|36|613|52|electrodiagram|2024-09-09|13:00|Completed|Chest|NA|FAKE-IMAGE-A-36|4.84|reference-unit
+37|37|630|29|BloodTest|2025-05-06|13:00|Completed|Blood|Tech-02|NA|4.48|reference-unit
+38|38|647|44|CT Examination|2024-02-24|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-38|8.0|reference-unit
+39|39|664|40|electrodiagram|2024-05-08|13:00|Completed|Chest|NA|FAKE-IMAGE-A-39|8.39|reference-unit
+40|40|681|25|BloodTest|2024-04-17|13:00|Completed|Blood|Tech-02|NA|6.64|reference-unit
+41|41|698|23|CT Examination|2025-03-24|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-41|9.36|reference-unit
+42|42|715|9|electrodiagram|2024-02-19|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-42|6.65|reference-unit
+43|43|732|2|BloodTest|2025-05-03|13:00|Completed|Blood|Tech-02|NA|6.49|reference-unit
+44|44|749|12|CT Examination|2024-08-02|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-44|3.17|reference-unit
+45|45|766|29|electrodiagram|2025-04-30|13:00|Completed|Chest|NA|FAKE-IMAGE-A-45|5.01|reference-unit
+46|46|783|16|BloodTest|2024-01-06|13:00|Completed|Blood|NA|NA|7.66|reference-unit
+47|47|800|55|CT Examination|2024-07-17|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-47|10.25|reference-unit
+48|48|817|20|electrodiagram|2024-04-16|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-48|5.08|reference-unit
+49|49|834|21|BloodTest|2025-04-05|13:00|Completed|Blood|NA|NA|8.71|reference-unit
+50|50|851|34|CT Examination|2025-05-01|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-50|6.0|reference-unit
+51|51|868|29|electrodiagram|2024-02-14|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-51|5.47|reference-unit
+52|52|885|41|BloodTest|2024-03-06|13:00|Completed|Blood|Tech-01|NA|8.8|reference-unit
+53|53|902|11|CT Examination|2024-07-16|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-53|3.46|reference-unit
+54|54|919|17|electrodiagram|2024-03-17|13:00|Completed|Chest|NA|FAKE-IMAGE-A-54|10.41|reference-unit
+55|55|936|31|BloodTest|2025-04-21|13:00|Completed|Blood|Tech-02|NA|5.17|reference-unit
+56|56|953|44|CT Examination|2024-02-28|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-56|6.88|reference-unit
+57|57|970|23|electrodiagram|2025-02-25|13:00|Completed|Chest|NA|FAKE-IMAGE-A-57|5.75|reference-unit
+58|58|987|7|BloodTest|2024-07-02|13:00|Completed|Blood|Tech-02|NA|6.14|reference-unit
+59|59|1004|30|CT Examination|2026-08-08|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-59|5.25|reference-unit
+60|60|1021|23|electrodiagram|2026-05-22|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-60|9.74|reference-unit
+61|61|1038|40|BloodTest|2025-08-15|13:00|Completed|Blood|Tech-01|NA|7.04|reference-unit
+62|62|1055|32|CT Examination|2025-08-09|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-62|8.61|reference-unit
+63|63|1072|1|electrodiagram|2025-11-18|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-63|7.79|reference-unit
+64|64|1089|16|BloodTest|2026-05-05|13:00|Completed|Blood|Tech-01|NA|10.45|reference-unit
+65|65|1106|20|CT Examination|2026-05-29|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-65|7.03|reference-unit
+66|66|1123|50|electrodiagram|2026-10-25|13:00|Completed|Chest|NA|FAKE-IMAGE-A-66|5.95|reference-unit
+67|67|1140|20|BloodTest|2025-11-12|13:00|Completed|Blood|NA|NA|10.48|reference-unit
+68|68|1157|55|CT Examination|2026-01-13|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-68|4.14|reference-unit
+69|69|1174|43|electrodiagram|2025-08-18|13:00|Completed|Chest|NA|FAKE-IMAGE-A-69|10.82|reference-unit
+70|70|1191|7|BloodTest|2026-04-20|13:00|Completed|Blood|Tech-01|NA|4.87|reference-unit
+71|71|1208|46|CT Examination|2026-06-29|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-71|6.89|reference-unit
+72|72|1225|3|electrodiagram|2025-09-30|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-72|6.48|reference-unit
+73|73|1242|14|BloodTest|2026-03-01|13:00|Completed|Blood|NA|NA|3.08|reference-unit
+74|74|1259|35|CT Examination|2026-04-05|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-74|9.45|reference-unit
+75|75|1276|18|electrodiagram|2025-08-28|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-75|7.07|reference-unit
+76|76|1293|27|BloodTest|2025-10-15|13:00|Completed|Blood|Tech-01|NA|6.77|reference-unit
+77|77|1310|9|CT Examination|2026-07-18|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-77|9.79|reference-unit
+78|78|1327|7|electrodiagram|2025-09-08|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-78|3.62|reference-unit
+79|79|1344|6|BloodTest|2026-10-13|13:00|Completed|Blood|Tech-02|NA|3.09|reference-unit
+80|80|11|55|CT Examination|2024-12-10|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-80|5.94|reference-unit
+81|1|18|41|BloodTest|2025-06-25|13:00|Completed|Blood|NA|NA|7.12|reference-unit
+82|2|35|53|CT Examination|2024-08-11|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-82|8.22|reference-unit
+83|3|52|11|electrodiagram|2025-06-14|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-83|3.26|reference-unit
+84|4|69|46|BloodTest|2025-05-26|13:00|Completed|Blood|Tech-02|NA|7.26|reference-unit
+85|5|86|52|CT Examination|2024-11-30|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-85|3.72|reference-unit
+86|6|103|1|electrodiagram|2025-06-05|13:00|Completed|Chest|NA|FAKE-IMAGE-A-86|9.7|reference-unit
+87|7|120|26|BloodTest|2025-06-07|13:00|Completed|Blood|Tech-02|NA|3.89|reference-unit
+88|8|137|44|CT Examination|2025-04-27|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-88|7.59|reference-unit
+89|9|154|1|electrodiagram|2024-06-24|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-89|4.45|reference-unit
+90|10|171|55|BloodTest|2024-03-17|13:00|Completed|Blood|Tech-02|NA|5.73|reference-unit
+91|11|188|55|CT Examination|2024-07-01|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-91|6.65|reference-unit
+92|12|205|22|electrodiagram|2024-01-20|13:00|Completed|Chest|NA|FAKE-IMAGE-A-92|5.45|reference-unit
+93|13|222|20|BloodTest|2024-08-07|13:00|Completed|Blood|Tech-02|NA|4.61|reference-unit
+94|14|239|53|CT Examination|2025-04-20|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-94|10.02|reference-unit
+95|15|256|37|electrodiagram|2025-04-14|13:00|Completed|Chest|NA|FAKE-IMAGE-A-95|7.02|reference-unit
+96|16|273|41|BloodTest|2025-06-20|13:00|Completed|Blood|NA|NA|4.77|reference-unit
+97|17|290|13|CT Examination|2024-06-22|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-97|8.81|reference-unit
+98|18|307|52|electrodiagram|2024-03-05|13:00|Completed|Chest|NA|FAKE-IMAGE-A-98|10.46|reference-unit
+99|19|324|31|BloodTest|2025-02-28|13:00|Completed|Blood|NA|NA|7.69|reference-unit
+100|20|341|16|CT Examination|2024-01-17|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-100|8.28|reference-unit
+101|21|358|37|electrodiagram|2025-02-20|13:00|Completed|Chest|NA|FAKE-IMAGE-A-101|5.8|reference-unit
+102|22|375|53|BloodTest|2025-03-26|13:00|Completed|Blood|Tech-02|NA|4.33|reference-unit
+103|23|392|54|CT Examination|2024-07-17|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-103|10.57|reference-unit
+104|24|409|27|electrodiagram|2025-02-01|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-104|6.75|reference-unit
+105|25|426|45|BloodTest|2025-02-19|13:00|Completed|Blood|Tech-02|NA|8.22|reference-unit
+106|26|443|37|CT Examination|2024-10-27|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-106|5.13|reference-unit
+107|27|460|18|electrodiagram|2024-09-12|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-107|3.95|reference-unit
+108|28|477|22|BloodTest|2024-06-04|13:00|Completed|Blood|Tech-02|NA|5.8|reference-unit
+109|29|494|17|CT Examination|2024-08-24|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-109|3.99|reference-unit
+110|30|511|27|electrodiagram|2024-11-01|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-110|9.79|reference-unit
+111|31|528|28|BloodTest|2024-01-09|13:00|Completed|Blood|Tech-01|NA|7.28|reference-unit
+112|32|545|21|CT Examination|2024-04-09|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-112|7.57|reference-unit
+113|33|562|23|electrodiagram|2024-06-06|13:00|Completed|Chest|NA|FAKE-IMAGE-A-113|10.13|reference-unit
+114|34|579|5|BloodTest|2024-08-07|13:00|Completed|Blood|Tech-01|NA|5.17|reference-unit
+115|35|596|2|CT Examination|2024-05-30|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-115|8.85|reference-unit
+116|36|613|52|electrodiagram|2024-09-08|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-116|3.0|reference-unit
+117|37|630|29|BloodTest|2025-05-08|13:00|Completed|Blood|NA|NA|4.32|reference-unit
+118|38|647|44|CT Examination|2024-02-24|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-118|4.3|reference-unit
+119|39|664|40|electrodiagram|2024-05-08|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-119|3.41|reference-unit
+120|40|681|25|BloodTest|2024-04-18|13:00|Completed|Blood|Tech-02|NA|5.19|reference-unit
+121|41|698|23|CT Examination|2025-03-24|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-121|8.46|reference-unit
+122|42|715|9|electrodiagram|2024-02-20|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-122|3.4|reference-unit
+123|43|732|2|BloodTest|2025-05-03|13:00|Completed|Blood|Tech-01|NA|7.88|reference-unit
+124|44|749|12|CT Examination|2024-08-02|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-124|10.25|reference-unit
+125|45|766|29|electrodiagram|2025-04-29|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-125|8.55|reference-unit
+126|46|783|16|BloodTest|2024-01-06|13:00|Completed|Blood|Tech-01|NA|5.95|reference-unit
+127|47|800|55|CT Examination|2024-07-17|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-127|9.1|reference-unit
+128|48|817|20|electrodiagram|2024-04-16|13:00|Completed|Chest|NA|FAKE-IMAGE-A-128|6.96|reference-unit
+129|49|834|21|BloodTest|2025-04-05|13:00|Completed|Blood|Tech-01|NA|7.37|reference-unit
+130|50|851|34|CT Examination|2025-04-29|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-130|6.09|reference-unit
+131|51|868|29|electrodiagram|2024-02-12|13:00|Completed|Chest|NA|FAKE-IMAGE-A-131|9.42|reference-unit
+132|52|885|41|BloodTest|2024-03-06|13:00|Completed|Blood|Tech-01|NA|4.9|reference-unit
+133|53|902|11|CT Examination|2024-07-15|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-133|8.26|reference-unit
+134|54|919|17|electrodiagram|2024-03-17|13:00|Completed|Chest|NA|FAKE-IMAGE-A-134|7.46|reference-unit
+135|55|936|31|BloodTest|2025-04-22|13:00|Completed|Blood|Tech-02|NA|8.53|reference-unit
+136|56|953|44|CT Examination|2024-03-01|13:00|Completed|Abdomen|NA|FAKE-IMAGE-A-136|7.29|reference-unit
+137|57|970|23|electrodiagram|2025-02-26|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-137|9.77|reference-unit
+138|58|987|7|BloodTest|2024-07-02|13:00|Completed|Blood|NA|NA|6.56|reference-unit
+139|59|1004|30|CT Examination|2026-08-09|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-139|4.85|reference-unit
+140|60|1021|23|electrodiagram|2026-05-22|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-140|3.43|reference-unit
+141|61|1038|40|BloodTest|2025-08-17|13:00|Completed|Blood|Tech-01|NA|3.41|reference-unit
+142|62|1055|32|CT Examination|2025-08-10|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-142|4.84|reference-unit
+143|63|1072|1|electrodiagram|2025-11-18|13:00|Completed|Chest|Tech-01|FAKE-IMAGE-A-143|5.27|reference-unit
+144|64|1089|16|BloodTest|2026-05-07|13:00|Completed|Blood|NA|NA|8.21|reference-unit
+145|65|1106|20|CT Examination|2026-05-28|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-145|10.89|reference-unit
+146|66|1123|50|electrodiagram|2026-10-25|13:00|Completed|Chest|NA|FAKE-IMAGE-A-146|9.79|reference-unit
+147|67|1140|20|BloodTest|2025-11-13|13:00|Completed|Blood|NA|NA|6.94|reference-unit
+148|68|1157|55|CT Examination|2026-01-13|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-148|6.77|reference-unit
+149|69|1174|43|electrodiagram|2025-08-20|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-149|5.49|reference-unit
+150|70|1191|7|BloodTest|2026-04-22|13:00|Completed|Blood|NA|NA|5.46|reference-unit
+151|71|1208|46|CT Examination|2026-07-01|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-151|10.76|reference-unit
+152|72|1225|3|electrodiagram|2025-09-29|13:00|Completed|Chest|NA|FAKE-IMAGE-A-152|9.11|reference-unit
+153|73|1242|14|BloodTest|2026-03-01|13:00|Completed|Blood|Tech-02|NA|9.17|reference-unit
+154|74|1259|35|CT Examination|2026-04-03|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-154|9.07|reference-unit
+155|75|1276|18|electrodiagram|2025-08-26|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-155|3.76|reference-unit
+156|76|1293|27|BloodTest|2025-10-14|13:00|Completed|Blood|NA|NA|3.63|reference-unit
+157|77|1310|9|CT Examination|2026-07-16|13:00|Completed|Abdomen|Tech-02|FAKE-IMAGE-A-157|10.71|reference-unit
+158|78|1327|7|electrodiagram|2025-09-09|13:00|Completed|Chest|Tech-02|FAKE-IMAGE-A-158|6.29|reference-unit
+159|79|1344|6|BloodTest|2026-10-14|13:00|Completed|Blood|Tech-01|NA|10.79|reference-unit
+160|80|11|55|CT Examination|2024-12-10|13:00|Completed|Abdomen|Tech-01|FAKE-IMAGE-A-160|4.96|reference-unit

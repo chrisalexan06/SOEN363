@@ -1,0 +1,442 @@
+﻿discharge_record_id,admission_id,patient_id,physician_id,discharge_date,discharge_time,discharge_destination,patient_condition,primary_icd9_code,secondary_icd9_code,prescribed_medication,follow_up_appointment,follow_up_instructions,responsible_physician,discharge_timestamp
+1,3,3,52,2025-03-23,20:00:00,Home,Improving,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,太田 美加子,2025-03-23T20:00:00
+2,6,6,9,2024-04-12,20:00:00,Home,Requires monitoring,995.91,496,,,Contact local clinic for follow-up,橋本 加奈,2024-04-12T20:00:00
+3,9,9,48,2024-05-08,20:00:00,Home,Transferred,724.2,401.9,Acetaminophen,,Contact local clinic for follow-up,後藤 涼平,2024-05-08T20:00:00
+4,12,12,36,2024-01-03,20:00:00,Outpatient follow-up,Stable,427.31,272.4,,,Contact local clinic for follow-up,岡本 さゆり,2024-01-03T20:00:00
+5,15,15,7,2024-07-02,20:00:00,Mortuary,Deceased,780.2,584.9,,,,佐藤 あすか,2024-07-02T20:00:00
+6,18,18,2,2024-11-05,20:00:00,Another facility,Stable,493.90,276.51,None documented,,Contact local clinic for follow-up,中川 涼平,2024-11-05T20:00:00
+7,21,21,53,2024-07-22,20:00:00,Home,Transferred,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,伊藤 直子,2024-07-22T20:00:00
+8,24,24,23,2024-10-08,20:00:00,Home,Requires monitoring,038.9,285.9,None documented,,Contact local clinic for follow-up,渡辺 直子,2024-10-08T20:00:00
+9,27,27,30,2025-01-21,20:00:00,Outpatient follow-up,Transferred,530.81,786.50,None documented,,Contact local clinic for follow-up,渡辺 里佳,2025-01-21T20:00:00
+10,30,30,18,2024-07-27,20:00:00,Outpatient follow-up,Transferred,995.91,496,Acetaminophen,,Contact local clinic for follow-up,小川 和也,2024-07-27T20:00:00
+11,33,33,5,2024-06-01,20:00:00,Home,Requires monitoring,724.2,401.9,,,Contact local clinic for follow-up,伊藤 陽子,2024-06-01T20:00:00
+12,36,36,1,2025-02-13,20:00:00,Home,Recovered,427.31,272.4,,,Contact local clinic for follow-up,吉田 零,2025-02-13T20:00:00
+13,39,39,18,2024-06-17,20:00:00,Outpatient follow-up,Transferred,780.2,584.9,,,Contact local clinic for follow-up,小川 和也,2024-06-17T20:00:00
+14,42,42,19,2024-12-22,20:00:00,Outpatient follow-up,Recovered,493.90,276.51,,,Contact local clinic for follow-up,林 聡太郎,2024-12-22T20:00:00
+15,45,45,38,2024-10-13,20:00:00,Outpatient follow-up,Recovered,414.01,780.60,,,Contact local clinic for follow-up,小川 陽子,2024-10-13T20:00:00
+16,48,48,42,2024-01-24,20:00:00,Another facility,Requires monitoring,038.9,285.9,,,Contact local clinic for follow-up,加藤 亮介,2024-01-24T20:00:00
+17,51,51,24,2024-11-26,20:00:00,Outpatient follow-up,Transferred,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,林 淳,2024-11-26T20:00:00
+18,54,54,43,2024-03-04,20:00:00,Another facility,Stable,995.91,496,,,Contact local clinic for follow-up,鈴木 幹,2024-03-04T20:00:00
+19,57,57,3,2024-12-10,20:00:00,Another facility,Improving,724.2,401.9,Acetaminophen,,Contact local clinic for follow-up,松本 京助,2024-12-10T20:00:00
+20,60,60,29,2024-12-04,20:00:00,Outpatient follow-up,Improving,427.31,272.4,,,Contact local clinic for follow-up,佐藤 浩,2024-12-04T20:00:00
+21,63,63,44,2024-01-12,20:00:00,Outpatient follow-up,Transferred,780.2,584.9,None documented,,Contact local clinic for follow-up,岡本 和也,2024-01-12T20:00:00
+22,66,66,11,2025-04-01,20:00:00,Home,Recovered,493.90,276.51,Acetaminophen,,Contact local clinic for follow-up,坂本 零,2025-04-01T20:00:00
+23,69,69,36,2024-02-15,20:00:00,Home,Recovered,414.01,780.60,None documented,,Contact local clinic for follow-up,岡本 さゆり,2024-02-15T20:00:00
+24,72,72,9,2024-03-12,20:00:00,Home,Stable,038.9,285.9,None documented,,Contact local clinic for follow-up,橋本 加奈,2024-03-12T20:00:00
+25,75,75,22,2024-03-09,20:00:00,Another facility,Transferred,530.81,786.50,,,Contact local clinic for follow-up,加藤 知実,2024-03-09T20:00:00
+26,78,78,26,2024-05-01,20:00:00,Home,Stable,995.91,496,None documented,,Contact local clinic for follow-up,佐藤 洋介,2024-05-01T20:00:00
+27,81,81,3,2024-01-02,20:00:00,Outpatient follow-up,Requires monitoring,724.2,401.9,,,Contact local clinic for follow-up,松本 京助,2024-01-02T20:00:00
+28,84,84,24,2025-06-21,20:00:00,Outpatient follow-up,Recovered,427.31,272.4,Acetaminophen,,Contact local clinic for follow-up,林 淳,2025-06-21T20:00:00
+29,87,87,36,2024-10-09,20:00:00,Home,Improving,780.2,584.9,,,Contact local clinic for follow-up,岡本 さゆり,2024-10-09T20:00:00
+30,90,90,39,2024-03-27,20:00:00,Another facility,Requires monitoring,493.90,276.51,,,Contact local clinic for follow-up,高橋 美加子,2024-03-27T20:00:00
+31,93,93,53,2025-02-25,20:00:00,Outpatient follow-up,Improving,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,伊藤 直子,2025-02-25T20:00:00
+32,96,96,21,2025-01-19,20:00:00,Outpatient follow-up,Improving,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,井上 幹,2025-01-19T20:00:00
+33,99,99,20,2025-02-20,20:00:00,Another facility,Stable,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,吉田 真綾,2025-02-20T20:00:00
+34,102,102,6,2025-03-23,20:00:00,Home,Requires monitoring,995.91,496,,,Contact local clinic for follow-up,中村 桃子,2025-03-23T20:00:00
+35,105,105,36,2024-08-07,20:00:00,Mortuary,Deceased,724.2,401.9,,,,岡本 さゆり,2024-08-07T20:00:00
+36,108,108,26,2025-03-13,20:00:00,Another facility,Recovered,427.31,272.4,,,Contact local clinic for follow-up,佐藤 洋介,2025-03-13T20:00:00
+37,111,111,13,2024-09-20,20:00:00,Outpatient follow-up,Stable,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,藤田 花子,2024-09-20T20:00:00
+38,114,114,34,2025-04-26,20:00:00,Home,Requires monitoring,493.90,276.51,,,Contact local clinic for follow-up,山口 知実,2025-04-26T20:00:00
+39,117,117,7,2024-02-27,20:00:00,Another facility,Requires monitoring,414.01,780.60,,,Contact local clinic for follow-up,佐藤 あすか,2024-02-27T20:00:00
+40,120,120,4,2025-02-22,20:00:00,Another facility,Improving,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,鈴木 英樹,2025-02-22T20:00:00
+41,123,123,36,2024-06-04,20:00:00,Home,Requires monitoring,530.81,786.50,,,Contact local clinic for follow-up,岡本 さゆり,2024-06-04T20:00:00
+42,126,126,1,2025-06-09,20:00:00,Another facility,Transferred,995.91,496,,,Contact local clinic for follow-up,吉田 零,2025-06-09T20:00:00
+43,129,129,14,2024-07-27,20:00:00,Outpatient follow-up,Recovered,724.2,401.9,None documented,,Contact local clinic for follow-up,佐々木 さゆり,2024-07-27T20:00:00
+44,132,132,45,2024-11-28,20:00:00,Home,Improving,427.31,272.4,None documented,,Contact local clinic for follow-up,藤田 明美,2024-11-28T20:00:00
+45,135,135,6,2024-05-24,20:00:00,Outpatient follow-up,Requires monitoring,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,中村 桃子,2024-05-24T20:00:00
+46,138,138,16,2024-02-23,20:00:00,Another facility,Recovered,493.90,276.51,Acetaminophen,,Contact local clinic for follow-up,石川 美加子,2024-02-23T20:00:00
+47,141,141,15,2024-07-23,20:00:00,Home,Recovered,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,伊藤 さゆり,2024-07-23T20:00:00
+48,144,144,36,2025-04-01,20:00:00,Outpatient follow-up,Transferred,038.9,285.9,,,Contact local clinic for follow-up,岡本 さゆり,2025-04-01T20:00:00
+49,147,147,10,2024-01-29,20:00:00,Outpatient follow-up,Requires monitoring,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,松本 くみ子,2024-01-29T20:00:00
+50,150,150,10,2025-05-03,20:00:00,Home,Requires monitoring,995.91,496,None documented,,Contact local clinic for follow-up,松本 くみ子,2025-05-03T20:00:00
+51,153,153,13,2025-03-03,20:00:00,Outpatient follow-up,Recovered,724.2,401.9,,,Contact local clinic for follow-up,藤田 花子,2025-03-03T20:00:00
+52,156,156,44,2024-06-26,20:00:00,Outpatient follow-up,Improving,427.31,272.4,Acetaminophen,,Contact local clinic for follow-up,岡本 和也,2024-06-26T20:00:00
+53,159,159,10,2025-01-10,20:00:00,Home,Recovered,780.2,584.9,None documented,,Contact local clinic for follow-up,松本 くみ子,2025-01-10T20:00:00
+54,162,162,34,2024-04-03,20:00:00,Outpatient follow-up,Requires monitoring,493.90,276.51,Acetaminophen,,Contact local clinic for follow-up,山口 知実,2024-04-03T20:00:00
+55,165,165,52,2025-01-05,20:00:00,Home,Requires monitoring,414.01,780.60,,,Contact local clinic for follow-up,太田 美加子,2025-01-05T20:00:00
+56,168,168,49,2025-05-13,20:00:00,Outpatient follow-up,Recovered,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,山口 晃,2025-05-13T20:00:00
+57,171,171,8,2025-04-12,20:00:00,Home,Transferred,530.81,786.50,None documented,,Contact local clinic for follow-up,中島 裕美子,2025-04-12T20:00:00
+58,174,174,7,2024-08-31,20:00:00,Another facility,Transferred,995.91,496,,,Contact local clinic for follow-up,佐藤 あすか,2024-08-31T20:00:00
+59,177,177,27,2024-08-06,20:00:00,Mortuary,Deceased,724.2,401.9,,,,高橋 陽一,2024-08-06T20:00:00
+60,180,180,37,2025-04-30,20:00:00,Outpatient follow-up,Stable,427.31,272.4,None documented,,Contact local clinic for follow-up,林 太郎,2025-04-30T20:00:00
+61,183,183,8,2024-10-21,20:00:00,Outpatient follow-up,Recovered,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,中島 裕美子,2024-10-21T20:00:00
+62,186,186,10,2024-07-27,20:00:00,Home,Transferred,493.90,276.51,Acetaminophen,,Contact local clinic for follow-up,松本 くみ子,2024-07-27T20:00:00
+63,189,189,12,2024-08-11,20:00:00,Home,Stable,414.01,780.60,,,Contact local clinic for follow-up,山崎 結衣,2024-08-11T20:00:00
+64,192,192,43,2025-05-31,20:00:00,Another facility,Stable,038.9,285.9,,,Contact local clinic for follow-up,鈴木 幹,2025-05-31T20:00:00
+65,195,195,48,2025-02-01,20:00:00,Home,Requires monitoring,530.81,786.50,None documented,,Contact local clinic for follow-up,後藤 涼平,2025-02-01T20:00:00
+66,198,198,25,2024-02-18,20:00:00,Home,Stable,995.91,496,,,Contact local clinic for follow-up,岡田 英樹,2024-02-18T20:00:00
+67,201,201,40,2024-03-30,20:00:00,Home,Stable,724.2,401.9,None documented,,Contact local clinic for follow-up,田中 千代,2024-03-30T20:00:00
+68,204,204,26,2025-04-01,20:00:00,Home,Improving,427.31,272.4,None documented,,Contact local clinic for follow-up,佐藤 洋介,2025-04-01T20:00:00
+69,207,207,7,2024-11-24,20:00:00,Another facility,Stable,780.2,584.9,,,Contact local clinic for follow-up,佐藤 あすか,2024-11-24T20:00:00
+70,210,210,31,2025-05-29,20:00:00,Outpatient follow-up,Requires monitoring,493.90,276.51,,,Contact local clinic for follow-up,林 千代,2025-05-29T20:00:00
+71,213,213,7,2024-05-29,20:00:00,Outpatient follow-up,Improving,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,佐藤 あすか,2024-05-29T20:00:00
+72,216,216,53,2025-05-21,20:00:00,Another facility,Transferred,038.9,285.9,None documented,,Contact local clinic for follow-up,伊藤 直子,2025-05-21T20:00:00
+73,219,219,48,2024-12-28,20:00:00,Another facility,Recovered,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,後藤 涼平,2024-12-28T20:00:00
+74,222,222,4,2025-02-17,20:00:00,Another facility,Transferred,995.91,496,Acetaminophen,,Contact local clinic for follow-up,鈴木 英樹,2025-02-17T20:00:00
+75,225,225,48,2025-01-01,20:00:00,Outpatient follow-up,Stable,724.2,401.9,,,Contact local clinic for follow-up,後藤 涼平,2025-01-01T20:00:00
+76,228,228,39,2024-11-18,20:00:00,Another facility,Requires monitoring,427.31,272.4,None documented,,Contact local clinic for follow-up,高橋 美加子,2024-11-18T20:00:00
+77,231,231,13,2025-04-15,20:00:00,Outpatient follow-up,Improving,780.2,584.9,None documented,,Contact local clinic for follow-up,藤田 花子,2025-04-15T20:00:00
+78,234,234,20,2024-08-13,20:00:00,Outpatient follow-up,Stable,493.90,276.51,Acetaminophen,,Contact local clinic for follow-up,吉田 真綾,2024-08-13T20:00:00
+79,237,237,20,2024-07-07,20:00:00,Another facility,Recovered,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,吉田 真綾,2024-07-07T20:00:00
+80,240,240,36,2025-01-29,20:00:00,Outpatient follow-up,Requires monitoring,038.9,285.9,,,Contact local clinic for follow-up,岡本 さゆり,2025-01-29T20:00:00
+81,243,243,28,2024-05-28,20:00:00,Outpatient follow-up,Recovered,530.81,786.50,,,Contact local clinic for follow-up,小川 拓真,2024-05-28T20:00:00
+82,246,246,12,2024-08-03,20:00:00,Outpatient follow-up,Transferred,995.91,496,,,Contact local clinic for follow-up,山崎 結衣,2024-08-03T20:00:00
+83,249,249,3,2024-10-22,20:00:00,Outpatient follow-up,Requires monitoring,724.2,401.9,None documented,,Contact local clinic for follow-up,松本 京助,2024-10-22T20:00:00
+84,252,252,31,2024-06-24,20:00:00,Another facility,Improving,427.31,272.4,None documented,,Contact local clinic for follow-up,林 千代,2024-06-24T20:00:00
+85,255,255,27,2024-02-18,20:00:00,Home,Improving,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,高橋 陽一,2024-02-18T20:00:00
+86,258,258,20,2024-04-09,20:00:00,Another facility,Stable,493.90,276.51,,,Contact local clinic for follow-up,吉田 真綾,2024-04-09T20:00:00
+87,261,261,34,2024-08-27,20:00:00,Home,Improving,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,山口 知実,2024-08-27T20:00:00
+88,264,264,49,2024-10-04,20:00:00,Outpatient follow-up,Requires monitoring,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,山口 晃,2024-10-04T20:00:00
+89,267,267,45,2025-02-05,20:00:00,Another facility,Stable,530.81,786.50,,,Contact local clinic for follow-up,藤田 明美,2025-02-05T20:00:00
+90,270,270,41,2025-05-08,20:00:00,Outpatient follow-up,Requires monitoring,995.91,496,None documented,,Contact local clinic for follow-up,青木 健一,2025-05-08T20:00:00
+91,273,273,42,2025-02-17,20:00:00,Home,Transferred,724.2,401.9,Acetaminophen,,Contact local clinic for follow-up,加藤 亮介,2025-02-17T20:00:00
+92,276,276,46,2025-03-06,20:00:00,Outpatient follow-up,Transferred,427.31,272.4,Acetaminophen,,Contact local clinic for follow-up,佐藤 裕樹,2025-03-06T20:00:00
+93,279,279,9,2024-02-10,20:00:00,Home,Improving,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,橋本 加奈,2024-02-10T20:00:00
+94,282,282,16,2025-05-31,20:00:00,Home,Requires monitoring,493.90,276.51,None documented,,Contact local clinic for follow-up,石川 美加子,2025-05-31T20:00:00
+95,285,285,9,2024-06-18,20:00:00,Home,Improving,414.01,780.60,None documented,,Contact local clinic for follow-up,橋本 加奈,2024-06-18T20:00:00
+96,288,288,53,2024-01-30,20:00:00,Another facility,Recovered,038.9,285.9,None documented,,Contact local clinic for follow-up,伊藤 直子,2024-01-30T20:00:00
+97,291,291,34,2025-01-30,20:00:00,Home,Requires monitoring,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,山口 知実,2025-01-30T20:00:00
+98,294,294,39,2025-05-05,20:00:00,Another facility,Requires monitoring,995.91,496,,,Contact local clinic for follow-up,高橋 美加子,2025-05-05T20:00:00
+99,297,297,44,2025-03-29,20:00:00,Outpatient follow-up,Recovered,724.2,401.9,,,Contact local clinic for follow-up,岡本 和也,2025-03-29T20:00:00
+100,300,300,10,2024-10-01,20:00:00,Outpatient follow-up,Stable,427.31,272.4,,,Contact local clinic for follow-up,松本 くみ子,2024-10-01T20:00:00
+101,303,303,50,2024-01-29,20:00:00,Another facility,Requires monitoring,780.2,584.9,None documented,,Contact local clinic for follow-up,山本 裕太,2024-01-29T20:00:00
+102,306,306,11,2024-11-19,20:00:00,Another facility,Stable,493.90,276.51,,,Contact local clinic for follow-up,坂本 零,2024-11-19T20:00:00
+103,309,309,42,2024-05-16,20:00:00,Outpatient follow-up,Stable,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,加藤 亮介,2024-05-16T20:00:00
+104,312,312,5,2025-03-04,20:00:00,Another facility,Transferred,038.9,285.9,,,Contact local clinic for follow-up,伊藤 陽子,2025-03-04T20:00:00
+105,315,315,33,2024-03-14,20:00:00,Home,Stable,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,池田 零,2024-03-14T20:00:00
+106,318,318,29,2024-09-05,20:00:00,Home,Recovered,995.91,496,Acetaminophen,,Contact local clinic for follow-up,佐藤 浩,2024-09-05T20:00:00
+107,321,321,23,2024-10-27,20:00:00,Home,Transferred,724.2,401.9,None documented,,Contact local clinic for follow-up,渡辺 直子,2024-10-27T20:00:00
+108,324,324,3,2025-01-08,20:00:00,Another facility,Improving,427.31,272.4,,,Contact local clinic for follow-up,松本 京助,2025-01-08T20:00:00
+109,327,327,15,2024-09-25,20:00:00,Home,Recovered,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,伊藤 さゆり,2024-09-25T20:00:00
+110,330,330,39,2024-07-17,20:00:00,Another facility,Recovered,493.90,276.51,None documented,,Contact local clinic for follow-up,高橋 美加子,2024-07-17T20:00:00
+111,333,333,45,2024-04-09,20:00:00,Home,Stable,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,藤田 明美,2024-04-09T20:00:00
+112,336,336,24,2024-08-20,20:00:00,Outpatient follow-up,Transferred,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,林 淳,2024-08-20T20:00:00
+113,339,339,41,2025-06-28,20:00:00,Home,Requires monitoring,530.81,786.50,None documented,,Contact local clinic for follow-up,青木 健一,2025-06-28T20:00:00
+114,342,342,47,2025-02-04,20:00:00,Outpatient follow-up,Improving,995.91,496,,,Contact local clinic for follow-up,山崎 翼,2025-02-04T20:00:00
+115,345,345,10,2025-07-02,20:00:00,Home,Improving,724.2,401.9,None documented,,Contact local clinic for follow-up,松本 くみ子,2025-07-02T20:00:00
+116,348,348,9,2024-08-02,20:00:00,Another facility,Stable,427.31,272.4,,,Contact local clinic for follow-up,橋本 加奈,2024-08-02T20:00:00
+117,351,351,3,2025-06-30,20:00:00,Home,Recovered,780.2,584.9,None documented,,Contact local clinic for follow-up,松本 京助,2025-06-30T20:00:00
+118,354,354,40,2024-11-27,20:00:00,Mortuary,Deceased,493.90,276.51,,,,田中 千代,2024-11-27T20:00:00
+119,357,357,37,2024-10-30,20:00:00,Another facility,Stable,414.01,780.60,None documented,,Contact local clinic for follow-up,林 太郎,2024-10-30T20:00:00
+120,360,360,50,2024-03-29,20:00:00,Home,Improving,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,山本 裕太,2024-03-29T20:00:00
+121,363,363,5,2024-02-12,20:00:00,Another facility,Requires monitoring,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,伊藤 陽子,2024-02-12T20:00:00
+122,366,366,54,2025-06-08,20:00:00,Home,Improving,995.91,496,None documented,,Contact local clinic for follow-up,長谷川 健一,2025-06-08T20:00:00
+123,369,369,36,2025-05-31,20:00:00,Home,Transferred,724.2,401.9,,,Contact local clinic for follow-up,岡本 さゆり,2025-05-31T20:00:00
+124,372,372,4,2024-12-13,20:00:00,Home,Stable,427.31,272.4,Acetaminophen,,Contact local clinic for follow-up,鈴木 英樹,2024-12-13T20:00:00
+125,375,375,48,2025-06-22,20:00:00,Home,Improving,780.2,584.9,,,Contact local clinic for follow-up,後藤 涼平,2025-06-22T20:00:00
+126,378,378,27,2024-01-19,20:00:00,Another facility,Stable,493.90,276.51,Acetaminophen,,Contact local clinic for follow-up,高橋 陽一,2024-01-19T20:00:00
+127,381,381,12,2024-03-24,20:00:00,Another facility,Improving,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,山崎 結衣,2024-03-24T20:00:00
+128,384,384,8,2024-06-01,20:00:00,Another facility,Transferred,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,中島 裕美子,2024-06-01T20:00:00
+129,387,387,51,2024-04-09,20:00:00,Home,Stable,530.81,786.50,None documented,,Contact local clinic for follow-up,中村 香織,2024-04-09T20:00:00
+130,390,390,52,2024-09-23,20:00:00,Another facility,Improving,995.91,496,Acetaminophen,,Contact local clinic for follow-up,太田 美加子,2024-09-23T20:00:00
+131,393,393,17,2025-04-30,20:00:00,Another facility,Requires monitoring,724.2,401.9,None documented,,Contact local clinic for follow-up,山田 淳,2025-04-30T20:00:00
+132,396,396,21,2025-02-07,20:00:00,Another facility,Improving,427.31,272.4,Acetaminophen,,Contact local clinic for follow-up,井上 幹,2025-02-07T20:00:00
+133,399,399,30,2024-01-10,20:00:00,Another facility,Improving,780.2,584.9,None documented,,Contact local clinic for follow-up,渡辺 里佳,2024-01-10T20:00:00
+134,402,402,54,2024-02-25,20:00:00,Another facility,Requires monitoring,493.90,276.51,None documented,,Contact local clinic for follow-up,長谷川 健一,2024-02-25T20:00:00
+135,405,405,9,2024-06-05,20:00:00,Outpatient follow-up,Improving,414.01,780.60,,,Contact local clinic for follow-up,橋本 加奈,2024-06-05T20:00:00
+136,408,408,51,2024-04-23,20:00:00,Home,Improving,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,中村 香織,2024-04-23T20:00:00
+137,411,411,15,2024-01-17,20:00:00,Home,Stable,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,伊藤 さゆり,2024-01-17T20:00:00
+138,414,414,47,2024-08-07,20:00:00,Another facility,Improving,995.91,496,None documented,,Contact local clinic for follow-up,山崎 翼,2024-08-07T20:00:00
+139,417,417,50,2024-06-06,20:00:00,Home,Stable,724.2,401.9,,,Contact local clinic for follow-up,山本 裕太,2024-06-06T20:00:00
+140,420,420,15,2024-03-23,20:00:00,Another facility,Transferred,427.31,272.4,,,Contact local clinic for follow-up,伊藤 さゆり,2024-03-23T20:00:00
+141,423,423,23,2024-10-16,20:00:00,Another facility,Improving,780.2,584.9,,,Contact local clinic for follow-up,渡辺 直子,2024-10-16T20:00:00
+142,426,426,3,2025-03-04,20:00:00,Another facility,Stable,493.90,276.51,None documented,,Contact local clinic for follow-up,松本 京助,2025-03-04T20:00:00
+143,429,429,49,2025-06-22,20:00:00,Outpatient follow-up,Recovered,414.01,780.60,None documented,,Contact local clinic for follow-up,山口 晃,2025-06-22T20:00:00
+144,432,432,30,2024-09-22,20:00:00,Outpatient follow-up,Transferred,038.9,285.9,None documented,,Contact local clinic for follow-up,渡辺 里佳,2024-09-22T20:00:00
+145,435,435,31,2024-12-10,20:00:00,Another facility,Transferred,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,林 千代,2024-12-10T20:00:00
+146,438,438,31,2024-02-27,20:00:00,Another facility,Stable,995.91,496,None documented,,Contact local clinic for follow-up,林 千代,2024-02-27T20:00:00
+147,441,441,41,2025-04-16,20:00:00,Another facility,Recovered,724.2,401.9,,,Contact local clinic for follow-up,青木 健一,2025-04-16T20:00:00
+148,444,444,2,2024-05-30,20:00:00,Outpatient follow-up,Stable,427.31,272.4,Acetaminophen,,Contact local clinic for follow-up,中川 涼平,2024-05-30T20:00:00
+149,447,447,12,2025-01-07,20:00:00,Outpatient follow-up,Transferred,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,山崎 結衣,2025-01-07T20:00:00
+150,450,450,49,2025-01-25,20:00:00,Another facility,Requires monitoring,493.90,276.51,None documented,,Contact local clinic for follow-up,山口 晃,2025-01-25T20:00:00
+151,453,453,15,2024-12-23,20:00:00,Home,Recovered,414.01,780.60,None documented,,Contact local clinic for follow-up,伊藤 さゆり,2024-12-23T20:00:00
+152,456,456,17,2024-10-13,20:00:00,Home,Recovered,038.9,285.9,,,Contact local clinic for follow-up,山田 淳,2024-10-13T20:00:00
+153,459,459,49,2024-08-11,20:00:00,Outpatient follow-up,Requires monitoring,530.81,786.50,,,Contact local clinic for follow-up,山口 晃,2024-08-11T20:00:00
+154,462,462,3,2024-01-25,20:00:00,Another facility,Stable,995.91,496,Acetaminophen,,Contact local clinic for follow-up,松本 京助,2024-01-25T20:00:00
+155,465,465,29,2025-04-09,20:00:00,Outpatient follow-up,Transferred,724.2,401.9,Acetaminophen,,Contact local clinic for follow-up,佐藤 浩,2025-04-09T20:00:00
+156,468,468,23,2025-02-10,20:00:00,Mortuary,Deceased,427.31,272.4,,,,渡辺 直子,2025-02-10T20:00:00
+157,471,471,3,2024-06-10,20:00:00,Home,Requires monitoring,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,松本 京助,2024-06-10T20:00:00
+158,474,474,7,2025-04-30,20:00:00,Another facility,Recovered,493.90,276.51,None documented,,Contact local clinic for follow-up,佐藤 あすか,2025-04-30T20:00:00
+159,477,477,55,2025-01-14,20:00:00,Another facility,Requires monitoring,414.01,780.60,,,Contact local clinic for follow-up,田中 治,2025-01-14T20:00:00
+160,480,480,18,2024-10-12,20:00:00,Outpatient follow-up,Improving,038.9,285.9,,,Contact local clinic for follow-up,小川 和也,2024-10-12T20:00:00
+161,483,483,40,2024-04-27,20:00:00,Another facility,Improving,530.81,786.50,,,Contact local clinic for follow-up,田中 千代,2024-04-27T20:00:00
+162,486,486,12,2025-02-15,20:00:00,Outpatient follow-up,Requires monitoring,995.91,496,None documented,,Contact local clinic for follow-up,山崎 結衣,2025-02-15T20:00:00
+163,489,489,36,2024-01-19,20:00:00,Home,Stable,724.2,401.9,,,Contact local clinic for follow-up,岡本 さゆり,2024-01-19T20:00:00
+164,492,492,53,2024-03-22,20:00:00,Mortuary,Deceased,427.31,272.4,,,,伊藤 直子,2024-03-22T20:00:00
+165,495,495,6,2024-10-15,20:00:00,Home,Stable,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,中村 桃子,2024-10-15T20:00:00
+166,498,498,27,2025-05-10,20:00:00,Home,Improving,493.90,276.51,,,Contact local clinic for follow-up,高橋 陽一,2025-05-10T20:00:00
+167,501,501,10,2024-04-23,20:00:00,Home,Improving,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,松本 くみ子,2024-04-23T20:00:00
+168,504,504,10,2024-11-14,20:00:00,Another facility,Stable,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,松本 くみ子,2024-11-14T20:00:00
+169,507,507,11,2025-05-23,20:00:00,Home,Improving,530.81,786.50,,,Contact local clinic for follow-up,坂本 零,2025-05-23T20:00:00
+170,510,510,48,2025-01-31,20:00:00,Home,Requires monitoring,995.91,496,Acetaminophen,,Contact local clinic for follow-up,後藤 涼平,2025-01-31T20:00:00
+171,513,513,6,2024-01-26,20:00:00,Outpatient follow-up,Recovered,724.2,401.9,Acetaminophen,,Contact local clinic for follow-up,中村 桃子,2024-01-26T20:00:00
+172,516,516,16,2024-06-22,20:00:00,Another facility,Stable,427.31,272.4,,,Contact local clinic for follow-up,石川 美加子,2024-06-22T20:00:00
+173,519,519,54,2025-04-14,20:00:00,Outpatient follow-up,Transferred,780.2,584.9,None documented,,Contact local clinic for follow-up,長谷川 健一,2025-04-14T20:00:00
+174,522,522,37,2025-02-24,20:00:00,Another facility,Recovered,493.90,276.51,None documented,,Contact local clinic for follow-up,林 太郎,2025-02-24T20:00:00
+175,525,525,39,2024-04-20,20:00:00,Outpatient follow-up,Recovered,414.01,780.60,None documented,,Contact local clinic for follow-up,高橋 美加子,2024-04-20T20:00:00
+176,528,528,21,2024-06-08,20:00:00,Another facility,Improving,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,井上 幹,2024-06-08T20:00:00
+177,531,531,47,2025-04-29,20:00:00,Home,Improving,530.81,786.50,Acetaminophen,,Contact local clinic for follow-up,山崎 翼,2025-04-29T20:00:00
+178,534,534,4,2024-02-14,20:00:00,Home,Improving,995.91,496,None documented,,Contact local clinic for follow-up,鈴木 英樹,2024-02-14T20:00:00
+179,537,537,51,2025-03-28,20:00:00,Another facility,Recovered,724.2,401.9,None documented,,Contact local clinic for follow-up,中村 香織,2025-03-28T20:00:00
+180,540,540,51,2024-09-01,20:00:00,Another facility,Improving,427.31,272.4,,,Contact local clinic for follow-up,中村 香織,2024-09-01T20:00:00
+181,543,543,26,2025-01-09,20:00:00,Home,Requires monitoring,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,佐藤 洋介,2025-01-09T20:00:00
+182,546,546,29,2025-03-11,20:00:00,Home,Recovered,493.90,276.51,None documented,,Contact local clinic for follow-up,佐藤 浩,2025-03-11T20:00:00
+183,549,549,28,2024-03-22,20:00:00,Home,Transferred,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,小川 拓真,2024-03-22T20:00:00
+184,552,552,11,2025-02-24,20:00:00,Another facility,Transferred,038.9,285.9,,,Contact local clinic for follow-up,坂本 零,2025-02-24T20:00:00
+185,555,555,48,2025-02-27,20:00:00,Outpatient follow-up,Stable,530.81,786.50,None documented,,Contact local clinic for follow-up,後藤 涼平,2025-02-27T20:00:00
+186,558,558,18,2025-03-21,20:00:00,Another facility,Requires monitoring,995.91,496,None documented,,Contact local clinic for follow-up,小川 和也,2025-03-21T20:00:00
+187,561,561,19,2024-02-14,20:00:00,Another facility,Requires monitoring,724.2,401.9,None documented,,Contact local clinic for follow-up,林 聡太郎,2024-02-14T20:00:00
+188,564,564,47,2025-05-09,20:00:00,Another facility,Improving,427.31,272.4,,,Contact local clinic for follow-up,山崎 翼,2025-05-09T20:00:00
+189,567,567,46,2024-02-21,20:00:00,Outpatient follow-up,Transferred,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,佐藤 裕樹,2024-02-21T20:00:00
+190,570,570,38,2024-09-21,20:00:00,Home,Improving,493.90,276.51,,,Contact local clinic for follow-up,小川 陽子,2024-09-21T20:00:00
+191,573,573,30,2024-09-19,20:00:00,Outpatient follow-up,Stable,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,渡辺 里佳,2024-09-19T20:00:00
+192,576,576,43,2025-02-27,20:00:00,Another facility,Improving,038.9,285.9,,,Contact local clinic for follow-up,鈴木 幹,2025-02-27T20:00:00
+193,579,579,20,2024-04-20,20:00:00,Home,Transferred,530.81,786.50,None documented,,Contact local clinic for follow-up,吉田 真綾,2024-04-20T20:00:00
+194,582,582,29,2024-04-08,20:00:00,Home,Recovered,995.91,496,,,Contact local clinic for follow-up,佐藤 浩,2024-04-08T20:00:00
+195,585,585,35,2025-06-15,20:00:00,Outpatient follow-up,Recovered,724.2,401.9,Acetaminophen,,Contact local clinic for follow-up,佐藤 幹,2025-06-15T20:00:00
+196,588,588,47,2025-04-05,20:00:00,Outpatient follow-up,Recovered,427.31,272.4,Acetaminophen,,Contact local clinic for follow-up,山崎 翼,2025-04-05T20:00:00
+197,591,591,31,2024-10-29,20:00:00,Another facility,Stable,780.2,584.9,None documented,,Contact local clinic for follow-up,林 千代,2024-10-29T20:00:00
+198,594,594,13,2024-12-29,20:00:00,Another facility,Improving,493.90,276.51,,,Contact local clinic for follow-up,藤田 花子,2024-12-29T20:00:00
+199,597,597,14,2024-02-28,20:00:00,Mortuary,Deceased,414.01,780.60,,,,佐々木 さゆり,2024-02-28T20:00:00
+200,600,600,41,2024-08-15,20:00:00,Home,Recovered,038.9,285.9,None documented,,Contact local clinic for follow-up,青木 健一,2024-08-15T20:00:00
+201,603,603,18,2024-06-11,20:00:00,Home,Recovered,530.81,786.50,,,Contact local clinic for follow-up,小川 和也,2024-06-11T20:00:00
+202,606,606,45,2024-02-22,20:00:00,Outpatient follow-up,Transferred,995.91,496,,,Contact local clinic for follow-up,藤田 明美,2024-02-22T20:00:00
+203,609,609,21,2025-06-24,20:00:00,Another facility,Improving,724.2,401.9,,,Contact local clinic for follow-up,井上 幹,2025-06-24T20:00:00
+204,612,612,28,2025-02-27,20:00:00,Outpatient follow-up,Requires monitoring,427.31,272.4,None documented,,Contact local clinic for follow-up,小川 拓真,2025-02-27T20:00:00
+205,615,615,45,2024-02-13,20:00:00,Another facility,Stable,780.2,584.9,Acetaminophen,,Contact local clinic for follow-up,藤田 明美,2024-02-13T20:00:00
+206,618,618,15,2024-11-17,20:00:00,Outpatient follow-up,Recovered,493.90,276.51,None documented,,Contact local clinic for follow-up,伊藤 さゆり,2024-11-17T20:00:00
+207,621,621,45,2024-05-24,20:00:00,Another facility,Recovered,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,藤田 明美,2024-05-24T20:00:00
+208,624,624,19,2024-02-25,20:00:00,Outpatient follow-up,Stable,038.9,285.9,Acetaminophen,,Contact local clinic for follow-up,林 聡太郎,2024-02-25T20:00:00
+209,627,627,12,2024-11-01,20:00:00,Outpatient follow-up,Stable,530.81,786.50,None documented,,Contact local clinic for follow-up,山崎 結衣,2024-11-01T20:00:00
+210,630,630,23,2024-03-21,20:00:00,Home,Recovered,995.91,496,None documented,,Contact local clinic for follow-up,渡辺 直子,2024-03-21T20:00:00
+211,633,633,37,2024-05-21,20:00:00,Home,Improving,724.2,401.9,,,Contact local clinic for follow-up,林 太郎,2024-05-21T20:00:00
+212,636,636,41,2024-09-17,20:00:00,Home,Requires monitoring,427.31,272.4,None documented,,Contact local clinic for follow-up,青木 健一,2024-09-17T20:00:00
+213,639,639,23,2025-04-16,20:00:00,Home,Requires monitoring,780.2,584.9,None documented,,Contact local clinic for follow-up,渡辺 直子,2025-04-16T20:00:00
+214,642,642,36,2024-08-17,20:00:00,Home,Stable,493.90,276.51,,,Contact local clinic for follow-up,岡本 さゆり,2024-08-17T20:00:00
+215,645,645,1,2024-04-07,20:00:00,Another facility,Stable,414.01,780.60,Acetaminophen,,Contact local clinic for follow-up,吉田 零,2024-04-07T20:00:00
+216,648,648,3,2024-03-15,20:00:00,Outpatient follow-up,Transferred,038.9,285.9,,,Contact local clinic for follow-up,松本 京助,2024-03-15T20:00:00
+217,651,651,6,2025-01-15,20:00:00,Outpatient follow-up,Recovered,530.81,,,,Contact local clinic for follow-up,中村 桃子,2025-01-15T20:00:00
+218,654,654,43,2024-09-15,20:00:00,Another facility,Transferred,995.91,,Acetaminophen,,Contact local clinic for follow-up,鈴木 幹,2024-09-15T20:00:00
+219,657,657,34,2024-08-11,20:00:00,Outpatient follow-up,Improving,724.2,,Acetaminophen,,Contact local clinic for follow-up,山口 知実,2024-08-11T20:00:00
+220,660,660,1,2025-03-16,20:00:00,Outpatient follow-up,Improving,427.31,,None documented,,Contact local clinic for follow-up,吉田 零,2025-03-16T20:00:00
+221,663,663,44,2024-05-15,20:00:00,Home,Recovered,780.2,,None documented,,Contact local clinic for follow-up,岡本 和也,2024-05-15T20:00:00
+222,666,666,30,2025-04-21,20:00:00,Outpatient follow-up,Transferred,493.90,,None documented,,Contact local clinic for follow-up,渡辺 里佳,2025-04-21T20:00:00
+223,669,669,26,2024-08-30,20:00:00,Another facility,Transferred,414.01,,Acetaminophen,,Contact local clinic for follow-up,佐藤 洋介,2024-08-30T20:00:00
+224,672,672,4,2024-03-04,20:00:00,Outpatient follow-up,Transferred,038.9,,,,Contact local clinic for follow-up,鈴木 英樹,2024-03-04T20:00:00
+225,675,675,5,2024-03-11,20:00:00,Another facility,Requires monitoring,530.81,,None documented,,Contact local clinic for follow-up,伊藤 陽子,2024-03-11T20:00:00
+226,678,678,21,2025-01-25,20:00:00,Outpatient follow-up,Transferred,995.91,,Acetaminophen,,Contact local clinic for follow-up,井上 幹,2025-01-25T20:00:00
+227,681,681,15,2025-06-28,20:00:00,Outpatient follow-up,Stable,724.2,,,,Contact local clinic for follow-up,伊藤 さゆり,2025-06-28T20:00:00
+228,684,684,8,2025-05-12,20:00:00,Outpatient follow-up,Improving,427.31,,,,Contact local clinic for follow-up,中島 裕美子,2025-05-12T20:00:00
+229,687,687,22,2025-02-12,20:00:00,Another facility,Recovered,780.2,,Acetaminophen,,Contact local clinic for follow-up,加藤 知実,2025-02-12T20:00:00
+230,690,690,49,2024-08-30,20:00:00,Mortuary,Deceased,493.90,,,,,山口 晃,2024-08-30T20:00:00
+231,693,693,24,2025-04-13,20:00:00,Home,Improving,414.01,,,,Contact local clinic for follow-up,林 淳,2025-04-13T20:00:00
+232,696,696,5,2025-01-20,20:00:00,Another facility,Stable,038.9,,Acetaminophen,,Contact local clinic for follow-up,伊藤 陽子,2025-01-20T20:00:00
+233,699,699,27,2024-01-09,20:00:00,Another facility,Requires monitoring,530.81,,,,Contact local clinic for follow-up,高橋 陽一,2024-01-09T20:00:00
+234,702,702,51,2025-03-16,20:00:00,Outpatient follow-up,Recovered,995.91,,,,Contact local clinic for follow-up,中村 香織,2025-03-16T20:00:00
+235,705,705,10,2024-10-22,20:00:00,Outpatient follow-up,Transferred,724.2,,Acetaminophen,,Contact local clinic for follow-up,松本 くみ子,2024-10-22T20:00:00
+236,708,708,48,2024-09-27,20:00:00,Home,Requires monitoring,427.31,,,,Contact local clinic for follow-up,後藤 涼平,2024-09-27T20:00:00
+237,711,711,30,2024-06-26,20:00:00,Home,Transferred,780.2,,None documented,,Contact local clinic for follow-up,渡辺 里佳,2024-06-26T20:00:00
+238,714,714,38,2024-03-26,20:00:00,Another facility,Transferred,493.90,,None documented,,Contact local clinic for follow-up,小川 陽子,2024-03-26T20:00:00
+239,717,717,24,2024-07-30,20:00:00,Mortuary,Deceased,414.01,,,,,林 淳,2024-07-30T20:00:00
+240,720,720,54,2024-06-23,20:00:00,Mortuary,Deceased,038.9,,,,,長谷川 健一,2024-06-23T20:00:00
+241,723,723,20,2025-01-30,20:00:00,Outpatient follow-up,Requires monitoring,530.81,,Acetaminophen,,Contact local clinic for follow-up,吉田 真綾,2025-01-30T20:00:00
+242,726,726,5,2024-03-11,20:00:00,Outpatient follow-up,Stable,995.91,,Acetaminophen,,Contact local clinic for follow-up,伊藤 陽子,2024-03-11T20:00:00
+243,729,729,38,2025-02-17,20:00:00,Outpatient follow-up,Improving,724.2,,,,Contact local clinic for follow-up,小川 陽子,2025-02-17T20:00:00
+244,732,732,16,2024-04-13,20:00:00,Outpatient follow-up,Transferred,427.31,,Acetaminophen,,Contact local clinic for follow-up,石川 美加子,2024-04-13T20:00:00
+245,735,735,4,2024-11-10,20:00:00,Home,Transferred,780.2,,,,Contact local clinic for follow-up,鈴木 英樹,2024-11-10T20:00:00
+246,738,738,38,2025-03-03,20:00:00,Another facility,Stable,493.90,,None documented,,Contact local clinic for follow-up,小川 陽子,2025-03-03T20:00:00
+247,741,741,10,2024-05-28,20:00:00,Another facility,Requires monitoring,414.01,,Acetaminophen,,Contact local clinic for follow-up,松本 くみ子,2024-05-28T20:00:00
+248,744,744,46,2024-12-20,20:00:00,Outpatient follow-up,Requires monitoring,038.9,,None documented,,Contact local clinic for follow-up,佐藤 裕樹,2024-12-20T20:00:00
+249,747,747,55,2025-04-14,20:00:00,Mortuary,Deceased,530.81,,,,,田中 治,2025-04-14T20:00:00
+250,750,750,48,2024-11-16,20:00:00,Home,Requires monitoring,995.91,,Acetaminophen,,Contact local clinic for follow-up,後藤 涼平,2024-11-16T20:00:00
+251,753,753,26,2025-01-09,20:00:00,Outpatient follow-up,Improving,724.2,,Acetaminophen,,Contact local clinic for follow-up,佐藤 洋介,2025-01-09T20:00:00
+252,756,756,20,2024-09-03,20:00:00,Home,Transferred,427.31,,Acetaminophen,,Contact local clinic for follow-up,吉田 真綾,2024-09-03T20:00:00
+253,759,759,34,2024-08-29,20:00:00,Another facility,Recovered,780.2,,,,Contact local clinic for follow-up,山口 知実,2024-08-29T20:00:00
+254,762,762,53,2024-12-31,20:00:00,Another facility,Recovered,493.90,,None documented,,Contact local clinic for follow-up,伊藤 直子,2024-12-31T20:00:00
+255,765,765,12,2025-06-13,20:00:00,Another facility,Stable,414.01,,None documented,,Contact local clinic for follow-up,山崎 結衣,2025-06-13T20:00:00
+256,768,768,8,2025-05-28,20:00:00,Home,Transferred,038.9,,Acetaminophen,,Contact local clinic for follow-up,中島 裕美子,2025-05-28T20:00:00
+257,771,771,45,2025-01-24,20:00:00,Another facility,Recovered,530.81,,,,Contact local clinic for follow-up,藤田 明美,2025-01-24T20:00:00
+258,774,774,11,2025-06-05,20:00:00,Another facility,Requires monitoring,995.91,,Acetaminophen,,Contact local clinic for follow-up,坂本 零,2025-06-05T20:00:00
+259,777,777,55,2024-07-27,20:00:00,Home,Improving,724.2,,,,Contact local clinic for follow-up,田中 治,2024-07-27T20:00:00
+260,780,780,3,2025-04-09,20:00:00,Outpatient follow-up,Requires monitoring,427.31,,Acetaminophen,,Contact local clinic for follow-up,松本 京助,2025-04-09T20:00:00
+261,783,783,43,2025-04-11,20:00:00,Outpatient follow-up,Requires monitoring,780.2,,None documented,,Contact local clinic for follow-up,鈴木 幹,2025-04-11T20:00:00
+262,786,786,38,2025-03-08,20:00:00,Another facility,Requires monitoring,493.90,,Acetaminophen,,Contact local clinic for follow-up,小川 陽子,2025-03-08T20:00:00
+263,789,789,14,2024-12-13,20:00:00,Home,Recovered,414.01,,None documented,,Contact local clinic for follow-up,佐々木 さゆり,2024-12-13T20:00:00
+264,792,792,26,2024-03-04,20:00:00,Home,Recovered,038.9,,,,Contact local clinic for follow-up,佐藤 洋介,2024-03-04T20:00:00
+265,795,795,18,2025-01-10,20:00:00,Another facility,Stable,530.81,,Acetaminophen,,Contact local clinic for follow-up,小川 和也,2025-01-10T20:00:00
+266,798,798,38,2024-12-25,20:00:00,Another facility,Stable,995.91,,None documented,,Contact local clinic for follow-up,小川 陽子,2024-12-25T20:00:00
+267,801,801,24,2024-11-03,20:00:00,Another facility,Requires monitoring,724.2,,Acetaminophen,,Contact local clinic for follow-up,林 淳,2024-11-03T20:00:00
+268,804,804,19,2025-01-27,20:00:00,Outpatient follow-up,Transferred,427.31,,,,Contact local clinic for follow-up,林 聡太郎,2025-01-27T20:00:00
+269,807,807,9,2024-11-17,20:00:00,Outpatient follow-up,Transferred,780.2,,None documented,,Contact local clinic for follow-up,橋本 加奈,2024-11-17T20:00:00
+270,810,810,34,2024-02-19,20:00:00,Another facility,Requires monitoring,493.90,,,,Contact local clinic for follow-up,山口 知実,2024-02-19T20:00:00
+271,813,813,30,2024-09-29,20:00:00,Another facility,Recovered,414.01,,Acetaminophen,,Contact local clinic for follow-up,渡辺 里佳,2024-09-29T20:00:00
+272,816,816,55,2024-01-08,20:00:00,Mortuary,Deceased,038.9,,,,,田中 治,2024-01-08T20:00:00
+273,819,819,27,2024-06-24,20:00:00,Home,Transferred,530.81,,None documented,,Contact local clinic for follow-up,高橋 陽一,2024-06-24T20:00:00
+274,822,822,28,2025-03-25,20:00:00,Home,Recovered,995.91,,Acetaminophen,,Contact local clinic for follow-up,小川 拓真,2025-03-25T20:00:00
+275,825,825,53,2024-09-25,20:00:00,Outpatient follow-up,Improving,724.2,,Acetaminophen,,Contact local clinic for follow-up,伊藤 直子,2024-09-25T20:00:00
+276,828,828,9,2024-02-25,20:00:00,Mortuary,Deceased,427.31,,,,,橋本 加奈,2024-02-25T20:00:00
+277,831,831,10,2025-01-20,20:00:00,Another facility,Recovered,780.2,,None documented,,Contact local clinic for follow-up,松本 くみ子,2025-01-20T20:00:00
+278,834,834,10,2025-06-10,20:00:00,Outpatient follow-up,Improving,493.90,,,,Contact local clinic for follow-up,松本 くみ子,2025-06-10T20:00:00
+279,837,837,23,2024-06-30,20:00:00,Outpatient follow-up,Requires monitoring,414.01,,,,Contact local clinic for follow-up,渡辺 直子,2024-06-30T20:00:00
+280,840,840,6,2025-03-19,20:00:00,Outpatient follow-up,Requires monitoring,038.9,,None documented,,Contact local clinic for follow-up,中村 桃子,2025-03-19T20:00:00
+281,843,843,43,2024-09-02,20:00:00,Home,Requires monitoring,530.81,,Acetaminophen,,Contact local clinic for follow-up,鈴木 幹,2024-09-02T20:00:00
+282,846,846,13,2024-04-08,20:00:00,Outpatient follow-up,Stable,995.91,,Acetaminophen,,Contact local clinic for follow-up,藤田 花子,2024-04-08T20:00:00
+283,849,849,28,2025-03-07,20:00:00,Outpatient follow-up,Requires monitoring,724.2,,,,Contact local clinic for follow-up,小川 拓真,2025-03-07T20:00:00
+284,852,852,31,2024-06-11,20:00:00,Outpatient follow-up,Stable,427.31,,,,Contact local clinic for follow-up,林 千代,2024-06-11T20:00:00
+285,855,855,20,2024-05-22,20:00:00,Outpatient follow-up,Recovered,780.2,,,,Contact local clinic for follow-up,吉田 真綾,2024-05-22T20:00:00
+286,858,858,27,2025-03-24,20:00:00,Home,Transferred,493.90,,Acetaminophen,,Contact local clinic for follow-up,高橋 陽一,2025-03-24T20:00:00
+287,861,861,31,2025-03-14,20:00:00,Another facility,Requires monitoring,414.01,,None documented,,Contact local clinic for follow-up,林 千代,2025-03-14T20:00:00
+288,864,864,47,2025-06-13,20:00:00,Outpatient follow-up,Stable,038.9,,Acetaminophen,,Contact local clinic for follow-up,山崎 翼,2025-06-13T20:00:00
+289,867,867,40,2025-02-06,20:00:00,Home,Recovered,530.81,,None documented,,Contact local clinic for follow-up,田中 千代,2025-02-06T20:00:00
+290,870,870,23,2024-06-27,20:00:00,Another facility,Transferred,995.91,,,,Contact local clinic for follow-up,渡辺 直子,2024-06-27T20:00:00
+291,873,873,38,2024-08-27,20:00:00,Outpatient follow-up,Transferred,724.2,,Acetaminophen,,Contact local clinic for follow-up,小川 陽子,2024-08-27T20:00:00
+292,876,876,54,2025-01-24,20:00:00,Home,Transferred,427.31,,,,Contact local clinic for follow-up,長谷川 健一,2025-01-24T20:00:00
+293,879,879,46,2024-04-21,20:00:00,Outpatient follow-up,Requires monitoring,780.2,,,,Contact local clinic for follow-up,佐藤 裕樹,2024-04-21T20:00:00
+294,882,882,30,2024-08-10,20:00:00,Another facility,Requires monitoring,493.90,,Acetaminophen,,Contact local clinic for follow-up,渡辺 里佳,2024-08-10T20:00:00
+295,885,885,18,2025-06-23,20:00:00,Another facility,Recovered,414.01,,Acetaminophen,,Contact local clinic for follow-up,小川 和也,2025-06-23T20:00:00
+296,888,888,47,2025-01-28,20:00:00,Home,Recovered,038.9,,Acetaminophen,,Contact local clinic for follow-up,山崎 翼,2025-01-28T20:00:00
+297,891,891,54,2025-01-22,20:00:00,Home,Recovered,530.81,,Acetaminophen,,Contact local clinic for follow-up,長谷川 健一,2025-01-22T20:00:00
+298,894,894,38,2024-07-28,20:00:00,Home,Recovered,995.91,,Acetaminophen,,Contact local clinic for follow-up,小川 陽子,2024-07-28T20:00:00
+299,897,897,16,2024-09-09,20:00:00,Home,Recovered,724.2,,None documented,,Contact local clinic for follow-up,石川 美加子,2024-09-09T20:00:00
+300,900,900,36,2024-04-14,20:00:00,Outpatient follow-up,Stable,427.31,,None documented,,Contact local clinic for follow-up,岡本 さゆり,2024-04-14T20:00:00
+301,903,903,19,2024-08-04,20:00:00,Mortuary,Deceased,780.2,,,,,林 聡太郎,2024-08-04T20:00:00
+302,906,906,25,2024-12-06,20:00:00,Home,Recovered,493.90,,,,Contact local clinic for follow-up,岡田 英樹,2024-12-06T20:00:00
+303,909,909,51,2025-01-20,20:00:00,Another facility,Recovered,414.01,,,,Contact local clinic for follow-up,中村 香織,2025-01-20T20:00:00
+304,912,912,16,2025-04-08,20:00:00,Home,Stable,038.9,,Acetaminophen,,Contact local clinic for follow-up,石川 美加子,2025-04-08T20:00:00
+305,915,915,14,2024-12-19,20:00:00,Home,Recovered,530.81,,None documented,,Contact local clinic for follow-up,佐々木 さゆり,2024-12-19T20:00:00
+306,918,918,18,2024-10-09,20:00:00,Outpatient follow-up,Recovered,995.91,,,,Contact local clinic for follow-up,小川 和也,2024-10-09T20:00:00
+307,921,921,33,2024-03-14,20:00:00,Home,Recovered,724.2,,None documented,,Contact local clinic for follow-up,池田 零,2024-03-14T20:00:00
+308,924,924,15,2024-08-08,20:00:00,Outpatient follow-up,Transferred,427.31,,Acetaminophen,,Contact local clinic for follow-up,伊藤 さゆり,2024-08-08T20:00:00
+309,927,927,6,2024-06-04,20:00:00,Outpatient follow-up,Improving,780.2,,,,Contact local clinic for follow-up,中村 桃子,2024-06-04T20:00:00
+310,930,930,44,2024-04-23,20:00:00,Another facility,Requires monitoring,493.90,,None documented,,Contact local clinic for follow-up,岡本 和也,2024-04-23T20:00:00
+311,933,933,54,2025-05-19,20:00:00,Home,Transferred,414.01,,Acetaminophen,,Contact local clinic for follow-up,長谷川 健一,2025-05-19T20:00:00
+312,936,936,16,2024-02-17,20:00:00,Another facility,Transferred,038.9,,None documented,,Contact local clinic for follow-up,石川 美加子,2024-02-17T20:00:00
+313,939,939,35,2024-03-06,20:00:00,Outpatient follow-up,Recovered,530.81,,None documented,,Contact local clinic for follow-up,佐藤 幹,2024-03-06T20:00:00
+314,942,942,25,2024-11-16,20:00:00,Outpatient follow-up,Stable,995.91,,None documented,,Contact local clinic for follow-up,岡田 英樹,2024-11-16T20:00:00
+315,945,945,19,2024-03-31,20:00:00,Home,Improving,724.2,,,,Contact local clinic for follow-up,林 聡太郎,2024-03-31T20:00:00
+316,948,948,30,2025-03-28,20:00:00,Another facility,Transferred,427.31,,Acetaminophen,,Contact local clinic for follow-up,渡辺 里佳,2025-03-28T20:00:00
+317,951,951,49,2025-05-09,20:00:00,Another facility,Transferred,780.2,,Acetaminophen,,Contact local clinic for follow-up,山口 晃,2025-05-09T20:00:00
+318,954,954,39,2024-01-22,20:00:00,Home,Transferred,493.90,,None documented,,Contact local clinic for follow-up,高橋 美加子,2024-01-22T20:00:00
+319,957,957,30,2024-05-26,20:00:00,Another facility,Requires monitoring,414.01,,None documented,,Contact local clinic for follow-up,渡辺 里佳,2024-05-26T20:00:00
+320,960,960,53,2024-04-13,20:00:00,Outpatient follow-up,Improving,038.9,,,,Contact local clinic for follow-up,伊藤 直子,2024-04-13T20:00:00
+321,963,963,27,2024-12-29,20:00:00,Another facility,Transferred,530.81,,,,Contact local clinic for follow-up,高橋 陽一,2024-12-29T20:00:00
+322,966,966,21,2024-08-03,20:00:00,Outpatient follow-up,Stable,995.91,,Acetaminophen,,Contact local clinic for follow-up,井上 幹,2024-08-03T20:00:00
+323,969,969,22,2024-11-08,20:00:00,Outpatient follow-up,Requires monitoring,724.2,,Acetaminophen,,Contact local clinic for follow-up,加藤 知実,2024-11-08T20:00:00
+324,972,972,21,2024-05-31,20:00:00,Another facility,Transferred,427.31,,None documented,,Contact local clinic for follow-up,井上 幹,2024-05-31T20:00:00
+325,975,975,23,2024-09-14,20:00:00,Home,Stable,780.2,,Acetaminophen,,Contact local clinic for follow-up,渡辺 直子,2024-09-14T20:00:00
+326,978,978,18,2025-03-07,20:00:00,Home,Transferred,493.90,,,,Contact local clinic for follow-up,小川 和也,2025-03-07T20:00:00
+327,981,981,46,2025-01-07,20:00:00,Another facility,Improving,414.01,,,,Contact local clinic for follow-up,佐藤 裕樹,2025-01-07T20:00:00
+328,984,984,19,2024-02-25,20:00:00,Another facility,Transferred,038.9,,Acetaminophen,,Contact local clinic for follow-up,林 聡太郎,2024-02-25T20:00:00
+329,987,987,31,2024-11-11,20:00:00,Another facility,Requires monitoring,530.81,,Acetaminophen,,Contact local clinic for follow-up,林 千代,2024-11-11T20:00:00
+330,990,990,38,2025-01-16,20:00:00,Home,Stable,995.91,,Acetaminophen,,Contact local clinic for follow-up,小川 陽子,2025-01-16T20:00:00
+331,993,993,1,2024-05-06,20:00:00,Home,Transferred,724.2,,None documented,,Contact local clinic for follow-up,吉田 零,2024-05-06T20:00:00
+332,996,996,20,2024-05-18,20:00:00,Another facility,Transferred,427.31,,,,Contact local clinic for follow-up,吉田 真綾,2024-05-18T20:00:00
+333,999,999,1,2025-04-22,20:00:00,Another facility,Transferred,780.2,,Acetaminophen,,Contact local clinic for follow-up,吉田 零,2025-04-22T20:00:00
+334,1002,111,3,2026-10-16,20:00:00,Another facility,Improving,493.90,,Acetaminophen,,Contact local clinic for follow-up,松本 京助,2026-10-16T20:00:00
+335,1005,504,55,2025-11-21,20:00:00,Home,Requires monitoring,414.01,,,,Contact local clinic for follow-up,田中 治,2025-11-21T20:00:00
+336,1008,415,45,2025-12-26,20:00:00,Outpatient follow-up,Improving,038.9,,None documented,,Contact local clinic for follow-up,藤田 明美,2025-12-26T20:00:00
+337,1011,181,5,2026-07-02,20:00:00,Mortuary,Deceased,530.81,,,,,伊藤 陽子,2026-07-02T20:00:00
+338,1014,753,36,2026-06-04,20:00:00,Outpatient follow-up,Stable,995.91,,Acetaminophen,,Contact local clinic for follow-up,岡本 さゆり,2026-06-04T20:00:00
+339,1017,213,44,2025-09-01,20:00:00,Home,Requires monitoring,724.2,,,,Contact local clinic for follow-up,岡本 和也,2025-09-01T20:00:00
+340,1020,45,5,2026-08-11,20:00:00,Another facility,Transferred,427.31,,Acetaminophen,,Contact local clinic for follow-up,伊藤 陽子,2026-08-11T20:00:00
+341,1023,151,8,2025-11-13,20:00:00,Another facility,Recovered,780.2,,None documented,,Contact local clinic for follow-up,中島 裕美子,2025-11-13T20:00:00
+342,1026,939,36,2026-07-01,20:00:00,Outpatient follow-up,Improving,493.90,,,,Contact local clinic for follow-up,岡本 さゆり,2026-07-01T20:00:00
+343,1029,341,3,2026-08-23,20:00:00,Another facility,Recovered,414.01,,Acetaminophen,,Contact local clinic for follow-up,松本 京助,2026-08-23T20:00:00
+344,1032,456,6,2026-10-10,20:00:00,Another facility,Transferred,038.9,,None documented,,Contact local clinic for follow-up,中村 桃子,2026-10-10T20:00:00
+345,1035,261,35,2026-05-10,20:00:00,Another facility,Requires monitoring,530.81,,,,Contact local clinic for follow-up,佐藤 幹,2026-05-10T20:00:00
+346,1038,53,1,2026-02-15,20:00:00,Outpatient follow-up,Improving,995.91,,,,Contact local clinic for follow-up,吉田 零,2026-02-15T20:00:00
+347,1041,188,5,2025-08-16,20:00:00,Outpatient follow-up,Recovered,724.2,,,,Contact local clinic for follow-up,伊藤 陽子,2025-08-16T20:00:00
+348,1044,882,40,2025-12-27,20:00:00,Another facility,Improving,427.31,,None documented,,Contact local clinic for follow-up,田中 千代,2025-12-27T20:00:00
+349,1047,626,35,2025-10-31,20:00:00,Another facility,Stable,780.2,,,,Contact local clinic for follow-up,佐藤 幹,2025-10-31T20:00:00
+350,1050,40,53,2026-04-28,20:00:00,Another facility,Transferred,493.90,,None documented,,Contact local clinic for follow-up,伊藤 直子,2026-04-28T20:00:00
+351,1053,334,32,2025-11-05,20:00:00,Outpatient follow-up,Requires monitoring,414.01,,Acetaminophen,,Contact local clinic for follow-up,山口 知実,2025-11-05T20:00:00
+352,1056,196,20,2026-09-24,20:00:00,Another facility,Transferred,038.9,,Acetaminophen,,Contact local clinic for follow-up,吉田 真綾,2026-09-24T20:00:00
+353,1059,480,44,2025-08-16,20:00:00,Outpatient follow-up,Stable,530.81,,Acetaminophen,,Contact local clinic for follow-up,岡本 和也,2025-08-16T20:00:00
+354,1062,893,34,2026-03-17,20:00:00,Mortuary,Deceased,995.91,,,,,山口 知実,2026-03-17T20:00:00
+355,1065,254,24,2026-08-10,20:00:00,Another facility,Transferred,724.2,,,,Contact local clinic for follow-up,林 淳,2026-08-10T20:00:00
+356,1068,48,18,2025-11-04,20:00:00,Outpatient follow-up,Recovered,427.31,,None documented,,Contact local clinic for follow-up,小川 和也,2025-11-04T20:00:00
+357,1071,24,8,2026-06-25,20:00:00,Another facility,Requires monitoring,780.2,,Acetaminophen,,Contact local clinic for follow-up,中島 裕美子,2026-06-25T20:00:00
+358,1074,261,54,2025-08-28,20:00:00,Outpatient follow-up,Transferred,493.90,,Acetaminophen,,Contact local clinic for follow-up,長谷川 健一,2025-08-28T20:00:00
+359,1077,20,37,2026-07-19,20:00:00,Outpatient follow-up,Improving,414.01,,None documented,,Contact local clinic for follow-up,林 太郎,2026-07-19T20:00:00
+360,1080,44,9,2026-09-24,20:00:00,Another facility,Improving,038.9,,,,Contact local clinic for follow-up,橋本 加奈,2026-09-24T20:00:00
+361,1083,975,4,2026-05-24,20:00:00,Outpatient follow-up,Transferred,530.81,,Acetaminophen,,Contact local clinic for follow-up,鈴木 英樹,2026-05-24T20:00:00
+362,1086,359,3,2026-06-02,20:00:00,Outpatient follow-up,Requires monitoring,995.91,,,,Contact local clinic for follow-up,松本 京助,2026-06-02T20:00:00
+363,1089,694,18,2026-10-13,20:00:00,Home,Improving,724.2,,,,Contact local clinic for follow-up,小川 和也,2026-10-13T20:00:00
+364,1092,355,43,2026-04-28,20:00:00,Home,Transferred,427.31,,Acetaminophen,,Contact local clinic for follow-up,鈴木 幹,2026-04-28T20:00:00
+365,1095,968,54,2026-06-06,20:00:00,Home,Improving,780.2,,None documented,,Contact local clinic for follow-up,長谷川 健一,2026-06-06T20:00:00
+366,1098,621,9,2026-10-17,20:00:00,Home,Requires monitoring,493.90,,None documented,,Contact local clinic for follow-up,橋本 加奈,2026-10-17T20:00:00
+367,1101,942,40,2025-10-30,20:00:00,Home,Improving,414.01,,Acetaminophen,,Contact local clinic for follow-up,田中 千代,2025-10-30T20:00:00
+368,1104,24,43,2025-10-03,20:00:00,Home,Improving,038.9,,,,Contact local clinic for follow-up,鈴木 幹,2025-10-03T20:00:00
+369,1107,399,50,2025-12-15,20:00:00,Home,Requires monitoring,530.81,,Acetaminophen,,Contact local clinic for follow-up,山本 裕太,2025-12-15T20:00:00
+370,1110,469,23,2025-12-09,20:00:00,Another facility,Improving,995.91,,,,Contact local clinic for follow-up,渡辺 直子,2025-12-09T20:00:00
+371,1113,61,31,2026-01-15,20:00:00,Another facility,Transferred,724.2,,Acetaminophen,,Contact local clinic for follow-up,林 千代,2026-01-15T20:00:00
+372,1116,685,49,2025-08-30,20:00:00,Home,Transferred,427.31,,None documented,,Contact local clinic for follow-up,山口 晃,2025-08-30T20:00:00
+373,1119,385,10,2025-09-19,20:00:00,Outpatient follow-up,Improving,780.2,,,,Contact local clinic for follow-up,松本 くみ子,2025-09-19T20:00:00
+374,1122,167,31,2025-11-14,20:00:00,Outpatient follow-up,Requires monitoring,493.90,,,,Contact local clinic for follow-up,林 千代,2025-11-14T20:00:00
+375,1125,565,49,2026-09-19,20:00:00,Outpatient follow-up,Transferred,414.01,,None documented,,Contact local clinic for follow-up,山口 晃,2026-09-19T20:00:00
+376,1128,156,23,2026-01-19,20:00:00,Another facility,Requires monitoring,038.9,,,,Contact local clinic for follow-up,渡辺 直子,2026-01-19T20:00:00
+377,1131,700,46,2026-04-05,20:00:00,Mortuary,Deceased,530.81,,,,,佐藤 裕樹,2026-04-05T20:00:00
+378,1134,980,12,2025-12-31,20:00:00,Outpatient follow-up,Transferred,995.91,,Acetaminophen,,Contact local clinic for follow-up,山崎 結衣,2025-12-31T20:00:00
+379,1137,100,26,2025-11-02,20:00:00,Outpatient follow-up,Transferred,724.2,,,,Contact local clinic for follow-up,佐藤 洋介,2025-11-02T20:00:00
+380,1140,738,17,2026-02-06,20:00:00,Another facility,Improving,427.31,,None documented,,Contact local clinic for follow-up,山田 淳,2026-02-06T20:00:00
+381,1143,739,27,2025-11-23,20:00:00,Mortuary,Deceased,780.2,,,,,高橋 陽一,2025-11-23T20:00:00
+382,1146,661,53,2026-07-03,20:00:00,Another facility,Improving,493.90,,Acetaminophen,,Contact local clinic for follow-up,伊藤 直子,2026-07-03T20:00:00
+383,1149,814,23,2026-08-23,20:00:00,Outpatient follow-up,Recovered,414.01,,,,Contact local clinic for follow-up,渡辺 直子,2026-08-23T20:00:00
+384,1152,143,14,2025-11-17,20:00:00,Outpatient follow-up,Recovered,038.9,,Acetaminophen,,Contact local clinic for follow-up,佐々木 さゆり,2025-11-17T20:00:00
+385,1155,247,32,2026-06-12,20:00:00,Home,Stable,530.81,,,,Contact local clinic for follow-up,山口 知実,2026-06-12T20:00:00
+386,1158,545,47,2025-11-21,20:00:00,Mortuary,Deceased,995.91,,,,,山崎 翼,2025-11-21T20:00:00
+387,1161,299,43,2026-10-19,20:00:00,Another facility,Recovered,724.2,,,,Contact local clinic for follow-up,鈴木 幹,2026-10-19T20:00:00
+388,1164,570,50,2026-02-20,20:00:00,Home,Recovered,427.31,,None documented,,Contact local clinic for follow-up,山本 裕太,2026-02-20T20:00:00
+389,1167,822,10,2026-01-30,20:00:00,Outpatient follow-up,Recovered,780.2,,,,Contact local clinic for follow-up,松本 くみ子,2026-01-30T20:00:00
+390,1170,350,12,2026-06-13,20:00:00,Home,Stable,493.90,,None documented,,Contact local clinic for follow-up,山崎 結衣,2026-06-13T20:00:00
+391,1173,402,43,2025-11-14,20:00:00,Another facility,Recovered,414.01,,None documented,,Contact local clinic for follow-up,鈴木 幹,2025-11-14T20:00:00
+392,1176,624,32,2026-04-26,20:00:00,Home,Requires monitoring,038.9,,Acetaminophen,,Contact local clinic for follow-up,山口 知実,2026-04-26T20:00:00
+393,1179,630,38,2025-12-11,20:00:00,Another facility,Transferred,530.81,,Acetaminophen,,Contact local clinic for follow-up,小川 陽子,2025-12-11T20:00:00
+394,1182,89,14,2026-05-15,20:00:00,Home,Stable,995.91,,Acetaminophen,,Contact local clinic for follow-up,佐々木 さゆり,2026-05-15T20:00:00
+395,1185,300,6,2026-01-25,20:00:00,Outpatient follow-up,Stable,724.2,,Acetaminophen,,Contact local clinic for follow-up,中村 桃子,2026-01-25T20:00:00
+396,1188,425,36,2026-10-29,20:00:00,Outpatient follow-up,Requires monitoring,427.31,,,,Contact local clinic for follow-up,岡本 さゆり,2026-10-29T20:00:00
+397,1191,962,1,2025-10-18,20:00:00,Outpatient follow-up,Stable,780.2,,Acetaminophen,,Contact local clinic for follow-up,吉田 零,2025-10-18T20:00:00
+398,1194,189,4,2025-12-31,20:00:00,Home,Recovered,493.90,,Acetaminophen,,Contact local clinic for follow-up,鈴木 英樹,2025-12-31T20:00:00
+399,1197,967,13,2025-11-24,20:00:00,Another facility,Requires monitoring,414.01,,None documented,,Contact local clinic for follow-up,藤田 花子,2025-11-24T20:00:00
+400,1200,435,17,2026-06-02,20:00:00,Home,Requires monitoring,038.9,,None documented,,Contact local clinic for follow-up,山田 淳,2026-06-02T20:00:00
+10004,4,4,13,2024-11-30,20:00:00,Mortuary,Deceased,486,724.2,,,,藤田 花子,2024-11-30T20:00:00
+11327,1327,14,36,2026-07-27,20:00:00,Mortuary,Deceased,250.00,,,,,岡本 さゆり,2026-07-27T20:00:00
+10026,26,26,30,2024-02-07,20:00:00,Mortuary,Deceased,780.60,250.00,,,,渡辺 里佳,2024-02-07T20:00:00
+10028,28,28,6,2024-05-09,20:00:00,Mortuary,Deceased,486,724.2,,,,中村 桃子,2024-05-09T20:00:00
+10032,32,32,24,2024-08-19,20:00:00,Mortuary,Deceased,786.50,560.9,,,,林 淳,2024-08-19T20:00:00
+10085,85,85,44,2024-07-23,20:00:00,Mortuary,Deceased,560.9,493.90,,,,岡本 和也,2024-07-23T20:00:00
+10086,86,86,26,2025-03-08,20:00:00,Mortuary,Deceased,401.9,410.90,,,,佐藤 洋介,2025-03-08T20:00:00
+10107,107,107,23,2024-03-02,20:00:00,Mortuary,Deceased,496,784.0,,,,渡辺 直子,2024-03-02T20:00:00
+11159,1159,122,54,2026-07-17,20:00:00,Mortuary,Deceased,250.00,,,,,長谷川 健一,2026-07-17T20:00:00
+11016,1016,150,15,2026-09-07,20:00:00,Mortuary,Deceased,786.50,,,,,伊藤 さゆり,2026-09-07T20:00:00
+10158,158,158,37,2024-05-03,20:00:00,Mortuary,Deceased,401.9,410.90,,,,林 太郎,2024-05-03T20:00:00
+10182,182,182,6,2024-04-29,20:00:00,Mortuary,Deceased,401.9,410.90,,,,中村 桃子,2024-04-29T20:00:00
+10185,185,185,10,2025-06-21,20:00:00,Mortuary,Deceased,272.4,789.00,,,,松本 くみ子,2025-06-21T20:00:00
+11060,1060,189,34,2026-09-15,20:00:00,Mortuary,Deceased,486,,,,,山口 知実,2026-09-15T20:00:00
+11040,1040,199,24,2025-09-11,20:00:00,Mortuary,Deceased,786.50,,,,,林 淳,2025-09-11T20:00:00
+10212,212,212,29,2025-03-12,20:00:00,Mortuary,Deceased,584.9,599.0,,,,佐藤 浩,2025-03-12T20:00:00
+10221,221,221,34,2024-07-20,20:00:00,Mortuary,Deceased,285.9,780.79,,,,山口 知実,2024-07-20T20:00:00
+10230,230,230,15,2024-04-08,20:00:00,Mortuary,Deceased,401.9,410.90,,,,伊藤 さゆり,2024-04-08T20:00:00
+11271,1271,238,17,2026-01-10,20:00:00,Mortuary,Deceased,276.51,,,,,山田 淳,2026-01-10T20:00:00
+10262,262,262,29,2024-05-28,20:00:00,Mortuary,Deceased,789.00,530.81,,,,佐藤 浩,2024-05-28T20:00:00
+11043,1043,297,55,2026-09-26,20:00:00,Mortuary,Deceased,496,,,,,田中 治,2026-09-26T20:00:00
+11015,1015,441,34,2026-02-23,20:00:00,Mortuary,Deceased,250.00,,,,,山口 知実,2026-02-23T20:00:00
+11344,1344,449,31,2026-02-02,20:00:00,Mortuary,Deceased,038.9,,,,,林 千代,2026-02-02T20:00:00
+10475,475,475,42,2024-07-13,20:00:00,Mortuary,Deceased,410.90,038.9,,,,加藤 亮介,2024-07-13T20:00:00
+10485,485,485,11,2024-10-23,20:00:00,Mortuary,Deceased,285.9,780.79,,,,坂本 零,2024-10-23T20:00:00
+10487,487,487,24,2024-08-29,20:00:00,Mortuary,Deceased,250.00,427.31,,,,林 淳,2024-08-29T20:00:00
+10581,581,581,51,2024-07-03,20:00:00,Mortuary,Deceased,285.9,780.79,,,,中村 香織,2024-07-03T20:00:00
+11046,1046,603,44,2026-01-28,20:00:00,Mortuary,Deceased,401.9,,,,,岡本 和也,2026-01-28T20:00:00
+10608,608,608,31,2024-08-21,20:00:00,Mortuary,Deceased,786.50,560.9,,,,林 千代,2024-08-21T20:00:00
+10632,632,632,26,2024-06-09,20:00:00,Mortuary,Deceased,786.50,560.9,,,,佐藤 洋介,2024-06-09T20:00:00
+11037,1037,697,19,2026-05-02,20:00:00,Mortuary,Deceased,285.9,,,,,林 聡太郎,2026-05-02T20:00:00
+10716,716,716,38,2025-06-23,20:00:00,Mortuary,Deceased,584.9,,,,,小川 陽子,2025-06-23T20:00:00
+10749,749,749,45,2024-05-31,20:00:00,Mortuary,Deceased,285.9,,,,,藤田 明美,2024-05-31T20:00:00
+11162,1162,762,1,2026-03-29,20:00:00,Mortuary,Deceased,780.79,,,,,吉田 零,2026-03-29T20:00:00
+10781,781,781,8,2024-03-18,20:00:00,Mortuary,Deceased,560.9,,,,,中島 裕美子,2024-03-18T20:00:00
+11073,1073,817,9,2026-02-06,20:00:00,Mortuary,Deceased,272.4,,,,,橋本 加奈,2026-02-06T20:00:00
+10920,920,920,22,2024-10-18,20:00:00,Mortuary,Deceased,786.50,,,,,加藤 知実,2024-10-18T20:00:00
+10982,982,982,36,2024-11-13,20:00:00,Mortuary,Deceased,789.00,,,,,岡本 さゆり,2024-11-13T20:00:00
+10986,986,986,46,2024-12-13,20:00:00,Mortuary,Deceased,780.60,,,,,佐藤 裕樹,2024-12-13T20:00:00
+11054,1054,989,35,2026-01-25,20:00:00,Mortuary,Deceased,789.00,,,,,佐藤 幹,2026-01-25T20:00:00
+10992,992,992,3,2024-03-28,20:00:00,Mortuary,Deceased,786.50,,,,,松本 京助,2024-03-28T20:00:00

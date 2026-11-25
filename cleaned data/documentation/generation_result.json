@@ -1,0 +1,68 @@
+{
+  "record_count_by_source": {
+    "A": 9438,
+    "B": 9438,
+    "C": 9438,
+    "D": 9438
+  },
+  "raw_total": 37752,
+  "cleaned_total": 37392,
+  "removed_total": 360,
+  "cleaning_reasons": {
+    "missing_required_icd9": 24,
+    "broken_reference": 48,
+    "deduplicated": 96,
+    "missing_required_physician": 24,
+    "invalid_or_ambiguous_date": 48,
+    "chronology": 48,
+    "shared_reference_dictionary": 72
+  },
+  "synthetic_issue_type_counts": {
+    "missing_required": 48,
+    "missing_optional": 104,
+    "case_whitespace": 160,
+    "invalid_date": 24,
+    "ambiguous_date": 24,
+    "invalid_numeric": 56,
+    "broken_reference": 48,
+    "chronology": 48,
+    "exact_duplicate": 96
+  },
+  "transformations": {
+    "invalid_temperature_to_null": 56,
+    "fahrenheit_to_celsius": 1350
+  },
+  "per_entity_clean_count": {
+    "hospital_units": 48,
+    "nurses": 180,
+    "physicians": 220,
+    "radiologists": 72,
+    "icd9_dictionary": 24,
+    "patients": 4000,
+    "admissions": 5400,
+    "assessments": 5400,
+    "unit_stays": 5800,
+    "diagnoses": 7952,
+    "clinical_notes": 1824,
+    "diagnostic_orders": 640,
+    "diagnostic_examinations": 640,
+    "radiology_examinations": 760,
+    "radiology_reports": 560,
+    "surgical_procedures": 672,
+    "discharge_records": 1600,
+    "discharge_summaries": 1600
+  },
+  "format_parsed_successfully": true,
+  "local_ids_are_source_namespaced": true,
+  "icd9_codes_preserved_as_strings": true,
+  "primary_diagnoses_recorded_once": true,
+  "hospital_count": 4,
+  "global_foreign_keys_pass": true,
+  "raw_source_files_preserved_unchanged_after_creation": true,
+  "query_scenarios": {
+    "admissions_with_multiple_distinct_icd9": 2552,
+    "patients_with_multiple_clinical_notes": 176,
+    "same_day_surgery_radiology_admission_pairs": 238,
+    "primary_diagnoses_of_deceased_patients": 328
+  }
+}

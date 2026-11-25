@@ -1,0 +1,609 @@
+source,entity,issue_type,local_id,field,action,detail
+A,diagnoses,missing_required,1601,icd9_code,reject,ICD-9 code required for diagnosis
+A,diagnoses,missing_required,1602,icd9_code,reject,ICD-9 code required for diagnosis
+A,diagnoses,missing_required,1603,icd9_code,reject,ICD-9 code required for diagnosis
+A,diagnoses,missing_required,1604,icd9_code,reject,ICD-9 code required for diagnosis
+A,diagnoses,missing_required,1605,icd9_code,reject,ICD-9 code required for diagnosis
+A,diagnoses,missing_required,1606,icd9_code,reject,ICD-9 code required for diagnosis
+A,clinical_notes,missing_required,1,physician_id,reject,Authoring physician required
+A,clinical_notes,missing_required,2,physician_id,reject,Authoring physician required
+A,clinical_notes,missing_required,3,physician_id,reject,Authoring physician required
+A,clinical_notes,missing_required,4,physician_id,reject,Authoring physician required
+A,clinical_notes,missing_required,5,physician_id,reject,Authoring physician required
+A,clinical_notes,missing_required,6,physician_id,reject,Authoring physician required
+A,patients,missing_optional,21,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,22,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,23,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,24,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,25,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,26,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,27,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,28,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,29,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,30,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,31,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,32,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,33,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,34,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,35,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,36,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,37,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,38,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,39,emergency_contact_info,retain_nullable,Optional contact absent
+A,patients,missing_optional,40,emergency_contact_info,retain_nullable,Optional contact absent
+A,discharge_records,missing_optional,11,prescribed_medication,retain_nullable,Optional medication summary absent
+A,discharge_records,missing_optional,12,prescribed_medication,retain_nullable,Optional medication summary absent
+A,discharge_records,missing_optional,13,prescribed_medication,retain_nullable,Optional medication summary absent
+A,discharge_records,missing_optional,14,prescribed_medication,retain_nullable,Optional medication summary absent
+A,discharge_records,missing_optional,15,prescribed_medication,retain_nullable,Optional medication summary absent
+A,discharge_records,missing_optional,16,prescribed_medication,retain_nullable,Optional medication summary absent
+A,patients,case_whitespace,41,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,42,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,43,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,44,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,45,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,46,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,47,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,48,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,49,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,50,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,51,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,52,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,53,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,54,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,55,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,56,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,57,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,58,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,59,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,60,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,61,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,62,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,63,full_name,normalize,Patient names require trimming and consistent case
+A,patients,case_whitespace,64,full_name,normalize,Patient names require trimming and consistent case
+A,diagnoses,case_whitespace,1401,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1402,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1403,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1404,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1405,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1406,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1407,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1408,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1409,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1410,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1411,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1412,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1413,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1414,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1415,diagnosis_type,normalize,Normalize category label and whitespace
+A,diagnoses,case_whitespace,1416,diagnosis_type,normalize,Normalize category label and whitespace
+A,clinical_notes,invalid_date,21,note_date,reject,Impossible calendar day
+A,clinical_notes,invalid_date,22,note_date,reject,Impossible calendar day
+A,clinical_notes,invalid_date,23,note_date,reject,Impossible calendar day
+A,clinical_notes,invalid_date,24,note_date,reject,Impossible calendar day
+A,clinical_notes,invalid_date,25,note_date,reject,Impossible calendar day
+A,clinical_notes,invalid_date,26,note_date,reject,Impossible calendar day
+A,clinical_notes,ambiguous_date,27,note_date,reject,Day/month interpretation ambiguous in this feed
+A,clinical_notes,ambiguous_date,28,note_date,reject,Day/month interpretation ambiguous in this feed
+A,clinical_notes,ambiguous_date,29,note_date,reject,Day/month interpretation ambiguous in this feed
+A,clinical_notes,ambiguous_date,30,note_date,reject,Day/month interpretation ambiguous in this feed
+A,clinical_notes,ambiguous_date,31,note_date,reject,Day/month interpretation ambiguous in this feed
+A,clinical_notes,ambiguous_date,32,note_date,reject,Day/month interpretation ambiguous in this feed
+A,assessments,invalid_numeric,1,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,2,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,3,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,4,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,5,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,6,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,7,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,8,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,9,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,10,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,11,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,12,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,13,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,assessments,invalid_numeric,14,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+A,clinical_notes,broken_reference,41,admission_id,reject,Admission ID absent in this hospital
+A,clinical_notes,broken_reference,42,admission_id,reject,Admission ID absent in this hospital
+A,clinical_notes,broken_reference,43,admission_id,reject,Admission ID absent in this hospital
+A,clinical_notes,broken_reference,44,admission_id,reject,Admission ID absent in this hospital
+A,clinical_notes,broken_reference,45,admission_id,reject,Admission ID absent in this hospital
+A,clinical_notes,broken_reference,46,admission_id,reject,Admission ID absent in this hospital
+A,diagnoses,broken_reference,1801,patient_id,reject,Patient ID absent in this hospital
+A,diagnoses,broken_reference,1802,patient_id,reject,Patient ID absent in this hospital
+A,diagnoses,broken_reference,1803,patient_id,reject,Patient ID absent in this hospital
+A,diagnoses,broken_reference,1804,patient_id,reject,Patient ID absent in this hospital
+A,diagnoses,broken_reference,1805,patient_id,reject,Patient ID absent in this hospital
+A,diagnoses,broken_reference,1806,patient_id,reject,Patient ID absent in this hospital
+A,surgical_procedures,chronology,1,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,2,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,3,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,4,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,5,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,6,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,7,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,8,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,9,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,10,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,11,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,surgical_procedures,chronology,12,procedure_date,reject,Surgery occurs before corresponding hospital admission
+A,diagnoses,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+A,diagnoses,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+A,diagnoses,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+A,diagnoses,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+A,diagnoses,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+A,diagnoses,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+A,diagnoses,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+A,diagnoses,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+A,clinical_notes,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+A,surgical_procedures,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,missing_required,1601,ICD9,reject,ICD-9 code required for diagnosis
+B,diagnoses,missing_required,1602,ICD9,reject,ICD-9 code required for diagnosis
+B,diagnoses,missing_required,1603,ICD9,reject,ICD-9 code required for diagnosis
+B,diagnoses,missing_required,1604,ICD9,reject,ICD-9 code required for diagnosis
+B,diagnoses,missing_required,1605,ICD9,reject,ICD-9 code required for diagnosis
+B,diagnoses,missing_required,1606,ICD9,reject,ICD-9 code required for diagnosis
+B,clinical_notes,missing_required,1,ArztNr,reject,Authoring physician required
+B,clinical_notes,missing_required,2,ArztNr,reject,Authoring physician required
+B,clinical_notes,missing_required,3,ArztNr,reject,Authoring physician required
+B,clinical_notes,missing_required,4,ArztNr,reject,Authoring physician required
+B,clinical_notes,missing_required,5,ArztNr,reject,Authoring physician required
+B,clinical_notes,missing_required,6,ArztNr,reject,Authoring physician required
+B,patients,missing_optional,21,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,22,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,23,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,24,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,25,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,26,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,27,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,28,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,29,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,30,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,31,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,32,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,33,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,34,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,35,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,36,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,37,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,38,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,39,emergency_contact_info,retain_nullable,Optional contact absent
+B,patients,missing_optional,40,emergency_contact_info,retain_nullable,Optional contact absent
+B,discharge_records,missing_optional,11,prescribed_medication,retain_nullable,Optional medication summary absent
+B,discharge_records,missing_optional,12,prescribed_medication,retain_nullable,Optional medication summary absent
+B,discharge_records,missing_optional,13,prescribed_medication,retain_nullable,Optional medication summary absent
+B,discharge_records,missing_optional,14,prescribed_medication,retain_nullable,Optional medication summary absent
+B,discharge_records,missing_optional,15,prescribed_medication,retain_nullable,Optional medication summary absent
+B,discharge_records,missing_optional,16,prescribed_medication,retain_nullable,Optional medication summary absent
+B,patients,case_whitespace,41,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,42,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,43,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,44,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,45,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,46,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,47,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,48,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,49,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,50,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,51,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,52,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,53,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,54,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,55,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,56,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,57,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,58,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,59,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,60,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,61,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,62,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,63,PatientName,normalize,Patient names require trimming and consistent case
+B,patients,case_whitespace,64,PatientName,normalize,Patient names require trimming and consistent case
+B,diagnoses,case_whitespace,1401,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1402,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1403,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1404,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1405,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1406,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1407,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1408,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1409,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1410,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1411,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1412,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1413,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1414,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1415,diagnosis_type,normalize,Normalize category label and whitespace
+B,diagnoses,case_whitespace,1416,diagnosis_type,normalize,Normalize category label and whitespace
+B,clinical_notes,invalid_date,21,note_date,reject,Impossible calendar day
+B,clinical_notes,invalid_date,22,note_date,reject,Impossible calendar day
+B,clinical_notes,invalid_date,23,note_date,reject,Impossible calendar day
+B,clinical_notes,invalid_date,24,note_date,reject,Impossible calendar day
+B,clinical_notes,invalid_date,25,note_date,reject,Impossible calendar day
+B,clinical_notes,invalid_date,26,note_date,reject,Impossible calendar day
+B,clinical_notes,ambiguous_date,27,note_date,reject,Day/month interpretation ambiguous in this feed
+B,clinical_notes,ambiguous_date,28,note_date,reject,Day/month interpretation ambiguous in this feed
+B,clinical_notes,ambiguous_date,29,note_date,reject,Day/month interpretation ambiguous in this feed
+B,clinical_notes,ambiguous_date,30,note_date,reject,Day/month interpretation ambiguous in this feed
+B,clinical_notes,ambiguous_date,31,note_date,reject,Day/month interpretation ambiguous in this feed
+B,clinical_notes,ambiguous_date,32,note_date,reject,Day/month interpretation ambiguous in this feed
+B,assessments,invalid_numeric,1,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,2,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,3,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,4,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,5,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,6,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,7,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,8,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,9,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,10,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,11,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,12,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,13,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,assessments,invalid_numeric,14,body_temperature,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+B,clinical_notes,broken_reference,41,FallNr,reject,Admission ID absent in this hospital
+B,clinical_notes,broken_reference,42,FallNr,reject,Admission ID absent in this hospital
+B,clinical_notes,broken_reference,43,FallNr,reject,Admission ID absent in this hospital
+B,clinical_notes,broken_reference,44,FallNr,reject,Admission ID absent in this hospital
+B,clinical_notes,broken_reference,45,FallNr,reject,Admission ID absent in this hospital
+B,clinical_notes,broken_reference,46,FallNr,reject,Admission ID absent in this hospital
+B,diagnoses,broken_reference,1801,PatientNr,reject,Patient ID absent in this hospital
+B,diagnoses,broken_reference,1802,PatientNr,reject,Patient ID absent in this hospital
+B,diagnoses,broken_reference,1803,PatientNr,reject,Patient ID absent in this hospital
+B,diagnoses,broken_reference,1804,PatientNr,reject,Patient ID absent in this hospital
+B,diagnoses,broken_reference,1805,PatientNr,reject,Patient ID absent in this hospital
+B,diagnoses,broken_reference,1806,PatientNr,reject,Patient ID absent in this hospital
+B,surgical_procedures,chronology,1,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,2,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,3,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,4,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,5,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,6,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,7,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,8,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,9,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,10,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,11,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,surgical_procedures,chronology,12,procedure_date,reject,Surgery occurs before corresponding hospital admission
+B,diagnoses,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+B,diagnoses,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+B,clinical_notes,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+B,surgical_procedures,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,missing_required,1601,diagnosisCode,reject,ICD-9 code required for diagnosis
+C,diagnoses,missing_required,1602,diagnosisCode,reject,ICD-9 code required for diagnosis
+C,diagnoses,missing_required,1603,diagnosisCode,reject,ICD-9 code required for diagnosis
+C,diagnoses,missing_required,1604,diagnosisCode,reject,ICD-9 code required for diagnosis
+C,diagnoses,missing_required,1605,diagnosisCode,reject,ICD-9 code required for diagnosis
+C,diagnoses,missing_required,1606,diagnosisCode,reject,ICD-9 code required for diagnosis
+C,clinical_notes,missing_required,1,physicianId,reject,Authoring physician required
+C,clinical_notes,missing_required,2,physicianId,reject,Authoring physician required
+C,clinical_notes,missing_required,3,physicianId,reject,Authoring physician required
+C,clinical_notes,missing_required,4,physicianId,reject,Authoring physician required
+C,clinical_notes,missing_required,5,physicianId,reject,Authoring physician required
+C,clinical_notes,missing_required,6,physicianId,reject,Authoring physician required
+C,patients,missing_optional,21,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,22,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,23,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,24,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,25,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,26,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,27,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,28,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,29,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,30,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,31,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,32,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,33,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,34,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,35,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,36,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,37,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,38,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,39,emergencyContactInfo,retain_nullable,Optional contact absent
+C,patients,missing_optional,40,emergencyContactInfo,retain_nullable,Optional contact absent
+C,discharge_records,missing_optional,11,prescribedMedication,retain_nullable,Optional medication summary absent
+C,discharge_records,missing_optional,12,prescribedMedication,retain_nullable,Optional medication summary absent
+C,discharge_records,missing_optional,13,prescribedMedication,retain_nullable,Optional medication summary absent
+C,discharge_records,missing_optional,14,prescribedMedication,retain_nullable,Optional medication summary absent
+C,discharge_records,missing_optional,15,prescribedMedication,retain_nullable,Optional medication summary absent
+C,discharge_records,missing_optional,16,prescribedMedication,retain_nullable,Optional medication summary absent
+C,patients,case_whitespace,41,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,42,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,43,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,44,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,45,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,46,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,47,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,48,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,49,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,50,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,51,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,52,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,53,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,54,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,55,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,56,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,57,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,58,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,59,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,60,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,61,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,62,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,63,fullName,normalize,Patient names require trimming and consistent case
+C,patients,case_whitespace,64,fullName,normalize,Patient names require trimming and consistent case
+C,diagnoses,case_whitespace,1401,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1402,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1403,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1404,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1405,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1406,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1407,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1408,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1409,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1410,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1411,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1412,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1413,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1414,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1415,diagnosisType,normalize,Normalize category label and whitespace
+C,diagnoses,case_whitespace,1416,diagnosisType,normalize,Normalize category label and whitespace
+C,clinical_notes,invalid_date,21,noteDate,reject,Impossible calendar day
+C,clinical_notes,invalid_date,22,noteDate,reject,Impossible calendar day
+C,clinical_notes,invalid_date,23,noteDate,reject,Impossible calendar day
+C,clinical_notes,invalid_date,24,noteDate,reject,Impossible calendar day
+C,clinical_notes,invalid_date,25,noteDate,reject,Impossible calendar day
+C,clinical_notes,invalid_date,26,noteDate,reject,Impossible calendar day
+C,clinical_notes,ambiguous_date,27,noteDate,reject,Day/month interpretation ambiguous in this feed
+C,clinical_notes,ambiguous_date,28,noteDate,reject,Day/month interpretation ambiguous in this feed
+C,clinical_notes,ambiguous_date,29,noteDate,reject,Day/month interpretation ambiguous in this feed
+C,clinical_notes,ambiguous_date,30,noteDate,reject,Day/month interpretation ambiguous in this feed
+C,clinical_notes,ambiguous_date,31,noteDate,reject,Day/month interpretation ambiguous in this feed
+C,clinical_notes,ambiguous_date,32,noteDate,reject,Day/month interpretation ambiguous in this feed
+C,assessments,invalid_numeric,1,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,2,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,3,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,4,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,5,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,6,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,7,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,8,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,9,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,10,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,11,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,12,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,13,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,assessments,invalid_numeric,14,bodyTemp,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+C,clinical_notes,broken_reference,41,encounterNumber,reject,Admission ID absent in this hospital
+C,clinical_notes,broken_reference,42,encounterNumber,reject,Admission ID absent in this hospital
+C,clinical_notes,broken_reference,43,encounterNumber,reject,Admission ID absent in this hospital
+C,clinical_notes,broken_reference,44,encounterNumber,reject,Admission ID absent in this hospital
+C,clinical_notes,broken_reference,45,encounterNumber,reject,Admission ID absent in this hospital
+C,clinical_notes,broken_reference,46,encounterNumber,reject,Admission ID absent in this hospital
+C,diagnoses,broken_reference,1801,patientNumber,reject,Patient ID absent in this hospital
+C,diagnoses,broken_reference,1802,patientNumber,reject,Patient ID absent in this hospital
+C,diagnoses,broken_reference,1803,patientNumber,reject,Patient ID absent in this hospital
+C,diagnoses,broken_reference,1804,patientNumber,reject,Patient ID absent in this hospital
+C,diagnoses,broken_reference,1805,patientNumber,reject,Patient ID absent in this hospital
+C,diagnoses,broken_reference,1806,patientNumber,reject,Patient ID absent in this hospital
+C,surgical_procedures,chronology,1,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,2,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,3,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,4,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,5,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,6,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,7,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,8,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,9,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,10,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,11,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,surgical_procedures,chronology,12,procedureDate,reject,Surgery occurs before corresponding hospital admission
+C,diagnoses,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+C,diagnoses,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+C,clinical_notes,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+C,surgical_procedures,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,missing_required,1601,ICD9,reject,ICD-9 code required for diagnosis
+D,diagnoses,missing_required,1602,ICD9,reject,ICD-9 code required for diagnosis
+D,diagnoses,missing_required,1603,ICD9,reject,ICD-9 code required for diagnosis
+D,diagnoses,missing_required,1604,ICD9,reject,ICD-9 code required for diagnosis
+D,diagnoses,missing_required,1605,ICD9,reject,ICD-9 code required for diagnosis
+D,diagnoses,missing_required,1606,ICD9,reject,ICD-9 code required for diagnosis
+D,clinical_notes,missing_required,1,DOC_ID,reject,Authoring physician required
+D,clinical_notes,missing_required,2,DOC_ID,reject,Authoring physician required
+D,clinical_notes,missing_required,3,DOC_ID,reject,Authoring physician required
+D,clinical_notes,missing_required,4,DOC_ID,reject,Authoring physician required
+D,clinical_notes,missing_required,5,DOC_ID,reject,Authoring physician required
+D,clinical_notes,missing_required,6,DOC_ID,reject,Authoring physician required
+D,patients,missing_optional,21,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,22,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,23,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,24,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,25,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,26,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,27,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,28,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,29,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,30,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,31,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,32,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,33,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,34,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,35,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,36,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,37,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,38,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,39,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,patients,missing_optional,40,EMERGENCY_CONTACT_INFO,retain_nullable,Optional contact absent
+D,discharge_records,missing_optional,11,PRESCRIBED_MEDICATION,retain_nullable,Optional medication summary absent
+D,discharge_records,missing_optional,12,PRESCRIBED_MEDICATION,retain_nullable,Optional medication summary absent
+D,discharge_records,missing_optional,13,PRESCRIBED_MEDICATION,retain_nullable,Optional medication summary absent
+D,discharge_records,missing_optional,14,PRESCRIBED_MEDICATION,retain_nullable,Optional medication summary absent
+D,discharge_records,missing_optional,15,PRESCRIBED_MEDICATION,retain_nullable,Optional medication summary absent
+D,discharge_records,missing_optional,16,PRESCRIBED_MEDICATION,retain_nullable,Optional medication summary absent
+D,patients,case_whitespace,41,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,42,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,43,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,44,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,45,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,46,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,47,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,48,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,49,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,50,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,51,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,52,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,53,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,54,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,55,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,56,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,57,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,58,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,59,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,60,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,61,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,62,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,63,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,patients,case_whitespace,64,FULL_NAME,normalize,Patient names require trimming and consistent case
+D,diagnoses,case_whitespace,1401,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1402,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1403,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1404,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1405,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1406,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1407,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1408,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1409,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1410,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1411,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1412,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1413,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1414,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1415,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,diagnoses,case_whitespace,1416,DIAGNOSIS_TYPE,normalize,Normalize category label and whitespace
+D,clinical_notes,invalid_date,21,NOTE_DATE,reject,Impossible calendar day
+D,clinical_notes,invalid_date,22,NOTE_DATE,reject,Impossible calendar day
+D,clinical_notes,invalid_date,23,NOTE_DATE,reject,Impossible calendar day
+D,clinical_notes,invalid_date,24,NOTE_DATE,reject,Impossible calendar day
+D,clinical_notes,invalid_date,25,NOTE_DATE,reject,Impossible calendar day
+D,clinical_notes,invalid_date,26,NOTE_DATE,reject,Impossible calendar day
+D,clinical_notes,ambiguous_date,27,NOTE_DATE,reject,Day/month interpretation ambiguous in this feed
+D,clinical_notes,ambiguous_date,28,NOTE_DATE,reject,Day/month interpretation ambiguous in this feed
+D,clinical_notes,ambiguous_date,29,NOTE_DATE,reject,Day/month interpretation ambiguous in this feed
+D,clinical_notes,ambiguous_date,30,NOTE_DATE,reject,Day/month interpretation ambiguous in this feed
+D,clinical_notes,ambiguous_date,31,NOTE_DATE,reject,Day/month interpretation ambiguous in this feed
+D,clinical_notes,ambiguous_date,32,NOTE_DATE,reject,Day/month interpretation ambiguous in this feed
+D,assessments,invalid_numeric,1,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,2,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,3,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,4,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,5,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,6,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,7,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,8,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,9,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,10,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,11,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,12,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,13,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,assessments,invalid_numeric,14,TEMP_READING,set_null,Physiologically impossible synthetic temperature; keep assessment and null measurement
+D,clinical_notes,broken_reference,41,ADM_ID,reject,Admission ID absent in this hospital
+D,clinical_notes,broken_reference,42,ADM_ID,reject,Admission ID absent in this hospital
+D,clinical_notes,broken_reference,43,ADM_ID,reject,Admission ID absent in this hospital
+D,clinical_notes,broken_reference,44,ADM_ID,reject,Admission ID absent in this hospital
+D,clinical_notes,broken_reference,45,ADM_ID,reject,Admission ID absent in this hospital
+D,clinical_notes,broken_reference,46,ADM_ID,reject,Admission ID absent in this hospital
+D,diagnoses,broken_reference,1801,PAT_ID,reject,Patient ID absent in this hospital
+D,diagnoses,broken_reference,1802,PAT_ID,reject,Patient ID absent in this hospital
+D,diagnoses,broken_reference,1803,PAT_ID,reject,Patient ID absent in this hospital
+D,diagnoses,broken_reference,1804,PAT_ID,reject,Patient ID absent in this hospital
+D,diagnoses,broken_reference,1805,PAT_ID,reject,Patient ID absent in this hospital
+D,diagnoses,broken_reference,1806,PAT_ID,reject,Patient ID absent in this hospital
+D,surgical_procedures,chronology,1,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,2,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,3,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,4,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,5,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,6,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,7,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,8,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,9,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,10,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,11,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,surgical_procedures,chronology,12,PROCEDURE_DATE,reject,Surgery occurs before corresponding hospital admission
+D,diagnoses,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+D,diagnoses,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+D,clinical_notes,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,81,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,82,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,83,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,84,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,85,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,86,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,87,,deduplicate,Exact copy of an already present entity record
+D,surgical_procedures,exact_duplicate,88,,deduplicate,Exact copy of an already present entity record

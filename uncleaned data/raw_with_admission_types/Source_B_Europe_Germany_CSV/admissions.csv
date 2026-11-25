@@ -1,0 +1,1351 @@
+FallNr,PatientNr,PflegeNr,ArztNr,AufnahmeDatum,admission_time,discharge_date,discharge_time,admission_status,visit_reason,is_followup,past_record_followup,Aufnahmeart,Aufnahmequelle
+1,1,13,33,21.05.2025,08.00,26.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+2,2,5,31,08.05.2025,08.00,11.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+3,3,33,45,20.01.2025,08.00,25.01.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+4,4,15,43,16.03.2025,08.00,19.03.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+5,5,28,40,02.01.2025,08.00,05.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+6,6,5,16,06.06.2025,08.00,11.06.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+7,7,29,17,26.09.2024,08.00,04.10.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+8,8,5,5,02.01.2024,08.00,05.01.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+9,9,20,21,01.05.2025,08.00,03.05.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+10,10,26,2,01.03.2025,08.00,07.03.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+11,11,4,54,19.03.2024,08.00,24.03.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+12,12,40,55,21.08.2024,08.00,28.08.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+13,13,22,21,05.02.2024,08.00,08.02.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+14,14,17,8,02.01.2025,08.00,11.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+15,15,4,27,28.02.2024,08.00,06.03.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+16,16,33,54,17.04.2025,08.00,26.04.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+17,17,7,31,24.07.2024,08.00,01.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+18,18,10,38,25.03.2025,08.00,01.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+19,19,39,40,23.05.2025,08.00,01.06.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+20,20,18,22,25.04.2025,08.00,02.05.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Krankenhausverlegung
+21,21,7,15,16.03.2025,08.00,24.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+22,22,5,34,17.07.2024,08.00,24.07.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+23,23,28,21,14.06.2025,08.00,15.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+24,24,2,50,12.04.2024,08.00,16.04.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+25,25,34,14,12.06.2024,08.00,19.06.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+26,26,2,51,13.07.2024,08.00,20.07.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+27,27,11,43,28.11.2024,08.00,04.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+28,28,42,52,09.08.2024,08.00,16.08.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+29,29,38,6,18.04.2024,08.00,27.04.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+30,30,28,12,08.05.2024,08.00,11.05.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Krankenhausverlegung
+31,31,34,22,30.09.2024,08.00,04.10.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+32,32,22,9,30.03.2025,08.00,05.04.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+33,33,20,41,09.11.2024,08.00,12.11.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+34,34,2,17,04.06.2025,08.00,09.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+35,35,8,19,30.05.2025,08.00,05.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+36,36,19,27,18.09.2024,08.00,23.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+37,37,39,15,14.12.2024,08.00,22.12.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+38,38,24,24,10.03.2025,08.00,12.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+39,39,14,38,25.05.2024,08.00,27.05.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+40,40,37,29,13.06.2025,08.00,19.06.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+41,41,39,46,24.04.2024,08.00,01.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+42,42,24,18,14.04.2025,08.00,19.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+43,43,45,40,06.03.2024,08.00,12.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+44,44,22,5,29.05.2025,08.00,31.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+45,45,5,27,12.06.2025,08.00,21.06.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+46,46,11,22,10.03.2025,08.00,13.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+47,47,32,44,20.05.2025,08.00,26.05.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+48,48,43,45,13.07.2024,08.00,20.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+49,49,39,33,03.04.2024,08.00,10.04.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+50,50,4,12,06.01.2024,08.00,15.01.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+51,51,45,10,14.11.2024,08.00,17.11.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+52,52,31,3,10.01.2025,08.00,14.01.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+53,53,24,3,21.12.2024,08.00,25.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+54,54,43,49,03.11.2024,08.00,06.11.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+55,55,36,46,23.07.2024,08.00,30.07.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+56,56,4,14,14.02.2024,08.00,18.02.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+57,57,18,41,19.05.2025,08.00,25.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+58,58,13,13,21.06.2025,08.00,22.06.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+59,59,2,50,02.04.2025,08.00,03.04.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+60,60,42,38,23.04.2025,08.00,26.04.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Krankenhausverlegung
+61,61,27,49,16.11.2024,08.00,22.11.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+62,62,21,31,01.02.2025,08.00,07.02.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+63,63,17,44,27.03.2025,08.00,02.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+64,64,20,30,13.06.2025,08.00,14.06.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+65,65,18,39,11.06.2025,08.00,20.06.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+66,66,39,48,18.05.2024,08.00,21.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+67,67,42,41,30.12.2024,08.00,05.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+68,68,3,29,14.05.2024,08.00,18.05.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+69,69,9,41,31.10.2024,08.00,01.11.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+70,70,32,43,18.03.2025,08.00,19.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+71,71,5,31,15.06.2024,08.00,23.06.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+72,72,6,40,10.02.2024,08.00,13.02.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+73,73,5,11,11.06.2025,08.00,16.06.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+74,74,42,55,11.08.2024,08.00,15.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+75,75,9,21,15.03.2025,08.00,22.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+76,76,3,43,08.06.2025,08.00,15.06.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+77,77,14,30,03.12.2024,08.00,07.12.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+78,78,42,5,30.06.2024,08.00,05.07.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+79,79,6,11,22.02.2024,08.00,25.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+80,80,2,22,26.08.2024,08.00,03.09.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+81,81,16,21,03.04.2024,08.00,10.04.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+82,82,9,16,04.02.2024,08.00,11.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+83,83,4,53,30.08.2024,08.00,03.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+84,84,6,20,17.10.2024,08.00,18.10.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+85,85,39,44,13.10.2024,08.00,16.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+86,86,27,33,10.07.2024,08.00,19.07.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+87,87,18,29,17.08.2024,08.00,19.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+88,88,34,11,15.01.2025,08.00,19.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+89,89,30,10,09.05.2025,08.00,18.05.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+90,90,35,49,04.09.2024,08.00,08.09.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+91,91,38,5,03.06.2024,08.00,09.06.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+92,92,10,37,03.11.2024,08.00,05.11.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+93,93,6,37,07.06.2025,08.00,10.06.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+94,94,43,45,08.07.2024,08.00,11.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+95,95,30,48,29.01.2025,08.00,31.01.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Krankenhausverlegung
+96,96,12,13,16.10.2024,08.00,23.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+97,97,30,48,06.09.2024,08.00,13.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+98,98,21,2,08.12.2024,08.00,13.12.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+99,99,21,54,18.03.2025,08.00,19.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+100,100,28,35,19.01.2024,08.00,24.01.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+101,101,5,55,18.06.2024,08.00,24.06.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+102,102,4,27,16.10.2024,08.00,25.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+103,103,2,30,23.08.2024,08.00,25.08.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+104,104,26,43,23.07.2024,08.00,25.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+105,105,23,45,08.04.2024,08.00,13.04.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+106,106,41,5,01.12.2024,08.00,02.12.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+107,107,18,52,16.04.2025,08.00,24.04.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+108,108,12,43,14.06.2024,08.00,18.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+109,109,35,6,17.10.2024,08.00,26.10.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+110,110,2,52,20.08.2024,08.00,26.08.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Krankenhausverlegung
+111,111,29,16,07.03.2025,08.00,11.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+112,112,7,29,15.05.2024,08.00,22.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+113,113,28,40,16.05.2024,08.00,24.05.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+114,114,18,31,11.02.2025,08.00,18.02.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+115,115,44,17,04.03.2025,08.00,09.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Krankenhausverlegung
+116,116,40,42,24.04.2025,08.00,29.04.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+117,117,40,30,27.07.2024,08.00,05.08.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+118,118,40,48,16.03.2024,08.00,19.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+119,119,21,37,29.05.2024,08.00,30.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+120,120,39,20,12.03.2025,08.00,16.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+121,121,30,31,01.06.2025,08.00,08.06.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+122,122,10,21,10.06.2024,08.00,15.06.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+123,123,11,6,09.07.2024,08.00,16.07.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+124,124,34,48,15.04.2024,08.00,17.04.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+125,125,9,5,10.04.2025,08.00,14.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+126,126,28,5,16.05.2025,08.00,24.05.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+127,127,39,13,27.05.2024,08.00,01.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+128,128,10,54,15.01.2024,08.00,22.01.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+129,129,20,8,18.05.2024,08.00,19.05.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+130,130,6,35,20.05.2025,08.00,27.05.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+131,131,8,16,08.11.2024,08.00,09.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+132,132,20,31,04.12.2024,08.00,09.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+133,133,16,12,14.03.2024,08.00,19.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+134,134,32,38,23.07.2024,08.00,26.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+135,135,15,4,04.07.2024,08.00,07.07.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Krankenhausverlegung
+136,136,21,7,08.09.2024,08.00,13.09.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+137,137,42,24,06.03.2025,08.00,07.03.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+138,138,18,52,10.04.2025,08.00,14.04.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+139,139,38,27,09.08.2024,08.00,18.08.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+140,140,9,45,30.04.2025,08.00,05.05.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Krankenhausverlegung
+141,141,25,38,12.03.2024,08.00,14.03.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+142,142,11,2,14.06.2025,08.00,22.06.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+143,143,14,49,23.02.2025,08.00,01.03.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+144,144,40,46,29.07.2024,08.00,07.08.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+145,145,27,33,12.07.2024,08.00,18.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Krankenhausverlegung
+146,146,13,50,02.11.2024,08.00,09.11.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+147,147,7,51,10.04.2025,08.00,18.04.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+148,148,26,33,18.05.2024,08.00,26.05.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+149,149,16,50,21.02.2024,08.00,23.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+150,150,39,12,01.09.2024,08.00,10.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Krankenhausverlegung
+151,151,36,25,29.03.2024,08.00,06.04.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+152,152,18,39,09.02.2024,08.00,18.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+153,153,7,31,08.05.2025,08.00,17.05.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+154,154,42,30,29.03.2024,08.00,31.03.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+155,155,25,30,27.01.2024,08.00,02.02.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+156,156,5,32,25.02.2025,08.00,02.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+157,157,9,12,19.03.2025,08.00,23.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+158,158,27,49,16.07.2024,08.00,19.07.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+159,159,35,44,08.08.2024,08.00,15.08.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+160,160,41,51,31.01.2025,08.00,05.02.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+161,161,14,34,12.08.2024,08.00,14.08.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+162,162,17,34,22.04.2024,08.00,29.04.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+163,163,3,10,29.04.2024,08.00,03.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+164,164,8,35,13.05.2024,08.00,22.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+165,165,14,34,01.01.2025,08.00,06.01.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+166,166,28,33,31.01.2025,08.00,01.02.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+167,167,39,21,02.03.2025,08.00,09.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+168,168,41,10,26.10.2024,08.00,31.10.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+169,169,3,19,22.09.2024,08.00,28.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+170,170,41,35,30.06.2025,08.00,06.07.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Krankenhausverlegung
+171,171,34,34,02.04.2024,08.00,08.04.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+172,172,9,8,01.03.2024,08.00,04.03.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+173,173,30,45,29.11.2024,08.00,30.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+174,174,34,44,30.03.2024,08.00,06.04.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+175,175,41,39,18.12.2024,08.00,20.12.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+176,176,32,6,18.05.2024,08.00,23.05.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+177,177,6,23,25.05.2025,08.00,03.06.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+178,178,5,39,30.11.2024,08.00,06.12.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+179,179,15,15,22.12.2024,08.00,30.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+180,180,19,2,14.09.2024,08.00,20.09.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Krankenhausverlegung
+181,181,10,31,29.01.2024,08.00,05.02.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+182,182,2,14,11.07.2024,08.00,13.07.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+183,183,17,14,01.08.2024,08.00,08.08.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+184,184,29,31,10.01.2024,08.00,17.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+185,185,3,50,18.09.2024,08.00,25.09.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+186,186,37,28,09.08.2024,08.00,11.08.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+187,187,26,17,22.04.2024,08.00,01.05.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+188,188,35,7,07.12.2024,08.00,16.12.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+189,189,38,4,29.05.2024,08.00,04.06.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+190,190,22,18,20.03.2025,08.00,26.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+191,191,33,45,18.09.2024,08.00,24.09.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+192,192,1,23,15.01.2025,08.00,18.01.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+193,193,13,50,05.01.2025,08.00,06.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+194,194,6,26,30.08.2024,08.00,05.09.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+195,195,14,50,17.04.2024,08.00,23.04.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+196,196,43,5,05.08.2024,08.00,07.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+197,197,10,55,15.04.2025,08.00,16.04.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+198,198,41,21,26.01.2024,08.00,02.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+199,199,33,23,26.06.2025,08.00,30.06.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+200,200,18,3,06.03.2025,08.00,12.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+201,201,21,6,02.02.2025,08.00,05.02.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+202,202,32,29,22.05.2024,08.00,26.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+203,203,22,45,24.04.2025,08.00,28.04.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+204,204,2,54,18.01.2024,08.00,19.01.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+205,205,30,24,23.03.2025,08.00,29.03.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Krankenhausverlegung
+206,206,35,20,30.10.2024,08.00,01.11.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+207,207,17,10,04.03.2025,08.00,11.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+208,208,12,24,24.05.2024,08.00,30.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+209,209,21,42,12.02.2024,08.00,15.02.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+210,210,35,12,12.10.2024,08.00,17.10.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+211,211,19,23,15.09.2024,08.00,24.09.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+212,212,36,27,08.06.2025,08.00,13.06.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+213,213,31,31,01.08.2024,08.00,03.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+214,214,14,23,03.03.2025,08.00,07.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+215,215,11,20,01.01.2025,08.00,08.01.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+216,216,34,17,04.02.2024,08.00,11.02.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+217,217,31,17,01.11.2024,08.00,06.11.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+218,218,16,13,06.02.2024,08.00,14.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+219,219,45,15,20.02.2024,08.00,29.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+220,220,37,4,16.03.2025,08.00,21.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+221,221,7,41,19.06.2025,08.00,22.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+222,222,41,17,17.06.2025,08.00,25.06.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+223,223,6,27,11.05.2025,08.00,20.05.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+224,224,38,22,21.12.2024,08.00,28.12.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+225,225,7,36,19.01.2025,08.00,21.01.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+226,226,15,40,26.04.2025,08.00,04.05.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+227,227,3,14,28.04.2025,08.00,03.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+228,228,39,24,03.03.2025,08.00,06.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+229,229,40,38,12.03.2025,08.00,21.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+230,230,9,10,08.11.2024,08.00,17.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+231,231,25,52,18.10.2024,08.00,22.10.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+232,232,22,8,18.01.2025,08.00,25.01.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+233,233,37,18,20.03.2024,08.00,27.03.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+234,234,21,36,10.03.2024,08.00,19.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+235,235,32,37,21.07.2024,08.00,22.07.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+236,236,7,21,23.02.2024,08.00,28.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+237,237,2,3,20.06.2025,08.00,28.06.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+238,238,19,51,17.06.2025,08.00,21.06.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+239,239,26,21,10.05.2025,08.00,13.05.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+240,240,38,17,02.09.2024,08.00,06.09.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+241,241,8,18,14.09.2024,08.00,21.09.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+242,242,3,42,09.02.2024,08.00,12.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+243,243,5,6,06.07.2024,08.00,12.07.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+244,244,43,52,05.07.2024,08.00,10.07.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+245,245,44,25,01.10.2024,08.00,10.10.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+246,246,27,19,24.02.2024,08.00,04.03.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+247,247,1,40,22.04.2024,08.00,24.04.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+248,248,12,39,03.11.2024,08.00,11.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+249,249,9,40,20.05.2025,08.00,29.05.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+250,250,26,36,21.02.2024,08.00,25.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+251,251,25,6,25.04.2025,08.00,04.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+252,252,44,30,02.02.2024,08.00,07.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+253,253,45,31,05.09.2024,08.00,07.09.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+254,254,21,28,31.07.2024,08.00,03.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+255,255,36,40,09.03.2024,08.00,16.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+256,256,16,54,27.05.2025,08.00,30.05.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+257,257,24,27,18.07.2024,08.00,26.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+258,258,28,26,17.11.2024,08.00,19.11.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+259,259,22,47,22.08.2024,08.00,23.08.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+260,260,42,4,31.03.2025,08.00,02.04.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Krankenhausverlegung
+261,261,43,17,31.03.2024,08.00,08.04.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+262,262,19,9,21.06.2024,08.00,24.06.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+263,263,32,27,29.03.2024,08.00,04.04.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+264,264,30,45,22.11.2024,08.00,26.11.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+265,265,41,14,03.01.2025,08.00,08.01.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+266,266,40,42,29.09.2024,08.00,02.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Krankenhausverlegung
+267,267,30,1,11.05.2024,08.00,16.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+268,268,27,28,08.08.2024,08.00,13.08.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+269,269,26,46,28.07.2024,08.00,06.08.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+270,270,2,21,17.06.2025,08.00,22.06.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+271,271,30,31,18.02.2025,08.00,20.02.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+272,272,31,11,03.03.2025,08.00,11.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+273,273,19,12,20.01.2025,08.00,27.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+274,274,29,35,06.10.2024,08.00,12.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+275,275,7,53,11.05.2024,08.00,17.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+276,276,2,33,27.03.2024,08.00,31.03.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+277,277,33,55,17.04.2025,08.00,23.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+278,278,26,35,16.01.2025,08.00,25.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+279,279,28,53,28.01.2025,08.00,06.02.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+280,280,5,49,18.11.2024,08.00,23.11.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+281,281,19,33,28.08.2024,08.00,01.09.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+282,282,3,38,29.04.2025,08.00,30.04.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+283,283,41,23,29.03.2024,08.00,04.04.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+284,284,32,36,19.11.2024,08.00,26.11.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+285,285,10,19,16.02.2025,08.00,22.02.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+286,286,15,34,13.02.2025,08.00,15.02.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+287,287,24,16,21.04.2024,08.00,22.04.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+288,288,15,54,20.02.2025,08.00,28.02.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+289,289,40,8,08.01.2024,08.00,14.01.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+290,290,11,28,21.09.2024,08.00,25.09.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Krankenhausverlegung
+291,291,44,15,14.01.2024,08.00,20.01.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+292,292,17,14,29.04.2025,08.00,30.04.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+293,293,1,31,09.09.2024,08.00,12.09.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+294,294,27,6,20.11.2024,08.00,25.11.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+295,295,2,49,27.04.2024,08.00,06.05.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+296,296,44,11,16.01.2025,08.00,19.01.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+297,297,35,40,20.05.2025,08.00,28.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+298,298,31,40,21.06.2024,08.00,27.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+299,299,5,15,17.09.2024,08.00,18.09.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+300,300,24,37,03.05.2024,08.00,10.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Krankenhausverlegung
+301,301,39,16,12.12.2024,08.00,17.12.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+302,302,14,10,20.07.2024,08.00,29.07.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+303,303,26,10,23.02.2025,08.00,27.02.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+304,304,33,31,09.10.2024,08.00,15.10.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+305,305,13,29,16.01.2024,08.00,25.01.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+306,306,38,15,01.05.2024,08.00,10.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+307,307,40,49,07.10.2024,08.00,15.10.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+308,308,6,52,12.12.2024,08.00,20.12.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+309,309,13,30,07.03.2024,08.00,11.03.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+310,310,14,6,27.04.2025,08.00,06.05.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+311,311,4,27,29.01.2024,08.00,03.02.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+312,312,5,15,24.01.2025,08.00,26.01.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+313,313,3,17,30.03.2024,08.00,02.04.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+314,314,4,13,03.05.2024,08.00,08.05.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+315,315,35,10,06.09.2024,08.00,09.09.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+316,316,28,43,23.05.2025,08.00,30.05.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+317,317,22,53,25.04.2024,08.00,04.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+318,318,45,19,17.02.2024,08.00,24.02.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+319,319,24,3,19.09.2024,08.00,26.09.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+320,320,39,25,21.04.2024,08.00,26.04.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+321,321,44,25,28.10.2024,08.00,31.10.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+322,322,25,13,23.08.2024,08.00,24.08.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+323,323,25,9,10.07.2024,08.00,16.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+324,324,25,26,06.03.2025,08.00,12.03.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+325,325,38,1,12.02.2025,08.00,19.02.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Krankenhausverlegung
+326,326,40,26,03.06.2024,08.00,06.06.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+327,327,18,54,26.08.2024,08.00,29.08.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+328,328,26,30,13.08.2024,08.00,17.08.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+329,329,37,42,22.06.2024,08.00,01.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+330,330,15,46,27.11.2024,08.00,28.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+331,331,8,30,17.01.2024,08.00,20.01.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+332,332,33,54,15.07.2024,08.00,17.07.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+333,333,12,5,26.03.2025,08.00,27.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+334,334,5,11,09.05.2025,08.00,10.05.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+335,335,10,15,11.03.2025,08.00,16.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+336,336,32,53,28.05.2025,08.00,31.05.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+337,337,31,48,19.03.2024,08.00,24.03.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+338,338,29,2,30.04.2024,08.00,06.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+339,339,2,39,08.02.2024,08.00,16.02.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+340,340,10,6,06.05.2025,08.00,09.05.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Krankenhausverlegung
+341,341,25,50,23.09.2024,08.00,26.09.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+342,342,11,11,28.03.2025,08.00,04.04.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+343,343,13,17,29.12.2024,08.00,03.01.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+344,344,34,9,27.04.2025,08.00,30.04.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+345,345,40,43,26.03.2024,08.00,27.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+346,346,43,2,16.01.2024,08.00,19.01.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+347,347,11,19,27.05.2024,08.00,01.06.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+348,348,5,23,29.01.2024,08.00,06.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+349,349,11,2,16.02.2025,08.00,22.02.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+350,350,10,16,16.02.2025,08.00,19.02.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+351,351,16,10,04.04.2024,08.00,13.04.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+352,352,32,21,31.03.2025,08.00,03.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+353,353,16,7,15.05.2025,08.00,16.05.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+354,354,43,47,07.07.2024,08.00,16.07.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+355,355,2,27,30.03.2025,08.00,04.04.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+356,356,10,35,27.03.2025,08.00,05.04.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+357,357,26,47,01.01.2024,08.00,02.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+358,358,5,51,04.09.2024,08.00,07.09.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+359,359,25,21,11.05.2025,08.00,13.05.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+360,360,26,43,10.12.2024,08.00,19.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+361,361,22,37,25.11.2024,08.00,28.11.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+362,362,23,28,15.12.2024,08.00,23.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+363,363,4,52,11.02.2024,08.00,14.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+364,364,32,5,17.10.2024,08.00,23.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+365,365,26,37,07.08.2024,08.00,15.08.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+366,366,3,33,18.07.2024,08.00,25.07.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+367,367,32,26,19.07.2024,08.00,20.07.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+368,368,32,43,25.02.2025,08.00,28.02.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+369,369,13,24,05.02.2025,08.00,07.02.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+370,370,18,50,16.12.2024,08.00,23.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+371,371,11,48,21.03.2024,08.00,26.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+372,372,21,47,07.10.2024,08.00,09.10.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+373,373,21,48,28.02.2025,08.00,04.03.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+374,374,38,42,22.02.2025,08.00,03.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+375,375,8,43,30.01.2024,08.00,01.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+376,376,18,17,10.03.2025,08.00,14.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+377,377,33,33,13.11.2024,08.00,14.11.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+378,378,3,25,07.09.2024,08.00,13.09.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+379,379,16,13,28.11.2024,08.00,05.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+380,380,22,32,19.03.2025,08.00,27.03.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Krankenhausverlegung
+381,381,35,4,07.03.2025,08.00,08.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+382,382,13,12,07.10.2024,08.00,09.10.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+383,383,6,28,10.05.2024,08.00,14.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+384,384,12,8,17.03.2024,08.00,21.03.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+385,385,11,50,03.03.2025,08.00,09.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Krankenhausverlegung
+386,386,25,46,30.12.2024,08.00,07.01.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+387,387,31,2,16.02.2024,08.00,22.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+388,388,43,7,11.06.2024,08.00,20.06.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+389,389,33,10,09.08.2024,08.00,17.08.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+390,390,35,24,12.11.2024,08.00,18.11.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+391,391,14,4,30.06.2025,08.00,09.07.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+392,392,22,40,14.09.2024,08.00,16.09.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+393,393,33,5,28.06.2025,08.00,04.07.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+394,394,16,33,04.01.2024,08.00,05.01.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+395,395,43,10,27.04.2025,08.00,06.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+396,396,14,46,23.10.2024,08.00,28.10.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+397,397,15,33,09.02.2024,08.00,10.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+398,398,26,2,19.04.2025,08.00,25.04.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+399,399,7,50,17.02.2024,08.00,24.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+400,400,5,38,03.01.2025,08.00,06.01.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Krankenhausverlegung
+401,401,32,9,28.06.2025,08.00,02.07.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+402,402,32,9,03.02.2024,08.00,06.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+403,403,40,44,15.04.2024,08.00,18.04.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+404,404,12,53,03.04.2025,08.00,06.04.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+405,405,7,23,08.02.2025,08.00,09.02.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+406,406,4,51,16.01.2025,08.00,23.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+407,407,34,49,28.04.2025,08.00,05.05.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+408,408,10,15,16.02.2025,08.00,24.02.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+409,409,5,44,01.01.2025,08.00,04.01.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+410,410,23,30,14.05.2025,08.00,18.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Krankenhausverlegung
+411,411,20,41,01.02.2025,08.00,04.02.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+412,412,1,33,13.03.2025,08.00,20.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+413,413,25,19,20.01.2025,08.00,24.01.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+414,414,41,7,05.02.2024,08.00,13.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+415,415,31,53,14.06.2024,08.00,23.06.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+416,416,44,15,05.12.2024,08.00,14.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+417,417,19,52,27.09.2024,08.00,01.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+418,418,37,14,15.03.2025,08.00,20.03.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+419,419,16,38,09.02.2024,08.00,16.02.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+420,420,41,34,22.06.2024,08.00,27.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Krankenhausverlegung
+421,421,39,24,19.06.2025,08.00,25.06.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+422,422,26,53,26.03.2024,08.00,27.03.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+423,423,4,18,21.06.2025,08.00,29.06.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+424,424,40,2,18.02.2024,08.00,27.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+425,425,5,25,09.10.2024,08.00,10.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+426,426,42,9,07.04.2024,08.00,12.04.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+427,427,41,12,05.03.2025,08.00,14.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+428,428,11,7,06.10.2024,08.00,12.10.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+429,429,42,1,03.06.2024,08.00,06.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+430,430,36,33,09.04.2024,08.00,18.04.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Krankenhausverlegung
+431,431,41,32,04.01.2024,08.00,13.01.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+432,432,20,9,04.09.2024,08.00,13.09.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+433,433,2,6,22.05.2024,08.00,23.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+434,434,44,3,20.11.2024,08.00,22.11.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+435,435,15,53,29.03.2025,08.00,30.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+436,436,42,14,15.09.2024,08.00,24.09.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+437,437,17,7,22.03.2025,08.00,24.03.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+438,438,44,13,15.03.2025,08.00,18.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+439,439,40,7,03.03.2024,08.00,06.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+440,440,40,5,13.03.2024,08.00,15.03.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+441,441,38,20,27.06.2025,08.00,29.06.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+442,442,6,32,08.04.2025,08.00,10.04.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+443,443,7,23,01.05.2024,08.00,07.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+444,444,40,23,23.08.2024,08.00,29.08.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+445,445,41,27,22.10.2024,08.00,31.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+446,446,17,53,07.02.2025,08.00,16.02.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+447,447,1,26,26.01.2025,08.00,30.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+448,448,39,34,04.05.2024,08.00,07.05.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+449,449,9,21,05.03.2025,08.00,12.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+450,450,33,53,15.05.2024,08.00,16.05.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+451,451,20,43,23.08.2024,08.00,27.08.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+452,452,45,40,18.10.2024,08.00,21.10.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+453,453,42,38,27.11.2024,08.00,05.12.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+454,454,22,3,17.06.2025,08.00,24.06.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+455,455,34,35,07.04.2024,08.00,11.04.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+456,456,21,30,16.06.2024,08.00,24.06.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+457,457,16,42,27.09.2024,08.00,28.09.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+458,458,25,51,24.11.2024,08.00,25.11.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+459,459,45,43,11.01.2025,08.00,18.01.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+460,460,2,39,21.10.2024,08.00,23.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Krankenhausverlegung
+461,461,26,20,31.10.2024,08.00,05.11.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+462,462,18,6,02.01.2025,08.00,05.01.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+463,463,27,35,15.12.2024,08.00,18.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+464,464,19,27,14.05.2025,08.00,18.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+465,465,24,40,26.01.2024,08.00,04.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+466,466,38,30,16.05.2024,08.00,25.05.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+467,467,38,13,18.09.2024,08.00,21.09.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+468,468,25,53,02.03.2025,08.00,06.03.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+469,469,42,2,06.01.2024,08.00,09.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+470,470,39,25,17.02.2024,08.00,18.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+471,471,4,46,22.06.2025,08.00,26.06.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+472,472,20,47,22.05.2024,08.00,30.05.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+473,473,32,46,29.03.2024,08.00,04.04.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+474,474,25,10,13.05.2025,08.00,22.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+475,475,6,8,30.08.2024,08.00,31.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+476,476,18,46,07.05.2025,08.00,15.05.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+477,477,28,51,13.08.2024,08.00,17.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+478,478,16,17,09.01.2024,08.00,16.01.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+479,479,9,45,27.09.2024,08.00,01.10.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+480,480,12,38,25.04.2025,08.00,29.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+481,481,29,45,01.11.2024,08.00,04.11.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+482,482,4,25,09.02.2024,08.00,16.02.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+483,483,41,10,13.12.2024,08.00,19.12.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+484,484,3,36,04.08.2024,08.00,13.08.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+485,485,27,49,03.07.2024,08.00,04.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+486,486,32,27,13.04.2025,08.00,14.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+487,487,4,5,29.02.2024,08.00,09.03.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+488,488,30,16,18.05.2024,08.00,27.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+489,489,10,7,27.06.2025,08.00,05.07.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+490,490,16,27,22.02.2024,08.00,27.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+491,491,14,7,13.11.2024,08.00,21.11.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+492,492,38,26,26.05.2024,08.00,03.06.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+493,493,44,33,08.05.2024,08.00,17.05.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+494,494,19,20,16.06.2024,08.00,25.06.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+495,495,8,48,12.03.2025,08.00,17.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+496,496,16,16,19.08.2024,08.00,23.08.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+497,497,39,12,21.04.2024,08.00,22.04.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+498,498,10,7,06.12.2024,08.00,12.12.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+499,499,43,15,12.06.2025,08.00,15.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+500,500,7,38,09.05.2024,08.00,18.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Krankenhausverlegung
+501,501,27,2,01.03.2024,08.00,04.03.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+502,502,34,18,24.02.2025,08.00,28.02.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+503,503,6,31,19.08.2024,08.00,23.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+504,504,25,1,23.02.2025,08.00,04.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+505,505,18,40,25.03.2025,08.00,27.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+506,506,32,24,31.01.2025,08.00,04.02.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+507,507,3,30,29.09.2024,08.00,06.10.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+508,508,6,27,12.10.2024,08.00,20.10.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+509,509,33,45,05.01.2024,08.00,11.01.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+510,510,31,16,15.06.2025,08.00,20.06.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+511,511,18,30,23.04.2024,08.00,30.04.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+512,512,2,22,16.02.2024,08.00,21.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+513,513,10,28,12.02.2024,08.00,19.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+514,514,9,4,19.03.2025,08.00,26.03.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+515,515,18,51,23.09.2024,08.00,26.09.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+516,516,41,25,17.06.2024,08.00,18.06.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+517,517,37,29,22.04.2024,08.00,27.04.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+518,518,17,36,12.06.2025,08.00,17.06.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+519,519,39,34,06.03.2024,08.00,10.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+520,520,42,28,20.03.2024,08.00,26.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+521,521,1,51,30.04.2025,08.00,06.05.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+522,522,17,38,26.06.2024,08.00,30.06.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+523,523,42,52,08.06.2025,08.00,15.06.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+524,524,33,32,10.05.2024,08.00,11.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+525,525,28,50,15.06.2024,08.00,22.06.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+526,526,39,37,26.07.2024,08.00,29.07.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+527,527,39,44,24.01.2024,08.00,26.01.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+528,528,11,43,26.04.2025,08.00,29.04.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+529,529,13,18,10.09.2024,08.00,12.09.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+530,530,11,28,12.02.2024,08.00,14.02.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Krankenhausverlegung
+531,531,3,50,28.11.2024,08.00,07.12.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+532,532,1,38,05.10.2024,08.00,07.10.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+533,533,24,49,17.04.2024,08.00,22.04.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+534,534,22,53,04.07.2024,08.00,07.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+535,535,43,22,27.06.2025,08.00,01.07.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Krankenhausverlegung
+536,536,36,46,01.03.2024,08.00,03.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+537,537,12,51,30.09.2024,08.00,05.10.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+538,538,27,3,29.12.2024,08.00,01.01.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Krankenhausverlegung
+539,539,22,14,14.05.2025,08.00,16.05.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+540,540,6,41,18.01.2024,08.00,20.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+541,541,33,2,01.03.2025,08.00,09.03.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+542,542,22,29,06.07.2024,08.00,09.07.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+543,543,11,5,24.11.2024,08.00,25.11.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+544,544,33,17,24.05.2025,08.00,31.05.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+545,545,24,41,13.03.2025,08.00,22.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+546,546,36,22,08.01.2024,08.00,09.01.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+547,547,10,15,21.04.2024,08.00,26.04.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+548,548,10,21,26.03.2024,08.00,29.03.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+549,549,23,4,07.06.2025,08.00,08.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+550,550,14,46,01.04.2025,08.00,07.04.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+551,551,45,3,01.05.2024,08.00,06.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+552,552,15,42,12.01.2025,08.00,13.01.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+553,553,31,28,18.11.2024,08.00,22.11.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+554,554,24,21,11.03.2025,08.00,14.03.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+555,555,32,41,21.01.2025,08.00,25.01.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Krankenhausverlegung
+556,556,2,22,11.02.2024,08.00,15.02.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+557,557,6,55,19.05.2025,08.00,25.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+558,558,9,22,15.04.2025,08.00,19.04.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+559,559,21,7,16.12.2024,08.00,18.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+560,560,45,1,01.01.2024,08.00,10.01.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+561,561,6,5,02.05.2024,08.00,05.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+562,562,11,31,24.01.2025,08.00,02.02.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+563,563,34,27,08.05.2024,08.00,09.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+564,564,27,11,05.04.2024,08.00,13.04.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+565,565,11,21,09.02.2025,08.00,12.02.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+566,566,13,33,18.10.2024,08.00,26.10.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+567,567,25,45,11.03.2024,08.00,12.03.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+568,568,5,28,17.03.2025,08.00,24.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+569,569,40,22,12.03.2024,08.00,20.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+570,570,14,18,20.04.2024,08.00,22.04.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Krankenhausverlegung
+571,571,33,55,27.05.2024,08.00,28.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+572,572,30,17,24.04.2024,08.00,29.04.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+573,573,24,22,20.07.2024,08.00,22.07.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+574,574,29,48,07.03.2024,08.00,15.03.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+575,575,4,55,24.04.2025,08.00,02.05.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+576,576,44,21,25.03.2025,08.00,29.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+577,577,19,45,22.03.2025,08.00,27.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+578,578,30,46,23.06.2025,08.00,24.06.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+579,579,33,37,24.10.2024,08.00,25.10.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+580,580,35,36,15.11.2024,08.00,20.11.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+581,581,37,28,08.02.2024,08.00,15.02.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+582,582,21,47,02.06.2024,08.00,07.06.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+583,583,43,16,23.10.2024,08.00,29.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+584,584,43,45,25.11.2024,08.00,04.12.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+585,585,3,32,17.08.2024,08.00,25.08.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+586,586,45,26,23.12.2024,08.00,01.01.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+587,587,15,46,30.03.2025,08.00,08.04.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+588,588,33,13,06.05.2025,08.00,13.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+589,589,1,17,03.11.2024,08.00,07.11.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+590,590,14,28,04.04.2025,08.00,11.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+591,591,45,41,10.05.2024,08.00,12.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+592,592,8,48,19.06.2024,08.00,24.06.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+593,593,6,34,06.10.2024,08.00,14.10.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+594,594,28,31,01.03.2024,08.00,03.03.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+595,595,38,7,03.03.2025,08.00,08.03.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+596,596,14,10,14.03.2024,08.00,23.03.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+597,597,45,28,15.07.2024,08.00,19.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+598,598,31,15,11.03.2025,08.00,18.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+599,599,25,9,29.01.2024,08.00,04.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+600,600,5,6,31.08.2024,08.00,08.09.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+601,601,34,55,07.04.2025,08.00,16.04.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+602,602,3,22,02.11.2024,08.00,06.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+603,603,30,33,21.03.2024,08.00,22.03.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+604,604,34,47,15.06.2025,08.00,22.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+605,605,34,43,17.06.2024,08.00,24.06.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+606,606,40,48,08.01.2024,08.00,16.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+607,607,27,17,26.03.2024,08.00,01.04.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+608,608,2,48,29.06.2024,08.00,02.07.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+609,609,16,24,31.03.2025,08.00,06.04.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+610,610,24,50,26.01.2025,08.00,28.01.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+611,611,24,23,11.02.2024,08.00,16.02.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+612,612,30,33,21.05.2025,08.00,26.05.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+613,613,39,33,10.12.2024,08.00,17.12.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+614,614,27,32,24.10.2024,08.00,25.10.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+615,615,6,2,11.07.2024,08.00,14.07.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+616,616,24,1,22.07.2024,08.00,26.07.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+617,617,40,28,12.03.2025,08.00,13.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+618,618,22,54,18.02.2025,08.00,21.02.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+619,619,20,51,25.07.2024,08.00,03.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+620,620,30,49,25.01.2024,08.00,27.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+621,621,44,8,31.10.2024,08.00,02.11.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+622,622,37,25,12.03.2025,08.00,14.03.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+623,623,45,8,03.10.2024,08.00,05.10.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+624,624,22,44,03.09.2024,08.00,04.09.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+625,625,44,21,18.03.2025,08.00,27.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+626,626,2,4,12.06.2025,08.00,19.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+627,627,24,23,03.02.2024,08.00,07.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+628,628,11,16,22.05.2025,08.00,24.05.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+629,629,41,25,23.01.2024,08.00,26.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+630,630,12,28,12.01.2025,08.00,21.01.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+631,631,20,4,26.04.2024,08.00,04.05.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+632,632,25,24,27.06.2025,08.00,02.07.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+633,633,14,45,01.02.2025,08.00,07.02.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+634,634,23,18,23.04.2024,08.00,02.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+635,635,43,42,25.03.2025,08.00,29.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Krankenhausverlegung
+636,636,17,30,22.06.2024,08.00,25.06.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+637,637,42,40,15.08.2024,08.00,19.08.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+638,638,32,53,04.02.2024,08.00,06.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+639,639,3,16,17.03.2024,08.00,21.03.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+640,640,1,21,20.04.2024,08.00,25.04.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+641,641,14,23,01.06.2024,08.00,07.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+642,642,23,9,02.10.2024,08.00,03.10.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+643,643,45,25,29.06.2024,08.00,04.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+644,644,6,7,09.03.2024,08.00,18.03.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+645,645,28,12,07.03.2025,08.00,09.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+646,646,31,15,15.03.2025,08.00,16.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+647,647,21,44,21.06.2025,08.00,22.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+648,648,5,2,30.12.2024,08.00,01.01.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+649,649,40,43,23.11.2024,08.00,29.11.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+650,650,43,32,22.07.2024,08.00,24.07.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+651,651,25,47,12.05.2024,08.00,15.05.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+652,652,11,30,28.07.2024,08.00,01.08.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+653,653,28,43,03.05.2025,08.00,06.05.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+654,654,24,42,05.02.2024,08.00,08.02.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+655,655,18,28,08.11.2024,08.00,16.11.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+656,656,11,2,01.01.2024,08.00,07.01.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+657,657,44,2,21.03.2024,08.00,29.03.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+658,658,20,4,24.09.2024,08.00,02.10.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+659,659,25,53,11.03.2024,08.00,15.03.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+660,660,27,54,08.02.2025,08.00,17.02.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Krankenhausverlegung
+661,661,31,1,05.02.2025,08.00,06.02.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+662,662,16,39,27.02.2024,08.00,29.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+663,663,22,30,31.12.2024,08.00,07.01.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+664,664,5,32,30.11.2024,08.00,05.12.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+665,665,22,38,11.12.2024,08.00,19.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Krankenhausverlegung
+666,666,9,6,05.12.2024,08.00,14.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+667,667,23,42,20.05.2025,08.00,23.05.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+668,668,20,44,18.05.2025,08.00,25.05.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+669,669,17,43,17.03.2024,08.00,22.03.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+670,670,2,18,10.02.2025,08.00,13.02.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Krankenhausverlegung
+671,671,33,12,08.10.2024,08.00,14.10.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+672,672,38,28,20.05.2024,08.00,23.05.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+673,673,37,54,16.09.2024,08.00,25.09.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+674,674,15,48,23.04.2025,08.00,26.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+675,675,24,24,04.08.2024,08.00,05.08.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+676,676,6,30,14.03.2024,08.00,20.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+677,677,11,39,30.03.2024,08.00,06.04.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+678,678,15,29,20.01.2024,08.00,23.01.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+679,679,10,3,15.07.2024,08.00,18.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+680,680,22,33,17.01.2024,08.00,23.01.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+681,681,40,39,13.01.2025,08.00,18.01.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+682,682,37,11,11.03.2024,08.00,13.03.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+683,683,12,28,21.01.2025,08.00,22.01.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+684,684,26,45,06.04.2025,08.00,09.04.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+685,685,20,9,04.01.2025,08.00,09.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+686,686,39,34,29.05.2024,08.00,30.05.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+687,687,42,36,27.08.2024,08.00,05.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+688,688,16,22,29.08.2024,08.00,02.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+689,689,17,28,16.02.2024,08.00,25.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+690,690,29,33,31.05.2024,08.00,06.06.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+691,691,30,49,25.11.2024,08.00,03.12.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+692,692,22,33,10.12.2024,08.00,13.12.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+693,693,40,29,13.04.2025,08.00,20.04.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+694,694,8,6,19.01.2025,08.00,20.01.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+695,695,8,34,24.10.2024,08.00,01.11.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+696,696,33,31,16.08.2024,08.00,23.08.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+697,697,17,26,31.01.2024,08.00,03.02.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+698,698,5,46,08.03.2025,08.00,10.03.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+699,699,37,23,26.03.2024,08.00,30.03.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+700,700,30,54,13.02.2024,08.00,21.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+701,701,18,22,13.08.2024,08.00,17.08.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+702,702,5,22,28.06.2025,08.00,02.07.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+703,703,4,6,11.11.2024,08.00,15.11.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+704,704,34,8,07.10.2024,08.00,16.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+705,705,9,19,28.02.2024,08.00,03.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+706,706,11,6,19.12.2024,08.00,21.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+707,707,26,18,10.02.2024,08.00,18.02.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+708,708,27,42,25.03.2025,08.00,03.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+709,709,23,34,13.08.2024,08.00,18.08.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+710,710,45,12,06.04.2025,08.00,08.04.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+711,711,13,41,06.06.2025,08.00,15.06.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+712,712,42,43,15.06.2024,08.00,18.06.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+713,713,4,48,23.02.2025,08.00,25.02.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+714,714,22,35,08.12.2024,08.00,13.12.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+715,715,17,5,04.04.2025,08.00,10.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+716,716,14,14,13.12.2024,08.00,22.12.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+717,717,5,41,13.08.2024,08.00,18.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+718,718,39,7,06.12.2024,08.00,15.12.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+719,719,34,11,29.08.2024,08.00,01.09.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+720,720,22,39,27.06.2024,08.00,29.06.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+721,721,9,16,19.01.2025,08.00,23.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+722,722,33,27,18.05.2024,08.00,26.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+723,723,6,20,20.04.2024,08.00,21.04.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+724,724,20,31,03.09.2024,08.00,10.09.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+725,725,21,51,07.05.2024,08.00,14.05.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+726,726,8,6,05.01.2024,08.00,09.01.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+727,727,45,4,05.04.2024,08.00,08.04.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+728,728,32,23,07.07.2024,08.00,13.07.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+729,729,36,45,10.02.2024,08.00,16.02.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+730,730,15,18,23.06.2024,08.00,24.06.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+731,731,25,49,15.08.2024,08.00,19.08.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+732,732,23,34,08.05.2025,08.00,11.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+733,733,3,14,26.05.2024,08.00,04.06.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+734,734,29,38,16.03.2025,08.00,19.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+735,735,32,26,04.07.2024,08.00,09.07.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+736,736,34,2,08.08.2024,08.00,14.08.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+737,737,20,23,08.07.2024,08.00,09.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+738,738,43,14,06.03.2024,08.00,07.03.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+739,739,27,13,19.03.2024,08.00,25.03.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+740,740,29,51,27.01.2024,08.00,01.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+741,741,9,40,22.08.2024,08.00,28.08.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+742,742,11,55,12.04.2024,08.00,20.04.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+743,743,1,53,29.01.2025,08.00,07.02.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+744,744,8,15,11.02.2025,08.00,14.02.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+745,745,36,50,09.06.2024,08.00,11.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+746,746,6,33,10.02.2025,08.00,18.02.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+747,747,12,37,09.04.2025,08.00,16.04.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+748,748,30,55,26.04.2024,08.00,28.04.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+749,749,19,22,01.03.2024,08.00,04.03.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+750,750,43,29,16.01.2025,08.00,22.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+751,751,43,44,19.10.2024,08.00,24.10.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+752,752,34,26,28.04.2024,08.00,29.04.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+753,753,27,26,21.12.2024,08.00,28.12.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+754,754,25,52,28.01.2024,08.00,31.01.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+755,755,26,26,08.04.2025,08.00,15.04.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+756,756,35,34,27.10.2024,08.00,02.11.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+757,757,39,30,22.04.2025,08.00,01.05.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+758,758,12,48,02.04.2025,08.00,10.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+759,759,9,34,30.03.2024,08.00,04.04.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+760,760,15,51,29.11.2024,08.00,01.12.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+761,761,19,38,07.08.2024,08.00,16.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+762,762,26,54,22.05.2024,08.00,25.05.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+763,763,7,20,09.11.2024,08.00,12.11.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+764,764,17,11,07.11.2024,08.00,12.11.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+765,765,40,37,06.05.2024,08.00,09.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Krankenhausverlegung
+766,766,39,46,22.04.2024,08.00,23.04.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+767,767,19,3,11.08.2024,08.00,13.08.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+768,768,6,33,26.04.2025,08.00,03.05.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+769,769,40,22,03.06.2025,08.00,11.06.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+770,770,11,45,02.05.2024,08.00,05.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Krankenhausverlegung
+771,771,8,12,22.01.2024,08.00,29.01.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+772,772,45,9,05.02.2025,08.00,13.02.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+773,773,30,13,20.08.2024,08.00,23.08.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+774,774,17,21,04.03.2024,08.00,11.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+775,775,25,14,11.09.2024,08.00,13.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Krankenhausverlegung
+776,776,20,7,18.02.2024,08.00,22.02.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+777,777,11,39,22.02.2025,08.00,24.02.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+778,778,34,9,01.01.2024,08.00,02.01.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+779,779,9,6,11.05.2025,08.00,14.05.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+780,780,37,55,18.09.2024,08.00,26.09.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+781,781,36,37,02.12.2024,08.00,07.12.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+782,782,1,43,10.05.2024,08.00,13.05.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+783,783,29,26,23.04.2024,08.00,26.04.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+784,784,33,43,22.06.2025,08.00,23.06.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+785,785,23,21,23.06.2025,08.00,24.06.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+786,786,42,16,07.06.2024,08.00,11.06.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+787,787,43,50,26.04.2024,08.00,04.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+788,788,22,8,04.05.2024,08.00,11.05.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+789,789,3,24,04.07.2024,08.00,08.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+790,790,33,1,19.03.2025,08.00,21.03.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+791,791,32,34,13.02.2025,08.00,22.02.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+792,792,20,24,07.05.2025,08.00,09.05.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+793,793,9,6,12.06.2025,08.00,16.06.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+794,794,16,25,08.06.2025,08.00,15.06.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+795,795,20,53,26.02.2025,08.00,27.02.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+796,796,42,2,02.02.2024,08.00,10.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+797,797,6,45,21.01.2024,08.00,29.01.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+798,798,3,13,14.03.2025,08.00,15.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+799,799,31,41,04.03.2024,08.00,11.03.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+800,800,2,33,11.01.2024,08.00,16.01.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Krankenhausverlegung
+801,801,37,9,28.04.2025,08.00,04.05.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+802,802,29,12,29.03.2025,08.00,07.04.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+803,803,38,19,12.05.2024,08.00,17.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+804,804,41,17,29.01.2024,08.00,04.02.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+805,805,27,52,19.02.2025,08.00,21.02.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Krankenhausverlegung
+806,806,8,4,08.06.2024,08.00,10.06.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+807,807,36,33,15.10.2024,08.00,20.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+808,808,31,37,07.04.2025,08.00,15.04.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+809,809,1,44,29.06.2025,08.00,08.07.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+810,810,8,19,11.06.2025,08.00,14.06.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+811,811,15,44,05.04.2025,08.00,13.04.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+812,812,41,36,02.01.2025,08.00,07.01.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+813,813,16,14,19.04.2024,08.00,23.04.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+814,814,4,23,25.03.2025,08.00,31.03.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+815,815,24,10,05.08.2024,08.00,06.08.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+816,816,45,31,25.01.2024,08.00,29.01.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Notaufnahme
+817,817,18,34,19.07.2024,08.00,20.07.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+818,818,25,47,26.09.2024,08.00,29.09.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+819,819,1,18,11.03.2024,08.00,12.03.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+820,820,31,40,12.08.2024,08.00,16.08.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Krankenhausverlegung
+821,821,45,31,15.08.2024,08.00,17.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+822,822,19,44,28.11.2024,08.00,06.12.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+823,823,24,46,04.06.2024,08.00,08.06.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+824,824,11,24,18.04.2025,08.00,24.04.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+825,825,5,4,31.05.2024,08.00,03.06.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+826,826,42,7,19.10.2024,08.00,23.10.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+827,827,7,10,02.08.2024,08.00,10.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+828,828,21,11,19.02.2024,08.00,27.02.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+829,829,17,34,05.05.2024,08.00,11.05.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+830,830,34,8,17.11.2024,08.00,18.11.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Notaufnahme
+831,831,28,43,11.01.2024,08.00,16.01.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+832,832,11,26,20.01.2024,08.00,27.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+833,833,14,12,14.05.2025,08.00,15.05.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+834,834,33,34,15.06.2024,08.00,19.06.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+835,835,13,32,20.02.2024,08.00,27.02.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+836,836,40,25,19.04.2025,08.00,26.04.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+837,837,6,12,06.05.2024,08.00,13.05.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+838,838,7,21,27.02.2024,08.00,05.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+839,839,15,55,18.03.2025,08.00,25.03.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+840,840,42,38,17.07.2024,08.00,21.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+841,841,7,28,04.02.2024,08.00,12.02.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+842,842,19,1,12.04.2025,08.00,13.04.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+843,843,34,48,04.04.2024,08.00,12.04.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+844,844,5,40,08.07.2024,08.00,11.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+845,845,10,35,08.05.2025,08.00,13.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Krankenhausverlegung
+846,846,19,13,22.02.2024,08.00,26.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+847,847,23,2,25.06.2025,08.00,28.06.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+848,848,42,43,26.04.2025,08.00,27.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+849,849,44,49,06.08.2024,08.00,13.08.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+850,850,26,6,07.02.2024,08.00,16.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+851,851,27,7,30.06.2025,08.00,07.07.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+852,852,26,13,12.03.2024,08.00,19.03.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+853,853,33,47,15.04.2025,08.00,16.04.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+854,854,7,31,04.01.2025,08.00,11.01.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+855,855,19,35,06.03.2025,08.00,10.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+856,856,5,13,20.07.2024,08.00,21.07.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+857,857,30,4,02.03.2025,08.00,06.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+858,858,45,5,25.03.2025,08.00,28.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+859,859,1,43,22.01.2024,08.00,30.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+860,860,22,10,13.06.2024,08.00,15.06.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Krankenhausverlegung
+861,861,11,41,31.10.2024,08.00,07.11.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+862,862,36,9,28.12.2024,08.00,30.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+863,863,42,7,26.03.2024,08.00,04.04.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+864,864,40,30,18.04.2025,08.00,25.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+865,865,10,3,05.12.2024,08.00,10.12.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Krankenhausverlegung
+866,866,18,16,12.01.2025,08.00,20.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+867,867,16,7,21.06.2024,08.00,29.06.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+868,868,41,22,13.07.2024,08.00,18.07.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+869,869,15,45,11.03.2024,08.00,12.03.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+870,870,17,37,19.10.2024,08.00,26.10.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Krankenhausverlegung
+871,871,15,15,27.10.2024,08.00,02.11.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+872,872,4,50,30.04.2024,08.00,03.05.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+873,873,19,31,31.10.2024,08.00,05.11.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+874,874,26,28,26.08.2024,08.00,04.09.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+875,875,39,4,17.03.2024,08.00,26.03.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Krankenhausverlegung
+876,876,29,6,09.03.2024,08.00,14.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+877,877,18,53,08.11.2024,08.00,09.11.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+878,878,30,36,24.12.2024,08.00,02.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+879,879,36,46,02.01.2025,08.00,05.01.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+880,880,26,37,26.12.2024,08.00,27.12.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+881,881,12,7,05.12.2024,08.00,07.12.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+882,882,36,21,24.04.2025,08.00,03.05.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+883,883,33,37,15.05.2024,08.00,20.05.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+884,884,32,25,21.07.2024,08.00,25.07.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+885,885,39,7,17.06.2024,08.00,19.06.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+886,886,40,8,17.01.2025,08.00,20.01.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+887,887,18,18,15.10.2024,08.00,20.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+888,888,12,1,15.04.2025,08.00,17.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+889,889,16,41,17.02.2024,08.00,25.02.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+890,890,16,11,20.02.2024,08.00,25.02.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+891,891,38,19,13.07.2024,08.00,14.07.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+892,892,23,11,23.05.2025,08.00,31.05.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+893,893,16,43,17.01.2024,08.00,25.01.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+894,894,23,30,08.02.2024,08.00,09.02.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+895,895,3,9,30.05.2024,08.00,06.06.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+896,896,19,1,14.06.2024,08.00,20.06.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+897,897,8,52,17.05.2025,08.00,22.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+898,898,42,21,15.08.2024,08.00,20.08.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+899,899,12,17,27.10.2024,08.00,31.10.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+900,900,17,37,04.04.2024,08.00,05.04.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Krankenhausverlegung
+901,901,44,44,16.05.2024,08.00,19.05.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+902,902,44,34,13.03.2024,08.00,15.03.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+903,903,13,31,02.03.2025,08.00,07.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+904,904,5,26,08.04.2025,08.00,11.04.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+905,905,10,48,12.08.2024,08.00,18.08.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Krankenhausverlegung
+906,906,41,25,09.02.2025,08.00,12.02.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+907,907,24,41,26.07.2024,08.00,29.07.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+908,908,37,12,29.01.2025,08.00,31.01.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+909,909,6,33,11.10.2024,08.00,19.10.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+910,910,24,14,22.10.2024,08.00,28.10.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+911,911,35,55,20.03.2025,08.00,23.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+912,912,14,27,06.02.2025,08.00,13.02.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+913,913,32,55,15.08.2024,08.00,24.08.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+914,914,35,48,07.06.2024,08.00,15.06.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+915,915,6,50,03.12.2024,08.00,05.12.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Krankenhausverlegung
+916,916,20,37,09.12.2024,08.00,13.12.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+917,917,4,16,02.04.2024,08.00,10.04.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+918,918,19,42,12.12.2024,08.00,14.12.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Arztüberweisung
+919,919,40,33,20.04.2025,08.00,21.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+920,920,11,38,26.06.2024,08.00,04.07.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+921,921,44,3,07.03.2024,08.00,10.03.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+922,922,1,28,31.08.2024,08.00,01.09.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+923,923,40,13,25.05.2025,08.00,29.05.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+924,924,42,50,22.05.2024,08.00,28.05.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+925,925,14,14,17.01.2025,08.00,20.01.2025,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Krankenhausverlegung
+926,926,22,14,10.01.2024,08.00,13.01.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+927,927,39,39,14.08.2024,08.00,23.08.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+928,928,14,35,05.01.2024,08.00,12.01.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+929,929,15,2,11.05.2025,08.00,17.05.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Notaufnahme
+930,930,30,29,18.05.2024,08.00,22.05.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+931,931,10,29,20.12.2024,08.00,23.12.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+932,932,11,5,24.04.2024,08.00,30.04.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+933,933,33,3,11.11.2024,08.00,13.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+934,934,28,31,12.03.2025,08.00,18.03.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+935,935,27,35,25.05.2024,08.00,03.06.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Krankenhausverlegung
+936,936,18,1,04.12.2024,08.00,13.12.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+937,937,30,12,17.02.2024,08.00,18.02.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+938,938,27,34,12.01.2025,08.00,15.01.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+939,939,1,16,03.06.2024,08.00,10.06.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+940,940,11,19,30.06.2025,08.00,08.07.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Krankenhausverlegung
+941,941,44,23,02.10.2024,08.00,10.10.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+942,942,29,38,11.05.2025,08.00,13.05.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+943,943,12,8,11.03.2025,08.00,12.03.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Arztüberweisung
+944,944,4,39,15.12.2024,08.00,16.12.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+945,945,2,35,22.03.2025,08.00,30.03.2025,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+946,946,17,16,16.05.2024,08.00,19.05.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+947,947,37,36,08.09.2024,08.00,14.09.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Notaufnahme
+948,948,5,17,02.03.2024,08.00,10.03.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+949,949,45,21,11.01.2025,08.00,17.01.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+950,950,21,22,29.08.2024,08.00,31.08.2024,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Krankenhausverlegung
+951,951,2,14,14.01.2024,08.00,22.01.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Notaufnahme
+952,952,23,25,18.03.2025,08.00,23.03.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Geplant,Arztüberweisung
+953,953,24,32,17.11.2024,08.00,25.11.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+954,954,15,6,18.03.2025,08.00,19.03.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+955,955,7,21,26.10.2024,08.00,03.11.2024,20.00,Closed,Urinary symptoms,Nein,k.A.,Geplant,Krankenhausverlegung
+956,956,32,16,27.09.2024,08.00,06.10.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+957,957,17,43,24.01.2024,08.00,26.01.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+958,958,40,7,07.09.2024,08.00,11.09.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+959,959,37,47,20.06.2024,08.00,28.06.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+960,960,28,14,10.12.2024,08.00,17.12.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Krankenhausverlegung
+961,961,33,26,06.04.2025,08.00,15.04.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+962,962,25,6,12.04.2024,08.00,17.04.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+963,963,44,31,06.05.2024,08.00,07.05.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+964,964,14,54,26.04.2024,08.00,04.05.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+965,965,14,50,16.02.2024,08.00,22.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Krankenhausverlegung
+966,966,33,3,16.01.2024,08.00,22.01.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+967,967,7,32,24.01.2025,08.00,02.02.2025,20.00,Closed,Shortness of breath,Nein,k.A.,Notfall,Arztüberweisung
+968,968,16,2,02.01.2025,08.00,05.01.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+969,969,3,38,10.04.2025,08.00,18.04.2025,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Notaufnahme
+970,970,44,12,06.01.2024,08.00,10.01.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+971,971,39,9,11.03.2025,08.00,13.03.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Arztüberweisung
+972,972,5,26,02.01.2025,08.00,04.01.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+973,973,11,35,04.08.2024,08.00,08.08.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Geplant,Arztüberweisung
+974,974,28,15,25.06.2025,08.00,03.07.2025,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+975,975,1,42,01.08.2024,08.00,03.08.2024,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+976,976,41,2,08.02.2024,08.00,11.02.2024,20.00,Closed,Severe headache,Nein,k.A.,Notfall,Arztüberweisung
+977,977,33,40,16.05.2024,08.00,23.05.2024,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+978,978,4,26,09.11.2024,08.00,11.11.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+979,979,34,55,07.11.2024,08.00,16.11.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Arztüberweisung
+980,980,12,7,23.06.2025,08.00,27.06.2025,20.00,Closed,Injury assessment,Nein,k.A.,Notfall,Notaufnahme
+981,981,25,42,04.05.2024,08.00,05.05.2024,20.00,Closed,Severe headache,Nein,k.A.,Geplant,Arztüberweisung
+982,982,31,40,18.04.2024,08.00,24.04.2024,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+983,983,35,55,09.03.2025,08.00,18.03.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Geplant,Arztüberweisung
+984,984,42,48,07.04.2025,08.00,16.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Geplant,Arztüberweisung
+985,985,35,3,02.02.2024,08.00,06.02.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Geplant,Krankenhausverlegung
+986,986,9,55,10.03.2025,08.00,18.03.2025,20.00,Closed,Urinary symptoms,Nein,k.A.,Notfall,Arztüberweisung
+987,987,2,24,27.02.2025,08.00,28.02.2025,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+988,988,28,55,12.08.2024,08.00,13.08.2024,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+989,989,33,4,21.01.2025,08.00,30.01.2025,20.00,Closed,Abnormal laboratory values,Nein,k.A.,Notfall,Arztüberweisung
+990,990,40,45,18.02.2024,08.00,19.02.2024,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Krankenhausverlegung
+991,991,12,37,18.12.2024,08.00,19.12.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Geplant,Arztüberweisung
+992,992,14,25,21.04.2025,08.00,29.04.2025,20.00,Closed,Dizziness,Nein,k.A.,Notfall,Arztüberweisung
+993,993,44,40,13.06.2024,08.00,22.06.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Arztüberweisung
+994,994,44,46,11.07.2024,08.00,12.07.2024,20.00,Closed,Fever and fatigue,Nein,k.A.,Notfall,Arztüberweisung
+995,995,11,4,06.09.2024,08.00,09.09.2024,20.00,Closed,Abdominal pain,Nein,k.A.,Notfall,Notaufnahme
+996,996,1,14,21.05.2024,08.00,23.05.2024,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Arztüberweisung
+997,997,1,8,26.02.2024,08.00,05.03.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Geplant,Arztüberweisung
+998,998,31,1,17.02.2025,08.00,24.02.2025,20.00,Closed,Injury assessment,Nein,k.A.,Geplant,Arztüberweisung
+999,999,26,28,07.09.2024,08.00,15.09.2024,20.00,Closed,Routine postoperative follow-up,Nein,k.A.,Notfall,Notaufnahme
+1000,1000,8,43,08.06.2025,08.00,16.06.2025,20.00,Closed,Chest discomfort,Nein,k.A.,Notfall,Notaufnahme
+1001,271,36,39,10.11.2025,08.00,17.11.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1002,709,3,45,25.12.2025,08.00,31.12.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1003,381,35,28,22.12.2025,08.00,25.12.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Notaufnahme
+1004,448,28,16,18.08.2026,08.00,19.08.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1005,786,3,28,24.09.2026,08.00,29.09.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1006,968,45,51,29.08.2026,08.00,01.09.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1007,382,34,40,29.08.2025,08.00,07.09.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1008,165,14,55,18.11.2025,08.00,22.11.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1009,256,27,38,20.01.2026,08.00,27.01.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1010,773,34,22,05.01.2026,08.00,14.01.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1011,128,13,13,18.08.2026,08.00,19.08.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1012,147,4,6,11.10.2026,08.00,k.A.,k.A.,Open,Dizziness,Ja,Previous admission in system,Geplant,Arztüberweisung
+1013,914,29,47,28.10.2026,08.00,k.A.,k.A.,Open,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1014,444,10,50,28.08.2025,08.00,02.09.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1015,99,27,52,16.09.2026,08.00,23.09.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1016,887,10,29,02.04.2026,08.00,04.04.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1017,145,31,15,12.08.2025,08.00,20.08.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1018,62,42,46,12.10.2025,08.00,20.10.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Arztüberweisung
+1019,864,38,51,12.10.2025,08.00,13.10.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1020,172,8,14,28.11.2025,08.00,06.12.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1021,772,11,33,02.10.2026,08.00,k.A.,k.A.,Open,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1022,675,18,55,09.05.2026,08.00,10.05.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1023,250,5,5,09.03.2026,08.00,10.03.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1024,337,9,11,06.03.2026,08.00,10.03.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1025,772,27,45,24.07.2026,08.00,27.07.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1026,634,45,41,08.09.2026,08.00,12.09.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1027,453,19,32,02.09.2025,08.00,08.09.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1028,790,9,15,28.03.2026,08.00,30.03.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1029,386,22,28,04.04.2026,08.00,06.04.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1030,733,20,52,21.08.2025,08.00,29.08.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1031,297,27,49,28.04.2026,08.00,05.05.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1032,697,18,27,14.02.2026,08.00,15.02.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1033,684,31,25,17.08.2025,08.00,22.08.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Notaufnahme
+1034,198,16,11,31.08.2025,08.00,03.09.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1035,517,13,20,03.04.2026,08.00,07.04.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1036,233,45,54,04.02.2026,08.00,13.02.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1037,245,38,20,22.11.2025,08.00,26.11.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1038,932,27,20,26.07.2026,08.00,02.08.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1039,690,23,45,18.08.2026,08.00,21.08.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1040,9,37,9,17.02.2026,08.00,24.02.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1041,16,18,49,05.05.2026,08.00,10.05.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Notaufnahme
+1042,975,28,34,23.04.2026,08.00,26.04.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1043,832,1,13,31.07.2026,08.00,05.08.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1044,253,17,43,20.08.2026,08.00,21.08.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1045,110,12,35,03.12.2025,08.00,05.12.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1046,23,25,14,28.07.2026,08.00,31.07.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1047,562,17,38,15.06.2026,08.00,18.06.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1048,517,7,39,31.07.2026,08.00,09.08.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Notaufnahme
+1049,955,39,33,28.05.2026,08.00,30.05.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Geplant,Arztüberweisung
+1050,229,39,12,14.12.2025,08.00,20.12.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1051,550,2,41,07.05.2026,08.00,14.05.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1052,808,18,22,23.06.2026,08.00,29.06.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1053,873,18,29,30.08.2025,08.00,03.09.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1054,417,12,16,27.05.2026,08.00,28.05.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1055,94,31,4,30.05.2026,08.00,03.06.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Notaufnahme
+1056,658,13,11,13.05.2026,08.00,20.05.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1057,330,38,25,19.02.2026,08.00,24.02.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1058,144,17,42,10.10.2025,08.00,13.10.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1059,916,10,39,11.10.2025,08.00,17.10.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Geplant,Arztüberweisung
+1060,205,13,16,05.11.2025,08.00,07.11.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1061,731,41,37,07.07.2026,08.00,14.07.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Notaufnahme
+1062,560,30,49,14.10.2025,08.00,22.10.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1063,152,12,43,28.10.2025,08.00,06.11.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1064,811,14,47,19.10.2026,08.00,k.A.,k.A.,Open,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1065,901,15,15,18.09.2025,08.00,21.09.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1066,556,18,27,11.02.2026,08.00,15.02.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1067,25,3,19,17.02.2026,08.00,24.02.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1068,15,6,32,13.05.2026,08.00,21.05.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1069,692,2,26,23.11.2025,08.00,26.11.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1070,406,18,10,19.08.2026,08.00,27.08.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1071,639,45,36,08.10.2026,08.00,13.10.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1072,206,22,13,20.09.2025,08.00,22.09.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1073,334,6,18,22.05.2026,08.00,23.05.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1074,341,45,23,12.05.2026,08.00,15.05.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1075,54,19,16,05.02.2026,08.00,08.02.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1076,909,42,6,30.07.2026,08.00,31.07.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1077,36,13,49,14.07.2026,08.00,22.07.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1078,432,26,36,25.08.2025,08.00,30.08.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1079,168,30,6,22.10.2026,08.00,k.A.,k.A.,Open,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1080,52,36,11,20.09.2025,08.00,24.09.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1081,127,26,26,08.06.2026,08.00,12.06.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1082,216,15,23,15.11.2025,08.00,16.11.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1083,704,18,2,24.05.2026,08.00,26.05.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Notaufnahme
+1084,544,3,2,17.03.2026,08.00,26.03.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1085,849,13,33,21.01.2026,08.00,23.01.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1086,999,26,3,07.10.2025,08.00,08.10.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1087,554,31,34,14.09.2026,08.00,19.09.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1088,929,16,30,14.07.2026,08.00,17.07.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1089,860,32,43,15.10.2025,08.00,19.10.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1090,509,15,13,16.09.2025,08.00,17.09.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Notaufnahme
+1091,208,13,11,29.08.2026,08.00,30.08.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1092,620,24,30,17.06.2026,08.00,19.06.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1093,340,5,9,14.04.2026,08.00,15.04.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1094,72,41,46,03.10.2025,08.00,06.10.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1095,920,23,37,28.09.2026,08.00,29.09.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1096,383,26,46,14.11.2025,08.00,17.11.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1097,417,24,14,10.02.2026,08.00,11.02.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1098,962,16,33,23.08.2025,08.00,25.08.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1099,277,25,32,15.02.2026,08.00,17.02.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1100,535,10,29,13.09.2026,08.00,16.09.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1101,704,14,32,26.10.2025,08.00,30.10.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1102,413,16,23,13.07.2026,08.00,18.07.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1103,153,17,27,21.12.2025,08.00,27.12.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1104,31,30,4,27.11.2025,08.00,06.12.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1105,701,1,39,14.10.2025,08.00,16.10.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1106,713,34,15,24.04.2026,08.00,27.04.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1107,583,13,37,02.05.2026,08.00,08.05.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1108,642,11,27,12.10.2025,08.00,13.10.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1109,479,8,43,01.01.2026,08.00,08.01.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1110,226,34,35,01.10.2026,08.00,09.10.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1111,101,44,16,12.04.2026,08.00,20.04.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1112,635,15,29,03.07.2026,08.00,09.07.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1113,553,4,17,06.01.2026,08.00,09.01.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1114,162,5,17,25.06.2026,08.00,29.06.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1115,54,20,6,24.10.2026,08.00,k.A.,k.A.,Open,Fever and fatigue,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1116,368,41,45,16.08.2026,08.00,23.08.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1117,500,27,5,10.10.2025,08.00,17.10.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1118,744,20,30,11.08.2025,08.00,18.08.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1119,409,3,17,05.12.2025,08.00,06.12.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1120,805,9,9,01.11.2025,08.00,07.11.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1121,78,35,17,06.04.2026,08.00,10.04.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1122,191,12,25,06.05.2026,08.00,09.05.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1123,69,27,36,11.08.2026,08.00,16.08.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1124,756,25,34,09.03.2026,08.00,13.03.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1125,125,5,15,10.12.2025,08.00,12.12.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1126,457,43,43,24.02.2026,08.00,02.03.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1127,94,1,52,17.01.2026,08.00,23.01.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1128,431,36,30,17.12.2025,08.00,19.12.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Notaufnahme
+1129,408,26,21,06.12.2025,08.00,08.12.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1130,446,26,38,25.03.2026,08.00,28.03.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1131,923,24,25,17.12.2025,08.00,25.12.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1132,748,23,9,17.08.2025,08.00,18.08.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1133,645,31,32,16.06.2026,08.00,19.06.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1134,55,41,55,10.06.2026,08.00,16.06.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1135,703,26,4,20.04.2026,08.00,27.04.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1136,167,17,24,13.09.2026,08.00,21.09.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Notaufnahme
+1137,947,3,50,14.10.2025,08.00,23.10.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1138,350,23,42,18.11.2025,08.00,24.11.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1139,224,8,25,09.06.2026,08.00,12.06.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1140,885,6,28,10.01.2026,08.00,18.01.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1141,995,25,17,07.03.2026,08.00,13.03.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1142,243,13,33,23.08.2025,08.00,27.08.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1143,669,26,20,19.02.2026,08.00,21.02.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1144,32,43,18,06.01.2026,08.00,08.01.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Geplant,Arztüberweisung
+1145,431,16,11,27.07.2026,08.00,04.08.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1146,665,39,14,18.11.2025,08.00,22.11.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Geplant,Arztüberweisung
+1147,277,15,10,07.08.2026,08.00,09.08.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1148,545,6,16,10.11.2025,08.00,18.11.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1149,345,40,27,20.11.2025,08.00,22.11.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1150,753,42,49,14.09.2026,08.00,15.09.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1151,216,44,53,26.10.2026,08.00,k.A.,k.A.,Open,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1152,584,3,50,28.11.2025,08.00,04.12.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1153,327,1,7,16.03.2026,08.00,25.03.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1154,28,44,3,16.09.2025,08.00,24.09.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Notaufnahme
+1155,655,26,55,08.08.2026,08.00,11.08.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1156,601,15,29,21.03.2026,08.00,24.03.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1157,882,31,11,21.12.2025,08.00,25.12.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1158,485,44,8,08.01.2026,08.00,15.01.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1159,540,39,39,16.05.2026,08.00,18.05.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1160,39,18,22,15.12.2025,08.00,21.12.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1161,799,41,54,28.10.2025,08.00,04.11.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1162,878,30,32,06.08.2026,08.00,15.08.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1163,251,28,44,04.10.2025,08.00,13.10.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1164,227,43,32,17.09.2026,08.00,24.09.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1165,564,2,43,20.05.2026,08.00,21.05.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1166,693,37,41,07.05.2026,08.00,12.05.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1167,480,43,46,13.04.2026,08.00,17.04.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1168,387,18,2,20.08.2025,08.00,22.08.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Arztüberweisung
+1169,911,25,1,07.02.2026,08.00,16.02.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1170,91,44,31,29.09.2026,08.00,01.10.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1171,190,24,26,05.08.2026,08.00,14.08.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1172,756,36,24,25.10.2026,08.00,k.A.,k.A.,Open,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1173,567,45,28,14.10.2025,08.00,19.10.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1174,725,8,52,12.04.2026,08.00,18.04.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Notaufnahme
+1175,257,27,7,11.02.2026,08.00,14.02.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1176,856,21,42,01.02.2026,08.00,05.02.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1177,223,13,6,07.04.2026,08.00,15.04.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1178,761,36,30,25.07.2026,08.00,26.07.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1179,858,32,17,02.05.2026,08.00,11.05.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Geplant,Arztüberweisung
+1180,436,32,29,31.08.2025,08.00,07.09.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1181,366,16,52,04.09.2026,08.00,05.09.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1182,126,38,52,11.08.2026,08.00,19.08.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1183,964,11,6,16.12.2025,08.00,17.12.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1184,941,26,30,10.03.2026,08.00,17.03.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1185,211,4,10,25.10.2025,08.00,02.11.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1186,657,25,46,05.08.2025,08.00,07.08.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1187,282,11,18,03.06.2026,08.00,08.06.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1188,725,37,15,28.08.2026,08.00,29.08.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1189,43,24,44,24.09.2025,08.00,27.09.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1190,559,35,19,17.11.2025,08.00,23.11.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1191,615,26,23,26.02.2026,08.00,06.03.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1192,869,17,24,03.12.2025,08.00,05.12.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1193,321,16,2,18.12.2025,08.00,19.12.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1194,479,31,54,16.07.2026,08.00,20.07.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Notaufnahme
+1195,71,36,27,29.12.2025,08.00,07.01.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1196,164,43,4,11.03.2026,08.00,17.03.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1197,208,22,38,01.10.2025,08.00,05.10.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1198,210,2,52,25.02.2026,08.00,04.03.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1199,747,2,5,20.03.2026,08.00,27.03.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1200,149,30,15,22.05.2026,08.00,26.05.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1201,933,24,26,18.05.2026,08.00,21.05.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1202,195,22,5,14.02.2026,08.00,22.02.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1203,680,39,34,03.11.2025,08.00,08.11.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1204,642,40,53,20.10.2025,08.00,29.10.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1205,96,24,35,28.03.2026,08.00,30.03.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1206,124,32,49,09.07.2026,08.00,11.07.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1207,539,39,29,17.10.2025,08.00,26.10.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1208,983,17,9,13.06.2026,08.00,15.06.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1209,220,22,11,20.08.2026,08.00,26.08.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1210,84,5,55,22.05.2026,08.00,31.05.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1211,856,39,20,14.05.2026,08.00,15.05.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1212,927,1,31,08.08.2025,08.00,09.08.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1213,915,31,31,22.08.2026,08.00,27.08.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1214,655,2,40,20.07.2026,08.00,22.07.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1215,902,33,29,16.06.2026,08.00,24.06.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1216,335,35,20,31.07.2026,08.00,01.08.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1217,134,22,38,03.10.2025,08.00,05.10.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1218,290,16,44,25.08.2025,08.00,02.09.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1219,18,27,12,10.10.2025,08.00,13.10.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1220,581,18,13,11.09.2026,08.00,16.09.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1221,90,15,30,12.10.2026,08.00,k.A.,k.A.,Open,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1222,27,24,26,28.10.2026,08.00,k.A.,k.A.,Open,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1223,98,8,13,19.08.2025,08.00,25.08.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1224,450,24,23,01.09.2026,08.00,04.09.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1225,308,28,31,23.09.2026,08.00,26.09.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1226,690,36,15,16.06.2026,08.00,19.06.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1227,517,1,16,21.03.2026,08.00,29.03.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1228,598,29,19,20.04.2026,08.00,28.04.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1229,984,16,46,19.09.2025,08.00,24.09.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1230,247,38,14,04.12.2025,08.00,13.12.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1231,953,38,52,23.05.2026,08.00,26.05.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1232,487,17,49,27.09.2026,08.00,k.A.,k.A.,Open,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1233,146,5,25,20.04.2026,08.00,26.04.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1234,952,32,12,26.08.2026,08.00,04.09.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1235,348,40,51,20.09.2025,08.00,27.09.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1236,840,30,47,18.10.2026,08.00,k.A.,k.A.,Open,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1237,607,43,25,25.09.2025,08.00,27.09.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1238,231,37,14,02.03.2026,08.00,04.03.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1239,693,33,44,02.08.2025,08.00,11.08.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1240,909,10,1,30.06.2026,08.00,05.07.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1241,498,34,21,19.10.2025,08.00,23.10.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1242,986,18,3,25.04.2026,08.00,26.04.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1243,329,17,3,13.11.2025,08.00,19.11.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1244,28,7,41,21.08.2026,08.00,30.08.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1245,597,25,16,22.04.2026,08.00,26.04.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1246,282,25,27,11.10.2025,08.00,17.10.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1247,363,22,52,10.12.2025,08.00,19.12.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1248,144,20,16,29.04.2026,08.00,30.04.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1249,784,21,45,21.01.2026,08.00,22.01.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1250,474,12,44,30.12.2025,08.00,05.01.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1251,985,34,52,27.07.2026,08.00,05.08.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1252,966,20,12,28.06.2026,08.00,02.07.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1253,34,21,53,26.07.2026,08.00,27.07.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1254,592,26,52,03.11.2025,08.00,12.11.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Notaufnahme
+1255,333,34,24,28.04.2026,08.00,05.05.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1256,369,11,22,14.04.2026,08.00,18.04.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1257,313,1,51,20.01.2026,08.00,22.01.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Arztüberweisung
+1258,955,18,29,22.07.2026,08.00,31.07.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1259,471,41,8,16.06.2026,08.00,19.06.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Arztüberweisung
+1260,642,16,17,24.10.2025,08.00,28.10.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1261,840,40,42,09.05.2026,08.00,17.05.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1262,564,3,35,17.01.2026,08.00,21.01.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1263,428,32,39,02.10.2026,08.00,k.A.,k.A.,Open,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1264,143,3,13,20.08.2025,08.00,23.08.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1265,250,24,21,19.10.2026,08.00,k.A.,k.A.,Open,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1266,42,25,25,26.09.2025,08.00,29.09.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1267,629,19,17,19.09.2026,08.00,22.09.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1268,717,26,36,11.02.2026,08.00,18.02.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1269,263,12,47,01.01.2026,08.00,10.01.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1270,541,4,33,19.04.2026,08.00,27.04.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1271,479,37,14,30.12.2025,08.00,07.01.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Arztüberweisung
+1272,255,14,33,01.08.2026,08.00,06.08.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Notaufnahme
+1273,547,7,41,09.11.2025,08.00,16.11.2025,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Geplant,Arztüberweisung
+1274,645,27,18,10.11.2025,08.00,19.11.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1275,950,38,17,29.06.2026,08.00,08.07.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1276,347,25,39,16.03.2026,08.00,24.03.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1277,823,31,28,29.11.2025,08.00,04.12.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1278,606,35,41,10.04.2026,08.00,11.04.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Arztüberweisung
+1279,212,20,41,18.08.2026,08.00,27.08.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1280,347,30,8,07.11.2025,08.00,16.11.2025,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1281,276,27,27,09.10.2026,08.00,k.A.,k.A.,Open,Severe headache,Ja,Previous admission in system,Notfall,Notaufnahme
+1282,67,43,41,01.08.2026,08.00,07.08.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1283,85,38,22,18.09.2025,08.00,23.09.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1284,710,26,27,29.01.2026,08.00,05.02.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Notaufnahme
+1285,95,20,52,16.10.2025,08.00,24.10.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Notaufnahme
+1286,690,29,23,11.11.2025,08.00,18.11.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1287,416,1,36,22.07.2026,08.00,31.07.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1288,902,37,44,17.09.2026,08.00,25.09.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1289,687,39,12,24.09.2026,08.00,k.A.,k.A.,Open,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1290,624,20,29,02.09.2025,08.00,04.09.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Notaufnahme
+1291,645,21,38,26.10.2026,08.00,k.A.,k.A.,Open,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1292,223,17,15,04.11.2025,08.00,12.11.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1293,692,17,37,04.03.2026,08.00,09.03.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1294,744,13,39,29.03.2026,08.00,06.04.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Arztüberweisung
+1295,205,42,11,16.12.2025,08.00,25.12.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1296,748,26,14,31.07.2026,08.00,08.08.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1297,862,20,46,25.02.2026,08.00,02.03.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1298,822,31,31,13.01.2026,08.00,20.01.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1299,224,35,33,31.05.2026,08.00,02.06.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1300,215,15,9,25.09.2025,08.00,26.09.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1301,167,40,18,25.08.2025,08.00,26.08.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1302,905,5,44,17.12.2025,08.00,19.12.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1303,177,13,6,20.10.2026,08.00,k.A.,k.A.,Open,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1304,612,29,11,08.02.2026,08.00,10.02.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1305,716,1,30,19.09.2026,08.00,21.09.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1306,957,31,15,16.06.2026,08.00,19.06.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1307,873,21,55,14.12.2025,08.00,15.12.2025,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Arztüberweisung
+1308,641,10,54,25.08.2026,08.00,27.08.2026,20.00,Closed,Fever and fatigue,Ja,Previous admission in system,Notfall,Notaufnahme
+1309,391,1,28,06.11.2025,08.00,12.11.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Arztüberweisung
+1310,156,34,8,26.04.2026,08.00,04.05.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1311,569,14,12,06.12.2025,08.00,09.12.2025,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1312,755,28,26,01.08.2025,08.00,03.08.2025,20.00,Closed,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1313,918,45,5,08.09.2025,08.00,15.09.2025,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1314,612,10,53,31.08.2026,08.00,02.09.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1315,888,5,54,02.05.2026,08.00,04.05.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1316,800,7,37,12.08.2025,08.00,20.08.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1317,14,11,43,05.02.2026,08.00,10.02.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1318,366,15,39,25.09.2026,08.00,k.A.,k.A.,Open,Dizziness,Ja,Previous admission in system,Notfall,Notaufnahme
+1319,794,5,17,31.03.2026,08.00,01.04.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Arztüberweisung
+1320,235,38,9,27.12.2025,08.00,05.01.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1321,987,41,50,01.10.2026,08.00,k.A.,k.A.,Open,Severe headache,Ja,Previous admission in system,Geplant,Arztüberweisung
+1322,624,24,27,20.07.2026,08.00,25.07.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Arztüberweisung
+1323,129,33,13,21.05.2026,08.00,27.05.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1324,953,44,45,29.06.2026,08.00,05.07.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Geplant,Arztüberweisung
+1325,168,29,15,14.02.2026,08.00,19.02.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1326,153,35,15,04.06.2026,08.00,12.06.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1327,302,39,54,19.07.2026,08.00,27.07.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1328,25,5,48,20.11.2025,08.00,25.11.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Arztüberweisung
+1329,641,10,16,11.10.2025,08.00,14.10.2025,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1330,740,11,42,16.02.2026,08.00,17.02.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Notfall,Krankenhausverlegung
+1331,527,29,25,03.04.2026,08.00,09.04.2026,20.00,Closed,Abdominal pain,Ja,Previous admission in system,Notfall,Arztüberweisung
+1332,721,30,36,08.10.2026,08.00,12.10.2026,20.00,Closed,Abnormal laboratory values,Ja,Previous admission in system,Notfall,Arztüberweisung
+1333,72,44,8,28.08.2025,08.00,29.08.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1334,176,43,37,08.03.2026,08.00,13.03.2026,20.00,Closed,Dizziness,Ja,Previous admission in system,Geplant,Arztüberweisung
+1335,329,32,9,06.08.2026,08.00,09.08.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Notfall,Notaufnahme
+1336,104,6,4,18.08.2026,08.00,24.08.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Geplant,Arztüberweisung
+1337,601,26,1,23.09.2025,08.00,28.09.2025,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1338,904,24,46,23.02.2026,08.00,02.03.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1339,638,30,51,16.08.2026,08.00,18.08.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1340,715,35,13,08.03.2026,08.00,17.03.2026,20.00,Closed,Shortness of breath,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1341,31,44,32,05.04.2026,08.00,11.04.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Notaufnahme
+1342,491,10,37,25.08.2026,08.00,31.08.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1343,561,19,10,04.09.2025,08.00,13.09.2025,20.00,Closed,Injury assessment,Ja,Previous admission in system,Notfall,Notaufnahme
+1344,468,36,53,02.10.2025,08.00,04.10.2025,20.00,Closed,Dizziness,Ja,Previous admission in system,Notfall,Arztüberweisung
+1345,779,5,27,29.12.2025,08.00,04.01.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Krankenhausverlegung
+1346,865,43,12,11.06.2026,08.00,14.06.2026,20.00,Closed,Chest discomfort,Ja,Previous admission in system,Geplant,Arztüberweisung
+1347,847,11,52,15.03.2026,08.00,21.03.2026,20.00,Closed,Routine postoperative follow-up,Ja,Previous admission in system,Notfall,Arztüberweisung
+1348,948,11,48,26.04.2026,08.00,28.04.2026,20.00,Closed,Urinary symptoms,Ja,Previous admission in system,Notfall,Arztüberweisung
+1349,167,19,32,12.07.2026,08.00,21.07.2026,20.00,Closed,Severe headache,Ja,Previous admission in system,Notfall,Arztüberweisung
+1350,261,12,51,06.04.2026,08.00,12.04.2026,20.00,Closed,Injury assessment,Ja,Previous admission in system,Geplant,Krankenhausverlegung

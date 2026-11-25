@@ -1,0 +1,77 @@
+source,continent,country,format,entity,raw_records,retained_source_records,removed_records
+A,North America,Canada,TXT,hospital_units,12,12,0
+A,North America,Canada,TXT,nurses,45,45,0
+A,North America,Canada,TXT,physicians,55,55,0
+A,North America,Canada,TXT,radiologists,18,18,0
+A,North America,Canada,TXT,icd9_dictionary,24,24,0
+A,North America,Canada,TXT,patients,1000,1000,0
+A,North America,Canada,TXT,admissions,1350,1350,0
+A,North America,Canada,TXT,assessments,1350,1350,0
+A,North America,Canada,TXT,unit_stays,1450,1450,0
+A,North America,Canada,TXT,diagnoses,2008,1988,20
+A,North America,Canada,TXT,clinical_notes,488,456,32
+A,North America,Canada,TXT,diagnostic_orders,160,160,0
+A,North America,Canada,TXT,diagnostic_examinations,160,160,0
+A,North America,Canada,TXT,radiology_examinations,190,190,0
+A,North America,Canada,TXT,radiology_reports,140,140,0
+A,North America,Canada,TXT,surgical_procedures,188,168,20
+A,North America,Canada,TXT,discharge_records,400,400,0
+A,North America,Canada,TXT,discharge_summaries,400,400,0
+A,North America,Canada,TXT,TOTAL,9438,9366,72
+B,Europe,Germany,CSV,hospital_units,12,12,0
+B,Europe,Germany,CSV,nurses,45,45,0
+B,Europe,Germany,CSV,physicians,55,55,0
+B,Europe,Germany,CSV,radiologists,18,18,0
+B,Europe,Germany,CSV,icd9_dictionary,24,0,24
+B,Europe,Germany,CSV,patients,1000,1000,0
+B,Europe,Germany,CSV,admissions,1350,1350,0
+B,Europe,Germany,CSV,assessments,1350,1350,0
+B,Europe,Germany,CSV,unit_stays,1450,1450,0
+B,Europe,Germany,CSV,diagnoses,2008,1988,20
+B,Europe,Germany,CSV,clinical_notes,488,456,32
+B,Europe,Germany,CSV,diagnostic_orders,160,160,0
+B,Europe,Germany,CSV,diagnostic_examinations,160,160,0
+B,Europe,Germany,CSV,radiology_examinations,190,190,0
+B,Europe,Germany,CSV,radiology_reports,140,140,0
+B,Europe,Germany,CSV,surgical_procedures,188,168,20
+B,Europe,Germany,CSV,discharge_records,400,400,0
+B,Europe,Germany,CSV,discharge_summaries,400,400,0
+B,Europe,Germany,CSV,TOTAL,9438,9342,96
+C,Asia,Japan,XML,hospital_units,12,12,0
+C,Asia,Japan,XML,nurses,45,45,0
+C,Asia,Japan,XML,physicians,55,55,0
+C,Asia,Japan,XML,radiologists,18,18,0
+C,Asia,Japan,XML,icd9_dictionary,24,0,24
+C,Asia,Japan,XML,patients,1000,1000,0
+C,Asia,Japan,XML,admissions,1350,1350,0
+C,Asia,Japan,XML,assessments,1350,1350,0
+C,Asia,Japan,XML,unit_stays,1450,1450,0
+C,Asia,Japan,XML,diagnoses,2008,1988,20
+C,Asia,Japan,XML,clinical_notes,488,456,32
+C,Asia,Japan,XML,diagnostic_orders,160,160,0
+C,Asia,Japan,XML,diagnostic_examinations,160,160,0
+C,Asia,Japan,XML,radiology_examinations,190,190,0
+C,Asia,Japan,XML,radiology_reports,140,140,0
+C,Asia,Japan,XML,surgical_procedures,188,168,20
+C,Asia,Japan,XML,discharge_records,400,400,0
+C,Asia,Japan,XML,discharge_summaries,400,400,0
+C,Asia,Japan,XML,TOTAL,9438,9342,96
+D,Africa,South Africa,JSON,hospital_units,12,12,0
+D,Africa,South Africa,JSON,nurses,45,45,0
+D,Africa,South Africa,JSON,physicians,55,55,0
+D,Africa,South Africa,JSON,radiologists,18,18,0
+D,Africa,South Africa,JSON,icd9_dictionary,24,0,24
+D,Africa,South Africa,JSON,patients,1000,1000,0
+D,Africa,South Africa,JSON,admissions,1350,1350,0
+D,Africa,South Africa,JSON,assessments,1350,1350,0
+D,Africa,South Africa,JSON,unit_stays,1450,1450,0
+D,Africa,South Africa,JSON,diagnoses,2008,1988,20
+D,Africa,South Africa,JSON,clinical_notes,488,456,32
+D,Africa,South Africa,JSON,diagnostic_orders,160,160,0
+D,Africa,South Africa,JSON,diagnostic_examinations,160,160,0
+D,Africa,South Africa,JSON,radiology_examinations,190,190,0
+D,Africa,South Africa,JSON,radiology_reports,140,140,0
+D,Africa,South Africa,JSON,surgical_procedures,188,168,20
+D,Africa,South Africa,JSON,discharge_records,400,400,0
+D,Africa,South Africa,JSON,discharge_summaries,400,400,0
+D,Africa,South Africa,JSON,TOTAL,9438,9342,96

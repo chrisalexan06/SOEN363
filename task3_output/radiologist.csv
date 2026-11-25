@@ -1,0 +1,73 @@
+radiologist_id,radiologist_name,source_id,original_id
+1,Lauren Delgado,A,1
+2,Justin Wilson,A,2
+3,Joshua Smith,A,3
+4,Justin Chavez,A,4
+5,David Jones,A,5
+6,Nicole Green,A,6
+7,Taylor Donovan,A,7
+8,Kevin Thomas,A,8
+9,April Lawson,A,9
+10,Ricky Moreno,A,10
+11,David Blake,A,11
+12,Patricia Adams,A,12
+13,David Williams,A,13
+14,Mary Davis,A,14
+15,Taylor Jones,A,15
+16,Pam Hutchinson,A,16
+17,Jennifer Klein,A,17
+18,Andrea Burke,A,18
+19,Maja Wulf,B,1
+20,Rosemarie Kambs-Fischer,B,2
+21,Siegbert Kruschwitz,B,3
+22,Ralf Jockel,B,4
+23,Univ.Prof. Ioannis Köster B.Sc.,B,5
+24,Steven Weller,B,6
+25,Rudolph Kensy,B,7
+26,Dipl.-Ing. Dora Scheel B.Eng.,B,8
+27,Marko Metz,B,9
+28,Dr. Rosl Cichorius B.A.,B,10
+29,Meike Oestrovsky,B,11
+30,Ludmila Stroh-Kaul,B,12
+31,Ilona Löchel,B,13
+32,Ing. Isabella Jähn Mba.,B,14
+33,Giuseppe Radisch Mba.,B,15
+34,Sylvester Mude,B,16
+35,Erkan Hauffer B.A.,B,17
+36,Anto Kallert-Rudolph,B,18
+37,小林 香織,C,1
+38,岡田 聡太郎,C,2
+39,山本 充,C,3
+40,高橋 千代,C,4
+41,斎藤 裕樹,C,5
+42,橋本 直子,C,6
+43,松本 涼平,C,7
+44,橋本 洋介,C,8
+45,前田 浩,C,9
+46,小林 くみ子,C,10
+47,阿部 真綾,C,11
+48,中村 里佳,C,12
+49,村上 結衣,C,13
+50,西村 京助,C,14
+51,高橋 淳,C,15
+52,井上 千代,C,16
+53,吉田 和也,C,17
+54,鈴木 淳,C,18
+55,Naledi Khumalo,D,1
+56,Lindiwe Botha,D,2
+57,Lerato Van Der Merwe,D,3
+58,Naledi Mokoena,D,4
+59,Thabo Mokoena,D,5
+60,Nomsa Naidoo,D,6
+61,Zanele Mthembu,D,7
+62,Amina Botha,D,8
+63,Bongani Mthembu,D,9
+64,Bongani Mokoena,D,10
+65,Mandla Van Der Merwe,D,11
+66,Zanele Mthembu,D,12
+67,Amina Nkosi,D,13
+68,Mandla Khumalo,D,14
+69,Bongani Mokoena,D,15
+70,Lerato Nkosi,D,16
+71,Sibongile Van Der Merwe,D,17
+72,Zanele Nkosi,D,18

@@ -1,0 +1,130 @@
+[
+  {
+    "source_id": "A",
+    "original_discharge_id": "84",
+    "integrated_discharge_id": 84,
+    "secondary_icd9_code": "272.4",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "A",
+    "original_discharge_id": "85",
+    "integrated_discharge_id": 85,
+    "secondary_icd9_code": "584.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "A",
+    "original_discharge_id": "151",
+    "integrated_discharge_id": 151,
+    "secondary_icd9_code": "780.60",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "A",
+    "original_discharge_id": "152",
+    "integrated_discharge_id": 152,
+    "secondary_icd9_code": "285.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "B",
+    "original_discharge_id": "84",
+    "integrated_discharge_id": 526,
+    "secondary_icd9_code": "272.4",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "B",
+    "original_discharge_id": "85",
+    "integrated_discharge_id": 527,
+    "secondary_icd9_code": "584.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "B",
+    "original_discharge_id": "151",
+    "integrated_discharge_id": 593,
+    "secondary_icd9_code": "780.60",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "B",
+    "original_discharge_id": "152",
+    "integrated_discharge_id": 594,
+    "secondary_icd9_code": "285.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "C",
+    "original_discharge_id": "84",
+    "integrated_discharge_id": 970,
+    "secondary_icd9_code": "272.4",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "C",
+    "original_discharge_id": "85",
+    "integrated_discharge_id": 971,
+    "secondary_icd9_code": "584.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "C",
+    "original_discharge_id": "151",
+    "integrated_discharge_id": 1037,
+    "secondary_icd9_code": "780.60",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "C",
+    "original_discharge_id": "152",
+    "integrated_discharge_id": 1038,
+    "secondary_icd9_code": "285.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "D",
+    "original_discharge_id": "84",
+    "integrated_discharge_id": 1411,
+    "secondary_icd9_code": "272.4",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "D",
+    "original_discharge_id": "85",
+    "integrated_discharge_id": 1412,
+    "secondary_icd9_code": "584.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "D",
+    "original_discharge_id": "151",
+    "integrated_discharge_id": 1478,
+    "secondary_icd9_code": "780.60",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  },
+  {
+    "source_id": "D",
+    "original_discharge_id": "152",
+    "integrated_discharge_id": 1479,
+    "secondary_icd9_code": "285.9",
+    "reason": "No unique matching secondary diagnosis in same admission",
+    "candidate_ids": []
+  }
+]

@@ -1,0 +1,489 @@
+clinical_note_id|admission_id|patient_id|physician_id|note_date|note_time|medical_condition|symptoms|physical_examination|diagnostic_examination|clinical_findings|treatment_plan
+1|20|20|NA|2024-06-24|15:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+2|39|39|NA|2024-05-31|13:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+3|58|58|NA|2025-04-17|17:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+4|77|77|NA|2024-06-12|09:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+5|96|96|NA|2025-02-24|17:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+6|115|115|NA|2025-06-08|09:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+7|134|134|43|2025-04-17|14:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+8|153|153|23|2024-08-23|08:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+9|172|172|23|2024-11-20|15:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+10|191|191|38|2024-12-22|08:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+11|210|210|54|2024-07-20|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+12|229|229|10|2025-04-02|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+13|248|248|5|2025-06-02|15:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+14|267|267|35|2024-03-21|15:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+15|286|286|18|2024-04-05|17:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+16|305|305|11|2024-06-19|15:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+17|324|324|31|2025-03-03|11:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+18|343|343|10|2024-11-29|18:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+19|362|362|44|2024-10-30|18:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+20|381|381|11|2024-06-13|10:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+21|400|400|47|2026-02-30|08:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+22|419|419|19|2026-02-30|15:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+23|438|438|39|2026-02-30|08:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+24|457|457|11|2026-02-30|09:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+25|476|476|10|2026-02-30|12:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+26|495|495|54|2026-02-30|16:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+27|514|514|14|03/04/25|15:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+28|533|533|7|03/04/25|14:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+29|552|552|29|03/04/25|11:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+30|571|571|52|03/04/25|12:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+31|590|590|51|03/04/25|19:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+32|609|609|47|03/04/25|08:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+33|628|628|54|2024-11-24|10:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+34|647|647|44|2024-02-26|11:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+35|666|666|22|2024-06-29|13:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+36|685|685|44|2024-02-01|13:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+37|704|704|25|2024-06-30|13:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+38|723|723|40|2025-02-24|16:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+39|742|742|41|2024-11-01|10:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+40|761|761|52|2024-08-11|10:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+41|999999|780|14|2024-07-04|08:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+42|999999|799|55|2024-08-07|19:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+43|999999|818|4|2024-03-18|12:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+44|999999|837|5|2024-02-05|10:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+45|999999|856|53|2025-03-28|10:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+46|999999|875|15|2024-06-07|11:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+47|894|894|50|2025-05-28|08:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+48|913|913|32|2024-04-22|11:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+49|932|932|49|2025-06-05|10:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+50|951|951|43|2024-01-24|17:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+51|970|970|23|2025-02-25|13:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+52|989|989|30|2024-09-11|17:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+53|1008|884|49|2026-10-01|10:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+54|1027|500|52|2026-09-20|14:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+55|1046|590|24|2026-02-22|16:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+56|1065|221|22|2026-03-15|16:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+57|1084|41|20|2025-12-29|18:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+58|1103|734|23|2026-05-05|10:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+59|1122|512|12|2026-07-07|17:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+60|1141|477|24|2026-05-16|17:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+61|1160|840|52|2025-08-29|12:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+62|1179|857|38|2026-02-21|19:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+63|1198|591|29|2026-07-07|13:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+64|1217|25|41|2026-05-14|12:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+65|1236|332|12|2026-07-25|08:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+66|1255|823|48|2025-09-11|09:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+67|1274|64|39|2025-11-01|19:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+68|1293|812|27|2025-10-15|14:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+69|1312|671|32|2026-06-16|10:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+70|1331|481|23|2026-05-23|18:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+71|1350|138|41|2026-02-27|16:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+72|19|19|14|2025-05-11|09:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+73|38|38|38|2024-12-10|18:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+74|57|57|10|2025-04-07|11:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+75|76|76|52|2024-02-01|08:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+76|95|95|9|2024-12-02|13:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+77|114|114|1|2025-04-24|17:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+78|133|133|49|2024-03-28|10:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+79|152|152|47|2025-01-13|15:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+80|171|171|55|2024-03-17|19:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+81|190|190|6|2024-06-08|09:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+82|209|209|55|2025-03-19|13:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+83|228|228|40|2025-05-14|13:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+84|247|247|55|2025-06-09|17:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+85|266|266|8|2024-05-15|11:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+86|285|285|55|2025-05-01|08:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+87|304|304|19|2024-09-05|11:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+88|323|323|32|2024-12-10|14:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+89|342|342|45|2025-05-09|11:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+90|361|361|47|2025-04-12|13:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+91|380|380|30|2025-01-01|14:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+92|399|399|17|2025-04-13|10:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+93|418|418|39|2025-05-18|10:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+94|437|437|36|2025-05-18|09:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+95|456|456|42|2024-05-03|19:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+96|475|475|28|2025-04-09|19:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+97|494|494|17|2024-08-25|15:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+98|513|513|2|2024-04-21|12:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+99|532|532|48|2025-04-18|13:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+100|551|551|48|2024-08-28|16:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+101|570|570|16|2024-05-11|09:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+102|589|589|31|2024-12-10|13:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+103|608|608|31|2025-04-29|19:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+104|627|627|7|2024-07-04|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+105|646|646|11|2024-08-01|09:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+106|665|665|39|2025-01-06|10:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+107|684|684|18|2024-03-25|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+108|703|703|7|2024-05-05|13:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+109|722|722|28|2024-07-06|14:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+110|741|741|30|2025-01-30|10:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+111|760|760|53|2025-02-12|16:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+112|779|779|27|2025-05-12|13:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+113|798|798|26|2024-06-02|13:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+114|817|817|20|2024-04-16|18:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+115|836|836|14|2025-03-25|16:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+116|855|855|45|2024-08-23|12:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+117|874|874|52|2024-12-31|12:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+118|893|893|37|2025-05-20|16:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+119|912|912|17|2025-03-23|10:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+120|931|931|14|2024-08-31|09:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+121|950|950|22|2025-03-31|15:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+122|969|969|28|2024-04-22|18:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+123|988|988|43|2024-08-14|13:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+124|1007|916|24|2026-04-03|13:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+125|1026|380|45|2026-07-24|19:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+126|1045|414|4|2026-05-07|19:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+127|1064|409|31|2026-05-08|18:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+128|1083|349|46|2026-03-16|19:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+129|1102|926|29|2026-09-16|08:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+130|1121|548|15|2026-08-28|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+131|1140|510|20|2025-11-13|09:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+132|1159|473|26|2026-03-22|17:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+133|1178|446|31|2026-04-03|16:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+134|1197|397|35|2026-09-17|16:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+135|1216|802|6|2026-05-25|16:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+136|1235|953|42|2026-01-24|18:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+137|1254|289|1|2025-10-16|17:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+138|1273|110|34|2026-10-22|16:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+139|1292|152|20|2025-11-21|15:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+140|1311|983|27|2026-08-03|13:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+141|1330|510|42|2026-08-20|14:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+142|1349|150|52|2025-11-02|17:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+143|18|18|41|2025-06-25|19:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+144|37|37|38|2024-03-06|18:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+145|56|56|21|2024-03-08|09:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+146|75|75|5|2024-03-09|18:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+147|94|94|22|2025-06-30|11:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+148|113|113|19|2024-12-25|17:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+149|132|132|17|2025-03-31|16:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+150|151|151|17|2025-04-21|08:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+151|170|170|45|2024-01-18|11:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+152|189|189|19|2024-05-25|08:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+153|208|208|53|2024-05-08|15:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+154|227|227|52|2024-09-02|17:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+155|246|246|31|2024-12-13|15:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+156|265|265|33|2025-03-16|18:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+157|284|284|14|2025-06-28|08:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+158|303|303|17|2024-04-17|11:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+159|322|322|43|2024-03-30|09:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+160|341|341|16|2024-01-17|19:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+161|360|360|49|2024-07-23|17:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+162|379|379|46|2025-03-26|18:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+163|398|398|3|2024-03-21|10:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+164|417|417|34|2025-06-18|17:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+165|436|436|45|2024-05-16|14:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+166|455|455|11|2024-02-22|18:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+167|474|474|49|2024-02-15|09:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+168|493|493|17|2024-08-23|13:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+169|512|512|11|2025-03-30|12:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+170|531|531|36|2025-04-17|15:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+171|550|550|44|2025-06-30|11:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+172|569|569|35|2024-10-10|14:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+173|588|588|14|2025-05-23|10:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+174|607|607|16|2025-01-09|11:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+175|626|626|27|2024-09-26|11:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+176|645|645|37|2025-01-11|16:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+177|664|664|40|2024-05-09|16:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+178|683|683|16|2024-12-23|18:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+179|702|702|27|2024-12-31|11:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+180|721|721|4|2024-11-29|09:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+181|740|740|9|2025-01-27|14:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+182|759|759|44|2024-12-25|12:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+183|778|778|28|2025-06-26|19:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+184|797|797|10|2024-10-23|10:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+185|816|816|48|2024-12-25|13:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+186|835|835|29|2025-04-14|19:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+187|854|854|55|2025-01-19|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+188|873|873|31|2024-05-09|11:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+189|892|892|28|2025-01-31|10:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+190|911|911|55|2024-02-11|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+191|930|930|14|2024-10-13|19:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+192|949|949|7|2024-02-06|15:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+193|968|968|28|2024-03-29|15:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+194|987|987|7|2024-07-03|18:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+195|1006|34|33|2026-10-02|17:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+196|1025|211|4|2025-10-09|08:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+197|1044|332|16|2026-10-31|09:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+198|1063|451|16|2026-01-12|18:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+199|1082|182|6|2026-02-17|15:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+200|1101|425|43|2026-09-29|15:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+201|1120|206|30|2026-10-11|17:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+202|1139|614|32|2026-08-05|08:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+203|1158|951|5|2026-08-26|15:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+204|1177|86|54|2026-10-18|19:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+205|1196|44|33|2025-10-22|12:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+206|1215|14|53|2026-04-26|11:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+207|1234|737|51|2026-06-13|19:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+208|1253|150|23|2026-03-27|18:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+209|1272|667|46|2025-08-01|17:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+210|1291|362|19|2025-09-11|13:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+211|1310|115|9|2026-07-16|10:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+212|1329|509|16|2025-11-27|18:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+213|1348|143|47|2025-09-27|18:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+214|17|17|4|2024-09-12|15:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+215|36|36|55|2024-06-09|10:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+216|55|55|2|2024-03-22|18:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+217|74|74|51|2025-03-05|18:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+218|93|93|47|2025-05-23|12:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+219|112|112|52|2025-04-23|10:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+220|131|131|52|2024-07-30|18:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+221|150|150|22|2024-12-20|14:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+222|169|169|13|2025-05-30|16:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+223|188|188|55|2024-06-30|13:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+224|207|207|49|2025-06-25|14:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+225|226|226|13|2024-07-08|13:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+226|245|245|33|2024-07-14|08:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+227|264|264|20|2024-01-05|14:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+228|283|283|33|2025-04-28|08:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+229|302|302|28|2025-03-02|15:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+230|321|321|2|2024-04-04|16:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+231|340|340|11|2025-06-21|17:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+232|359|359|16|2024-09-06|16:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+233|378|378|49|2024-07-29|14:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+234|397|397|34|2024-10-18|08:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+235|416|416|50|2025-03-25|19:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+236|435|435|28|2025-04-21|13:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+237|454|454|44|2024-04-15|09:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+238|473|473|16|2025-04-03|14:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+239|492|492|44|2025-01-20|13:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+240|511|511|27|2024-11-02|12:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+241|530|530|48|2025-03-17|17:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+242|549|549|53|2025-05-15|19:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+243|568|568|14|2025-04-21|15:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+244|587|587|2|2025-04-29|12:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+245|606|606|14|2024-01-26|13:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+246|625|625|2|2024-08-20|16:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+247|644|644|32|2025-06-16|12:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+248|663|663|3|2025-02-05|19:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+249|682|682|27|2024-02-22|15:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+250|701|701|1|2025-05-27|18:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+251|720|720|47|2024-03-16|15:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+252|739|739|10|2025-01-17|16:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+253|758|758|11|2024-11-26|14:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+254|777|777|50|2024-09-20|08:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+255|796|796|9|2024-11-27|17:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+256|815|815|16|2025-05-06|13:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+257|834|834|21|2025-04-06|17:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+258|853|853|2|2025-04-14|10:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+259|872|872|31|2025-04-23|08:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+260|891|891|11|2024-01-02|09:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+261|910|910|53|2025-03-30|19:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+262|929|929|39|2024-07-26|08:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+263|948|948|36|2024-01-10|13:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+264|967|967|20|2025-04-15|10:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+265|986|986|52|2024-01-14|10:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+266|1005|707|14|2026-03-27|12:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+267|1024|831|45|2025-10-26|12:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+268|1043|266|15|2026-03-16|09:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+269|1062|30|39|2025-09-04|13:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+270|1081|765|50|2026-02-12|15:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+271|1100|268|37|2025-12-31|10:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+272|1119|992|29|2026-04-10|19:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+273|1138|18|31|2026-03-12|14:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+274|1157|725|55|2026-01-14|19:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+275|1176|357|40|2025-12-02|14:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+276|1195|122|40|2025-11-05|19:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+277|1214|322|39|2026-08-31|16:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+278|1233|385|18|2025-10-24|13:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+279|1252|770|30|2025-09-01|12:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+280|1271|241|45|2026-03-14|19:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+281|1290|255|18|2026-04-29|13:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+282|1309|310|31|2025-10-13|14:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+283|1328|175|16|2026-10-13|09:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+284|1347|590|53|2026-06-26|12:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+285|16|16|50|2024-07-13|12:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+286|35|35|53|2024-08-12|13:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+287|54|54|1|2025-01-23|11:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+288|73|73|40|2024-04-27|14:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+289|92|92|25|2024-03-10|19:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+290|111|111|42|2024-12-29|14:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+291|130|130|25|2024-09-15|13:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+292|149|149|54|2024-03-20|08:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+293|168|168|14|2025-05-12|18:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+294|187|187|45|2025-03-19|15:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+295|206|206|26|2025-06-09|19:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+296|225|225|6|2025-03-01|11:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+297|244|244|25|2024-03-17|08:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+298|263|263|46|2025-06-13|11:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+299|282|282|17|2025-01-21|08:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+300|301|301|33|2025-03-05|10:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+301|320|320|21|2025-01-23|09:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+302|339|339|17|2024-12-03|09:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+303|358|358|37|2025-02-19|09:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+304|377|377|45|2024-02-05|17:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+305|396|396|49|2025-03-18|10:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+306|415|415|50|2024-04-25|10:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+307|434|434|17|2024-07-01|18:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+308|453|453|19|2024-11-17|16:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+309|472|472|9|2024-01-23|09:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+310|491|491|39|2025-05-13|12:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+311|510|510|6|2024-12-31|10:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+312|529|529|8|2024-02-19|13:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+313|548|548|46|2024-05-26|17:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+314|567|567|22|2025-05-27|14:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+315|586|586|52|2025-04-08|10:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+316|605|605|14|2024-01-14|11:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+317|624|624|25|2024-06-25|15:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+318|643|643|20|2024-08-10|15:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+319|662|662|7|2024-10-31|18:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+320|681|681|25|2024-04-20|18:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+321|700|700|53|2025-03-18|15:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+322|719|719|50|2025-03-19|14:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+323|738|738|14|2024-09-29|14:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+324|757|757|30|2024-03-11|12:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+325|776|776|6|2024-06-24|08:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+326|795|795|31|2024-07-04|15:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+327|814|814|7|2024-03-09|13:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+328|833|833|15|2024-08-26|10:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+329|852|852|55|2024-06-14|10:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+330|871|871|48|2024-07-07|17:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+331|890|890|51|2024-12-18|11:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+332|909|909|53|2025-02-27|18:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+333|928|928|44|2024-01-02|17:15|Under clinical review|Routine postoperative follow-up|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+334|947|947|15|2024-11-01|16:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+335|966|966|17|2024-05-28|14:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+336|985|985|37|2024-03-25|19:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+337|1004|325|30|2026-08-10|10:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+338|1023|804|10|2026-02-14|16:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+339|1042|650|43|2026-03-05|08:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+340|1061|79|37|2026-05-25|12:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+341|1080|705|36|2026-03-27|19:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+342|1099|156|14|2026-01-05|11:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+343|1118|338|6|2026-04-24|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+344|1137|554|33|2025-09-21|13:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+345|1156|288|53|2025-09-05|19:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+346|1175|464|5|2026-07-19|13:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+347|1194|401|6|2026-10-07|10:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+348|1213|669|12|2025-11-06|11:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+349|1232|589|13|2026-05-07|11:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+350|1251|888|55|2026-04-11|08:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+351|1270|190|5|2025-09-30|08:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+352|1289|905|28|2026-01-25|14:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+353|1308|86|48|2025-09-02|08:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+354|1327|419|7|2025-09-09|15:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+355|1346|997|26|2025-09-26|19:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+356|15|15|14|2025-01-09|13:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+357|34|34|28|2025-01-29|11:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+358|53|53|31|2025-02-17|14:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+359|72|72|28|2025-03-08|15:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+360|91|91|27|2024-01-20|16:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+361|110|110|3|2024-07-09|14:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+362|129|129|40|2024-06-02|10:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+363|148|148|32|2024-05-11|19:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+364|167|167|39|2025-04-08|08:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+365|186|186|39|2024-10-27|10:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+366|205|205|22|2024-01-18|16:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+367|224|224|21|2024-08-22|15:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+368|243|243|31|2024-07-16|11:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+369|262|262|32|2025-04-07|08:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+370|281|281|5|2025-05-04|09:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+371|300|300|2|2024-10-11|17:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+372|319|319|49|2025-04-15|15:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+373|338|338|25|2025-06-14|18:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+374|357|357|26|2024-09-25|11:15|Under clinical review|Fever and fatigue|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+375|376|376|32|2025-04-08|16:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+376|395|395|1|2024-11-22|17:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+377|414|414|12|2024-03-25|09:15|Under clinical review|Dizziness|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+378|433|433|19|2025-02-28|18:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+379|452|452|2|2025-01-26|10:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+380|471|471|44|2024-10-17|18:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+381|490|490|53|2024-08-17|12:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+382|509|509|6|2025-01-13|14:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+383|528|528|28|2024-01-11|11:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+384|547|547|37|2024-03-13|15:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+385|566|566|22|2025-05-27|16:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+386|585|585|29|2025-02-21|13:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+387|604|604|2|2024-10-03|10:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+388|623|623|21|2024-11-20|09:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+389|642|642|35|2024-10-23|17:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+390|661|661|23|2024-01-20|16:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+391|680|680|29|2025-01-14|16:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+392|699|699|53|2024-04-30|11:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+393|718|718|6|2024-05-21|08:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+394|737|737|36|2025-01-10|14:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+395|756|756|49|2025-06-29|15:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+396|775|775|20|2024-10-10|13:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+397|794|794|49|2024-03-17|09:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+398|813|813|47|2024-11-26|12:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+399|832|832|51|2025-05-13|19:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+400|851|851|34|2025-05-01|08:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+401|870|870|15|2024-03-27|12:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+402|889|889|43|2024-05-25|12:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+403|908|908|48|2024-01-13|14:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+404|927|927|16|2024-10-03|18:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+405|946|946|13|2024-12-24|11:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+406|965|965|22|2024-09-15|16:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+407|984|984|19|2025-02-23|13:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+408|1003|553|3|2026-10-24|09:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+409|1022|666|1|2025-10-31|14:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+410|1041|859|48|2025-09-02|09:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+411|1060|154|47|2025-09-14|12:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+412|1079|831|42|2025-11-12|17:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+413|1098|333|18|2026-07-14|18:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+414|1117|12|25|2026-05-17|18:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+415|1136|163|41|2025-10-19|11:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+416|1155|208|47|2026-06-11|08:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+417|1174|848|43|2025-08-21|11:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+418|1193|775|34|2026-04-16|15:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+419|1212|178|45|2025-10-22|15:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+420|1231|490|28|2026-02-07|16:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+421|1250|954|35|2025-12-26|17:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+422|1269|422|8|2026-01-20|16:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+423|1288|854|30|2026-01-25|11:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+424|1307|556|54|2026-01-15|18:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+425|1326|172|16|2026-01-27|15:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+426|1345|254|10|2026-10-18|14:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+427|14|14|55|2024-07-19|11:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+428|33|33|21|2024-10-21|12:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+429|52|52|11|2025-06-17|08:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+430|71|71|43|2024-09-13|09:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+431|90|90|23|2024-12-01|15:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+432|109|109|45|2025-04-12|17:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+433|128|128|8|2025-01-07|18:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+434|147|147|4|2024-06-26|13:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+435|166|166|36|2024-06-24|18:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+436|185|185|35|2025-05-25|17:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+437|204|204|50|2025-02-22|17:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+438|223|223|49|2024-09-19|09:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+439|242|242|24|2025-06-22|13:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+440|261|261|28|2024-06-22|12:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+441|280|280|15|2024-11-17|19:15|Under clinical review|Shortness of breath|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+442|299|299|41|2024-12-07|18:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+443|318|318|18|2025-05-02|17:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+444|337|337|26|2024-04-13|19:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+445|356|356|33|2024-09-16|19:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+446|375|375|53|2025-03-26|15:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+447|394|394|17|2024-01-18|16:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+448|413|413|18|2025-04-13|10:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+449|432|432|29|2024-09-22|10:15|Under clinical review|Injury assessment|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+450|451|451|15|2024-12-23|09:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+451|470|470|40|2024-08-09|13:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+452|489|489|45|2024-08-28|13:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+453|508|508|14|2024-04-12|12:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+454|527|527|31|2024-05-10|10:15|Under clinical review|Chest discomfort|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+455|546|546|42|2024-05-01|10:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+456|565|565|17|2024-07-03|18:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+457|584|584|12|2024-08-22|14:15|Under clinical review|Abdominal pain|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+458|603|603|35|2024-09-24|18:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+459|622|622|31|2025-03-14|08:15|Under clinical review|Dizziness|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+460|641|641|21|2025-02-26|18:15|Under clinical review|Shortness of breath|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+461|660|660|43|2024-04-01|16:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+462|679|679|5|2025-04-16|16:15|Under clinical review|Abnormal laboratory values|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+463|698|698|23|2025-03-24|08:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+464|717|717|43|2024-10-31|09:15|Under clinical review|Urinary symptoms|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+465|736|736|13|2024-07-19|09:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+466|755|755|19|2024-06-28|09:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+467|774|774|3|2025-06-24|10:15|Under clinical review|Severe headache|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+468|793|793|13|2025-02-17|09:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+469|812|812|16|2024-02-15|14:15|Under clinical review|Fever and fatigue|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+470|831|831|38|2024-01-29|12:15|Under clinical review|Chest discomfort|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+471|850|850|19|2025-06-13|18:15|Under clinical review|Urinary symptoms|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+472|869|869|8|2024-10-08|15:15|Under clinical review|Routine postoperative follow-up|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+473|888|888|46|2025-02-01|08:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+474|907|907|41|2024-07-14|08:15|Under clinical review|Severe headache|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+475|926|926|22|2025-06-20|11:15|Under clinical review|Fever and fatigue|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+476|945|945|41|2024-01-20|09:15|Under clinical review|Dizziness|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+477|964|964|42|2024-03-17|08:15|Under clinical review|Injury assessment|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+478|983|983|32|2024-09-19|11:15|Under clinical review|Routine postoperative follow-up|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+479|1002|589|52|2026-06-28|12:15|Under clinical review|Urinary symptoms|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+480|1021|624|23|2026-05-22|09:15|Under clinical review|Abnormal laboratory values|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+81|190|190|6|2024-06-08|09:15|Under clinical review|Chest discomfort|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+82|209|209|55|2025-03-19|13:15|Under clinical review|Severe headache|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+83|228|228|40|2025-05-14|13:15|Under clinical review|Abdominal pain|Examination documented|Laboratory work|Clinical findings recorded|Monitoring and follow-up
+84|247|247|55|2025-06-09|17:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+85|266|266|8|2024-05-15|11:15|Under clinical review|Injury assessment|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+86|285|285|55|2025-05-01|08:15|Under clinical review|Abdominal pain|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
+87|304|304|19|2024-09-05|11:15|Under clinical review|Shortness of breath|Examination documented|Imaging|Clinical findings recorded|Monitoring and follow-up
+88|323|323|32|2024-12-10|14:15|Under clinical review|Abnormal laboratory values|Examination documented|NA|Clinical findings recorded|Monitoring and follow-up
