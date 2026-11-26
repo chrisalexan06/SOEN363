@@ -7,8 +7,7 @@ from supabase import Client, create_client
 
 # load Supabase credentials from the environment file and create the client.
 load_dotenv()
-SUPABASE_URL = 'https://saxjkmzgpbhxyecqvrxq.supabase.co'
-supabase: Client = create_client(SUPABASE_URL, os.getenv("SUPABASE_KEY"))
+supabase: Client = create_client(os.getenv("SUPABASE_URL"), os.getenv("SUPABASE_KEY"))
 
 # locate the CSV exports and set the maximum number of rows per request.
 DATA_DIR = Path(__file__).resolve().parent.parent / "task3_output"
@@ -64,11 +63,18 @@ if missing_files:
 # convert each CSV into records, replacing empty values with nulls, according to the Supabase documentation for importing 
 for table_name in TABLES_IN_INSERT_ORDER:
     csv_path = DATA_DIR / f"{table_name}.csv"
-    df = pd.read_csv(csv_path).astype(object)
+    df = pd.read_csv(csv_path)
+
+    if table_name == "patient":
+        for column in ("physician_id", "nurse_id"):
+            df[column] = pd.to_numeric(df[column], errors="raise").astype("Int64")
+
+    df = df.astype(object)
     df = df.where(pd.notna(df), None)
     records = df.to_dict(orient="records")
+
 # insert each table in batches and have check if it works 
     for batch_number, start in enumerate(range(0, len(records), BATCH_SIZE)):
         batch = records[start : start + BATCH_SIZE]
-        supabase.schema("phase2").table(table_name).insert(batch).execute()
+        supabase.schema("phase2").table(table_name).upsert(batch).execute()
         print(f"Inserted {table_name} batch {batch_number}")
