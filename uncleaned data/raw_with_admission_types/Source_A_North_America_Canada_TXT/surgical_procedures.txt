@@ -1,189 +1,189 @@
 procedure_id|admission_id|physician_id|procedure_date|procedure_time|procedure_type|duration_minutes
-1|28|17|2023-01-01|16:00|Orthopedic fixation|58
-2|45|22|2023-01-01|16:00|Cholecystectomy|101
-3|62|5|2023-01-01|16:00|Endoscopy with intervention|122
-4|79|33|2023-01-01|16:00|Cholecystectomy|83
-5|96|26|2023-01-01|16:00|Cardiac catheterization|44
-6|113|19|2023-01-01|16:00|Endoscopy with intervention|54
-7|130|25|2023-01-01|16:00|Cholecystectomy|40
-8|147|4|2023-01-01|16:00|Orthopedic fixation|49
-9|164|47|2023-01-01|16:00|Hernia repair|140
-10|181|28|2023-01-01|16:00|Orthopedic fixation|124
-11|198|40|2023-01-01|16:00|Appendectomy|121
-12|215|13|2023-01-01|16:00|Appendectomy|109
-13|232|50|2025-03-02|16:00|Endoscopy with intervention|151
-14|249|54|2024-05-18|16:00|Cardiac catheterization|52
-15|266|8|2024-05-16|16:00|Cholecystectomy|154
-16|283|33|2025-04-26|16:00|Orthopedic fixation|60
-17|300|2|2024-10-11|16:00|Endoscopy with intervention|102
-18|317|51|2024-07-07|16:00|Orthopedic fixation|128
-19|334|20|2024-05-11|16:00|Cardiac catheterization|111
-20|351|37|2024-09-10|16:00|Cholecystectomy|138
-21|368|20|2024-09-06|16:00|Appendectomy|119
-22|385|1|2024-03-19|16:00|Cardiac catheterization|143
-23|402|20|2024-07-03|16:00|Endoscopy with intervention|77
-24|419|19|2025-02-14|16:00|Appendectomy|124
-25|436|45|2024-05-16|16:00|Orthopedic fixation|131
-26|453|19|2024-11-15|16:00|Endoscopy with intervention|69
-27|470|40|2024-08-08|16:00|Appendectomy|68
-28|487|47|2024-11-20|16:00|Cholecystectomy|122
-29|504|6|2025-03-23|16:00|Cholecystectomy|109
-30|521|32|2024-04-14|16:00|Endoscopy with intervention|71
-31|538|32|2025-01-28|16:00|Orthopedic fixation|86
-32|555|39|2024-09-07|16:00|Cholecystectomy|126
-33|572|47|2024-08-01|16:00|Appendectomy|137
-34|589|31|2024-12-10|16:00|Hernia repair|116
-35|606|14|2024-01-25|16:00|Appendectomy|120
-36|623|21|2024-11-20|16:00|Cholecystectomy|95
-37|640|6|2024-08-26|16:00|Cholecystectomy|145
-38|657|29|2024-11-29|16:00|Hernia repair|70
-39|674|46|2025-04-11|16:00|Appendectomy|107
-40|691|13|2024-09-13|16:00|Cardiac catheterization|79
-41|708|11|2025-03-13|16:00|Hernia repair|135
-42|725|28|2024-01-10|16:00|Cholecystectomy|50
-43|742|41|2024-10-30|16:00|Hernia repair|143
-44|759|44|2024-12-25|16:00|Appendectomy|42
-45|776|6|2024-06-25|16:00|Orthopedic fixation|139
-46|793|13|2025-02-17|16:00|Appendectomy|141
-47|810|10|2025-02-12|16:00|Endoscopy with intervention|73
-48|827|45|2025-05-03|16:00|Hernia repair|60
-49|844|44|2024-05-26|16:00|Hernia repair|59
-50|861|18|2024-07-02|16:00|Cardiac catheterization|153
-51|878|28|2024-05-15|16:00|Hernia repair|58
-52|895|20|2024-06-27|16:00|Endoscopy with intervention|77
-53|912|17|2025-03-22|16:00|Endoscopy with intervention|150
-54|929|39|2024-07-26|16:00|Cardiac catheterization|40
-55|946|13|2024-12-23|16:00|Cholecystectomy|70
-56|963|55|2025-03-01|16:00|Cholecystectomy|61
-57|980|48|2025-05-03|16:00|Endoscopy with intervention|133
-58|997|5|2025-06-20|16:00|Cholecystectomy|89
-59|1014|3|2025-09-12|16:00|Hernia repair|106
-60|1031|50|2026-02-25|16:00|Hernia repair|59
-61|1048|38|2026-08-08|16:00|Orthopedic fixation|47
-62|1065|22|2026-03-16|16:00|Appendectomy|122
-63|1082|6|2026-02-18|16:00|Appendectomy|119
-64|1099|14|2026-01-06|16:00|Endoscopy with intervention|87
-65|1116|4|2026-07-21|16:00|Cardiac catheterization|69
-66|1133|16|2026-08-20|16:00|Cholecystectomy|149
-67|1150|30|2026-09-26|16:00|Orthopedic fixation|52
-68|1167|32|2026-07-30|16:00|Hernia repair|67
-69|1184|50|2026-09-13|16:00|Hernia repair|56
-70|1201|31|2025-11-06|16:00|Orthopedic fixation|116
-71|535|7|2025-01-30|16:00|Hernia repair|128
-72|1024|45|2025-10-25|16:00|Cardiac catheterization|92
-73|567|22|2025-05-25|16:00|Appendectomy|153
-74|1183|8|2025-08-27|16:00|Appendectomy|113
-75|130|25|2024-09-16|16:00|Endoscopy with intervention|40
-76|300|2|2024-10-11|16:00|Hernia repair|129
-77|222|20|2024-08-07|16:00|Cardiac catheterization|135
-78|646|11|2024-08-01|16:00|Cardiac catheterization|36
-79|104|45|2024-01-24|16:00|Appendectomy|94
-80|1330|42|2026-08-21|16:00|Appendectomy|99
-81|435|28|2025-04-21|16:00|Endoscopy with intervention|103
-82|251|54|2025-06-28|16:00|Cholecystectomy|129
-83|998|10|2025-02-18|16:00|Orthopedic fixation|70
-84|351|37|2024-09-10|16:00|Hernia repair|97
-85|732|2|2025-05-03|16:00|Cardiac catheterization|124
-86|354|28|2025-02-16|16:00|Orthopedic fixation|140
-87|717|43|2024-10-30|16:00|Hernia repair|125
-88|1109|9|2025-09-19|16:00|Endoscopy with intervention|87
-89|272|4|2024-05-31|16:00|Orthopedic fixation|70
-90|503|8|2024-07-15|16:00|Endoscopy with intervention|118
-91|468|38|2024-07-01|16:00|Cholecystectomy|150
-92|975|40|2024-03-13|16:00|Cholecystectomy|86
-93|927|16|2024-10-02|16:00|Appendectomy|125
-94|1059|40|2026-04-22|16:00|Appendectomy|94
-95|573|31|2024-02-12|16:00|Orthopedic fixation|149
-96|1154|28|2026-03-04|16:00|Appendectomy|122
-97|48|20|2025-02-11|16:00|Appendectomy|84
-98|89|49|2024-07-28|16:00|Orthopedic fixation|111
-99|1186|7|2026-09-11|16:00|Cholecystectomy|58
-100|1261|53|2026-04-26|16:00|Appendectomy|115
-101|1151|32|2026-08-24|16:00|Appendectomy|91
-102|728|7|2025-02-08|16:00|Cardiac catheterization|90
-103|460|18|2024-09-11|16:00|Cholecystectomy|71
-104|699|53|2024-04-30|16:00|Appendectomy|113
-105|1044|16|2026-10-30|16:00|Cardiac catheterization|114
-106|58|21|2025-04-18|16:00|Appendectomy|115
-107|984|19|2025-02-22|16:00|Endoscopy with intervention|119
-108|688|49|2024-03-30|16:00|Appendectomy|98
-109|942|5|2025-05-19|16:00|Orthopedic fixation|112
-110|809|36|2024-08-04|16:00|Cholecystectomy|75
-111|592|29|2025-06-26|16:00|Hernia repair|116
-112|1047|9|2026-09-09|16:00|Endoscopy with intervention|47
-113|501|43|2024-06-08|16:00|Appendectomy|113
-114|496|7|2024-09-17|16:00|Cardiac catheterization|149
-115|949|7|2024-02-04|16:00|Orthopedic fixation|48
-116|1133|16|2026-08-20|16:00|Hernia repair|86
-117|1085|12|2026-05-01|16:00|Endoscopy with intervention|93
-118|302|28|2025-03-03|16:00|Orthopedic fixation|61
-119|196|44|2025-02-04|16:00|Appendectomy|151
-120|13|29|2024-03-15|16:00|Appendectomy|149
-121|724|42|2025-05-10|16:00|Endoscopy with intervention|113
-122|1271|45|2026-03-12|16:00|Cardiac catheterization|136
-123|1032|42|2026-02-13|16:00|Appendectomy|96
-124|1148|5|2026-01-17|16:00|Orthopedic fixation|49
-125|17|4|2024-09-11|16:00|Hernia repair|123
-126|250|29|2025-02-09|16:00|Orthopedic fixation|108
-127|68|35|2025-05-18|16:00|Cardiac catheterization|106
-128|780|14|2024-07-05|16:00|Cardiac catheterization|70
-129|333|37|2025-03-29|16:00|Cardiac catheterization|105
-130|900|53|2025-03-30|16:00|Appendectomy|95
-131|702|27|2024-12-30|16:00|Orthopedic fixation|147
-132|674|46|2025-04-11|16:00|Cholecystectomy|107
-133|1081|50|2026-02-12|16:00|Hernia repair|81
-134|1171|37|2026-02-08|16:00|Hernia repair|113
-135|563|32|2024-02-04|16:00|Hernia repair|151
-136|308|46|2024-10-18|16:00|Cardiac catheterization|116
-137|1150|30|2026-09-26|16:00|Appendectomy|35
-138|575|23|2025-03-31|16:00|Cholecystectomy|43
-139|673|16|2024-11-26|16:00|Appendectomy|68
-140|963|55|2025-03-01|16:00|Hernia repair|42
-141|720|47|2024-03-16|16:00|Cardiac catheterization|97
-142|344|3|2024-08-02|16:00|Endoscopy with intervention|138
-143|893|37|2025-05-21|16:00|Hernia repair|127
-144|515|43|2024-01-18|16:00|Hernia repair|42
-145|923|34|2024-02-06|16:00|Hernia repair|148
-146|461|17|2024-08-08|16:00|Endoscopy with intervention|88
-147|1164|2|2026-03-28|16:00|Hernia repair|79
-148|1287|14|2026-03-15|16:00|Hernia repair|105
-149|40|45|2024-11-29|16:00|Cholecystectomy|138
-150|906|29|2025-04-22|16:00|Endoscopy with intervention|110
-151|1001|32|2026-07-11|16:00|Endoscopy with intervention|104
-152|1324|36|2025-12-11|16:00|Endoscopy with intervention|125
-153|243|31|2024-07-14|16:00|Endoscopy with intervention|100
-154|1208|46|2026-06-30|16:00|Cardiac catheterization|89
-155|1041|48|2025-09-01|16:00|Hernia repair|117
-156|969|28|2024-04-22|16:00|Hernia repair|117
-157|380|30|2024-12-30|16:00|Orthopedic fixation|44
-158|1058|10|2025-11-17|16:00|Hernia repair|108
-159|197|32|2024-11-14|16:00|Cholecystectomy|132
-160|805|53|2024-04-22|16:00|Cholecystectomy|121
-161|635|54|2025-05-03|16:00|Appendectomy|52
-162|470|40|2024-08-08|16:00|Cardiac catheterization|69
-163|327|23|2024-08-13|16:00|Cardiac catheterization|66
-164|427|23|2024-02-16|16:00|Cardiac catheterization|133
-165|59|42|2025-06-07|16:00|Cardiac catheterization|143
-166|1077|44|2025-08-11|16:00|Cholecystectomy|96
-167|376|32|2025-04-09|16:00|Orthopedic fixation|65
-168|737|36|2025-01-10|16:00|Orthopedic fixation|120
-169|290|13|2024-06-21|16:00|Appendectomy|70
-170|368|20|2024-09-06|16:00|Appendectomy|64
-171|871|48|2024-07-07|16:00|Cardiac catheterization|67
-172|277|3|2024-07-28|16:00|Appendectomy|67
-173|322|43|2024-03-28|16:00|Cholecystectomy|82
-174|593|42|2024-08-08|16:00|Cardiac catheterization|106
-175|814|7|2024-03-10|16:00|Orthopedic fixation|83
-176|718|6|2024-05-22|16:00|Appendectomy|84
-177|811|27|2024-03-29|16:00|Orthopedic fixation|64
-178|359|16|2024-09-05|16:00|Endoscopy with intervention|41
-179|382|50|2024-04-17|16:00|Orthopedic fixation|145
-180|112|52|2025-04-24|16:00|Orthopedic fixation|135
-81|435|28|2025-04-21|16:00|Endoscopy with intervention|103
-82|251|54|2025-06-28|16:00|Cholecystectomy|129
-83|998|10|2025-02-18|16:00|Orthopedic fixation|70
-84|351|37|2024-09-10|16:00|Hernia repair|97
-85|732|2|2025-05-03|16:00|Cardiac catheterization|124
-86|354|28|2025-02-16|16:00|Orthopedic fixation|140
-87|717|43|2024-10-30|16:00|Hernia repair|125
-88|1109|9|2025-09-19|16:00|Endoscopy with intervention|87
+1|28|17|2023-01-01|13:54|Orthopedic fixation|58
+2|45|22|2023-01-01|19:19|Cholecystectomy|101
+3|62|5|2023-01-01|13:41|Endoscopy with intervention|122
+4|79|33|2023-01-01|18:49|Cholecystectomy|83
+5|96|26|2023-01-01|14:24|Cardiac catheterization|44
+6|113|19|2023-01-01|09:58|Endoscopy with intervention|54
+7|130|25|2023-01-01|15:30|Cholecystectomy|40
+8|147|4|2023-01-01|16:08|Orthopedic fixation|49
+9|164|47|2023-01-01|09:29|Hernia repair|140
+10|181|28|2023-01-01|13:48|Orthopedic fixation|124
+11|198|40|2023-01-01|14:28|Appendectomy|121
+12|215|13|2023-01-01|17:24|Appendectomy|109
+13|232|50|2025-03-02|14:46|Endoscopy with intervention|151
+14|249|54|2024-05-18|15:45|Cardiac catheterization|52
+15|266|8|2024-05-16|13:42|Cholecystectomy|154
+16|283|33|2025-04-26|09:05|Orthopedic fixation|60
+17|300|2|2024-10-11|16:22|Endoscopy with intervention|102
+18|317|51|2024-07-07|17:15|Orthopedic fixation|128
+19|334|20|2024-05-11|18:11|Cardiac catheterization|111
+20|351|37|2024-09-10|10:19|Cholecystectomy|138
+21|368|20|2024-09-06|14:36|Appendectomy|119
+22|385|1|2024-03-19|15:37|Cardiac catheterization|143
+23|402|20|2024-07-03|12:11|Endoscopy with intervention|77
+24|419|19|2025-02-14|16:21|Appendectomy|124
+25|436|45|2024-05-16|12:08|Orthopedic fixation|131
+26|453|19|2024-11-15|14:43|Endoscopy with intervention|69
+27|470|40|2024-08-08|14:45|Appendectomy|68
+28|487|47|2024-11-20|13:09|Cholecystectomy|122
+29|504|6|2025-03-23|14:21|Cholecystectomy|109
+30|521|32|2024-04-14|15:07|Endoscopy with intervention|71
+31|538|32|2025-01-28|15:32|Orthopedic fixation|86
+32|555|39|2024-09-07|16:04|Cholecystectomy|126
+33|572|47|2024-08-01|16:13|Appendectomy|137
+34|589|31|2024-12-10|10:48|Hernia repair|116
+35|606|14|2024-01-25|12:10|Appendectomy|120
+36|623|21|2024-11-20|09:07|Cholecystectomy|95
+37|640|6|2024-08-26|13:38|Cholecystectomy|145
+38|657|29|2024-11-29|15:21|Hernia repair|70
+39|674|46|2025-04-11|16:14|Appendectomy|107
+40|691|13|2024-09-13|13:32|Cardiac catheterization|79
+41|708|11|2025-03-13|17:33|Hernia repair|135
+42|725|28|2024-01-10|16:49|Cholecystectomy|50
+43|742|41|2024-10-30|11:21|Hernia repair|143
+44|759|44|2024-12-25|11:19|Appendectomy|42
+45|776|6|2024-06-25|12:28|Orthopedic fixation|139
+46|793|13|2025-02-17|14:07|Appendectomy|141
+47|810|10|2025-02-12|11:32|Endoscopy with intervention|73
+48|827|45|2025-05-03|09:29|Hernia repair|60
+49|844|44|2024-05-26|15:30|Hernia repair|59
+50|861|18|2024-07-02|12:11|Cardiac catheterization|153
+51|878|28|2024-05-15|12:19|Hernia repair|58
+52|895|20|2024-06-27|10:22|Endoscopy with intervention|77
+53|912|17|2025-03-22|13:10|Endoscopy with intervention|150
+54|929|39|2024-07-26|11:52|Cardiac catheterization|40
+55|946|13|2024-12-23|09:57|Cholecystectomy|70
+56|963|55|2025-03-01|10:48|Cholecystectomy|61
+57|980|48|2025-05-03|16:50|Endoscopy with intervention|133
+58|997|5|2025-06-20|14:03|Cholecystectomy|89
+59|1014|3|2025-09-12|10:06|Hernia repair|106
+60|1031|50|2026-02-25|12:38|Hernia repair|59
+61|1048|38|2026-08-08|09:39|Orthopedic fixation|47
+62|1065|22|2026-03-16|09:00|Appendectomy|122
+63|1082|6|2026-02-18|17:57|Appendectomy|119
+64|1099|14|2026-01-06|13:38|Endoscopy with intervention|87
+65|1116|4|2026-07-21|14:13|Cardiac catheterization|69
+66|1133|16|2026-08-20|09:33|Cholecystectomy|149
+67|1150|30|2026-09-26|17:25|Orthopedic fixation|52
+68|1167|32|2026-07-30|18:57|Hernia repair|67
+69|1184|50|2026-09-13|15:27|Hernia repair|56
+70|1201|31|2025-11-06|18:57|Orthopedic fixation|116
+71|535|7|2025-01-30|12:23|Hernia repair|128
+72|1024|45|2025-10-25|12:57|Cardiac catheterization|92
+73|567|22|2025-05-25|18:00|Appendectomy|153
+74|1183|8|2025-08-27|10:19|Appendectomy|113
+75|130|25|2024-09-16|15:30|Endoscopy with intervention|40
+76|300|2|2024-10-11|16:22|Hernia repair|129
+77|222|20|2024-08-07|13:44|Cardiac catheterization|135
+78|646|11|2024-08-01|15:16|Cardiac catheterization|36
+79|104|45|2024-01-24|15:39|Appendectomy|94
+80|1330|42|2026-08-21|17:31|Appendectomy|99
+81|435|28|2025-04-21|11:38|Endoscopy with intervention|103
+82|251|54|2025-06-28|15:11|Cholecystectomy|129
+83|998|10|2025-02-18|18:15|Orthopedic fixation|70
+84|351|37|2024-09-10|10:19|Hernia repair|97
+85|732|2|2025-05-03|10:28|Cardiac catheterization|124
+86|354|28|2025-02-16|12:39|Orthopedic fixation|140
+87|717|43|2024-10-30|12:52|Hernia repair|125
+88|1109|9|2025-09-19|09:45|Endoscopy with intervention|87
+89|272|4|2024-05-31|17:00|Orthopedic fixation|70
+90|503|8|2024-07-15|17:46|Endoscopy with intervention|118
+91|468|38|2024-07-01|16:43|Cholecystectomy|150
+92|975|40|2024-03-13|09:06|Cholecystectomy|86
+93|927|16|2024-10-02|17:34|Appendectomy|125
+94|1059|40|2026-04-22|16:58|Appendectomy|94
+95|573|31|2024-02-12|19:27|Orthopedic fixation|149
+96|1154|28|2026-03-04|13:16|Appendectomy|122
+97|48|20|2025-02-11|15:29|Appendectomy|84
+98|89|49|2024-07-28|11:53|Orthopedic fixation|111
+99|1186|7|2026-09-11|14:33|Cholecystectomy|58
+100|1261|53|2026-04-26|09:07|Appendectomy|115
+101|1151|32|2026-08-24|13:04|Appendectomy|91
+102|728|7|2025-02-08|09:17|Cardiac catheterization|90
+103|460|18|2024-09-11|14:04|Cholecystectomy|71
+104|699|53|2024-04-30|13:54|Appendectomy|113
+105|1044|16|2026-10-30|15:49|Cardiac catheterization|114
+106|58|21|2025-04-18|16:44|Appendectomy|115
+107|984|19|2025-02-22|10:22|Endoscopy with intervention|119
+108|688|49|2024-03-30|10:07|Appendectomy|98
+109|942|5|2025-05-19|19:30|Orthopedic fixation|112
+110|809|36|2024-08-04|12:37|Cholecystectomy|75
+111|592|29|2025-06-26|18:08|Hernia repair|116
+112|1047|9|2026-09-09|15:27|Endoscopy with intervention|47
+113|501|43|2024-06-08|14:08|Appendectomy|113
+114|496|7|2024-09-17|16:40|Cardiac catheterization|149
+115|949|7|2024-02-04|13:00|Orthopedic fixation|48
+116|1133|16|2026-08-20|09:33|Hernia repair|86
+117|1085|12|2026-05-01|18:59|Endoscopy with intervention|93
+118|302|28|2025-03-03|15:39|Orthopedic fixation|61
+119|196|44|2025-02-04|14:59|Appendectomy|151
+120|13|29|2024-03-15|10:06|Appendectomy|149
+121|724|42|2025-05-10|11:51|Endoscopy with intervention|113
+122|1271|45|2026-03-12|16:33|Cardiac catheterization|136
+123|1032|42|2026-02-13|16:17|Appendectomy|96
+124|1148|5|2026-01-17|14:08|Orthopedic fixation|49
+125|17|4|2024-09-11|11:55|Hernia repair|123
+126|250|29|2025-02-09|17:12|Orthopedic fixation|108
+127|68|35|2025-05-18|12:14|Cardiac catheterization|106
+128|780|14|2024-07-05|12:45|Cardiac catheterization|70
+129|333|37|2025-03-29|17:55|Cardiac catheterization|105
+130|900|53|2025-03-30|16:28|Appendectomy|95
+131|702|27|2024-12-30|11:23|Orthopedic fixation|147
+132|674|46|2025-04-11|16:14|Cholecystectomy|107
+133|1081|50|2026-02-12|19:06|Hernia repair|81
+134|1171|37|2026-02-08|11:55|Hernia repair|113
+135|563|32|2024-02-04|09:36|Hernia repair|151
+136|308|46|2024-10-18|12:43|Cardiac catheterization|116
+137|1150|30|2026-09-26|17:25|Appendectomy|35
+138|575|23|2025-03-31|19:23|Cholecystectomy|43
+139|673|16|2024-11-26|16:28|Appendectomy|68
+140|963|55|2025-03-01|10:48|Hernia repair|42
+141|720|47|2024-03-16|10:23|Cardiac catheterization|97
+142|344|3|2024-08-02|12:22|Endoscopy with intervention|138
+143|893|37|2025-05-21|10:06|Hernia repair|127
+144|515|43|2024-01-18|18:42|Hernia repair|42
+145|923|34|2024-02-06|11:28|Hernia repair|148
+146|461|17|2024-08-08|10:29|Endoscopy with intervention|88
+147|1164|2|2026-03-28|09:23|Hernia repair|79
+148|1287|14|2026-03-15|12:34|Hernia repair|105
+149|40|45|2024-11-29|18:14|Cholecystectomy|138
+150|906|29|2025-04-22|09:36|Endoscopy with intervention|110
+151|1001|32|2026-07-11|19:15|Endoscopy with intervention|104
+152|1324|36|2025-12-11|15:09|Endoscopy with intervention|125
+153|243|31|2024-07-14|17:53|Endoscopy with intervention|100
+154|1208|46|2026-06-30|11:28|Cardiac catheterization|89
+155|1041|48|2025-09-01|18:30|Hernia repair|117
+156|969|28|2024-04-22|11:18|Hernia repair|117
+157|380|30|2024-12-30|16:53|Orthopedic fixation|44
+158|1058|10|2025-11-17|12:03|Hernia repair|108
+159|197|32|2024-11-14|09:48|Cholecystectomy|132
+160|805|53|2024-04-22|10:38|Cholecystectomy|121
+161|635|54|2025-05-03|15:32|Appendectomy|52
+162|470|40|2024-08-08|14:45|Cardiac catheterization|69
+163|327|23|2024-08-13|15:31|Cardiac catheterization|66
+164|427|23|2024-02-16|14:13|Cardiac catheterization|133
+165|59|42|2025-06-07|12:52|Cardiac catheterization|143
+166|1077|44|2025-08-11|15:22|Cholecystectomy|96
+167|376|32|2025-04-09|17:06|Orthopedic fixation|65
+168|737|36|2025-01-10|10:46|Orthopedic fixation|120
+169|290|13|2024-06-21|16:19|Appendectomy|70
+170|368|20|2024-09-06|14:36|Appendectomy|64
+171|871|48|2024-07-07|17:36|Cardiac catheterization|67
+172|277|3|2024-07-28|15:05|Appendectomy|67
+173|322|43|2024-03-28|13:16|Cholecystectomy|82
+174|593|42|2024-08-08|10:29|Cardiac catheterization|106
+175|814|7|2024-03-10|18:06|Orthopedic fixation|83
+176|718|6|2024-05-22|11:49|Appendectomy|84
+177|811|27|2024-03-29|17:49|Orthopedic fixation|64
+178|359|16|2024-09-05|14:21|Endoscopy with intervention|41
+179|382|50|2024-04-17|11:42|Orthopedic fixation|145
+180|112|52|2025-04-24|15:06|Orthopedic fixation|135
+81|435|28|2025-04-21|11:38|Endoscopy with intervention|103
+82|251|54|2025-06-28|15:11|Cholecystectomy|129
+83|998|10|2025-02-18|18:15|Orthopedic fixation|70
+84|351|37|2024-09-10|10:19|Hernia repair|97
+85|732|2|2025-05-03|10:28|Cardiac catheterization|124
+86|354|28|2025-02-16|12:39|Orthopedic fixation|140
+87|717|43|2024-10-30|12:52|Hernia repair|125
+88|1109|9|2025-09-19|09:45|Endoscopy with intervention|87

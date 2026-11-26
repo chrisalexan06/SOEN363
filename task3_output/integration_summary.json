@@ -2,7 +2,7 @@
   "accepted_input_records": 38556,
   "integrated_table_rows": {
     "icd9_dictionary": 24,
-    "medication": 1,
+    "medication": 8,
     "source_system": 4,
     "physician": 220,
     "nurse": 180,
@@ -34,7 +34,7 @@
     "discharge_record_primary_diagnosis": 1768,
     "prescribed_meds": 509
   },
-  "total_integrated_rows": 60873,
+  "total_integrated_rows": 60880,
   "identifier_mappings": 38460,
   "unresolved_secondary_links": 16,
   "validation": "Foreign keys, table-level unique keys, required columns and patient/admission consistency checked locally; PostgreSQL checks remain for import."
