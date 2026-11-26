@@ -1,443 +1,443 @@
 discharge_record_id|admission_id|patient_id|physician_id|discharge_date|discharge_time|discharge_destination|patient_condition|primary_icd9_code|secondary_icd9_code|prescribed_medication|follow_up_appointment|follow_up_instructions|responsible_physician
-1|3|3|41|2025-05-22|20:00|Outpatient follow-up|Requires monitoring|530.81|786.50|Acetaminophen|NA|Contact local clinic for follow-up|Joyce Nelson
-2|6|6|19|2024-07-23|20:00|Another facility|Recovered|995.91|496|NA|NA|Contact local clinic for follow-up|Cory Galloway
-3|9|9|34|2024-01-06|20:00|Another facility|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Michelle Campbell
-4|12|12|38|2024-07-25|20:00|Another facility|Transferred|427.31|272.4|Acetaminophen|NA|Contact local clinic for follow-up|Andrew Jenkins
-5|15|15|14|2025-01-15|20:00|Another facility|Requires monitoring|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
-6|18|18|41|2025-07-03|20:00|Another facility|Recovered|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
-7|21|21|18|2024-07-30|20:00|Outpatient follow-up|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Amy Graham
-8|24|24|11|2024-09-29|20:00|Home|Requires monitoring|038.9|285.9|NA|NA|Contact local clinic for follow-up|Jane King
-9|27|27|47|2025-05-06|20:00|Another facility|Stable|530.81|786.50|Acetaminophen|NA|Contact local clinic for follow-up|Patrick Ross
-10|30|30|36|2025-02-26|20:00|Home|Improving|995.91|496|NA|NA|Contact local clinic for follow-up|James Davis
-11|33|33|21|2024-10-25|20:00|Home|Recovered|724.2|401.9|NA|NA|Contact local clinic for follow-up|Sandra Harvey
-12|36|36|55|2024-06-09|20:00|Another facility|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Benjamin Carr
-13|39|39|21|2024-06-07|20:00|Outpatient follow-up|Transferred|780.2|584.9|NA|NA|Contact local clinic for follow-up|Sandra Harvey
-14|42|42|52|2025-04-03|20:00|Outpatient follow-up|Requires monitoring|493.90|276.51|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
-15|45|45|22|2024-02-18|20:00|Outpatient follow-up|Transferred|414.01|780.60|NA|NA|Contact local clinic for follow-up|Christopher Moreno
-16|48|48|20|2025-02-11|20:00|Another facility|Stable|038.9|285.9|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
-17|51|51|14|2024-03-02|20:00|Home|Transferred|530.81|786.50|Acetaminophen|NA|Contact local clinic for follow-up|Chelsea Luna
-18|54|54|1|2025-01-23|20:00|Another facility|Recovered|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Terry Small
-19|57|57|10|2025-04-12|20:00|Another facility|Stable|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
-20|60|60|39|2024-01-13|20:00|Home|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Robert Adams
-21|63|63|36|2025-03-12|20:00|Outpatient follow-up|Transferred|780.2|584.9|None documented|NA|Contact local clinic for follow-up|James Davis
-22|66|66|40|2024-08-05|20:00|Mortuary|Deceased|493.90|276.51|NA|NA|NA|Angela Parks
-23|69|69|46|2025-05-29|20:00|Outpatient follow-up|Transferred|414.01|780.60|Acetaminophen|NA|Contact local clinic for follow-up|Daisy Mccarthy
-24|72|72|28|2025-03-15|20:00|Home|Improving|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Jennifer Johnson
-25|75|75|5|2024-03-16|20:00|Another facility|Stable|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Sarah Mason
-26|78|78|34|2024-07-15|20:00|Outpatient follow-up|Requires monitoring|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
-27|81|81|3|2025-03-15|20:00|Another facility|Recovered|724.2|401.9|NA|NA|Contact local clinic for follow-up|Amy Harris
-28|84|84|21|2024-10-19|20:00|Home|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Sandra Harvey
-29|87|87|46|2024-01-31|20:00|Home|Improving|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Daisy Mccarthy
-30|90|90|23|2024-12-09|20:00|Home|Stable|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
-31|93|93|47|2025-05-28|20:00|Outpatient follow-up|Improving|414.01|780.60|NA|NA|Contact local clinic for follow-up|Patrick Ross
-32|96|96|26|2025-02-27|20:00|Another facility|Transferred|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Angela Faulkner
-33|99|99|24|2025-07-01|20:00|Home|Requires monitoring|530.81|786.50|Acetaminophen|NA|Contact local clinic for follow-up|Cameron Smith
-34|102|102|41|2024-04-21|20:00|Another facility|Requires monitoring|995.91|496|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
-35|105|105|26|2024-10-13|20:00|Home|Requires monitoring|724.2|401.9|NA|NA|Contact local clinic for follow-up|Angela Faulkner
-36|108|108|27|2024-08-30|20:00|Home|Improving|427.31|272.4|NA|NA|Contact local clinic for follow-up|Patrick Hernandez
-37|111|111|42|2024-12-31|20:00|Another facility|Requires monitoring|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Joseph Watkins
-38|114|114|1|2025-05-02|20:00|Another facility|Recovered|493.90|276.51|NA|NA|Contact local clinic for follow-up|Terry Small
-39|117|117|37|2025-06-26|20:00|Mortuary|Deceased|414.01|780.60|NA|NA|NA|Kelly Vance
-40|120|120|26|2025-06-13|20:00|Outpatient follow-up|Improving|038.9|285.9|NA|NA|Contact local clinic for follow-up|Angela Faulkner
-41|123|123|33|2024-09-14|20:00|Another facility|Improving|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Jackie Lee
-42|126|126|23|2025-05-09|20:00|Another facility|Improving|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Stacy Freeman
-43|129|129|40|2024-06-09|20:00|Another facility|Stable|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
-44|132|132|17|2025-04-02|20:00|Another facility|Improving|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
-45|135|135|47|2025-01-18|20:00|Home|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Patrick Ross
-46|138|138|49|2024-06-25|20:00|Another facility|Requires monitoring|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Anthony Walker
-47|141|141|30|2024-03-22|20:00|Home|Improving|414.01|780.60|Acetaminophen|NA|Contact local clinic for follow-up|Barbara Johnson
-48|144|144|23|2024-06-14|20:00|Home|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
-49|147|147|4|2024-07-01|20:00|Another facility|Improving|530.81|786.50|Acetaminophen|NA|Contact local clinic for follow-up|Annette Wagner
-50|150|150|22|2024-12-27|20:00|Home|Recovered|995.91|496|NA|NA|Contact local clinic for follow-up|Christopher Moreno
-51|153|153|23|2024-08-23|20:00|Another facility|Transferred|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Stacy Freeman
-52|156|156|18|2025-01-09|20:00|Another facility|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Amy Graham
-53|159|159|25|2024-10-13|20:00|Outpatient follow-up|Stable|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Patricia Johnson
-54|162|162|6|2024-11-06|20:00|Another facility|Requires monitoring|493.90|276.51|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
-55|165|165|45|2024-06-01|20:00|Outpatient follow-up|Improving|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Taylor Williams
-56|168|168|14|2025-05-13|20:00|Home|Stable|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
-57|171|171|55|2024-03-17|20:00|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Benjamin Carr
-58|174|174|47|2024-11-24|20:00|Another facility|Stable|995.91|496|None documented|NA|Contact local clinic for follow-up|Patrick Ross
-59|177|177|48|2024-03-13|20:00|Another facility|Improving|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
-60|180|180|30|2024-07-17|20:00|Home|Improving|427.31|272.4|Acetaminophen|NA|Contact local clinic for follow-up|Barbara Johnson
-61|183|183|54|2024-01-25|20:00|Mortuary|Deceased|780.2|584.9|NA|NA|NA|Jason Jones
-62|186|186|39|2024-10-28|20:00|Outpatient follow-up|Requires monitoring|493.90|276.51|NA|NA|Contact local clinic for follow-up|Robert Adams
-63|189|189|19|2024-05-31|20:00|Outpatient follow-up|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Cory Galloway
-64|192|192|35|2025-05-28|20:00|Another facility|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Amy Jackson
-65|195|195|36|2024-05-21|20:00|Home|Transferred|530.81|786.50|NA|NA|Contact local clinic for follow-up|James Davis
-66|198|198|40|2024-11-05|20:00|Another facility|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Angela Parks
-67|201|201|38|2024-01-23|20:00|Another facility|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
-68|204|204|50|2025-02-22|20:00|Home|Transferred|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Curtis Martin
-69|207|207|49|2025-06-26|20:00|Home|Improving|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Anthony Walker
-70|210|210|54|2024-07-22|20:00|Outpatient follow-up|Requires monitoring|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Jason Jones
-71|213|213|52|2024-08-28|20:00|Home|Improving|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Maria Mcintosh
-72|216|216|34|2024-10-16|20:00|Another facility|Transferred|038.9|285.9|NA|NA|Contact local clinic for follow-up|Michelle Campbell
-73|219|219|12|2024-04-07|20:00|Outpatient follow-up|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
-74|222|222|20|2024-08-09|20:00|Outpatient follow-up|Improving|995.91|496|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
-75|225|225|6|2025-03-02|20:00|Another facility|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Jacqueline Flores
-76|228|228|40|2025-05-23|20:00|Home|Stable|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Angela Parks
-77|231|231|28|2024-03-24|20:00|Home|Requires monitoring|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Johnson
-78|234|234|28|2024-09-07|20:00|Outpatient follow-up|Improving|493.90|276.51|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
-79|237|237|19|2024-05-14|20:00|Another facility|Improving|414.01|780.60|Acetaminophen|NA|Contact local clinic for follow-up|Cory Galloway
-80|240|240|46|2024-07-17|20:00|Outpatient follow-up|Transferred|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Daisy Mccarthy
-81|243|243|31|2024-07-21|20:00|Outpatient follow-up|Stable|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Brittany Gonzalez
-82|246|246|31|2024-12-13|20:00|Outpatient follow-up|Stable|995.91|496|NA|NA|Contact local clinic for follow-up|Brittany Gonzalez
-83|249|249|54|2024-05-24|20:00|Another facility|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Jason Jones
-84|252|252|3|2025-03-09|20:00|Mortuary|Deceased|427.31|272.4|NA|NA|NA|Amy Harris
-85|255|255|8|2024-06-23|20:00|Home|Recovered|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Brenda Ellis
-86|258|258|21|2025-05-11|20:00|Outpatient follow-up|Requires monitoring|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Sandra Harvey
-87|261|261|28|2024-06-25|20:00|Home|Requires monitoring|414.01|780.60|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
-88|264|264|20|2024-01-12|20:00|Home|Requires monitoring|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Stephanie Benitez
-89|267|267|35|2024-03-27|20:00|Outpatient follow-up|Improving|530.81|786.50|NA|NA|Contact local clinic for follow-up|Amy Jackson
-90|270|270|25|2025-05-20|20:00|Another facility|Improving|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
-91|273|273|41|2025-06-21|20:00|Outpatient follow-up|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
-92|276|276|19|2025-04-16|20:00|Home|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Cory Galloway
-93|279|279|38|2025-06-05|20:00|Another facility|Stable|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
-94|282|282|17|2025-01-23|20:00|Outpatient follow-up|Improving|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
-95|285|285|55|2025-05-03|20:00|Another facility|Stable|414.01|780.60|Acetaminophen|NA|Contact local clinic for follow-up|Benjamin Carr
-96|288|288|46|2024-01-20|20:00|Outpatient follow-up|Requires monitoring|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Daisy Mccarthy
-97|291|291|4|2025-06-12|20:00|Another facility|Stable|530.81|786.50|Acetaminophen|NA|Contact local clinic for follow-up|Annette Wagner
-98|294|294|28|2024-03-31|20:00|Home|Transferred|995.91|496|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
-99|297|297|13|2024-01-29|20:00|Home|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Nathan Holmes
-100|300|300|2|2024-10-12|20:00|Home|Stable|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
-101|303|303|17|2024-04-18|20:00|Outpatient follow-up|Requires monitoring|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
-102|306|306|38|2024-06-29|20:00|Home|Stable|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
-103|309|309|53|2025-02-18|20:00|Another facility|Transferred|414.01|780.60|Acetaminophen|NA|Contact local clinic for follow-up|Valerie Young
-104|312|312|48|2024-03-23|20:00|Home|Stable|038.9|285.9|NA|NA|Contact local clinic for follow-up|Aaron Berg
-105|315|315|50|2025-02-23|20:00|Outpatient follow-up|Transferred|530.81|786.50|Acetaminophen|NA|Contact local clinic for follow-up|Curtis Martin
-106|318|318|18|2025-05-07|20:00|Home|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Amy Graham
-107|321|321|2|2024-04-07|20:00|Home|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
-108|324|324|31|2025-03-05|20:00|Another facility|Stable|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Brittany Gonzalez
-109|327|327|23|2024-08-21|20:00|Home|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Stacy Freeman
-110|330|330|50|2025-03-24|20:00|Another facility|Stable|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Curtis Martin
-111|333|333|37|2025-04-01|20:00|Home|Improving|414.01|780.60|Acetaminophen|NA|Contact local clinic for follow-up|Kelly Vance
-112|336|336|24|2024-05-21|20:00|Outpatient follow-up|Requires monitoring|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Cameron Smith
-113|339|339|17|2024-12-05|20:00|Outpatient follow-up|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
-114|342|342|45|2025-05-17|20:00|Outpatient follow-up|Transferred|995.91|496|NA|NA|Contact local clinic for follow-up|Taylor Williams
-115|345|345|6|2024-11-25|20:00|Another facility|Stable|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Jacqueline Flores
-116|348|348|42|2024-05-09|20:00|Another facility|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Joseph Watkins
-117|351|351|37|2024-09-15|20:00|Outpatient follow-up|Improving|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Kelly Vance
-118|354|354|28|2025-02-20|20:00|Another facility|Stable|493.90|276.51|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
-119|357|357|26|2024-10-01|20:00|Home|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Angela Faulkner
-120|360|360|49|2024-07-23|20:00|Home|Improving|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Anthony Walker
-121|363|363|42|2025-04-26|20:00|Home|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Joseph Watkins
-122|366|366|43|2024-01-14|20:00|Another facility|Recovered|995.91|496|None documented|NA|Contact local clinic for follow-up|Jennifer Carter
-123|369|369|42|2025-01-06|20:00|Outpatient follow-up|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Joseph Watkins
-124|372|372|24|2024-05-23|20:00|Outpatient follow-up|Improving|427.31|272.4|NA|NA|Contact local clinic for follow-up|Cameron Smith
-125|375|375|53|2025-04-01|20:00|Outpatient follow-up|Stable|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Valerie Young
-126|378|378|49|2024-08-04|20:00|Outpatient follow-up|Recovered|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Anthony Walker
-127|381|381|11|2024-06-19|20:00|Outpatient follow-up|Stable|414.01|780.60|NA|NA|Contact local clinic for follow-up|Jane King
-128|384|384|12|2025-04-19|20:00|Outpatient follow-up|Improving|038.9|285.9|NA|NA|Contact local clinic for follow-up|Jeffery Carter
-129|387|387|39|2024-08-12|20:00|Outpatient follow-up|Recovered|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Robert Adams
-130|390|390|36|2024-05-15|20:00|Another facility|Recovered|995.91|496|NA|NA|Contact local clinic for follow-up|James Davis
-131|393|393|20|2024-03-29|20:00|Outpatient follow-up|Requires monitoring|724.2|401.9|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
-132|396|396|49|2025-03-21|20:00|Home|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Anthony Walker
-133|399|399|17|2025-04-20|20:00|Another facility|Recovered|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
-134|402|402|20|2024-07-05|20:00|Home|Stable|493.90|276.51|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
-135|405|405|44|2024-07-16|20:00|Home|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Sandy Jackson
-136|408|408|52|2024-11-01|20:00|Home|Requires monitoring|038.9|285.9|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
-137|411|411|53|2025-05-26|20:00|Outpatient follow-up|Transferred|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Valerie Young
-138|414|414|12|2024-03-26|20:00|Outpatient follow-up|Stable|995.91|496|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
-139|417|417|34|2025-06-19|20:00|Another facility|Recovered|724.2|401.9|NA|NA|Contact local clinic for follow-up|Michelle Campbell
-140|420|420|29|2025-04-27|20:00|Home|Transferred|427.31|272.4|NA|NA|Contact local clinic for follow-up|Christine Anderson
-141|423|423|29|2024-03-16|20:00|Outpatient follow-up|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Christine Anderson
-142|426|426|45|2025-02-26|20:00|Another facility|Requires monitoring|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Taylor Williams
-143|429|429|27|2024-06-30|20:00|Home|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Patrick Hernandez
-144|432|432|29|2024-10-01|20:00|Outpatient follow-up|Requires monitoring|038.9|285.9|NA|NA|Contact local clinic for follow-up|Christine Anderson
-145|435|435|28|2025-04-26|20:00|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Jennifer Johnson
-146|438|438|39|2024-01-18|20:00|Outpatient follow-up|Requires monitoring|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Robert Adams
-147|441|441|55|2024-11-20|20:00|Outpatient follow-up|Transferred|724.2|401.9|NA|NA|Contact local clinic for follow-up|Benjamin Carr
-148|444|444|34|2024-05-05|20:00|Outpatient follow-up|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Michelle Campbell
-149|447|447|48|2024-06-13|20:00|Another facility|Improving|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
-150|450|450|29|2025-07-05|20:00|Home|Improving|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Christine Anderson
-151|453|453|19|2024-11-23|20:00|Home|Improving|414.01|780.60|Acetaminophen|NA|Contact local clinic for follow-up|Cory Galloway
-152|456|456|42|2024-05-11|20:00|Another facility|Requires monitoring|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Joseph Watkins
-153|459|459|12|2024-09-27|20:00|Home|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
-154|462|462|46|2025-05-22|20:00|Another facility|Recovered|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Daisy Mccarthy
-155|465|465|3|2024-11-12|20:00|Home|Requires monitoring|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
-156|468|468|38|2024-07-02|20:00|Home|Stable|427.31|272.4|Acetaminophen|NA|Contact local clinic for follow-up|Andrew Jenkins
-157|471|471|44|2024-10-19|20:00|Home|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Sandy Jackson
-158|474|474|49|2024-02-16|20:00|Another facility|Stable|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Anthony Walker
-159|477|477|22|2024-06-07|20:00|Another facility|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Christopher Moreno
-160|480|480|54|2025-06-05|20:00|Home|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Jason Jones
-161|483|483|18|2025-01-04|20:00|Another facility|Improving|530.81|786.50|NA|NA|Contact local clinic for follow-up|Amy Graham
-162|486|486|26|2024-10-23|20:00|Home|Recovered|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Angela Faulkner
-163|489|489|45|2024-09-01|20:00|Another facility|Improving|724.2|401.9|NA|NA|Contact local clinic for follow-up|Taylor Williams
-164|492|492|44|2025-01-21|20:00|Home|Transferred|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Sandy Jackson
-165|495|495|54|2024-09-25|20:00|Another facility|Improving|780.2|584.9|NA|NA|Contact local clinic for follow-up|Jason Jones
-166|498|498|30|2024-12-24|20:00|Home|Transferred|493.90|276.51|NA|NA|Contact local clinic for follow-up|Barbara Johnson
-167|501|501|43|2024-06-15|20:00|Outpatient follow-up|Stable|414.01|780.60|NA|NA|Contact local clinic for follow-up|Jennifer Carter
-168|504|504|6|2025-03-23|20:00|Home|Improving|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Jacqueline Flores
-169|507|507|39|2025-06-22|20:00|Outpatient follow-up|Requires monitoring|530.81|786.50|NA|NA|Contact local clinic for follow-up|Robert Adams
-170|510|510|6|2025-01-02|20:00|Outpatient follow-up|Transferred|995.91|496|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
-171|513|513|2|2024-04-26|20:00|Outpatient follow-up|Transferred|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Andrea Johnson
-172|516|516|15|2024-06-10|20:00|Outpatient follow-up|Transferred|427.31|272.4|Acetaminophen|NA|Contact local clinic for follow-up|Mrs. Susan Sullivan DDS
-173|519|519|33|2024-12-02|20:00|Outpatient follow-up|Transferred|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
-174|522|522|20|2025-01-19|20:00|Home|Requires monitoring|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Stephanie Benitez
-175|525|525|16|2025-03-27|20:00|Mortuary|Deceased|414.01|780.60|NA|NA|NA|Hannah Green
-176|528|528|28|2024-01-13|20:00|Home|Recovered|038.9|285.9|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
-177|531|531|36|2025-04-20|20:00|Outpatient follow-up|Recovered|530.81|786.50|None documented|NA|Contact local clinic for follow-up|James Davis
-178|534|534|12|2024-08-20|20:00|Outpatient follow-up|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
-179|537|537|24|2024-09-21|20:00|Mortuary|Deceased|724.2|401.9|NA|NA|NA|Cameron Smith
-180|540|540|5|2025-01-21|20:00|Home|Requires monitoring|427.31|272.4|NA|NA|Contact local clinic for follow-up|Sarah Mason
-181|543|543|50|2024-10-19|20:00|Outpatient follow-up|Stable|780.2|584.9|NA|NA|Contact local clinic for follow-up|Curtis Martin
-182|546|546|42|2024-05-06|20:00|Another facility|Transferred|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Joseph Watkins
-183|549|549|53|2025-05-15|20:00|Outpatient follow-up|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Valerie Young
-184|552|552|29|2025-05-03|20:00|Outpatient follow-up|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Christine Anderson
-185|555|555|39|2024-09-11|20:00|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Robert Adams
-186|558|558|41|2024-06-23|20:00|Another facility|Requires monitoring|995.91|496|NA|NA|Contact local clinic for follow-up|Joyce Nelson
-187|561|561|28|2025-02-01|20:00|Outpatient follow-up|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Jennifer Johnson
-188|564|564|21|2024-03-28|20:00|Home|Transferred|427.31|272.4|NA|NA|Contact local clinic for follow-up|Sandra Harvey
-189|567|567|22|2025-06-02|20:00|Outpatient follow-up|Transferred|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Christopher Moreno
-190|570|570|16|2024-05-14|20:00|Outpatient follow-up|Transferred|493.90|276.51|NA|NA|Contact local clinic for follow-up|Hannah Green
-191|573|573|31|2024-02-19|20:00|Outpatient follow-up|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Brittany Gonzalez
-192|576|576|54|2025-04-07|20:00|Another facility|Transferred|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Jason Jones
-193|579|579|5|2024-08-14|20:00|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Sarah Mason
-194|582|582|54|2025-03-12|20:00|Another facility|Stable|995.91|496|NA|NA|Contact local clinic for follow-up|Jason Jones
-195|585|585|29|2025-03-01|20:00|Another facility|Requires monitoring|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Christine Anderson
-196|588|588|14|2025-05-30|20:00|Another facility|Transferred|427.31|272.4|Acetaminophen|NA|Contact local clinic for follow-up|Chelsea Luna
-197|591|591|34|2025-06-23|20:00|Outpatient follow-up|Requires monitoring|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
-198|594|594|48|2024-10-03|20:00|Another facility|Stable|493.90|276.51|NA|NA|Contact local clinic for follow-up|Aaron Berg
-199|597|597|2|2025-05-12|20:00|Mortuary|Deceased|414.01|780.60|NA|NA|NA|Andrea Johnson
-200|600|600|19|2025-06-09|20:00|Outpatient follow-up|Stable|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Cory Galloway
-201|603|603|35|2024-09-26|20:00|Home|Transferred|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Amy Jackson
-202|606|606|14|2024-01-31|20:00|Another facility|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
-203|609|609|47|2025-02-27|20:00|Mortuary|Deceased|724.2|401.9|NA|NA|NA|Patrick Ross
-204|612|612|23|2024-12-13|20:00|Home|Improving|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
-205|615|615|23|2024-08-27|20:00|Home|Transferred|780.2|584.9|NA|NA|Contact local clinic for follow-up|Stacy Freeman
-206|618|618|16|2024-11-26|20:00|Home|Recovered|493.90|276.51|NA|NA|Contact local clinic for follow-up|Hannah Green
-207|621|621|25|2024-11-03|20:00|Another facility|Stable|414.01|780.60|NA|NA|Contact local clinic for follow-up|Patricia Johnson
-208|624|624|25|2024-06-30|20:00|Outpatient follow-up|Improving|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
-209|627|627|7|2024-07-05|20:00|Home|Transferred|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Diana Oconnell
-210|630|630|29|2025-05-12|20:00|Outpatient follow-up|Transferred|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Christine Anderson
-211|633|633|10|2024-04-20|20:00|Home|Stable|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
-212|636|636|5|2025-01-15|20:00|Outpatient follow-up|Recovered|427.31|272.4|Acetaminophen|NA|Contact local clinic for follow-up|Sarah Mason
-213|639|639|33|2025-02-11|20:00|Another facility|Stable|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
-214|642|642|35|2024-10-29|20:00|Another facility|Recovered|493.90|276.51|Acetaminophen|NA|Contact local clinic for follow-up|Amy Jackson
-215|645|645|37|2025-01-12|20:00|Home|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Kelly Vance
-216|648|648|32|2024-01-21|20:00|Another facility|Transferred|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|William Owens
-217|651|651|6|2025-02-15|20:00|Outpatient follow-up|Stable|530.81|NA|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
-218|654|654|1|2024-03-30|20:00|Another facility|Requires monitoring|995.91|NA|None documented|NA|Contact local clinic for follow-up|Terry Small
-219|657|657|29|2024-12-05|20:00|Home|Requires monitoring|724.2|NA|NA|NA|Contact local clinic for follow-up|Christine Anderson
-220|660|660|43|2024-04-03|20:00|Outpatient follow-up|Recovered|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Carter
-221|663|663|3|2025-02-06|20:00|Outpatient follow-up|Recovered|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
-222|666|666|22|2024-07-01|20:00|Another facility|Recovered|493.90|NA|None documented|NA|Contact local clinic for follow-up|Christopher Moreno
-223|669|669|43|2024-07-08|20:00|Outpatient follow-up|Recovered|414.01|NA|NA|NA|Contact local clinic for follow-up|Jennifer Carter
-224|672|672|28|2025-03-28|20:00|Another facility|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Johnson
-225|675|675|35|2024-08-25|20:00|Outpatient follow-up|Stable|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Jackson
-226|678|678|55|2024-07-21|20:00|Outpatient follow-up|Requires monitoring|995.91|NA|None documented|NA|Contact local clinic for follow-up|Benjamin Carr
-227|681|681|25|2024-04-26|20:00|Another facility|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
-228|684|684|18|2024-03-26|20:00|Home|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
-229|687|687|5|2024-08-28|20:00|Outpatient follow-up|Improving|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Sarah Mason
-230|690|690|29|2024-04-21|20:00|Outpatient follow-up|Recovered|493.90|NA|NA|NA|Contact local clinic for follow-up|Christine Anderson
-231|693|693|43|2025-06-25|20:00|Home|Improving|414.01|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Carter
-232|696|696|6|2025-03-21|20:00|Outpatient follow-up|Improving|038.9|NA|None documented|NA|Contact local clinic for follow-up|Jacqueline Flores
-233|699|699|53|2024-05-03|20:00|Home|Stable|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Valerie Young
-234|702|702|27|2025-01-01|20:00|Home|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patrick Hernandez
-235|705|705|37|2025-01-23|20:00|Another facility|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Kelly Vance
-236|708|708|11|2025-03-20|20:00|Another facility|Requires monitoring|427.31|NA|NA|NA|Contact local clinic for follow-up|Jane King
-237|711|711|52|2024-09-30|20:00|Home|Transferred|780.2|NA|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
-238|714|714|40|2024-11-21|20:00|Another facility|Transferred|493.90|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
-239|717|717|43|2024-11-01|20:00|Outpatient follow-up|Transferred|414.01|NA|NA|NA|Contact local clinic for follow-up|Jennifer Carter
-240|720|720|47|2024-03-22|20:00|Home|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patrick Ross
-241|723|723|40|2025-02-28|20:00|Another facility|Stable|530.81|NA|NA|NA|Contact local clinic for follow-up|Angela Parks
-242|726|726|25|2024-07-22|20:00|Home|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
-243|729|729|15|2024-05-19|20:00|Another facility|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Mrs. Susan Sullivan DDS
-244|732|732|2|2025-05-05|20:00|Home|Recovered|427.31|NA|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
-245|735|735|9|2024-01-23|20:00|Home|Requires monitoring|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Francis Martin
-246|738|738|14|2024-10-04|20:00|Home|Recovered|493.90|NA|Acetaminophen|NA|Contact local clinic for follow-up|Chelsea Luna
-247|741|741|30|2025-02-04|20:00|Outpatient follow-up|Transferred|414.01|NA|None documented|NA|Contact local clinic for follow-up|Barbara Johnson
-248|744|744|33|2024-04-29|20:00|Outpatient follow-up|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
-249|747|747|47|2024-09-26|20:00|Outpatient follow-up|Transferred|530.81|NA|NA|NA|Contact local clinic for follow-up|Patrick Ross
-250|750|750|34|2024-09-08|20:00|Home|Improving|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
-251|753|753|36|2024-06-18|20:00|Home|Improving|724.2|NA|None documented|NA|Contact local clinic for follow-up|James Davis
-252|756|756|49|2025-07-03|20:00|Home|Improving|427.31|NA|NA|NA|Contact local clinic for follow-up|Anthony Walker
-253|759|759|44|2024-12-30|20:00|Outpatient follow-up|Stable|780.2|NA|NA|NA|Contact local clinic for follow-up|Sandy Jackson
-254|762|762|3|2024-08-29|20:00|Home|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Amy Harris
-255|765|765|11|2024-07-28|20:00|Home|Recovered|414.01|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jane King
-256|768|768|35|2024-02-14|20:00|Home|Stable|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Jackson
-257|771|771|34|2024-08-28|20:00|Another facility|Requires monitoring|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
-258|774|774|3|2025-06-29|20:00|Another facility|Requires monitoring|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
-259|777|777|50|2024-09-26|20:00|Another facility|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Curtis Martin
-260|780|780|14|2024-07-13|20:00|Home|Recovered|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Chelsea Luna
-261|783|783|16|2024-01-12|20:00|Another facility|Recovered|780.2|NA|None documented|NA|Contact local clinic for follow-up|Hannah Green
-262|786|786|40|2024-12-08|20:00|Another facility|Transferred|493.90|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
-263|789|789|33|2024-02-05|20:00|Another facility|Improving|414.01|NA|None documented|NA|Contact local clinic for follow-up|Jackie Lee
-264|792|792|36|2024-01-19|20:00|Another facility|Improving|038.9|NA|None documented|NA|Contact local clinic for follow-up|James Davis
-265|795|795|31|2024-07-04|20:00|Outpatient follow-up|Improving|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Brittany Gonzalez
-266|798|798|26|2024-06-03|20:00|Outpatient follow-up|Transferred|995.91|NA|None documented|NA|Contact local clinic for follow-up|Angela Faulkner
-267|801|801|25|2025-01-13|20:00|Home|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Patricia Johnson
-268|804|804|52|2024-04-03|20:00|Another facility|Requires monitoring|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Maria Mcintosh
-269|807|807|38|2024-08-15|20:00|Another facility|Stable|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Andrew Jenkins
-270|810|810|10|2025-02-17|20:00|Another facility|Requires monitoring|493.90|NA|NA|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
-271|813|813|47|2024-11-26|20:00|Home|Transferred|414.01|NA|NA|NA|Contact local clinic for follow-up|Patrick Ross
-272|816|816|48|2025-01-01|20:00|Home|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
-273|819|819|51|2025-02-15|20:00|Outpatient follow-up|Transferred|530.81|NA|NA|NA|Contact local clinic for follow-up|Joshua Brown
-274|822|822|39|2025-02-14|20:00|Home|Stable|995.91|NA|None documented|NA|Contact local clinic for follow-up|Robert Adams
-275|825|825|2|2024-09-14|20:00|Outpatient follow-up|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Andrea Johnson
-276|828|828|9|2024-03-08|20:00|Another facility|Transferred|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Francis Martin
-277|831|831|38|2024-02-02|20:00|Home|Transferred|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Andrew Jenkins
-278|834|834|21|2025-04-11|20:00|Outpatient follow-up|Requires monitoring|493.90|NA|Acetaminophen|NA|Contact local clinic for follow-up|Sandra Harvey
-279|837|837|5|2024-02-06|20:00|Mortuary|Deceased|414.01|NA|NA|NA|NA|Sarah Mason
-280|840|840|43|2025-01-06|20:00|Another facility|Requires monitoring|038.9|NA|None documented|NA|Contact local clinic for follow-up|Jennifer Carter
-281|843|843|41|2024-05-29|20:00|Home|Requires monitoring|530.81|NA|NA|NA|Contact local clinic for follow-up|Joyce Nelson
-282|846|846|8|2025-06-24|20:00|Home|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Brenda Ellis
-283|849|849|51|2025-06-16|20:00|Another facility|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Joshua Brown
-284|852|852|55|2024-06-22|20:00|Home|Stable|427.31|NA|NA|NA|Contact local clinic for follow-up|Benjamin Carr
-285|855|855|45|2024-08-26|20:00|Home|Improving|780.2|NA|None documented|NA|Contact local clinic for follow-up|Taylor Williams
-286|858|858|52|2024-09-30|20:00|Outpatient follow-up|Transferred|493.90|NA|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
-287|861|861|18|2024-07-03|20:00|Home|Requires monitoring|414.01|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
-288|864|864|9|2024-12-05|20:00|Mortuary|Deceased|038.9|NA|NA|NA|NA|Francis Martin
-289|867|867|9|2024-11-18|20:00|Another facility|Transferred|530.81|NA|None documented|NA|Contact local clinic for follow-up|Francis Martin
-290|870|870|15|2024-04-01|20:00|Mortuary|Deceased|995.91|NA|NA|NA|NA|Mrs. Susan Sullivan DDS
-291|873|873|31|2024-05-17|20:00|Outpatient follow-up|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Brittany Gonzalez
-292|876|876|39|2024-07-25|20:00|Outpatient follow-up|Requires monitoring|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Robert Adams
-293|879|879|39|2024-01-13|20:00|Home|Requires monitoring|780.2|NA|None documented|NA|Contact local clinic for follow-up|Robert Adams
-294|882|882|51|2024-10-24|20:00|Outpatient follow-up|Requires monitoring|493.90|NA|NA|NA|Contact local clinic for follow-up|Joshua Brown
-295|885|885|41|2024-03-11|20:00|Another facility|Improving|414.01|NA|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
-296|888|888|46|2025-02-01|20:00|Outpatient follow-up|Requires monitoring|038.9|NA|None documented|NA|Contact local clinic for follow-up|Daisy Mccarthy
-297|891|891|11|2024-01-10|20:00|Another facility|Transferred|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jane King
-298|894|894|50|2025-06-02|20:00|Outpatient follow-up|Stable|995.91|NA|NA|NA|Contact local clinic for follow-up|Curtis Martin
-299|897|897|18|2024-08-05|20:00|Another facility|Transferred|724.2|NA|NA|NA|Contact local clinic for follow-up|Amy Graham
-300|900|900|53|2025-03-30|20:00|Another facility|Requires monitoring|427.31|NA|None documented|NA|Contact local clinic for follow-up|Valerie Young
-301|903|903|42|2025-04-20|20:00|Another facility|Recovered|780.2|NA|NA|NA|Contact local clinic for follow-up|Joseph Watkins
-302|906|906|29|2025-04-26|20:00|Home|Transferred|493.90|NA|NA|NA|Contact local clinic for follow-up|Christine Anderson
-303|909|909|53|2025-03-08|20:00|Another facility|Transferred|414.01|NA|Acetaminophen|NA|Contact local clinic for follow-up|Valerie Young
-304|912|912|17|2025-03-30|20:00|Outpatient follow-up|Improving|038.9|NA|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
-305|915|915|50|2024-10-16|20:00|Home|Transferred|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Curtis Martin
-306|918|918|12|2025-01-09|20:00|Home|Requires monitoring|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jeffery Carter
-307|921|921|43|2024-03-19|20:00|Another facility|Recovered|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Carter
-308|924|924|50|2024-02-10|20:00|Home|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Curtis Martin
-309|927|927|16|2024-10-07|20:00|Another facility|Stable|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Hannah Green
-310|930|930|14|2024-10-16|20:00|Outpatient follow-up|Requires monitoring|493.90|NA|Acetaminophen|NA|Contact local clinic for follow-up|Chelsea Luna
-311|933|933|42|2024-12-13|20:00|Outpatient follow-up|Stable|414.01|NA|NA|NA|Contact local clinic for follow-up|Joseph Watkins
-312|936|936|31|2025-04-22|20:00|Another facility|Requires monitoring|038.9|NA|NA|NA|Contact local clinic for follow-up|Brittany Gonzalez
-313|939|939|37|2024-09-16|20:00|Another facility|Improving|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Kelly Vance
-314|942|942|5|2025-05-23|20:00|Outpatient follow-up|Stable|995.91|NA|None documented|NA|Contact local clinic for follow-up|Sarah Mason
-315|945|945|41|2024-01-22|20:00|Home|Recovered|724.2|NA|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
-316|948|948|36|2024-01-12|20:00|Another facility|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|James Davis
-317|951|951|43|2024-01-24|20:00|Home|Requires monitoring|780.2|NA|NA|NA|Contact local clinic for follow-up|Jennifer Carter
-318|954|954|35|2025-02-03|20:00|Another facility|Improving|493.90|NA|NA|NA|Contact local clinic for follow-up|Amy Jackson
-319|957|957|9|2024-06-30|20:00|Another facility|Transferred|414.01|NA|None documented|NA|Contact local clinic for follow-up|Francis Martin
-320|960|960|19|2024-09-30|20:00|Outpatient follow-up|Improving|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Cory Galloway
-321|963|963|55|2025-03-01|20:00|Home|Requires monitoring|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Benjamin Carr
-322|966|966|17|2024-05-31|20:00|Outpatient follow-up|Recovered|995.91|NA|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
-323|969|969|28|2024-04-23|20:00|Home|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Jennifer Johnson
-324|972|972|13|2024-05-02|20:00|Outpatient follow-up|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Nathan Holmes
-325|975|975|40|2024-03-21|20:00|Outpatient follow-up|Improving|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
-326|978|978|23|2025-01-30|20:00|Outpatient follow-up|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
-327|981|981|52|2024-04-18|20:00|Another facility|Requires monitoring|414.01|NA|None documented|NA|Contact local clinic for follow-up|Maria Mcintosh
-328|984|984|19|2025-03-01|20:00|Another facility|Transferred|038.9|NA|NA|NA|Contact local clinic for follow-up|Cory Galloway
-329|987|987|7|2024-07-07|20:00|Outpatient follow-up|Stable|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Diana Oconnell
-330|990|990|6|2025-06-22|20:00|Mortuary|Deceased|995.91|NA|NA|NA|NA|Jacqueline Flores
-331|993|993|14|2024-07-10|20:00|Outpatient follow-up|Stable|724.2|NA|NA|NA|Contact local clinic for follow-up|Chelsea Luna
-332|996|996|13|2024-03-20|20:00|Outpatient follow-up|Improving|427.31|NA|NA|NA|Contact local clinic for follow-up|Nathan Holmes
-333|999|999|32|2025-02-15|20:00|Outpatient follow-up|Transferred|780.2|NA|None documented|NA|Contact local clinic for follow-up|William Owens
-334|1002|589|52|2026-07-02|20:00|Another facility|Stable|493.90|NA|Acetaminophen|NA|Contact local clinic for follow-up|Maria Mcintosh
-335|1005|707|14|2026-04-02|20:00|Another facility|Stable|414.01|NA|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
-336|1008|884|49|2026-10-06|20:00|Another facility|Stable|038.9|NA|None documented|NA|Contact local clinic for follow-up|Anthony Walker
-337|1011|330|34|2025-11-26|20:00|Home|Stable|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
-338|1014|480|3|2025-09-15|20:00|Another facility|Improving|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
-339|1017|81|28|2026-10-17|20:00|Home|Improving|724.2|NA|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
-340|1020|621|38|2026-06-15|20:00|Outpatient follow-up|Transferred|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Andrew Jenkins
-341|1023|804|10|2026-02-15|20:00|Another facility|Recovered|780.2|NA|NA|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
-342|1026|380|45|2026-07-24|20:00|Home|Stable|493.90|NA|Acetaminophen|NA|Contact local clinic for follow-up|Taylor Williams
-343|1029|4|39|2025-10-21|20:00|Another facility|Transferred|414.01|NA|Acetaminophen|NA|Contact local clinic for follow-up|Robert Adams
-344|1032|42|42|2026-02-17|20:00|Home|Recovered|038.9|NA|NA|NA|Contact local clinic for follow-up|Joseph Watkins
-345|1035|492|7|2025-12-24|20:00|Outpatient follow-up|Transferred|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Diana Oconnell
-346|1038|573|40|2025-08-19|20:00|Another facility|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
-347|1041|859|48|2025-09-07|20:00|Outpatient follow-up|Stable|724.2|NA|NA|NA|Contact local clinic for follow-up|Aaron Berg
-348|1044|332|16|2026-11-07|20:00|Home|Recovered|427.31|NA|NA|NA|Contact local clinic for follow-up|Hannah Green
-349|1047|455|9|2026-09-17|20:00|Outpatient follow-up|Transferred|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Francis Martin
-350|1050|69|38|2026-09-19|20:00|Home|Requires monitoring|493.90|NA|NA|NA|Contact local clinic for follow-up|Andrew Jenkins
-351|1053|992|16|2026-03-19|20:00|Home|Transferred|414.01|NA|Acetaminophen|NA|Contact local clinic for follow-up|Hannah Green
-352|1056|212|38|2026-01-08|20:00|Another facility|Stable|038.9|NA|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
-353|1059|201|40|2026-04-25|20:00|Outpatient follow-up|Improving|530.81|NA|None documented|NA|Contact local clinic for follow-up|Angela Parks
-354|1062|30|39|2025-09-05|20:00|Outpatient follow-up|Improving|995.91|NA|None documented|NA|Contact local clinic for follow-up|Robert Adams
-355|1065|221|22|2026-03-22|20:00|Another facility|Improving|724.2|NA|None documented|NA|Contact local clinic for follow-up|Christopher Moreno
-356|1068|471|38|2026-02-18|20:00|Outpatient follow-up|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
-357|1071|833|32|2025-10-08|20:00|Home|Requires monitoring|780.2|NA|None documented|NA|Contact local clinic for follow-up|William Owens
-358|1074|220|3|2026-07-12|20:00|Another facility|Improving|493.90|NA|NA|NA|Contact local clinic for follow-up|Amy Harris
-359|1077|672|44|2025-08-17|20:00|Outpatient follow-up|Recovered|414.01|NA|NA|NA|Contact local clinic for follow-up|Sandy Jackson
-360|1080|705|36|2026-03-28|20:00|Mortuary|Deceased|038.9|NA|NA|NA|NA|James Davis
-361|1083|349|46|2026-03-17|20:00|Another facility|Stable|530.81|NA|None documented|NA|Contact local clinic for follow-up|Daisy Mccarthy
-362|1086|165|1|2026-03-10|20:00|Outpatient follow-up|Improving|995.91|NA|None documented|NA|Contact local clinic for follow-up|Terry Small
-363|1089|570|16|2026-05-06|20:00|Home|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Hannah Green
-364|1092|269|20|2026-09-06|20:00|Outpatient follow-up|Improving|427.31|NA|None documented|NA|Contact local clinic for follow-up|Stephanie Benitez
-365|1095|341|18|2026-07-18|20:00|Another facility|Recovered|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Graham
-366|1098|333|18|2026-07-18|20:00|Another facility|Stable|493.90|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
-367|1101|425|43|2026-10-03|20:00|Another facility|Recovered|414.01|NA|None documented|NA|Contact local clinic for follow-up|Jennifer Carter
-368|1104|477|18|2026-07-22|20:00|Home|Recovered|038.9|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
-369|1107|403|25|2025-12-14|20:00|Another facility|Requires monitoring|530.81|NA|NA|NA|Contact local clinic for follow-up|Patricia Johnson
-370|1110|464|6|2025-11-23|20:00|Another facility|Stable|995.91|NA|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
-371|1113|149|24|2026-04-26|20:00|Another facility|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Cameron Smith
-372|1116|375|4|2026-07-26|20:00|Home|Recovered|427.31|NA|NA|NA|Contact local clinic for follow-up|Annette Wagner
-373|1119|992|29|2026-04-10|20:00|Outpatient follow-up|Stable|780.2|NA|None documented|NA|Contact local clinic for follow-up|Christine Anderson
-374|1122|512|12|2026-07-07|20:00|Another facility|Recovered|493.90|NA|NA|NA|Contact local clinic for follow-up|Jeffery Carter
-375|1125|403|10|2026-08-08|20:00|Home|Requires monitoring|414.01|NA|None documented|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
-376|1128|485|48|2026-06-04|20:00|Outpatient follow-up|Recovered|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
-377|1131|48|37|2026-04-06|20:00|Another facility|Recovered|530.81|NA|Acetaminophen|NA|Contact local clinic for follow-up|Kelly Vance
-378|1134|759|47|2026-05-23|20:00|Home|Requires monitoring|995.91|NA|NA|NA|Contact local clinic for follow-up|Patrick Ross
-379|1137|554|33|2025-09-27|20:00|Home|Improving|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
-380|1140|510|20|2025-11-20|20:00|Home|Recovered|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Stephanie Benitez
-381|1143|170|16|2026-01-14|20:00|Another facility|Requires monitoring|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Hannah Green
-382|1146|28|35|2026-02-14|20:00|Another facility|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Amy Jackson
-383|1149|644|27|2025-12-26|20:00|Another facility|Improving|414.01|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patrick Hernandez
-384|1152|956|48|2026-03-15|20:00|Another facility|Transferred|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
-385|1155|208|47|2026-06-18|20:00|Home|Improving|530.81|NA|None documented|NA|Contact local clinic for follow-up|Patrick Ross
-386|1158|951|5|2026-08-27|20:00|Another facility|Improving|995.91|NA|None documented|NA|Contact local clinic for follow-up|Sarah Mason
-387|1161|433|2|2026-02-17|20:00|Home|Transferred|724.2|NA|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
-388|1164|426|2|2026-04-04|20:00|Another facility|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
-389|1167|522|32|2026-07-30|20:00|Outpatient follow-up|Stable|780.2|NA|None documented|NA|Contact local clinic for follow-up|William Owens
-390|1170|13|25|2025-12-30|20:00|Outpatient follow-up|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Patricia Johnson
-391|1173|334|30|2026-04-28|20:00|Another facility|Transferred|414.01|NA|Acetaminophen|NA|Contact local clinic for follow-up|Barbara Johnson
-392|1176|357|40|2025-12-08|20:00|Another facility|Stable|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
-393|1179|857|38|2026-02-26|20:00|Another facility|Stable|530.81|NA|NA|NA|Contact local clinic for follow-up|Andrew Jenkins
-394|1182|90|9|2026-03-11|20:00|Outpatient follow-up|Stable|995.91|NA|NA|NA|Contact local clinic for follow-up|Francis Martin
-395|1185|793|39|2026-01-14|20:00|Mortuary|Deceased|724.2|NA|NA|NA|NA|Robert Adams
-396|1188|939|22|2025-10-05|20:00|Home|Improving|427.31|NA|Acetaminophen|NA|Contact local clinic for follow-up|Christopher Moreno
-397|1191|228|7|2026-04-23|20:00|Home|Improving|780.2|NA|None documented|NA|Contact local clinic for follow-up|Diana Oconnell
-398|1194|401|6|2026-10-13|20:00|Outpatient follow-up|Improving|493.90|NA|None documented|NA|Contact local clinic for follow-up|Jacqueline Flores
-399|1197|397|35|2026-09-21|20:00|Another facility|Improving|414.01|NA|NA|NA|Contact local clinic for follow-up|Amy Jackson
-400|1200|614|49|2026-09-05|20:00|Outpatient follow-up|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Anthony Walker
-10080|80|80|42|2025-02-12|20:00:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|Joseph Watkins
-11177|1177|86|54|2026-10-25|20:00:00|Mortuary|Deceased|599.0|NA|NA|NA|NA|Jason Jones
-10094|94|94|22|2025-07-05|20:00:00|Mortuary|Deceased|789.00|530.81|NA|NA|NA|Christopher Moreno
-10112|112|112|52|2025-04-29|20:00:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Maria Mcintosh
-11310|1310|115|9|2026-07-17|20:00:00|Mortuary|Deceased|401.9|NA|NA|NA|NA|Francis Martin
-10128|128|128|8|2025-01-10|20:00:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|Brenda Ellis
-10130|130|130|25|2024-09-22|20:00:00|Mortuary|Deceased|780.79|780.2|NA|NA|NA|Patricia Johnson
-10136|136|136|28|2024-06-14|20:00:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Jennifer Johnson
-11212|1212|178|45|2025-10-25|20:00:00|Mortuary|Deceased|427.31|NA|NA|NA|NA|Taylor Williams
-10185|185|185|35|2025-05-27|20:00:00|Mortuary|Deceased|272.4|789.00|NA|NA|NA|Amy Jackson
-10193|193|193|50|2024-03-06|20:00:00|Mortuary|Deceased|599.0|995.91|NA|NA|NA|Curtis Martin
-10200|200|200|32|2024-03-06|20:00:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|William Owens
-10214|214|214|4|2024-01-16|20:00:00|Mortuary|Deceased|789.00|530.81|NA|NA|NA|Annette Wagner
-10271|271|271|4|2025-01-23|20:00:00|Mortuary|Deceased|250.00|427.31|NA|NA|NA|Annette Wagner
-10284|284|284|14|2025-06-29|20:00:00|Mortuary|Deceased|584.9|599.0|NA|NA|NA|Chelsea Luna
-10293|293|293|33|2025-03-28|20:00:00|Mortuary|Deceased|285.9|780.79|NA|NA|NA|Jackie Lee
-11282|1282|309|46|2026-03-21|20:00:00|Mortuary|Deceased|780.79|NA|NA|NA|NA|Daisy Mccarthy
-10370|370|370|19|2024-01-25|20:00:00|Mortuary|Deceased|780.79|780.2|NA|NA|NA|Cory Galloway
-10410|410|410|23|2024-05-04|20:00:00|Mortuary|Deceased|780.60|250.00|NA|NA|NA|Stacy Freeman
-10424|424|424|43|2025-02-28|20:00:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Jennifer Carter
-10428|428|428|23|2025-02-18|20:00:00|Mortuary|Deceased|584.9|599.0|NA|NA|NA|Stacy Freeman
-10431|431|431|30|2024-01-25|20:00:00|Mortuary|Deceased|276.51|486|NA|NA|NA|Barbara Johnson
-10443|443|443|37|2024-10-31|20:00:00|Mortuary|Deceased|496|784.0|NA|NA|NA|Kelly Vance
-10482|482|482|21|2024-01-02|20:00:00|Mortuary|Deceased|780.60|250.00|NA|NA|NA|Sandra Harvey
-10568|568|568|14|2025-04-25|20:00:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Chelsea Luna
-10577|577|577|19|2024-08-22|20:00:00|Mortuary|Deceased|599.0|995.91|NA|NA|NA|Cory Galloway
-10632|632|632|2|2024-01-29|20:00:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|Andrea Johnson
-11300|1300|637|27|2025-11-06|20:00:00|Mortuary|Deceased|486|NA|NA|NA|NA|Patrick Hernandez
-11022|1022|666|1|2025-11-04|20:00:00|Mortuary|Deceased|401.9|NA|NA|NA|NA|Terry Small
-11275|1275|682|15|2025-08-22|20:00:00|Mortuary|Deceased|530.81|NA|NA|NA|NA|Mrs. Susan Sullivan Dds
-10686|686|686|40|2024-03-08|20:00:00|Mortuary|Deceased|401.9|NA|NA|NA|NA|Angela Parks
-10701|701|701|1|2025-05-31|20:00:00|Mortuary|Deceased|285.9|NA|NA|NA|NA|Terry Small
-11010|1010|706|20|2025-11-16|20:00:00|Mortuary|Deceased|780.60|NA|NA|NA|NA|Stephanie Benitez
-10722|722|722|28|2024-07-15|20:00:00|Mortuary|Deceased|780.60|NA|NA|NA|NA|Jennifer Johnson
-10763|763|763|17|2024-05-17|20:00:00|Mortuary|Deceased|410.90|NA|NA|NA|NA|Tyler Martinez
-11097|1097|803|45|2025-09-03|20:00:00|Mortuary|Deceased|272.4|NA|NA|NA|NA|Taylor Williams
-11325|1325|806|27|2026-01-07|20:00:00|Mortuary|Deceased|285.9|NA|NA|NA|NA|Patrick Hernandez
-10842|842|842|15|2024-05-08|20:00:00|Mortuary|Deceased|780.60|NA|NA|NA|NA|Mrs. Susan Sullivan Dds
-10868|868|868|29|2024-02-19|20:00:00|Mortuary|Deceased|486|NA|NA|NA|NA|Christine Anderson
-10889|889|889|43|2024-05-28|20:00:00|Mortuary|Deceased|599.0|NA|NA|NA|NA|Jennifer Carter
-10910|910|910|53|2025-04-06|20:00:00|Mortuary|Deceased|789.00|NA|NA|NA|NA|Valerie Young
-10931|931|931|14|2024-09-01|20:00:00|Mortuary|Deceased|410.90|NA|NA|NA|NA|Chelsea Luna
+1|3|3|41|2025-05-22|22:03|Outpatient follow-up|Requires monitoring|530.81|786.50|Omeprazole|NA|Contact local clinic for follow-up|Joyce Nelson
+2|6|6|19|2024-07-23|23:14|Another facility|Recovered|995.91|496|NA|NA|Contact local clinic for follow-up|Cory Galloway
+3|9|9|34|2024-01-06|22:16|Another facility|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Michelle Campbell
+4|12|12|38|2024-07-25|21:01|Another facility|Transferred|427.31|272.4|Metoprolol|NA|Contact local clinic for follow-up|Andrew Jenkins
+5|15|15|14|2025-01-15|19:25|Another facility|Requires monitoring|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
+6|18|18|41|2025-07-03|13:09|Another facility|Recovered|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
+7|21|21|18|2024-07-30|22:37|Outpatient follow-up|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Amy Graham
+8|24|24|11|2024-09-29|22:20|Home|Requires monitoring|038.9|285.9|NA|NA|Contact local clinic for follow-up|Jane King
+9|27|27|47|2025-05-06|14:06|Another facility|Stable|530.81|786.50|Omeprazole|NA|Contact local clinic for follow-up|Patrick Ross
+10|30|30|36|2025-02-26|16:30|Home|Improving|995.91|496|NA|NA|Contact local clinic for follow-up|James Davis
+11|33|33|21|2024-10-25|20:55|Home|Recovered|724.2|401.9|NA|NA|Contact local clinic for follow-up|Sandra Harvey
+12|36|36|55|2024-06-09|21:37|Another facility|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Benjamin Carr
+13|39|39|21|2024-06-07|21:57|Outpatient follow-up|Transferred|780.2|584.9|NA|NA|Contact local clinic for follow-up|Sandra Harvey
+14|42|42|52|2025-04-03|14:46|Outpatient follow-up|Requires monitoring|493.90|276.51|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
+15|45|45|22|2024-02-18|23:19|Outpatient follow-up|Transferred|414.01|780.60|NA|NA|Contact local clinic for follow-up|Christopher Moreno
+16|48|48|20|2025-02-11|19:29|Another facility|Stable|038.9|285.9|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
+17|51|51|14|2024-03-02|22:00|Home|Transferred|530.81|786.50|Omeprazole|NA|Contact local clinic for follow-up|Chelsea Luna
+18|54|54|1|2025-01-23|15:53|Another facility|Recovered|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Terry Small
+19|57|57|10|2025-04-12|16:30|Another facility|Stable|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
+20|60|60|39|2024-01-13|15:19|Home|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Robert Adams
+21|63|63|36|2025-03-12|17:00|Outpatient follow-up|Transferred|780.2|584.9|None documented|NA|Contact local clinic for follow-up|James Davis
+22|66|66|40|2024-08-05|18:55|Mortuary|Deceased|493.90|276.51|NA|NA|NA|Angela Parks
+23|69|69|46|2025-05-29|19:09|Outpatient follow-up|Transferred|414.01|780.60|Atorvastatin|NA|Contact local clinic for follow-up|Daisy Mccarthy
+24|72|72|28|2025-03-15|14:10|Home|Improving|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Jennifer Johnson
+25|75|75|5|2024-03-16|14:17|Another facility|Stable|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Sarah Mason
+26|78|78|34|2024-07-15|21:57|Outpatient follow-up|Requires monitoring|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
+27|81|81|3|2025-03-15|23:21|Another facility|Recovered|724.2|401.9|NA|NA|Contact local clinic for follow-up|Amy Harris
+28|84|84|21|2024-10-19|21:35|Home|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Sandra Harvey
+29|87|87|46|2024-01-31|16:23|Home|Improving|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Daisy Mccarthy
+30|90|90|23|2024-12-09|18:40|Home|Stable|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
+31|93|93|47|2025-05-28|16:36|Outpatient follow-up|Improving|414.01|780.60|NA|NA|Contact local clinic for follow-up|Patrick Ross
+32|96|96|26|2025-02-27|18:24|Another facility|Transferred|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Angela Faulkner
+33|99|99|24|2025-07-01|13:11|Home|Requires monitoring|530.81|786.50|Omeprazole|NA|Contact local clinic for follow-up|Cameron Smith
+34|102|102|41|2024-04-21|16:31|Another facility|Requires monitoring|995.91|496|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
+35|105|105|26|2024-10-13|17:28|Home|Requires monitoring|724.2|401.9|NA|NA|Contact local clinic for follow-up|Angela Faulkner
+36|108|108|27|2024-08-30|21:11|Home|Improving|427.31|272.4|NA|NA|Contact local clinic for follow-up|Patrick Hernandez
+37|111|111|42|2024-12-31|20:43|Another facility|Requires monitoring|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Joseph Watkins
+38|114|114|1|2025-05-02|20:32|Another facility|Recovered|493.90|276.51|NA|NA|Contact local clinic for follow-up|Terry Small
+39|117|117|37|2025-06-26|13:41|Mortuary|Deceased|414.01|780.60|NA|NA|NA|Kelly Vance
+40|120|120|26|2025-06-13|14:04|Outpatient follow-up|Improving|038.9|285.9|NA|NA|Contact local clinic for follow-up|Angela Faulkner
+41|123|123|33|2024-09-14|15:54|Another facility|Improving|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Jackie Lee
+42|126|126|23|2025-05-09|15:53|Another facility|Improving|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Stacy Freeman
+43|129|129|40|2024-06-09|14:56|Another facility|Stable|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
+44|132|132|17|2025-04-02|15:06|Another facility|Improving|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
+45|135|135|47|2025-01-18|17:04|Home|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Patrick Ross
+46|138|138|49|2024-06-25|16:27|Another facility|Requires monitoring|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Anthony Walker
+47|141|141|30|2024-03-22|15:42|Home|Improving|414.01|780.60|Atorvastatin|NA|Contact local clinic for follow-up|Barbara Johnson
+48|144|144|23|2024-06-14|16:18|Home|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
+49|147|147|4|2024-07-01|20:08|Another facility|Improving|530.81|786.50|Omeprazole|NA|Contact local clinic for follow-up|Annette Wagner
+50|150|150|22|2024-12-27|15:06|Home|Recovered|995.91|496|NA|NA|Contact local clinic for follow-up|Christopher Moreno
+51|153|153|23|2024-08-23|18:49|Another facility|Transferred|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Stacy Freeman
+52|156|156|18|2025-01-09|21:40|Another facility|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Amy Graham
+53|159|159|25|2024-10-13|18:32|Outpatient follow-up|Stable|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Patricia Johnson
+54|162|162|6|2024-11-06|18:46|Another facility|Requires monitoring|493.90|276.51|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
+55|165|165|45|2024-06-01|20:34|Outpatient follow-up|Improving|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Taylor Williams
+56|168|168|14|2025-05-13|19:08|Home|Stable|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
+57|171|171|55|2024-03-17|13:35|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Benjamin Carr
+58|174|174|47|2024-11-24|22:37|Another facility|Stable|995.91|496|None documented|NA|Contact local clinic for follow-up|Patrick Ross
+59|177|177|48|2024-03-13|16:40|Another facility|Improving|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
+60|180|180|30|2024-07-17|21:43|Home|Improving|427.31|272.4|Metoprolol|NA|Contact local clinic for follow-up|Barbara Johnson
+61|183|183|54|2024-01-25|13:39|Mortuary|Deceased|780.2|584.9|NA|NA|NA|Jason Jones
+62|186|186|39|2024-10-28|13:39|Outpatient follow-up|Requires monitoring|493.90|276.51|NA|NA|Contact local clinic for follow-up|Robert Adams
+63|189|189|19|2024-05-31|19:39|Outpatient follow-up|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Cory Galloway
+64|192|192|35|2025-05-28|16:52|Another facility|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Amy Jackson
+65|195|195|36|2024-05-21|17:47|Home|Transferred|530.81|786.50|NA|NA|Contact local clinic for follow-up|James Davis
+66|198|198|40|2024-11-05|18:28|Another facility|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Angela Parks
+67|201|201|38|2024-01-23|15:59|Another facility|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
+68|204|204|50|2025-02-22|22:30|Home|Transferred|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Curtis Martin
+69|207|207|49|2025-06-26|17:36|Home|Improving|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Anthony Walker
+70|210|210|54|2024-07-22|21:55|Outpatient follow-up|Requires monitoring|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Jason Jones
+71|213|213|52|2024-08-28|15:39|Home|Improving|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Maria Mcintosh
+72|216|216|34|2024-10-16|16:56|Another facility|Transferred|038.9|285.9|NA|NA|Contact local clinic for follow-up|Michelle Campbell
+73|219|219|12|2024-04-07|17:01|Outpatient follow-up|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
+74|222|222|20|2024-08-09|17:44|Outpatient follow-up|Improving|995.91|496|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
+75|225|225|6|2025-03-02|19:16|Another facility|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Jacqueline Flores
+76|228|228|40|2025-05-23|17:25|Home|Stable|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Angela Parks
+77|231|231|28|2024-03-24|22:23|Home|Requires monitoring|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Johnson
+78|234|234|28|2024-09-07|18:03|Outpatient follow-up|Improving|493.90|276.51|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
+79|237|237|19|2024-05-14|17:59|Another facility|Improving|414.01|780.60|Atorvastatin|NA|Contact local clinic for follow-up|Cory Galloway
+80|240|240|46|2024-07-17|13:20|Outpatient follow-up|Transferred|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Daisy Mccarthy
+81|243|243|31|2024-07-21|21:53|Outpatient follow-up|Stable|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Brittany Gonzalez
+82|246|246|31|2024-12-13|19:16|Outpatient follow-up|Stable|995.91|496|NA|NA|Contact local clinic for follow-up|Brittany Gonzalez
+83|249|249|54|2024-05-24|19:45|Another facility|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Jason Jones
+84|252|252|3|2025-03-09|16:20|Mortuary|Deceased|427.31|272.4|NA|NA|NA|Amy Harris
+85|255|255|8|2024-06-23|16:41|Home|Recovered|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Brenda Ellis
+86|258|258|21|2025-05-11|17:06|Outpatient follow-up|Requires monitoring|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Sandra Harvey
+87|261|261|28|2024-06-25|13:02|Home|Requires monitoring|414.01|780.60|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
+88|264|264|20|2024-01-12|14:57|Home|Requires monitoring|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Stephanie Benitez
+89|267|267|35|2024-03-27|23:28|Outpatient follow-up|Improving|530.81|786.50|NA|NA|Contact local clinic for follow-up|Amy Jackson
+90|270|270|25|2025-05-20|15:21|Another facility|Improving|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
+91|273|273|41|2025-06-21|17:06|Outpatient follow-up|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
+92|276|276|19|2025-04-16|18:53|Home|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Cory Galloway
+93|279|279|38|2025-06-05|18:41|Another facility|Stable|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
+94|282|282|17|2025-01-23|23:07|Outpatient follow-up|Improving|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
+95|285|285|55|2025-05-03|16:42|Another facility|Stable|414.01|780.60|Atorvastatin|NA|Contact local clinic for follow-up|Benjamin Carr
+96|288|288|46|2024-01-20|14:29|Outpatient follow-up|Requires monitoring|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Daisy Mccarthy
+97|291|291|4|2025-06-12|14:51|Another facility|Stable|530.81|786.50|Omeprazole|NA|Contact local clinic for follow-up|Annette Wagner
+98|294|294|28|2024-03-31|15:06|Home|Transferred|995.91|496|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
+99|297|297|13|2024-01-29|20:19|Home|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Nathan Holmes
+100|300|300|2|2024-10-12|20:22|Home|Stable|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
+101|303|303|17|2024-04-18|18:50|Outpatient follow-up|Requires monitoring|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
+102|306|306|38|2024-06-29|14:12|Home|Stable|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
+103|309|309|53|2025-02-18|18:16|Another facility|Transferred|414.01|780.60|Atorvastatin|NA|Contact local clinic for follow-up|Valerie Young
+104|312|312|48|2024-03-23|20:06|Home|Stable|038.9|285.9|NA|NA|Contact local clinic for follow-up|Aaron Berg
+105|315|315|50|2025-02-23|15:09|Outpatient follow-up|Transferred|530.81|786.50|Omeprazole|NA|Contact local clinic for follow-up|Curtis Martin
+106|318|318|18|2025-05-07|21:44|Home|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Amy Graham
+107|321|321|2|2024-04-07|16:20|Home|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
+108|324|324|31|2025-03-05|15:54|Another facility|Stable|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Brittany Gonzalez
+109|327|327|23|2024-08-21|19:31|Home|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Stacy Freeman
+110|330|330|50|2025-03-24|20:36|Another facility|Stable|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Curtis Martin
+111|333|333|37|2025-04-01|21:55|Home|Improving|414.01|780.60|Atorvastatin|NA|Contact local clinic for follow-up|Kelly Vance
+112|336|336|24|2024-05-21|18:39|Outpatient follow-up|Requires monitoring|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Cameron Smith
+113|339|339|17|2024-12-05|20:50|Outpatient follow-up|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
+114|342|342|45|2025-05-17|13:32|Outpatient follow-up|Transferred|995.91|496|NA|NA|Contact local clinic for follow-up|Taylor Williams
+115|345|345|6|2024-11-25|22:27|Another facility|Stable|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Jacqueline Flores
+116|348|348|42|2024-05-09|16:02|Another facility|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Joseph Watkins
+117|351|351|37|2024-09-15|14:19|Outpatient follow-up|Improving|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Kelly Vance
+118|354|354|28|2025-02-20|16:39|Another facility|Stable|493.90|276.51|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
+119|357|357|26|2024-10-01|14:41|Home|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Angela Faulkner
+120|360|360|49|2024-07-23|13:29|Home|Improving|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Anthony Walker
+121|363|363|42|2025-04-26|20:30|Home|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Joseph Watkins
+122|366|366|43|2024-01-14|16:52|Another facility|Recovered|995.91|496|None documented|NA|Contact local clinic for follow-up|Jennifer Carter
+123|369|369|42|2025-01-06|13:44|Outpatient follow-up|Recovered|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Joseph Watkins
+124|372|372|24|2024-05-23|22:44|Outpatient follow-up|Improving|427.31|272.4|NA|NA|Contact local clinic for follow-up|Cameron Smith
+125|375|375|53|2025-04-01|19:40|Outpatient follow-up|Stable|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Valerie Young
+126|378|378|49|2024-08-04|16:05|Outpatient follow-up|Recovered|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Anthony Walker
+127|381|381|11|2024-06-19|22:00|Outpatient follow-up|Stable|414.01|780.60|NA|NA|Contact local clinic for follow-up|Jane King
+128|384|384|12|2025-04-19|14:45|Outpatient follow-up|Improving|038.9|285.9|NA|NA|Contact local clinic for follow-up|Jeffery Carter
+129|387|387|39|2024-08-12|14:00|Outpatient follow-up|Recovered|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Robert Adams
+130|390|390|36|2024-05-15|22:26|Another facility|Recovered|995.91|496|NA|NA|Contact local clinic for follow-up|James Davis
+131|393|393|20|2024-03-29|17:07|Outpatient follow-up|Requires monitoring|724.2|401.9|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
+132|396|396|49|2025-03-21|18:30|Home|Stable|427.31|272.4|NA|NA|Contact local clinic for follow-up|Anthony Walker
+133|399|399|17|2025-04-20|15:48|Another facility|Recovered|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
+134|402|402|20|2024-07-05|16:11|Home|Stable|493.90|276.51|NA|NA|Contact local clinic for follow-up|Stephanie Benitez
+135|405|405|44|2024-07-16|23:15|Home|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Sandy Jackson
+136|408|408|52|2024-11-01|15:25|Home|Requires monitoring|038.9|285.9|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
+137|411|411|53|2025-05-26|16:13|Outpatient follow-up|Transferred|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Valerie Young
+138|414|414|12|2024-03-26|18:43|Outpatient follow-up|Stable|995.91|496|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
+139|417|417|34|2025-06-19|19:01|Another facility|Recovered|724.2|401.9|NA|NA|Contact local clinic for follow-up|Michelle Campbell
+140|420|420|29|2025-04-27|13:31|Home|Transferred|427.31|272.4|NA|NA|Contact local clinic for follow-up|Christine Anderson
+141|423|423|29|2024-03-16|21:05|Outpatient follow-up|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Christine Anderson
+142|426|426|45|2025-02-26|22:07|Another facility|Requires monitoring|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Taylor Williams
+143|429|429|27|2024-06-30|13:14|Home|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Patrick Hernandez
+144|432|432|29|2024-10-01|19:32|Outpatient follow-up|Requires monitoring|038.9|285.9|NA|NA|Contact local clinic for follow-up|Christine Anderson
+145|435|435|28|2025-04-26|15:38|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Jennifer Johnson
+146|438|438|39|2024-01-18|21:21|Outpatient follow-up|Requires monitoring|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Robert Adams
+147|441|441|55|2024-11-20|20:25|Outpatient follow-up|Transferred|724.2|401.9|NA|NA|Contact local clinic for follow-up|Benjamin Carr
+148|444|444|34|2024-05-05|16:00|Outpatient follow-up|Requires monitoring|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Michelle Campbell
+149|447|447|48|2024-06-13|16:26|Another facility|Improving|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
+150|450|450|29|2025-07-05|18:11|Home|Improving|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Christine Anderson
+151|453|453|19|2024-11-23|18:43|Home|Improving|414.01|780.60|Atorvastatin|NA|Contact local clinic for follow-up|Cory Galloway
+152|456|456|42|2024-05-11|15:44|Another facility|Requires monitoring|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Joseph Watkins
+153|459|459|12|2024-09-27|17:07|Home|Requires monitoring|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
+154|462|462|46|2025-05-22|22:33|Another facility|Recovered|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Daisy Mccarthy
+155|465|465|3|2024-11-12|16:36|Home|Requires monitoring|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
+156|468|468|38|2024-07-02|20:43|Home|Stable|427.31|272.4|Metoprolol|NA|Contact local clinic for follow-up|Andrew Jenkins
+157|471|471|44|2024-10-19|18:08|Home|Requires monitoring|780.2|584.9|NA|NA|Contact local clinic for follow-up|Sandy Jackson
+158|474|474|49|2024-02-16|20:24|Another facility|Stable|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Anthony Walker
+159|477|477|22|2024-06-07|16:21|Another facility|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Christopher Moreno
+160|480|480|54|2025-06-05|22:34|Home|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Jason Jones
+161|483|483|18|2025-01-04|22:54|Another facility|Improving|530.81|786.50|NA|NA|Contact local clinic for follow-up|Amy Graham
+162|486|486|26|2024-10-23|14:15|Home|Recovered|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Angela Faulkner
+163|489|489|45|2024-09-01|22:58|Another facility|Improving|724.2|401.9|NA|NA|Contact local clinic for follow-up|Taylor Williams
+164|492|492|44|2025-01-21|13:02|Home|Transferred|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Sandy Jackson
+165|495|495|54|2024-09-25|18:19|Another facility|Improving|780.2|584.9|NA|NA|Contact local clinic for follow-up|Jason Jones
+166|498|498|30|2024-12-24|15:57|Home|Transferred|493.90|276.51|NA|NA|Contact local clinic for follow-up|Barbara Johnson
+167|501|501|43|2024-06-15|18:08|Outpatient follow-up|Stable|414.01|780.60|NA|NA|Contact local clinic for follow-up|Jennifer Carter
+168|504|504|6|2025-03-23|18:21|Home|Improving|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Jacqueline Flores
+169|507|507|39|2025-06-22|18:36|Outpatient follow-up|Requires monitoring|530.81|786.50|NA|NA|Contact local clinic for follow-up|Robert Adams
+170|510|510|6|2025-01-02|19:06|Outpatient follow-up|Transferred|995.91|496|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
+171|513|513|2|2024-04-26|15:38|Outpatient follow-up|Transferred|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Andrea Johnson
+172|516|516|15|2024-06-10|18:16|Outpatient follow-up|Transferred|427.31|272.4|Metoprolol|NA|Contact local clinic for follow-up|Mrs. Susan Sullivan DDS
+173|519|519|33|2024-12-02|16:55|Outpatient follow-up|Transferred|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
+174|522|522|20|2025-01-19|15:10|Home|Requires monitoring|493.90|276.51|None documented|NA|Contact local clinic for follow-up|Stephanie Benitez
+175|525|525|16|2025-03-27|13:15|Mortuary|Deceased|414.01|780.60|NA|NA|NA|Hannah Green
+176|528|528|28|2024-01-13|18:54|Home|Recovered|038.9|285.9|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
+177|531|531|36|2025-04-20|23:04|Outpatient follow-up|Recovered|530.81|786.50|None documented|NA|Contact local clinic for follow-up|James Davis
+178|534|534|12|2024-08-20|19:38|Outpatient follow-up|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Jeffery Carter
+179|537|537|24|2024-09-21|18:50|Mortuary|Deceased|724.2|401.9|NA|NA|NA|Cameron Smith
+180|540|540|5|2025-01-21|19:59|Home|Requires monitoring|427.31|272.4|NA|NA|Contact local clinic for follow-up|Sarah Mason
+181|543|543|50|2024-10-19|21:16|Outpatient follow-up|Stable|780.2|584.9|NA|NA|Contact local clinic for follow-up|Curtis Martin
+182|546|546|42|2024-05-06|17:49|Another facility|Transferred|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Joseph Watkins
+183|549|549|53|2025-05-15|20:54|Outpatient follow-up|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Valerie Young
+184|552|552|29|2025-05-03|16:58|Outpatient follow-up|Recovered|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Christine Anderson
+185|555|555|39|2024-09-11|20:04|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Robert Adams
+186|558|558|41|2024-06-23|22:50|Another facility|Requires monitoring|995.91|496|NA|NA|Contact local clinic for follow-up|Joyce Nelson
+187|561|561|28|2025-02-01|22:54|Outpatient follow-up|Transferred|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Jennifer Johnson
+188|564|564|21|2024-03-28|21:57|Home|Transferred|427.31|272.4|NA|NA|Contact local clinic for follow-up|Sandra Harvey
+189|567|567|22|2025-06-02|22:00|Outpatient follow-up|Transferred|780.2|584.9|None documented|NA|Contact local clinic for follow-up|Christopher Moreno
+190|570|570|16|2024-05-14|20:40|Outpatient follow-up|Transferred|493.90|276.51|NA|NA|Contact local clinic for follow-up|Hannah Green
+191|573|573|31|2024-02-19|23:27|Outpatient follow-up|Recovered|414.01|780.60|NA|NA|Contact local clinic for follow-up|Brittany Gonzalez
+192|576|576|54|2025-04-07|20:31|Another facility|Transferred|038.9|285.9|None documented|NA|Contact local clinic for follow-up|Jason Jones
+193|579|579|5|2024-08-14|22:02|Mortuary|Deceased|530.81|786.50|NA|NA|NA|Sarah Mason
+194|582|582|54|2025-03-12|21:50|Another facility|Stable|995.91|496|NA|NA|Contact local clinic for follow-up|Jason Jones
+195|585|585|29|2025-03-01|20:17|Another facility|Requires monitoring|724.2|401.9|None documented|NA|Contact local clinic for follow-up|Christine Anderson
+196|588|588|14|2025-05-30|17:52|Another facility|Transferred|427.31|272.4|Metoprolol|NA|Contact local clinic for follow-up|Chelsea Luna
+197|591|591|34|2025-06-23|18:30|Outpatient follow-up|Requires monitoring|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
+198|594|594|48|2024-10-03|13:24|Another facility|Stable|493.90|276.51|NA|NA|Contact local clinic for follow-up|Aaron Berg
+199|597|597|2|2025-05-12|22:10|Mortuary|Deceased|414.01|780.60|NA|NA|NA|Andrea Johnson
+200|600|600|19|2025-06-09|16:44|Outpatient follow-up|Stable|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Cory Galloway
+201|603|603|35|2024-09-26|14:40|Home|Transferred|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Amy Jackson
+202|606|606|14|2024-01-31|16:10|Another facility|Transferred|995.91|496|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
+203|609|609|47|2025-02-27|16:06|Mortuary|Deceased|724.2|401.9|NA|NA|NA|Patrick Ross
+204|612|612|23|2024-12-13|13:05|Home|Improving|427.31|272.4|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
+205|615|615|23|2024-08-27|23:28|Home|Transferred|780.2|584.9|NA|NA|Contact local clinic for follow-up|Stacy Freeman
+206|618|618|16|2024-11-26|20:44|Home|Recovered|493.90|276.51|NA|NA|Contact local clinic for follow-up|Hannah Green
+207|621|621|25|2024-11-03|16:26|Another facility|Stable|414.01|780.60|NA|NA|Contact local clinic for follow-up|Patricia Johnson
+208|624|624|25|2024-06-30|14:56|Outpatient follow-up|Improving|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
+209|627|627|7|2024-07-05|23:03|Home|Transferred|530.81|786.50|None documented|NA|Contact local clinic for follow-up|Diana Oconnell
+210|630|630|29|2025-05-12|13:52|Outpatient follow-up|Transferred|995.91|496|Acetaminophen|NA|Contact local clinic for follow-up|Christine Anderson
+211|633|633|10|2024-04-20|17:08|Home|Stable|724.2|401.9|Acetaminophen|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
+212|636|636|5|2025-01-15|17:05|Outpatient follow-up|Recovered|427.31|272.4|Metoprolol|NA|Contact local clinic for follow-up|Sarah Mason
+213|639|639|33|2025-02-11|18:31|Another facility|Stable|780.2|584.9|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
+214|642|642|35|2024-10-29|13:30|Another facility|Recovered|493.90|276.51|Salbutamol|NA|Contact local clinic for follow-up|Amy Jackson
+215|645|645|37|2025-01-12|15:25|Home|Recovered|414.01|780.60|None documented|NA|Contact local clinic for follow-up|Kelly Vance
+216|648|648|32|2024-01-21|20:43|Another facility|Transferred|038.9|285.9|Acetaminophen|NA|Contact local clinic for follow-up|William Owens
+217|651|651|6|2025-02-15|21:03|Outpatient follow-up|Stable|530.81|NA|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
+218|654|654|1|2024-03-30|21:38|Another facility|Requires monitoring|995.91|NA|None documented|NA|Contact local clinic for follow-up|Terry Small
+219|657|657|29|2024-12-05|19:21|Home|Requires monitoring|724.2|NA|NA|NA|Contact local clinic for follow-up|Christine Anderson
+220|660|660|43|2024-04-03|21:41|Outpatient follow-up|Recovered|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Jennifer Carter
+221|663|663|3|2025-02-06|18:24|Outpatient follow-up|Recovered|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
+222|666|666|22|2024-07-01|17:21|Another facility|Recovered|493.90|NA|None documented|NA|Contact local clinic for follow-up|Christopher Moreno
+223|669|669|43|2024-07-08|14:02|Outpatient follow-up|Recovered|414.01|NA|NA|NA|Contact local clinic for follow-up|Jennifer Carter
+224|672|672|28|2025-03-28|15:32|Another facility|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Johnson
+225|675|675|35|2024-08-25|13:36|Outpatient follow-up|Stable|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Amy Jackson
+226|678|678|55|2024-07-21|13:26|Outpatient follow-up|Requires monitoring|995.91|NA|None documented|NA|Contact local clinic for follow-up|Benjamin Carr
+227|681|681|25|2024-04-26|14:54|Another facility|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
+228|684|684|18|2024-03-26|13:56|Home|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
+229|687|687|5|2024-08-28|19:15|Outpatient follow-up|Improving|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Sarah Mason
+230|690|690|29|2024-04-21|17:46|Outpatient follow-up|Recovered|493.90|NA|NA|NA|Contact local clinic for follow-up|Christine Anderson
+231|693|693|43|2025-06-25|19:06|Home|Improving|414.01|NA|Atorvastatin|NA|Contact local clinic for follow-up|Jennifer Carter
+232|696|696|6|2025-03-21|14:43|Outpatient follow-up|Improving|038.9|NA|None documented|NA|Contact local clinic for follow-up|Jacqueline Flores
+233|699|699|53|2024-05-03|17:54|Home|Stable|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Valerie Young
+234|702|702|27|2025-01-01|15:23|Home|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patrick Hernandez
+235|705|705|37|2025-01-23|21:29|Another facility|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Kelly Vance
+236|708|708|11|2025-03-20|21:33|Another facility|Requires monitoring|427.31|NA|NA|NA|Contact local clinic for follow-up|Jane King
+237|711|711|52|2024-09-30|14:44|Home|Transferred|780.2|NA|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
+238|714|714|40|2024-11-21|14:50|Another facility|Transferred|493.90|NA|Salbutamol|NA|Contact local clinic for follow-up|Angela Parks
+239|717|717|43|2024-11-01|16:52|Outpatient follow-up|Transferred|414.01|NA|NA|NA|Contact local clinic for follow-up|Jennifer Carter
+240|720|720|47|2024-03-22|14:23|Home|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patrick Ross
+241|723|723|40|2025-02-28|19:21|Another facility|Stable|530.81|NA|NA|NA|Contact local clinic for follow-up|Angela Parks
+242|726|726|25|2024-07-22|15:35|Home|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Patricia Johnson
+243|729|729|15|2024-05-19|14:15|Another facility|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Mrs. Susan Sullivan DDS
+244|732|732|2|2025-05-05|14:28|Home|Recovered|427.31|NA|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
+245|735|735|9|2024-01-23|22:56|Home|Requires monitoring|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Francis Martin
+246|738|738|14|2024-10-04|20:38|Home|Recovered|493.90|NA|Salbutamol|NA|Contact local clinic for follow-up|Chelsea Luna
+247|741|741|30|2025-02-04|15:21|Outpatient follow-up|Transferred|414.01|NA|None documented|NA|Contact local clinic for follow-up|Barbara Johnson
+248|744|744|33|2024-04-29|16:36|Outpatient follow-up|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
+249|747|747|47|2024-09-26|13:45|Outpatient follow-up|Transferred|530.81|NA|NA|NA|Contact local clinic for follow-up|Patrick Ross
+250|750|750|34|2024-09-08|13:36|Home|Improving|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Michelle Campbell
+251|753|753|36|2024-06-18|18:25|Home|Improving|724.2|NA|None documented|NA|Contact local clinic for follow-up|James Davis
+252|756|756|49|2025-07-03|18:51|Home|Improving|427.31|NA|NA|NA|Contact local clinic for follow-up|Anthony Walker
+253|759|759|44|2024-12-30|15:19|Outpatient follow-up|Stable|780.2|NA|NA|NA|Contact local clinic for follow-up|Sandy Jackson
+254|762|762|3|2024-08-29|22:19|Home|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Amy Harris
+255|765|765|11|2024-07-28|13:07|Home|Recovered|414.01|NA|Atorvastatin|NA|Contact local clinic for follow-up|Jane King
+256|768|768|35|2024-02-14|15:12|Home|Stable|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Jackson
+257|771|771|34|2024-08-28|18:05|Another facility|Requires monitoring|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Michelle Campbell
+258|774|774|3|2025-06-29|14:38|Another facility|Requires monitoring|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
+259|777|777|50|2024-09-26|19:52|Another facility|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Curtis Martin
+260|780|780|14|2024-07-13|16:45|Home|Recovered|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Chelsea Luna
+261|783|783|16|2024-01-12|17:09|Another facility|Recovered|780.2|NA|None documented|NA|Contact local clinic for follow-up|Hannah Green
+262|786|786|40|2024-12-08|13:21|Another facility|Transferred|493.90|NA|Salbutamol|NA|Contact local clinic for follow-up|Angela Parks
+263|789|789|33|2024-02-05|22:08|Another facility|Improving|414.01|NA|None documented|NA|Contact local clinic for follow-up|Jackie Lee
+264|792|792|36|2024-01-19|17:45|Another facility|Improving|038.9|NA|None documented|NA|Contact local clinic for follow-up|James Davis
+265|795|795|31|2024-07-04|20:16|Outpatient follow-up|Improving|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Brittany Gonzalez
+266|798|798|26|2024-06-03|16:16|Outpatient follow-up|Transferred|995.91|NA|None documented|NA|Contact local clinic for follow-up|Angela Faulkner
+267|801|801|25|2025-01-13|18:33|Home|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Patricia Johnson
+268|804|804|52|2024-04-03|22:08|Another facility|Requires monitoring|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Maria Mcintosh
+269|807|807|38|2024-08-15|22:07|Another facility|Stable|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Andrew Jenkins
+270|810|810|10|2025-02-17|15:32|Another facility|Requires monitoring|493.90|NA|NA|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
+271|813|813|47|2024-11-26|22:10|Home|Transferred|414.01|NA|NA|NA|Contact local clinic for follow-up|Patrick Ross
+272|816|816|48|2025-01-01|16:58|Home|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
+273|819|819|51|2025-02-15|15:51|Outpatient follow-up|Transferred|530.81|NA|NA|NA|Contact local clinic for follow-up|Joshua Brown
+274|822|822|39|2025-02-14|13:17|Home|Stable|995.91|NA|None documented|NA|Contact local clinic for follow-up|Robert Adams
+275|825|825|2|2024-09-14|21:20|Outpatient follow-up|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Andrea Johnson
+276|828|828|9|2024-03-08|21:39|Another facility|Transferred|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Francis Martin
+277|831|831|38|2024-02-02|22:35|Home|Transferred|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Andrew Jenkins
+278|834|834|21|2025-04-11|22:10|Outpatient follow-up|Requires monitoring|493.90|NA|Salbutamol|NA|Contact local clinic for follow-up|Sandra Harvey
+279|837|837|5|2024-02-06|13:27|Mortuary|Deceased|414.01|NA|NA|NA|NA|Sarah Mason
+280|840|840|43|2025-01-06|19:58|Another facility|Requires monitoring|038.9|NA|None documented|NA|Contact local clinic for follow-up|Jennifer Carter
+281|843|843|41|2024-05-29|17:20|Home|Requires monitoring|530.81|NA|NA|NA|Contact local clinic for follow-up|Joyce Nelson
+282|846|846|8|2025-06-24|16:23|Home|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Brenda Ellis
+283|849|849|51|2025-06-16|21:40|Another facility|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Joshua Brown
+284|852|852|55|2024-06-22|15:13|Home|Stable|427.31|NA|NA|NA|Contact local clinic for follow-up|Benjamin Carr
+285|855|855|45|2024-08-26|16:25|Home|Improving|780.2|NA|None documented|NA|Contact local clinic for follow-up|Taylor Williams
+286|858|858|52|2024-09-30|22:20|Outpatient follow-up|Transferred|493.90|NA|NA|NA|Contact local clinic for follow-up|Maria Mcintosh
+287|861|861|18|2024-07-03|16:11|Home|Requires monitoring|414.01|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
+288|864|864|9|2024-12-05|23:09|Mortuary|Deceased|038.9|NA|NA|NA|NA|Francis Martin
+289|867|867|9|2024-11-18|20:12|Another facility|Transferred|530.81|NA|None documented|NA|Contact local clinic for follow-up|Francis Martin
+290|870|870|15|2024-04-01|20:48|Mortuary|Deceased|995.91|NA|NA|NA|NA|Mrs. Susan Sullivan DDS
+291|873|873|31|2024-05-17|13:42|Outpatient follow-up|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Brittany Gonzalez
+292|876|876|39|2024-07-25|19:38|Outpatient follow-up|Requires monitoring|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Robert Adams
+293|879|879|39|2024-01-13|20:53|Home|Requires monitoring|780.2|NA|None documented|NA|Contact local clinic for follow-up|Robert Adams
+294|882|882|51|2024-10-24|20:03|Outpatient follow-up|Requires monitoring|493.90|NA|NA|NA|Contact local clinic for follow-up|Joshua Brown
+295|885|885|41|2024-03-11|20:54|Another facility|Improving|414.01|NA|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
+296|888|888|46|2025-02-01|22:10|Outpatient follow-up|Requires monitoring|038.9|NA|None documented|NA|Contact local clinic for follow-up|Daisy Mccarthy
+297|891|891|11|2024-01-10|16:30|Another facility|Transferred|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Jane King
+298|894|894|50|2025-06-02|22:17|Outpatient follow-up|Stable|995.91|NA|NA|NA|Contact local clinic for follow-up|Curtis Martin
+299|897|897|18|2024-08-05|20:08|Another facility|Transferred|724.2|NA|NA|NA|Contact local clinic for follow-up|Amy Graham
+300|900|900|53|2025-03-30|20:28|Another facility|Requires monitoring|427.31|NA|None documented|NA|Contact local clinic for follow-up|Valerie Young
+301|903|903|42|2025-04-20|14:16|Another facility|Recovered|780.2|NA|NA|NA|Contact local clinic for follow-up|Joseph Watkins
+302|906|906|29|2025-04-26|13:36|Home|Transferred|493.90|NA|NA|NA|Contact local clinic for follow-up|Christine Anderson
+303|909|909|53|2025-03-08|22:33|Another facility|Transferred|414.01|NA|Atorvastatin|NA|Contact local clinic for follow-up|Valerie Young
+304|912|912|17|2025-03-30|17:10|Outpatient follow-up|Improving|038.9|NA|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
+305|915|915|50|2024-10-16|19:23|Home|Transferred|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Curtis Martin
+306|918|918|12|2025-01-09|16:50|Home|Requires monitoring|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jeffery Carter
+307|921|921|43|2024-03-19|17:12|Another facility|Recovered|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jennifer Carter
+308|924|924|50|2024-02-10|23:10|Home|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Curtis Martin
+309|927|927|16|2024-10-07|21:34|Another facility|Stable|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Hannah Green
+310|930|930|14|2024-10-16|13:23|Outpatient follow-up|Requires monitoring|493.90|NA|Salbutamol|NA|Contact local clinic for follow-up|Chelsea Luna
+311|933|933|42|2024-12-13|16:43|Outpatient follow-up|Stable|414.01|NA|NA|NA|Contact local clinic for follow-up|Joseph Watkins
+312|936|936|31|2025-04-22|16:37|Another facility|Requires monitoring|038.9|NA|NA|NA|Contact local clinic for follow-up|Brittany Gonzalez
+313|939|939|37|2024-09-16|19:20|Another facility|Improving|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Kelly Vance
+314|942|942|5|2025-05-23|23:30|Outpatient follow-up|Stable|995.91|NA|None documented|NA|Contact local clinic for follow-up|Sarah Mason
+315|945|945|41|2024-01-22|14:49|Home|Recovered|724.2|NA|None documented|NA|Contact local clinic for follow-up|Joyce Nelson
+316|948|948|36|2024-01-12|21:08|Another facility|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|James Davis
+317|951|951|43|2024-01-24|18:06|Home|Requires monitoring|780.2|NA|NA|NA|Contact local clinic for follow-up|Jennifer Carter
+318|954|954|35|2025-02-03|21:32|Another facility|Improving|493.90|NA|NA|NA|Contact local clinic for follow-up|Amy Jackson
+319|957|957|9|2024-06-30|20:53|Another facility|Transferred|414.01|NA|None documented|NA|Contact local clinic for follow-up|Francis Martin
+320|960|960|19|2024-09-30|22:21|Outpatient follow-up|Improving|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Cory Galloway
+321|963|963|55|2025-03-01|14:48|Home|Requires monitoring|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Benjamin Carr
+322|966|966|17|2024-05-31|23:06|Outpatient follow-up|Recovered|995.91|NA|None documented|NA|Contact local clinic for follow-up|Tyler Martinez
+323|969|969|28|2024-04-23|15:18|Home|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Jennifer Johnson
+324|972|972|13|2024-05-02|22:25|Outpatient follow-up|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Nathan Holmes
+325|975|975|40|2024-03-21|13:06|Outpatient follow-up|Improving|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
+326|978|978|23|2025-01-30|17:36|Outpatient follow-up|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Stacy Freeman
+327|981|981|52|2024-04-18|20:11|Another facility|Requires monitoring|414.01|NA|None documented|NA|Contact local clinic for follow-up|Maria Mcintosh
+328|984|984|19|2025-03-01|14:22|Another facility|Transferred|038.9|NA|NA|NA|Contact local clinic for follow-up|Cory Galloway
+329|987|987|7|2024-07-07|18:33|Outpatient follow-up|Stable|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Diana Oconnell
+330|990|990|6|2025-06-22|17:42|Mortuary|Deceased|995.91|NA|NA|NA|NA|Jacqueline Flores
+331|993|993|14|2024-07-10|18:45|Outpatient follow-up|Stable|724.2|NA|NA|NA|Contact local clinic for follow-up|Chelsea Luna
+332|996|996|13|2024-03-20|19:50|Outpatient follow-up|Improving|427.31|NA|NA|NA|Contact local clinic for follow-up|Nathan Holmes
+333|999|999|32|2025-02-15|21:30|Outpatient follow-up|Transferred|780.2|NA|None documented|NA|Contact local clinic for follow-up|William Owens
+334|1002|589|52|2026-07-02|22:18|Another facility|Stable|493.90|NA|Salbutamol|NA|Contact local clinic for follow-up|Maria Mcintosh
+335|1005|707|14|2026-04-02|15:59|Another facility|Stable|414.01|NA|None documented|NA|Contact local clinic for follow-up|Chelsea Luna
+336|1008|884|49|2026-10-06|22:39|Another facility|Stable|038.9|NA|None documented|NA|Contact local clinic for follow-up|Anthony Walker
+337|1011|330|34|2025-11-26|18:05|Home|Stable|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Michelle Campbell
+338|1014|480|3|2025-09-15|14:06|Another facility|Improving|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Harris
+339|1017|81|28|2026-10-17|13:51|Home|Improving|724.2|NA|NA|NA|Contact local clinic for follow-up|Jennifer Johnson
+340|1020|621|38|2026-06-15|19:53|Outpatient follow-up|Transferred|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Andrew Jenkins
+341|1023|804|10|2026-02-15|15:16|Another facility|Recovered|780.2|NA|NA|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
+342|1026|380|45|2026-07-24|16:13|Home|Stable|493.90|NA|Salbutamol|NA|Contact local clinic for follow-up|Taylor Williams
+343|1029|4|39|2025-10-21|15:58|Another facility|Transferred|414.01|NA|Atorvastatin|NA|Contact local clinic for follow-up|Robert Adams
+344|1032|42|42|2026-02-17|20:17|Home|Recovered|038.9|NA|NA|NA|Contact local clinic for follow-up|Joseph Watkins
+345|1035|492|7|2025-12-24|13:13|Outpatient follow-up|Transferred|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Diana Oconnell
+346|1038|573|40|2025-08-19|20:37|Another facility|Recovered|995.91|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
+347|1041|859|48|2025-09-07|22:30|Outpatient follow-up|Stable|724.2|NA|NA|NA|Contact local clinic for follow-up|Aaron Berg
+348|1044|332|16|2026-11-07|19:49|Home|Recovered|427.31|NA|NA|NA|Contact local clinic for follow-up|Hannah Green
+349|1047|455|9|2026-09-17|19:27|Outpatient follow-up|Transferred|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Francis Martin
+350|1050|69|38|2026-09-19|19:06|Home|Requires monitoring|493.90|NA|NA|NA|Contact local clinic for follow-up|Andrew Jenkins
+351|1053|992|16|2026-03-19|19:30|Home|Transferred|414.01|NA|Atorvastatin|NA|Contact local clinic for follow-up|Hannah Green
+352|1056|212|38|2026-01-08|13:18|Another facility|Stable|038.9|NA|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
+353|1059|201|40|2026-04-25|20:58|Outpatient follow-up|Improving|530.81|NA|None documented|NA|Contact local clinic for follow-up|Angela Parks
+354|1062|30|39|2025-09-05|20:39|Outpatient follow-up|Improving|995.91|NA|None documented|NA|Contact local clinic for follow-up|Robert Adams
+355|1065|221|22|2026-03-22|13:00|Another facility|Improving|724.2|NA|None documented|NA|Contact local clinic for follow-up|Christopher Moreno
+356|1068|471|38|2026-02-18|20:26|Outpatient follow-up|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Andrew Jenkins
+357|1071|833|32|2025-10-08|13:50|Home|Requires monitoring|780.2|NA|None documented|NA|Contact local clinic for follow-up|William Owens
+358|1074|220|3|2026-07-12|17:07|Another facility|Improving|493.90|NA|NA|NA|Contact local clinic for follow-up|Amy Harris
+359|1077|672|44|2025-08-17|19:22|Outpatient follow-up|Recovered|414.01|NA|NA|NA|Contact local clinic for follow-up|Sandy Jackson
+360|1080|705|36|2026-03-28|21:45|Mortuary|Deceased|038.9|NA|NA|NA|NA|James Davis
+361|1083|349|46|2026-03-17|22:47|Another facility|Stable|530.81|NA|None documented|NA|Contact local clinic for follow-up|Daisy Mccarthy
+362|1086|165|1|2026-03-10|16:24|Outpatient follow-up|Improving|995.91|NA|None documented|NA|Contact local clinic for follow-up|Terry Small
+363|1089|570|16|2026-05-06|13:56|Home|Transferred|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Hannah Green
+364|1092|269|20|2026-09-06|23:25|Outpatient follow-up|Improving|427.31|NA|None documented|NA|Contact local clinic for follow-up|Stephanie Benitez
+365|1095|341|18|2026-07-18|15:59|Another facility|Recovered|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Amy Graham
+366|1098|333|18|2026-07-18|20:59|Another facility|Stable|493.90|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
+367|1101|425|43|2026-10-03|19:08|Another facility|Recovered|414.01|NA|None documented|NA|Contact local clinic for follow-up|Jennifer Carter
+368|1104|477|18|2026-07-22|22:03|Home|Recovered|038.9|NA|None documented|NA|Contact local clinic for follow-up|Amy Graham
+369|1107|403|25|2025-12-14|17:47|Another facility|Requires monitoring|530.81|NA|NA|NA|Contact local clinic for follow-up|Patricia Johnson
+370|1110|464|6|2025-11-23|13:11|Another facility|Stable|995.91|NA|NA|NA|Contact local clinic for follow-up|Jacqueline Flores
+371|1113|149|24|2026-04-26|19:15|Another facility|Requires monitoring|724.2|NA|None documented|NA|Contact local clinic for follow-up|Cameron Smith
+372|1116|375|4|2026-07-26|18:13|Home|Recovered|427.31|NA|NA|NA|Contact local clinic for follow-up|Annette Wagner
+373|1119|992|29|2026-04-10|21:37|Outpatient follow-up|Stable|780.2|NA|None documented|NA|Contact local clinic for follow-up|Christine Anderson
+374|1122|512|12|2026-07-07|19:48|Another facility|Recovered|493.90|NA|NA|NA|Contact local clinic for follow-up|Jeffery Carter
+375|1125|403|10|2026-08-08|17:32|Home|Requires monitoring|414.01|NA|None documented|NA|Contact local clinic for follow-up|Dr. Kevin Contreras
+376|1128|485|48|2026-06-04|21:36|Outpatient follow-up|Recovered|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
+377|1131|48|37|2026-04-06|18:53|Another facility|Recovered|530.81|NA|Omeprazole|NA|Contact local clinic for follow-up|Kelly Vance
+378|1134|759|47|2026-05-23|19:25|Home|Requires monitoring|995.91|NA|NA|NA|Contact local clinic for follow-up|Patrick Ross
+379|1137|554|33|2025-09-27|16:33|Home|Improving|724.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Jackie Lee
+380|1140|510|20|2025-11-20|15:33|Home|Recovered|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Stephanie Benitez
+381|1143|170|16|2026-01-14|17:38|Another facility|Requires monitoring|780.2|NA|Acetaminophen|NA|Contact local clinic for follow-up|Hannah Green
+382|1146|28|35|2026-02-14|13:51|Another facility|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Amy Jackson
+383|1149|644|27|2025-12-26|16:22|Another facility|Improving|414.01|NA|Atorvastatin|NA|Contact local clinic for follow-up|Patrick Hernandez
+384|1152|956|48|2026-03-15|19:04|Another facility|Transferred|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Aaron Berg
+385|1155|208|47|2026-06-18|13:18|Home|Improving|530.81|NA|None documented|NA|Contact local clinic for follow-up|Patrick Ross
+386|1158|951|5|2026-08-27|19:00|Another facility|Improving|995.91|NA|None documented|NA|Contact local clinic for follow-up|Sarah Mason
+387|1161|433|2|2026-02-17|16:32|Home|Transferred|724.2|NA|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
+388|1164|426|2|2026-04-04|13:23|Another facility|Stable|427.31|NA|None documented|NA|Contact local clinic for follow-up|Andrea Johnson
+389|1167|522|32|2026-07-30|22:57|Outpatient follow-up|Stable|780.2|NA|None documented|NA|Contact local clinic for follow-up|William Owens
+390|1170|13|25|2025-12-30|16:47|Outpatient follow-up|Transferred|493.90|NA|None documented|NA|Contact local clinic for follow-up|Patricia Johnson
+391|1173|334|30|2026-04-28|17:32|Another facility|Transferred|414.01|NA|Atorvastatin|NA|Contact local clinic for follow-up|Barbara Johnson
+392|1176|357|40|2025-12-08|14:58|Another facility|Stable|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Angela Parks
+393|1179|857|38|2026-02-26|19:28|Another facility|Stable|530.81|NA|NA|NA|Contact local clinic for follow-up|Andrew Jenkins
+394|1182|90|9|2026-03-11|23:10|Outpatient follow-up|Stable|995.91|NA|NA|NA|Contact local clinic for follow-up|Francis Martin
+395|1185|793|39|2026-01-14|13:38|Mortuary|Deceased|724.2|NA|NA|NA|NA|Robert Adams
+396|1188|939|22|2025-10-05|21:13|Home|Improving|427.31|NA|Metoprolol|NA|Contact local clinic for follow-up|Christopher Moreno
+397|1191|228|7|2026-04-23|17:24|Home|Improving|780.2|NA|None documented|NA|Contact local clinic for follow-up|Diana Oconnell
+398|1194|401|6|2026-10-13|18:42|Outpatient follow-up|Improving|493.90|NA|None documented|NA|Contact local clinic for follow-up|Jacqueline Flores
+399|1197|397|35|2026-09-21|14:43|Another facility|Improving|414.01|NA|NA|NA|Contact local clinic for follow-up|Amy Jackson
+400|1200|614|49|2026-09-05|13:04|Outpatient follow-up|Requires monitoring|038.9|NA|Acetaminophen|NA|Contact local clinic for follow-up|Anthony Walker
+10080|80|80|42|2025-02-12|20:32:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|Joseph Watkins
+11177|1177|86|54|2026-10-25|18:19:00|Mortuary|Deceased|599.0|NA|NA|NA|NA|Jason Jones
+10094|94|94|22|2025-07-05|19:32:00|Mortuary|Deceased|789.00|530.81|NA|NA|NA|Christopher Moreno
+10112|112|112|52|2025-04-29|19:06:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Maria Mcintosh
+11310|1310|115|9|2026-07-17|15:54:00|Mortuary|Deceased|401.9|NA|NA|NA|NA|Francis Martin
+10128|128|128|8|2025-01-10|23:23:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|Brenda Ellis
+10130|130|130|25|2024-09-22|19:30:00|Mortuary|Deceased|780.79|780.2|NA|NA|NA|Patricia Johnson
+10136|136|136|28|2024-06-14|17:16:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Jennifer Johnson
+11212|1212|178|45|2025-10-25|18:18:00|Mortuary|Deceased|427.31|NA|NA|NA|NA|Taylor Williams
+10185|185|185|35|2025-05-27|14:16:00|Mortuary|Deceased|272.4|789.00|NA|NA|NA|Amy Jackson
+10193|193|193|50|2024-03-06|14:00:00|Mortuary|Deceased|599.0|995.91|NA|NA|NA|Curtis Martin
+10200|200|200|32|2024-03-06|20:14:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|William Owens
+10214|214|214|4|2024-01-16|15:10:00|Mortuary|Deceased|789.00|530.81|NA|NA|NA|Annette Wagner
+10271|271|271|4|2025-01-23|21:28:00|Mortuary|Deceased|250.00|427.31|NA|NA|NA|Annette Wagner
+10284|284|284|14|2025-06-29|19:43:00|Mortuary|Deceased|584.9|599.0|NA|NA|NA|Chelsea Luna
+10293|293|293|33|2025-03-28|14:28:00|Mortuary|Deceased|285.9|780.79|NA|NA|NA|Jackie Lee
+11282|1282|309|46|2026-03-21|21:59:00|Mortuary|Deceased|780.79|NA|NA|NA|NA|Daisy Mccarthy
+10370|370|370|19|2024-01-25|14:02:00|Mortuary|Deceased|780.79|780.2|NA|NA|NA|Cory Galloway
+10410|410|410|23|2024-05-04|19:37:00|Mortuary|Deceased|780.60|250.00|NA|NA|NA|Stacy Freeman
+10424|424|424|43|2025-02-28|17:46:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Jennifer Carter
+10428|428|428|23|2025-02-18|22:32:00|Mortuary|Deceased|584.9|599.0|NA|NA|NA|Stacy Freeman
+10431|431|431|30|2024-01-25|20:04:00|Mortuary|Deceased|276.51|486|NA|NA|NA|Barbara Johnson
+10443|443|443|37|2024-10-31|17:34:00|Mortuary|Deceased|496|784.0|NA|NA|NA|Kelly Vance
+10482|482|482|21|2024-01-02|22:10:00|Mortuary|Deceased|780.60|250.00|NA|NA|NA|Sandra Harvey
+10568|568|568|14|2025-04-25|15:10:00|Mortuary|Deceased|784.0|414.01|NA|NA|NA|Chelsea Luna
+10577|577|577|19|2024-08-22|19:41:00|Mortuary|Deceased|599.0|995.91|NA|NA|NA|Cory Galloway
+10632|632|632|2|2024-01-29|21:11:00|Mortuary|Deceased|786.50|560.9|NA|NA|NA|Andrea Johnson
+11300|1300|637|27|2025-11-06|20:55:00|Mortuary|Deceased|486|NA|NA|NA|NA|Patrick Hernandez
+11022|1022|666|1|2025-11-04|17:42:00|Mortuary|Deceased|401.9|NA|NA|NA|NA|Terry Small
+11275|1275|682|15|2025-08-22|18:28:00|Mortuary|Deceased|530.81|NA|NA|NA|NA|Mrs. Susan Sullivan Dds
+10686|686|686|40|2024-03-08|21:28:00|Mortuary|Deceased|401.9|NA|NA|NA|NA|Angela Parks
+10701|701|701|1|2025-05-31|14:58:00|Mortuary|Deceased|285.9|NA|NA|NA|NA|Terry Small
+11010|1010|706|20|2025-11-16|15:03:00|Mortuary|Deceased|780.60|NA|NA|NA|NA|Stephanie Benitez
+10722|722|722|28|2024-07-15|19:58:00|Mortuary|Deceased|780.60|NA|NA|NA|NA|Jennifer Johnson
+10763|763|763|17|2024-05-17|15:08:00|Mortuary|Deceased|410.90|NA|NA|NA|NA|Tyler Martinez
+11097|1097|803|45|2025-09-03|15:13:00|Mortuary|Deceased|272.4|NA|NA|NA|NA|Taylor Williams
+11325|1325|806|27|2026-01-07|20:31:00|Mortuary|Deceased|285.9|NA|NA|NA|NA|Patrick Hernandez
+10842|842|842|15|2024-05-08|18:52:00|Mortuary|Deceased|780.60|NA|NA|NA|NA|Mrs. Susan Sullivan Dds
+10868|868|868|29|2024-02-19|21:40:00|Mortuary|Deceased|486|NA|NA|NA|NA|Christine Anderson
+10889|889|889|43|2024-05-28|18:18:00|Mortuary|Deceased|599.0|NA|NA|NA|NA|Jennifer Carter
+10910|910|910|53|2025-04-06|15:03:00|Mortuary|Deceased|789.00|NA|NA|NA|NA|Valerie Young
+10931|931|931|14|2024-09-01|13:59:00|Mortuary|Deceased|410.90|NA|NA|NA|NA|Chelsea Luna

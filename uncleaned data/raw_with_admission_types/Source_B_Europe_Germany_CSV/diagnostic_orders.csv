@@ -1,161 +1,161 @@
 diagnostic_order_id,FallNr,PatientNr,requesting_physician_id,request_date,request_time,clinical_reason_for_examination,priority,requested_examination,order_status
-1,18,18,38,25.03.2025,09.00,Dizziness,Normal,BloodTest,Completed
-2,35,35,19,30.05.2025,09.00,Fever and fatigue,Sofort,CT Examination,Completed
-3,52,52,3,10.01.2025,09.00,Severe headache,Hoch,electrodiagram,Completed
-4,69,69,41,31.10.2024,09.00,Dizziness,Hoch,BloodTest,Completed
-5,86,86,33,10.07.2024,09.00,Fever and fatigue,Normal,CT Examination,Completed
-6,103,103,30,23.08.2024,09.00,Dizziness,Sofort,electrodiagram,Completed
-7,120,120,20,12.03.2025,09.00,Routine postoperative follow-up,Normal,BloodTest,Completed
-8,137,137,24,06.03.2025,09.00,Abdominal pain,Normal,CT Examination,Completed
-9,154,154,30,29.03.2024,09.00,Routine postoperative follow-up,Normal,electrodiagram,Completed
-10,171,171,34,02.04.2024,09.00,Urinary symptoms,Hoch,BloodTest,Completed
-11,188,188,7,07.12.2024,09.00,Fever and fatigue,Normal,CT Examination,Completed
-12,205,205,24,23.03.2025,09.00,Abnormal laboratory values,Sofort,electrodiagram,Completed
-13,222,222,17,17.06.2025,09.00,Abdominal pain,Hoch,BloodTest,Completed
-14,239,239,21,10.05.2025,09.00,Severe headache,Hoch,CT Examination,Completed
-15,256,256,54,27.05.2025,09.00,Dizziness,Normal,electrodiagram,Completed
-16,273,273,12,20.01.2025,09.00,Fever and fatigue,Hoch,BloodTest,Completed
-17,290,290,28,21.09.2024,09.00,Chest discomfort,Normal,CT Examination,Completed
-18,307,307,49,07.10.2024,09.00,Shortness of breath,Normal,electrodiagram,Completed
-19,324,324,26,06.03.2025,09.00,Dizziness,Hoch,BloodTest,Completed
-20,341,341,50,23.09.2024,09.00,Urinary symptoms,Hoch,CT Examination,Completed
-21,358,358,51,04.09.2024,09.00,Injury assessment,Normal,electrodiagram,Completed
-22,375,375,43,30.01.2024,09.00,Shortness of breath,Sofort,BloodTest,Completed
-23,392,392,40,14.09.2024,09.00,Chest discomfort,Hoch,CT Examination,Completed
-24,409,409,44,01.01.2025,09.00,Chest discomfort,Sofort,electrodiagram,Completed
-25,426,426,9,07.04.2024,09.00,Shortness of breath,Sofort,BloodTest,Completed
-26,443,443,23,01.05.2024,09.00,Injury assessment,Sofort,CT Examination,Completed
-27,460,460,39,21.10.2024,09.00,Chest discomfort,Sofort,electrodiagram,Completed
-28,477,477,51,13.08.2024,09.00,Abnormal laboratory values,Sofort,BloodTest,Completed
-29,494,494,20,16.06.2024,09.00,Severe headache,Sofort,CT Examination,Completed
-30,511,511,30,23.04.2024,09.00,Abnormal laboratory values,Normal,electrodiagram,Completed
-31,528,528,43,26.04.2025,09.00,Urinary symptoms,Sofort,BloodTest,Completed
-32,545,545,41,13.03.2025,09.00,Fever and fatigue,Normal,CT Examination,Completed
-33,562,562,31,24.01.2025,09.00,Dizziness,Hoch,electrodiagram,Completed
-34,579,579,37,24.10.2024,09.00,Dizziness,Normal,BloodTest,Completed
-35,596,596,10,14.03.2024,09.00,Fever and fatigue,Hoch,CT Examination,Completed
-36,613,613,33,10.12.2024,09.00,Fever and fatigue,Normal,electrodiagram,Completed
-37,630,630,28,12.01.2025,09.00,Shortness of breath,Hoch,BloodTest,Completed
-38,647,647,44,21.06.2025,09.00,Fever and fatigue,Hoch,CT Examination,Completed
-39,664,664,32,30.11.2024,09.00,Chest discomfort,Hoch,electrodiagram,Completed
-40,681,681,39,13.01.2025,09.00,Urinary symptoms,Sofort,BloodTest,Completed
-41,698,698,46,08.03.2025,09.00,Injury assessment,Sofort,CT Examination,Completed
-42,715,715,5,04.04.2025,09.00,Dizziness,Hoch,electrodiagram,Completed
-43,732,732,34,08.05.2025,09.00,Shortness of breath,Hoch,BloodTest,Completed
-44,749,749,22,01.03.2024,09.00,Routine postoperative follow-up,Hoch,CT Examination,Completed
-45,766,766,46,22.04.2024,09.00,Chest discomfort,Sofort,electrodiagram,Completed
-46,783,783,26,23.04.2024,09.00,Fever and fatigue,Normal,BloodTest,Completed
-47,800,800,33,11.01.2024,09.00,Abnormal laboratory values,Sofort,CT Examination,Completed
-48,817,817,34,19.07.2024,09.00,Dizziness,Hoch,electrodiagram,Completed
-49,834,834,34,15.06.2024,09.00,Abdominal pain,Sofort,BloodTest,Completed
-50,851,851,7,30.06.2025,09.00,Dizziness,Sofort,CT Examination,Completed
-51,868,868,22,13.07.2024,09.00,Fever and fatigue,Sofort,electrodiagram,Completed
-52,885,885,7,17.06.2024,09.00,Severe headache,Normal,BloodTest,Completed
-53,902,902,34,13.03.2024,09.00,Shortness of breath,Normal,CT Examination,Completed
-54,919,919,33,20.04.2025,09.00,Severe headache,Normal,electrodiagram,Completed
-55,936,936,1,04.12.2024,09.00,Severe headache,Normal,BloodTest,Completed
-56,953,953,32,17.11.2024,09.00,Chest discomfort,Hoch,CT Examination,Completed
-57,970,970,12,06.01.2024,09.00,Injury assessment,Sofort,electrodiagram,Completed
-58,987,987,24,27.02.2025,09.00,Abdominal pain,Sofort,BloodTest,Completed
-59,1004,448,16,18.08.2026,09.00,Dizziness,Sofort,CT Examination,Completed
-60,1021,772,33,02.10.2026,09.00,Abdominal pain,Sofort,electrodiagram,Completed
-61,1038,932,20,26.07.2026,09.00,Abdominal pain,Normal,BloodTest,Completed
-62,1055,94,4,30.05.2026,09.00,Chest discomfort,Normal,CT Examination,Completed
-63,1072,206,13,20.09.2025,09.00,Abdominal pain,Hoch,electrodiagram,Completed
-64,1089,860,43,15.10.2025,09.00,Routine postoperative follow-up,Hoch,BloodTest,Completed
-65,1106,713,15,24.04.2026,09.00,Routine postoperative follow-up,Sofort,CT Examination,Completed
-66,1123,69,36,11.08.2026,09.00,Dizziness,Hoch,electrodiagram,Completed
-67,1140,885,28,10.01.2026,09.00,Severe headache,Normal,BloodTest,Completed
-68,1157,882,11,21.12.2025,09.00,Urinary symptoms,Normal,CT Examination,Completed
-69,1174,725,52,12.04.2026,09.00,Routine postoperative follow-up,Hoch,electrodiagram,Completed
-70,1191,615,23,26.02.2026,09.00,Abdominal pain,Hoch,BloodTest,Completed
-71,1208,983,9,13.06.2026,09.00,Chest discomfort,Hoch,CT Examination,Completed
-72,1225,308,31,23.09.2026,09.00,Dizziness,Hoch,electrodiagram,Completed
-73,1242,986,3,25.04.2026,09.00,Shortness of breath,Hoch,BloodTest,Completed
-74,1259,471,8,16.06.2026,09.00,Dizziness,Normal,CT Examination,Completed
-75,1276,347,39,16.03.2026,09.00,Routine postoperative follow-up,Sofort,electrodiagram,Completed
-76,1293,692,37,04.03.2026,09.00,Injury assessment,Hoch,BloodTest,Completed
-77,1310,156,8,26.04.2026,09.00,Abnormal laboratory values,Normal,CT Examination,Completed
-78,1327,302,54,19.07.2026,09.00,Abdominal pain,Normal,electrodiagram,Completed
-79,1344,468,53,02.10.2025,09.00,Dizziness,Hoch,BloodTest,Completed
-80,11,11,54,19.03.2024,09.00,Chest discomfort,Hoch,CT Examination,Completed
-81,28,28,52,09.08.2024,09.00,Shortness of breath,Normal,X-ray,Completed
-82,45,45,27,12.06.2025,09.00,Injury assessment,Normal,Ultrasound,Completed
-83,62,62,31,01.02.2025,09.00,Severe headache,Normal,MRI,Completed
-84,79,79,11,22.02.2024,09.00,Abnormal laboratory values,Hoch,X-ray,Completed
-85,96,96,13,16.10.2024,09.00,Urinary symptoms,Normal,Ultrasound,Completed
-86,113,113,40,16.05.2024,09.00,Urinary symptoms,Hoch,MRI,Completed
-87,130,130,35,20.05.2025,09.00,Dizziness,Normal,X-ray,Completed
-88,147,147,51,10.04.2025,09.00,Chest discomfort,Normal,Ultrasound,Completed
-89,164,164,35,13.05.2024,09.00,Dizziness,Hoch,MRI,Completed
+1,18,18,38,25.03.2025,11.13,Dizziness,Normal,BloodTest,Completed
+2,35,35,19,30.05.2025,08.40,Fever and fatigue,Sofort,CT Examination,Completed
+3,52,52,3,10.01.2025,02.27,Severe headache,Hoch,electrodiagram,Completed
+4,69,69,41,31.10.2024,03.06,Dizziness,Hoch,BloodTest,Completed
+5,86,86,33,10.07.2024,08.59,Fever and fatigue,Normal,CT Examination,Completed
+6,103,103,30,23.08.2024,09.52,Dizziness,Sofort,electrodiagram,Completed
+7,120,120,20,12.03.2025,07.07,Routine postoperative follow-up,Normal,BloodTest,Completed
+8,137,137,24,06.03.2025,10.22,Abdominal pain,Normal,CT Examination,Completed
+9,154,154,30,29.03.2024,05.14,Routine postoperative follow-up,Normal,electrodiagram,Completed
+10,171,171,34,02.04.2024,02.08,Urinary symptoms,Hoch,BloodTest,Completed
+11,188,188,7,07.12.2024,06.00,Fever and fatigue,Normal,CT Examination,Completed
+12,205,205,24,23.03.2025,05.49,Abnormal laboratory values,Sofort,electrodiagram,Completed
+13,222,222,17,17.06.2025,11.32,Abdominal pain,Hoch,BloodTest,Completed
+14,239,239,21,10.05.2025,04.04,Severe headache,Hoch,CT Examination,Completed
+15,256,256,54,27.05.2025,12.24,Dizziness,Normal,electrodiagram,Completed
+16,273,273,12,20.01.2025,05.33,Fever and fatigue,Hoch,BloodTest,Completed
+17,290,290,28,21.09.2024,03.25,Chest discomfort,Normal,CT Examination,Completed
+18,307,307,49,07.10.2024,03.58,Shortness of breath,Normal,electrodiagram,Completed
+19,324,324,26,06.03.2025,02.54,Dizziness,Hoch,BloodTest,Completed
+20,341,341,50,23.09.2024,11.17,Urinary symptoms,Hoch,CT Examination,Completed
+21,358,358,51,04.09.2024,02.39,Injury assessment,Normal,electrodiagram,Completed
+22,375,375,43,30.01.2024,04.30,Shortness of breath,Sofort,BloodTest,Completed
+23,392,392,40,14.09.2024,12.03,Chest discomfort,Hoch,CT Examination,Completed
+24,409,409,44,01.01.2025,12.16,Chest discomfort,Sofort,electrodiagram,Completed
+25,426,426,9,07.04.2024,10.04,Shortness of breath,Sofort,BloodTest,Completed
+26,443,443,23,01.05.2024,10.18,Injury assessment,Sofort,CT Examination,Completed
+27,460,460,39,21.10.2024,09.13,Chest discomfort,Sofort,electrodiagram,Completed
+28,477,477,51,13.08.2024,03.13,Abnormal laboratory values,Sofort,BloodTest,Completed
+29,494,494,20,16.06.2024,11.36,Severe headache,Sofort,CT Examination,Completed
+30,511,511,30,23.04.2024,10.32,Abnormal laboratory values,Normal,electrodiagram,Completed
+31,528,528,43,26.04.2025,03.04,Urinary symptoms,Sofort,BloodTest,Completed
+32,545,545,41,13.03.2025,12.23,Fever and fatigue,Normal,CT Examination,Completed
+33,562,562,31,24.01.2025,09.43,Dizziness,Hoch,electrodiagram,Completed
+34,579,579,37,24.10.2024,09.47,Dizziness,Normal,BloodTest,Completed
+35,596,596,10,14.03.2024,04.53,Fever and fatigue,Hoch,CT Examination,Completed
+36,613,613,33,10.12.2024,05.17,Fever and fatigue,Normal,electrodiagram,Completed
+37,630,630,28,12.01.2025,03.54,Shortness of breath,Hoch,BloodTest,Completed
+38,647,647,44,21.06.2025,07.22,Fever and fatigue,Hoch,CT Examination,Completed
+39,664,664,32,30.11.2024,05.40,Chest discomfort,Hoch,electrodiagram,Completed
+40,681,681,39,13.01.2025,09.16,Urinary symptoms,Sofort,BloodTest,Completed
+41,698,698,46,08.03.2025,05.15,Injury assessment,Sofort,CT Examination,Completed
+42,715,715,5,04.04.2025,06.50,Dizziness,Hoch,electrodiagram,Completed
+43,732,732,34,08.05.2025,07.00,Shortness of breath,Hoch,BloodTest,Completed
+44,749,749,22,01.03.2024,02.31,Routine postoperative follow-up,Hoch,CT Examination,Completed
+45,766,766,46,22.04.2024,07.07,Chest discomfort,Sofort,electrodiagram,Completed
+46,783,783,26,23.04.2024,02.47,Fever and fatigue,Normal,BloodTest,Completed
+47,800,800,33,11.01.2024,09.33,Abnormal laboratory values,Sofort,CT Examination,Completed
+48,817,817,34,19.07.2024,10.15,Dizziness,Hoch,electrodiagram,Completed
+49,834,834,34,15.06.2024,11.01,Abdominal pain,Sofort,BloodTest,Completed
+50,851,851,7,30.06.2025,08.32,Dizziness,Sofort,CT Examination,Completed
+51,868,868,22,13.07.2024,05.49,Fever and fatigue,Sofort,electrodiagram,Completed
+52,885,885,7,17.06.2024,09.53,Severe headache,Normal,BloodTest,Completed
+53,902,902,34,13.03.2024,09.29,Shortness of breath,Normal,CT Examination,Completed
+54,919,919,33,20.04.2025,08.00,Severe headache,Normal,electrodiagram,Completed
+55,936,936,1,04.12.2024,07.06,Severe headache,Normal,BloodTest,Completed
+56,953,953,32,17.11.2024,12.11,Chest discomfort,Hoch,CT Examination,Completed
+57,970,970,12,06.01.2024,02.44,Injury assessment,Sofort,electrodiagram,Completed
+58,987,987,24,27.02.2025,04.48,Abdominal pain,Sofort,BloodTest,Completed
+59,1004,448,16,18.08.2026,05.45,Dizziness,Sofort,CT Examination,Completed
+60,1021,772,33,02.10.2026,11.49,Abdominal pain,Sofort,electrodiagram,Completed
+61,1038,932,20,26.07.2026,07.11,Abdominal pain,Normal,BloodTest,Completed
+62,1055,94,4,30.05.2026,08.24,Chest discomfort,Normal,CT Examination,Completed
+63,1072,206,13,20.09.2025,08.44,Abdominal pain,Hoch,electrodiagram,Completed
+64,1089,860,43,15.10.2025,10.53,Routine postoperative follow-up,Hoch,BloodTest,Completed
+65,1106,713,15,24.04.2026,11.18,Routine postoperative follow-up,Sofort,CT Examination,Completed
+66,1123,69,36,11.08.2026,04.11,Dizziness,Hoch,electrodiagram,Completed
+67,1140,885,28,10.01.2026,10.59,Severe headache,Normal,BloodTest,Completed
+68,1157,882,11,21.12.2025,04.49,Urinary symptoms,Normal,CT Examination,Completed
+69,1174,725,52,12.04.2026,03.24,Routine postoperative follow-up,Hoch,electrodiagram,Completed
+70,1191,615,23,26.02.2026,06.35,Abdominal pain,Hoch,BloodTest,Completed
+71,1208,983,9,13.06.2026,07.56,Chest discomfort,Hoch,CT Examination,Completed
+72,1225,308,31,23.09.2026,12.27,Dizziness,Hoch,electrodiagram,Completed
+73,1242,986,3,25.04.2026,11.09,Shortness of breath,Hoch,BloodTest,Completed
+74,1259,471,8,16.06.2026,02.18,Dizziness,Normal,CT Examination,Completed
+75,1276,347,39,16.03.2026,03.36,Routine postoperative follow-up,Sofort,electrodiagram,Completed
+76,1293,692,37,04.03.2026,11.03,Injury assessment,Hoch,BloodTest,Completed
+77,1310,156,8,26.04.2026,11.57,Abnormal laboratory values,Normal,CT Examination,Completed
+78,1327,302,54,19.07.2026,12.15,Abdominal pain,Normal,electrodiagram,Completed
+79,1344,468,53,02.10.2025,04.52,Dizziness,Hoch,BloodTest,Completed
+80,11,11,54,19.03.2024,08.54,Chest discomfort,Hoch,CT Examination,Completed
+81,28,28,52,09.08.2024,08.05,Shortness of breath,Normal,X-ray,Completed
+82,45,45,27,12.06.2025,03.14,Injury assessment,Normal,Ultrasound,Completed
+83,62,62,31,01.02.2025,12.07,Severe headache,Normal,MRI,Completed
+84,79,79,11,22.02.2024,04.40,Abnormal laboratory values,Hoch,X-ray,Completed
+85,96,96,13,16.10.2024,04.25,Urinary symptoms,Normal,Ultrasound,Completed
+86,113,113,40,16.05.2024,06.22,Urinary symptoms,Hoch,MRI,Completed
+87,130,130,35,20.05.2025,11.02,Dizziness,Normal,X-ray,Completed
+88,147,147,51,10.04.2025,05.22,Chest discomfort,Normal,Ultrasound,Completed
+89,164,164,35,13.05.2024,11.27,Dizziness,Hoch,MRI,Completed
 90,181,181,31,29.01.2024,09.00,Fever and fatigue,Normal,X-ray,Completed
-91,198,198,21,26.01.2024,09.00,Severe headache,Normal,Ultrasound,Completed
-92,215,215,20,01.01.2025,09.00,Urinary symptoms,Sofort,MRI,Completed
-93,232,232,8,18.01.2025,09.00,Shortness of breath,Sofort,X-ray,Completed
-94,249,249,40,20.05.2025,09.00,Severe headache,Sofort,Ultrasound,Completed
-95,266,266,42,29.09.2024,09.00,Urinary symptoms,Hoch,MRI,Completed
-96,283,283,23,29.03.2024,09.00,Routine postoperative follow-up,Hoch,X-ray,Completed
-97,300,300,37,03.05.2024,09.00,Routine postoperative follow-up,Normal,Ultrasound,Completed
-98,317,317,53,25.04.2024,09.00,Fever and fatigue,Hoch,MRI,Completed
-99,334,334,11,09.05.2025,09.00,Abdominal pain,Hoch,X-ray,Completed
-100,351,351,10,04.04.2024,09.00,Routine postoperative follow-up,Hoch,Ultrasound,Completed
-101,368,368,43,25.02.2025,09.00,Dizziness,Normal,MRI,Completed
-102,385,385,50,03.03.2025,09.00,Urinary symptoms,Sofort,X-ray,Completed
-103,402,402,9,03.02.2024,09.00,Shortness of breath,Sofort,Ultrasound,Completed
-104,419,419,38,09.02.2024,09.00,Routine postoperative follow-up,Normal,MRI,Completed
-105,436,436,14,15.09.2024,09.00,Dizziness,Normal,X-ray,Completed
-106,453,453,38,27.11.2024,09.00,Fever and fatigue,Sofort,Ultrasound,Completed
-107,470,470,25,17.02.2024,09.00,Shortness of breath,Normal,MRI,Completed
-108,487,487,5,29.02.2024,09.00,Chest discomfort,Normal,X-ray,Completed
-109,504,504,1,23.02.2025,09.00,Urinary symptoms,Normal,Ultrasound,Completed
-110,521,521,51,30.04.2025,09.00,Abdominal pain,Hoch,MRI,Completed
-111,538,538,3,29.12.2024,09.00,Injury assessment,Hoch,X-ray,Completed
-112,555,555,41,21.01.2025,09.00,Injury assessment,Hoch,Ultrasound,Completed
-113,572,572,17,24.04.2024,09.00,Chest discomfort,Normal,MRI,Completed
-114,589,589,17,03.11.2024,09.00,Chest discomfort,Hoch,X-ray,Completed
-115,606,606,48,08.01.2024,09.00,Severe headache,Hoch,Ultrasound,Completed
-116,623,623,8,03.10.2024,09.00,Routine postoperative follow-up,Sofort,MRI,Completed
-117,640,640,21,20.04.2024,09.00,Dizziness,Hoch,X-ray,Completed
-118,657,657,2,21.03.2024,09.00,Severe headache,Sofort,Ultrasound,Completed
-119,674,674,48,23.04.2025,09.00,Dizziness,Normal,MRI,Completed
-120,691,691,49,25.11.2024,09.00,Fever and fatigue,Normal,X-ray,Completed
-121,708,708,42,25.03.2025,09.00,Dizziness,Normal,Ultrasound,Completed
-122,725,725,51,07.05.2024,09.00,Severe headache,Normal,MRI,Completed
-123,742,742,55,12.04.2024,09.00,Dizziness,Hoch,X-ray,Completed
-124,759,759,34,30.03.2024,09.00,Chest discomfort,Hoch,Ultrasound,Completed
-125,776,776,7,18.02.2024,09.00,Injury assessment,Sofort,MRI,Completed
-126,793,793,6,12.06.2025,09.00,Abdominal pain,Sofort,X-ray,Completed
-127,810,810,19,11.06.2025,09.00,Fever and fatigue,Sofort,Ultrasound,Completed
-128,827,827,10,02.08.2024,09.00,Abnormal laboratory values,Sofort,MRI,Completed
-129,844,844,40,08.07.2024,09.00,Chest discomfort,Hoch,X-ray,Completed
-130,861,861,41,31.10.2024,09.00,Injury assessment,Normal,Ultrasound,Completed
-131,878,878,36,24.12.2024,09.00,Abnormal laboratory values,Normal,MRI,Completed
-132,895,895,9,30.05.2024,09.00,Urinary symptoms,Hoch,X-ray,Completed
-133,912,912,27,06.02.2025,09.00,Dizziness,Hoch,Ultrasound,Completed
-134,929,929,2,11.05.2025,09.00,Shortness of breath,Normal,MRI,Completed
-135,946,946,16,16.05.2024,09.00,Urinary symptoms,Sofort,X-ray,Completed
-136,963,963,31,06.05.2024,09.00,Abdominal pain,Sofort,Ultrasound,Completed
-137,980,980,7,23.06.2025,09.00,Injury assessment,Normal,MRI,Completed
-138,997,997,8,26.02.2024,09.00,Routine postoperative follow-up,Hoch,X-ray,Completed
-139,1014,444,50,28.08.2025,09.00,Severe headache,Normal,Ultrasound,Completed
-140,1031,297,49,28.04.2026,09.00,Abnormal laboratory values,Hoch,MRI,Completed
-141,1048,517,39,31.07.2026,09.00,Routine postoperative follow-up,Normal,X-ray,Completed
-142,1065,901,15,18.09.2025,09.00,Abnormal laboratory values,Hoch,Ultrasound,Completed
-143,1082,216,23,15.11.2025,09.00,Fever and fatigue,Hoch,MRI,Completed
-144,1099,277,32,15.02.2026,09.00,Chest discomfort,Sofort,X-ray,Completed
-145,1116,368,45,16.08.2026,09.00,Urinary symptoms,Sofort,Ultrasound,Completed
-146,1133,645,32,16.06.2026,09.00,Abnormal laboratory values,Normal,MRI,Completed
-147,1150,753,49,14.09.2026,09.00,Dizziness,Sofort,X-ray,Completed
-148,1167,480,46,13.04.2026,09.00,Abdominal pain,Normal,Ultrasound,Completed
-149,1184,941,30,10.03.2026,09.00,Shortness of breath,Sofort,MRI,Completed
-150,1201,933,26,18.05.2026,09.00,Chest discomfort,Hoch,X-ray,Completed
-151,1218,290,44,25.08.2025,09.00,Dizziness,Hoch,Ultrasound,Completed
-152,1235,348,51,20.09.2025,09.00,Injury assessment,Sofort,MRI,Completed
-153,1252,966,12,28.06.2026,09.00,Shortness of breath,Normal,X-ray,Completed
-154,1269,263,47,01.01.2026,09.00,Shortness of breath,Sofort,Ultrasound,Completed
-155,1286,690,23,11.11.2025,09.00,Injury assessment,Sofort,MRI,Completed
-156,1303,177,6,20.10.2026,09.00,Dizziness,Hoch,X-ray,Completed
-157,1320,235,9,27.12.2025,09.00,Chest discomfort,Hoch,Ultrasound,Completed
-158,1337,601,1,23.09.2025,09.00,Chest discomfort,Hoch,MRI,Completed
-159,4,4,43,16.03.2025,09.00,Abdominal pain,Normal,X-ray,Completed
-160,21,21,15,16.03.2025,09.00,Fever and fatigue,Normal,Ultrasound,Completed
+91,198,198,21,26.01.2024,05.14,Severe headache,Normal,Ultrasound,Completed
+92,215,215,20,01.01.2025,11.25,Urinary symptoms,Sofort,MRI,Completed
+93,232,232,8,18.01.2025,11.30,Shortness of breath,Sofort,X-ray,Completed
+94,249,249,40,20.05.2025,12.24,Severe headache,Sofort,Ultrasound,Completed
+95,266,266,42,29.09.2024,10.25,Urinary symptoms,Hoch,MRI,Completed
+96,283,283,23,29.03.2024,04.49,Routine postoperative follow-up,Hoch,X-ray,Completed
+97,300,300,37,03.05.2024,10.53,Routine postoperative follow-up,Normal,Ultrasound,Completed
+98,317,317,53,25.04.2024,07.51,Fever and fatigue,Hoch,MRI,Completed
+99,334,334,11,09.05.2025,03.18,Abdominal pain,Hoch,X-ray,Completed
+100,351,351,10,04.04.2024,02.43,Routine postoperative follow-up,Hoch,Ultrasound,Completed
+101,368,368,43,25.02.2025,03.49,Dizziness,Normal,MRI,Completed
+102,385,385,50,03.03.2025,04.05,Urinary symptoms,Sofort,X-ray,Completed
+103,402,402,9,03.02.2024,04.58,Shortness of breath,Sofort,Ultrasound,Completed
+104,419,419,38,09.02.2024,07.08,Routine postoperative follow-up,Normal,MRI,Completed
+105,436,436,14,15.09.2024,11.05,Dizziness,Normal,X-ray,Completed
+106,453,453,38,27.11.2024,05.14,Fever and fatigue,Sofort,Ultrasound,Completed
+107,470,470,25,17.02.2024,07.09,Shortness of breath,Normal,MRI,Completed
+108,487,487,5,29.02.2024,08.12,Chest discomfort,Normal,X-ray,Completed
+109,504,504,1,23.02.2025,03.16,Urinary symptoms,Normal,Ultrasound,Completed
+110,521,521,51,30.04.2025,08.14,Abdominal pain,Hoch,MRI,Completed
+111,538,538,3,29.12.2024,03.27,Injury assessment,Hoch,X-ray,Completed
+112,555,555,41,21.01.2025,06.05,Injury assessment,Hoch,Ultrasound,Completed
+113,572,572,17,24.04.2024,07.18,Chest discomfort,Normal,MRI,Completed
+114,589,589,17,03.11.2024,05.23,Chest discomfort,Hoch,X-ray,Completed
+115,606,606,48,08.01.2024,04.17,Severe headache,Hoch,Ultrasound,Completed
+116,623,623,8,03.10.2024,03.14,Routine postoperative follow-up,Sofort,MRI,Completed
+117,640,640,21,20.04.2024,09.57,Dizziness,Hoch,X-ray,Completed
+118,657,657,2,21.03.2024,03.09,Severe headache,Sofort,Ultrasound,Completed
+119,674,674,48,23.04.2025,10.06,Dizziness,Normal,MRI,Completed
+120,691,691,49,25.11.2024,07.03,Fever and fatigue,Normal,X-ray,Completed
+121,708,708,42,25.03.2025,06.13,Dizziness,Normal,Ultrasound,Completed
+122,725,725,51,07.05.2024,11.39,Severe headache,Normal,MRI,Completed
+123,742,742,55,12.04.2024,09.12,Dizziness,Hoch,X-ray,Completed
+124,759,759,34,30.03.2024,04.50,Chest discomfort,Hoch,Ultrasound,Completed
+125,776,776,7,18.02.2024,02.34,Injury assessment,Sofort,MRI,Completed
+126,793,793,6,12.06.2025,05.25,Abdominal pain,Sofort,X-ray,Completed
+127,810,810,19,11.06.2025,07.03,Fever and fatigue,Sofort,Ultrasound,Completed
+128,827,827,10,02.08.2024,11.01,Abnormal laboratory values,Sofort,MRI,Completed
+129,844,844,40,08.07.2024,04.12,Chest discomfort,Hoch,X-ray,Completed
+130,861,861,41,31.10.2024,10.52,Injury assessment,Normal,Ultrasound,Completed
+131,878,878,36,24.12.2024,10.57,Abnormal laboratory values,Normal,MRI,Completed
+132,895,895,9,30.05.2024,05.14,Urinary symptoms,Hoch,X-ray,Completed
+133,912,912,27,06.02.2025,03.20,Dizziness,Hoch,Ultrasound,Completed
+134,929,929,2,11.05.2025,06.33,Shortness of breath,Normal,MRI,Completed
+135,946,946,16,16.05.2024,12.27,Urinary symptoms,Sofort,X-ray,Completed
+136,963,963,31,06.05.2024,08.27,Abdominal pain,Sofort,Ultrasound,Completed
+137,980,980,7,23.06.2025,04.30,Injury assessment,Normal,MRI,Completed
+138,997,997,8,26.02.2024,10.00,Routine postoperative follow-up,Hoch,X-ray,Completed
+139,1014,444,50,28.08.2025,08.31,Severe headache,Normal,Ultrasound,Completed
+140,1031,297,49,28.04.2026,12.06,Abnormal laboratory values,Hoch,MRI,Completed
+141,1048,517,39,31.07.2026,09.39,Routine postoperative follow-up,Normal,X-ray,Completed
+142,1065,901,15,18.09.2025,03.56,Abnormal laboratory values,Hoch,Ultrasound,Completed
+143,1082,216,23,15.11.2025,09.32,Fever and fatigue,Hoch,MRI,Completed
+144,1099,277,32,15.02.2026,07.01,Chest discomfort,Sofort,X-ray,Completed
+145,1116,368,45,16.08.2026,08.06,Urinary symptoms,Sofort,Ultrasound,Completed
+146,1133,645,32,16.06.2026,08.11,Abnormal laboratory values,Normal,MRI,Completed
+147,1150,753,49,14.09.2026,02.51,Dizziness,Sofort,X-ray,Completed
+148,1167,480,46,13.04.2026,05.45,Abdominal pain,Normal,Ultrasound,Completed
+149,1184,941,30,10.03.2026,04.03,Shortness of breath,Sofort,MRI,Completed
+150,1201,933,26,18.05.2026,08.56,Chest discomfort,Hoch,X-ray,Completed
+151,1218,290,44,25.08.2025,03.28,Dizziness,Hoch,Ultrasound,Completed
+152,1235,348,51,20.09.2025,09.39,Injury assessment,Sofort,MRI,Completed
+153,1252,966,12,28.06.2026,10.37,Shortness of breath,Normal,X-ray,Completed
+154,1269,263,47,01.01.2026,05.42,Shortness of breath,Sofort,Ultrasound,Completed
+155,1286,690,23,11.11.2025,10.58,Injury assessment,Sofort,MRI,Completed
+156,1303,177,6,20.10.2026,08.49,Dizziness,Hoch,X-ray,Completed
+157,1320,235,9,27.12.2025,10.19,Chest discomfort,Hoch,Ultrasound,Completed
+158,1337,601,1,23.09.2025,02.27,Chest discomfort,Hoch,MRI,Completed
+159,4,4,43,16.03.2025,07.50,Abdominal pain,Normal,X-ray,Completed
+160,21,21,15,16.03.2025,06.34,Fever and fatigue,Normal,Ultrasound,Completed
