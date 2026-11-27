@@ -1,0 +1,71 @@
+POST-IMPORT VALIDATION RESULTS
+
+Generated (UTC): 2026-11-27T22:36:52+00:00
+Source: live Supabase phase2 tables; read-only API fetch.
+
+Method limitation: row-level counts below were computed from rows fetched from the live Supabase API using predicates equivalent to post_import_validation.sql. The API credentials available in this workspace do not provide a direct SQL session, so the SQL statements and pg_catalog constraint-state queries have not been executed in the Supabase SQL Editor. Run the SQL file there to capture server-side constraint metadata and SQL result sets.
+
+ROW-LEVEL CHECKS (zero means no detected violations):
+primary_key_null_or_duplicate_rows: 0 [PASS]
+foreign_key_orphan_rows: 0 [PASS]
+admissions_without_patient: 0 [PASS]
+diagnoses_without_admission_or_icd9: 0 [PASS]
+patient_admission_identity_mismatches: 0 [PASS]
+diagnosis_subtype_identity_mismatches: 0 [PASS]
+diagnostic_examination_order_admission_mismatches: 0 [PASS]
+radiology_examination_parent_mismatches: 0 [PASS]
+discharge_primary_diagnosis_admission_mismatches: 0 [PASS]
+discharge_diagnosis_junction_admission_mismatches: 0 [PASS]
+patient_assessment_identity_mismatches: 0 [PASS]
+prescription_patient_discharge_mismatches: 0 [PASS]
+admission_status_or_discharge_time_violations: 0 [PASS]
+unit_stay_interval_or_admission_period_violations: 0 [PASS]
+examination_period_violations: 0 [PASS]
+procedure_period_violations: 0 [PASS]
+closed_admissions_without_primary_icd9: 0 [PASS]
+discharge_record_status_or_timestamp_mismatches: 0 [PASS]
+closed_admissions_without_detailed_discharge_record: 3552 [INFO]
+documented_category_domain_violations: 0 [PASS]
+required_text_values_blank: 0 [PASS]
+
+OBSERVED ROW COUNTS:
+phase2.icd9_dictionary: 24
+phase2.medication: 8
+phase2.source_system: 4
+phase2.physician: 220
+phase2.nurse: 180
+phase2.radiologist: 72
+phase2.hospital_unit: 56
+phase2.icd9_source_mapping: 96
+phase2.patient: 4040
+phase2.admission: 5400
+phase2.diagnosis: 7952
+phase2.diagnostic_order: 640
+phase2.unit_stay: 5880
+phase2.surgical_procedure: 672
+phase2.clinical_note: 1884
+phase2.assessment: 5400
+phase2.primary_diagnosis: 5400
+phase2.secondary_diagnosis: 2552
+phase2.diagnostic_examination: 1376
+phase2.assessment_reported_symptoms: 5400
+phase2.assessment_known_allergies: 3284
+phase2.current_meds: 1839
+phase2.blood_test: 207
+phase2.ct_examination: 212
+phase2.electrodiagram: 197
+phase2.radiology_examination: 760
+phase2.discharge_record: 1768
+phase2.radiology_report: 560
+phase2.discharge_record_secondary_diagnosis: 920
+phase2.discharge_summary: 1600
+phase2.discharge_record_primary_diagnosis: 1768
+phase2.prescribed_meds: 509
+
+CURRENTLY OBSERVED VALUES FOR UNDOCUMENTED DOMAINS:
+phase2.diagnostic_order.priority: Routine=208, Stat=202, Urgent=230
+phase2.diagnostic_order.order_status: Completed=640
+phase2.diagnostic_examination.examination_status: Completed=1376
+phase2.discharge_record.discharge_destination: Another facility=522, Home=504, Mortuary=240, Outpatient follow-up=502
+
+NOTE: closed_admissions_without_detailed_discharge_record is informational under the current model because detailed discharge records are optional; the live data has 3,552 such closed admissions. Confirm whether the business rule should instead require a detail record for every closed admission.
