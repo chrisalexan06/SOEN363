@@ -38,6 +38,7 @@ admissions,admission_status,admission_status,admission_status,admissionStatus,AD
 admissions,visit_reason,visit_reason,visit_reason,visitReason,VISIT_REASON,False,,
 admissions,is_followup,is_followup,is_followup,isFollowup,IS_FOLLOWUP,False,,
 admissions,past_record_followup,past_record_followup,past_record_followup,pastRecordFollowup,PAST_RECORD_FOLLOWUP,False,,
+admissions,followup_description,followup_description,followup_description,followup_description,FOLLOWUP_DESCRIPTION,False,,
 assessments,assessment_id,assessment_id,TriageNr,assessmentId,ASSESSMENT_ID,True,,
 assessments,admission_id,admission_id,FallNr,encounterNumber,ADM_ID,False,admissions,
 assessments,patient_id,patient_id,PatientNr,patientNumber,PAT_ID,False,patients,
@@ -163,6 +164,8 @@ discharge_summaries,treatments_provided,treatments_provided,treatments_provided,
 discharge_summaries,unit_transfers,unit_transfers,unit_transfers,unitTransfers,UNIT_TRANSFERS,False,,
 discharge_summaries,recommendations,recommendations,recommendations,recommendations,RECOMMENDATIONS,False,,
 admissions,admission_source,admission_source,Aufnahmequelle,admissionSource,ADM_SOURCE,False,,Synthetic source revision
+admissions,care_pathway,care_pathway,care_pathway,care_pathway,CARE_PATHWAY,False,,Generated from admission source and patient condition
+admissions,patient_condition,patient_condition,patient_condition,patientCondition,PATIENT_CONDITION,False,,Preserved from linked discharge record or generated from admission source and patient status
 patients,date_of_death,date_of_death,date_of_death,dateOfDeath,DATE_OF_DEATH,False,,Synthetic source revision
 clinical_notes,note_type,note_type,note_type,noteType,NOTE_TYPE,False,,Synthetic source revision
 clinical_notes,note_contents,note_contents,note_contents,noteContents,NOTE_CONTENTS,False,,Synthetic source revision

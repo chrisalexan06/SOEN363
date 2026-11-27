@@ -102,8 +102,6 @@ CREATE TABLE phase2.patient (
 CREATE TABLE phase2.admission (
   admission_id integer NOT NULL,
   patient_id integer NOT NULL,
-  professional_name character varying,
-  insurance_information character varying,
   admission_type character varying NOT NULL,
   visit_reason text NOT NULL,
   admission_time time without time zone NOT NULL,

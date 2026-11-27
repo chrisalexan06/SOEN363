@@ -20,11 +20,13 @@ A,patients,1002,physician_id,"""NA""",null,standardize_or_null,accepted
 A,admissions,1,admission_time,"""05:21""","""05:21:00""",standardize_or_null,accepted
 A,admissions,1,discharge_time,"""17:21""","""17:21:00""",standardize_or_null,accepted
 A,admissions,1,is_followup,"""no""",false,standardize_or_null,accepted
-A,admissions,1,past_record_followup,"""NA""",null,standardize_or_null,accepted
+A,admissions,1,past_record_followup,"""""",null,standardize_or_null,accepted
+A,admissions,1,followup_description,"""""",null,standardize_or_null,accepted
 A,admissions,2,admission_time,"""01:52""","""01:52:00""",standardize_or_null,accepted
 A,admissions,2,discharge_time,"""13:52""","""13:52:00""",standardize_or_null,accepted
 A,admissions,2,is_followup,"""no""",false,standardize_or_null,accepted
-A,admissions,2,past_record_followup,"""NA""",null,standardize_or_null,accepted
+A,admissions,2,past_record_followup,"""""",null,standardize_or_null,accepted
+A,admissions,2,followup_description,"""""",null,standardize_or_null,accepted
 A,admissions,1003,discharge_date,"""NA""",null,standardize_or_null,accepted
 A,admissions,1006,discharge_date,"""NA""",null,standardize_or_null,accepted
 A,assessments,1,body_temperature,999.0,null,invalid_temperature_to_null,accepted
@@ -168,7 +170,8 @@ B,admissions,1,discharge_date,"""26.05.2025""","""2025-05-26""",standardize_or_n
 B,admissions,1,discharge_time,"""23.08""","""23:08:00""",standardize_or_null,accepted
 B,admissions,1,admission_type,"""Notfall""","""Emergency""",standardize_or_null,accepted
 B,admissions,1,is_followup,"""Nein""",false,standardize_or_null,accepted
-B,admissions,1,past_record_followup,"""k.A.""",null,standardize_or_null,accepted
+B,admissions,1,past_record_followup,"""""",null,standardize_or_null,accepted
+B,admissions,1,followup_description,"""""",null,standardize_or_null,accepted
 B,admissions,1,admission_source,"""Notaufnahme""","""Emergency Department""",standardize_or_null,accepted
 B,admissions,2,admission_date,"""08.05.2025""","""2025-05-08""",standardize_or_null,accepted
 B,admissions,2,admission_time,"""03.05""","""03:05:00""",standardize_or_null,accepted
@@ -176,7 +179,8 @@ B,admissions,2,discharge_date,"""11.05.2025""","""2025-05-11""",standardize_or_n
 B,admissions,2,discharge_time,"""15.05""","""15:05:00""",standardize_or_null,accepted
 B,admissions,2,admission_type,"""Notfall""","""Emergency""",standardize_or_null,accepted
 B,admissions,2,is_followup,"""Nein""",false,standardize_or_null,accepted
-B,admissions,2,past_record_followup,"""k.A.""",null,standardize_or_null,accepted
+B,admissions,2,past_record_followup,"""""",null,standardize_or_null,accepted
+B,admissions,2,followup_description,"""""",null,standardize_or_null,accepted
 B,admissions,2,admission_source,"""Notaufnahme""","""Emergency Department""",standardize_or_null,accepted
 B,assessments,1,body_temperature,999.0,null,invalid_temperature_to_null,accepted
 B,assessments,1,assessment_date,"""21.05.2025""","""2025-05-21""",standardize_or_null,accepted
@@ -353,7 +357,6 @@ C,admissions,1,discharge_date,"""2024/01/30""","""2024-01-30""",standardize_or_n
 C,admissions,1,discharge_time,"""17:38""","""17:38:00""",standardize_or_null,accepted
 C,admissions,1,admission_type,"""緊急""","""Emergency""",standardize_or_null,accepted
 C,admissions,1,is_followup,"""no""",false,standardize_or_null,accepted
-C,admissions,1,past_record_followup,"""未記録""",null,standardize_or_null,accepted
 C,admissions,1,admission_source,"""救急外来""","""Emergency Department""",standardize_or_null,accepted
 C,admissions,2,admission_date,"""2025/04/05""","""2025-04-05""",standardize_or_null,accepted
 C,admissions,2,admission_time,"""03:20""","""03:20:00""",standardize_or_null,accepted
@@ -361,7 +364,6 @@ C,admissions,2,discharge_date,"""2025/04/09""","""2025-04-09""",standardize_or_n
 C,admissions,2,discharge_time,"""15:20""","""15:20:00""",standardize_or_null,accepted
 C,admissions,2,admission_type,"""緊急""","""Emergency""",standardize_or_null,accepted
 C,admissions,2,is_followup,"""no""",false,standardize_or_null,accepted
-C,admissions,2,past_record_followup,"""未記録""",null,standardize_or_null,accepted
 C,admissions,2,admission_source,"""救急外来""","""Emergency Department""",standardize_or_null,accepted
 C,assessments,1,body_temperature,999.0,null,invalid_temperature_to_null,accepted
 C,assessments,1,assessment_date,"""2024/01/22""","""2024-01-22""",standardize_or_null,accepted
@@ -551,7 +553,8 @@ D,admissions,1,discharge_date,"""27/03/2025""","""2025-03-27""",standardize_or_n
 D,admissions,1,discharge_time,"""17:59""","""17:59:00""",standardize_or_null,accepted
 D,admissions,1,admission_type,"""EMERGENCY""","""Emergency""",standardize_or_null,accepted
 D,admissions,1,is_followup,"""no""",false,standardize_or_null,accepted
-D,admissions,1,past_record_followup,"""NULL""",null,standardize_or_null,accepted
+D,admissions,1,past_record_followup,"""""",null,standardize_or_null,accepted
+D,admissions,1,followup_description,"""""",null,standardize_or_null,accepted
 D,admissions,1,admission_source,"""ED""","""Emergency Department""",standardize_or_null,accepted
 D,admissions,2,admission_id,2,"""2""",standardize_or_null,accepted
 D,admissions,2,patient_id,2,"""2""",standardize_or_null,accepted
@@ -563,7 +566,8 @@ D,admissions,2,discharge_date,"""16/03/2024""","""2024-03-16""",standardize_or_n
 D,admissions,2,discharge_time,"""13:24""","""13:24:00""",standardize_or_null,accepted
 D,admissions,2,admission_type,"""EMERGENCY""","""Emergency""",standardize_or_null,accepted
 D,admissions,2,is_followup,"""no""",false,standardize_or_null,accepted
-D,admissions,2,past_record_followup,"""NULL""",null,standardize_or_null,accepted
+D,admissions,2,past_record_followup,"""""",null,standardize_or_null,accepted
+D,admissions,2,followup_description,"""""",null,standardize_or_null,accepted
 D,admissions,2,admission_source,"""ED""","""Emergency Department""",standardize_or_null,accepted
 D,assessments,1,body_temperature,-200.0,null,invalid_temperature_to_null,accepted
 D,assessments,1,assessment_id,1,"""1""",standardize_or_null,accepted

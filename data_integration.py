@@ -35,10 +35,10 @@ ALIASES = {
     'radiology_report': {'interpretation':'interpretations'},
     'discharge_record': {'scheduled_follow_up_appointment':'follow_up_appointment','responsible_physician_name':'responsible_physician','responsible_physician_id':'physician_id'},
     'discharge_summary': {'responsible_physician_id':'physician_id','icd9_coded_diagnoses':'icd9_code_diagnoses'},
-    'admission': {'followup_description':'past_record_followup'},
 }
 REFERENCES = {
     'patient_id':'patients','admission_id':'admissions','physician_id':'physicians','nurse_id':'nurses',
+    'past_record_followup':'admissions',
     'radiologist_id':'radiologists','requesting_physician':'physicians','referring_physician_id':'physicians',
     'responsible_physician_id':'physicians','reviewed_by_radiologist_id':'radiologists',
     'hospital_unit_id':'hospital_units','diagnostic_order_id':'diagnostic_orders',
@@ -120,7 +120,23 @@ def main():
                 row={gpk:global_id,'source_id':s,'original_id':raw[pk]}
                 for col in columns[t]:
                     if col in row: continue
-                    if col in {'past_record_followup','primary_diagnosis_id'}: continue
+                    if col == 'primary_diagnosis_id': continue
+                    if t=='admission' and col=='past_record_followup':
+                        followup_id=raw.get('past_record_followup')
+                        if followup_id and followup_id.isdigit():
+                            row[col]=ref('admissions',s,followup_id)
+                        elif followup_id and s=='C' and str(raw.get('is_followup')).lower()=='true':
+                            raise ValueError(f'Invalid Source C follow-up admission ID: {followup_id}')
+                        else:
+                            row[col]=None
+                        continue
+                    if t=='admission' and col=='followup_description':
+                        description=raw.get('followup_description')
+                        legacy_value=raw.get('past_record_followup')
+                        if description is None and legacy_value and not legacy_value.isdigit():
+                            description=legacy_value
+                        row[col]=description
+                        continue
                     val=raw.get(ALIASES.get(t,{}).get(col,col))
                     row[col]=ref(REFERENCES[col],s,val) if col in REFERENCES else val
                 if t=='discharge_record':
